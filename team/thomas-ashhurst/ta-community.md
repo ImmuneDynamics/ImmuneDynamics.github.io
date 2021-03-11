@@ -13,14 +13,6 @@ permalink: /thomas-ashhurst/community
 
 ---
 
----
-layout: page
-title: Community
-permalink: /community/
----
-
----
-
 ![Community](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Community%20bannger.png)
 
 I am a current [ISAC Marylou Ingram Scholar](https://isac-net.org/page/Marylou-Ingram-Scholars) with the [International Society for the Advancement of Cytometry (ISAC)](https://isac-net.org/), and serve as the 'Systems Cytometry' & NSW representative of the [Systems Immunology special interest group (SIG)](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/) of the [Australian and New Zealand Society of Immunology](https://www.immunology.org.au/).
