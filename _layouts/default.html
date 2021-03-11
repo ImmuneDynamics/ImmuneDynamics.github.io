@@ -1,8 +1,17 @@
 <!DOCTYPE html>
 <html>
   <head>
+    
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
+    <div class="wrapper-header">
+      <div class="container" align = "right">
+        <header class="header">
+          {% include svg-icons-top.html %}
+        </header>
+      </div>
+    </div>
+    
     {% include meta.html %}
 
     <!--[if lt IE 9]>
@@ -13,6 +22,11 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+    
   </head>
 
   <body>
@@ -29,10 +43,11 @@
           <nav>
             <a href="{{ site.baseurl }}/about">About</a>
             <a href="{{ site.baseurl }}/research">Research</a>
+            <a href="https://tomashhurst.github.io/research/#application-to-disease">COVID-19</a>
             <a href="{{ site.baseurl }}/publications">Publications</a>
-            <a href="{{ site.baseurl }}/presentations">Presentations</a>
-            <a href="https://wiki.centenary.org.au/display/ImmuneDynamics">Resources</a>
-            <a href="https://github.com/ImmuneDynamics/Spectre">SPECTRE</a>
+            <a href="{{ site.baseurl }}/community">Community</a>
+            <a href="{{ site.baseurl }}/resources">Resources</a>
+            <a href="https://wiki.centenary.org.au/display/SPECTRE">SPECTRE</a>
           </nav>
         </header>
       </div>

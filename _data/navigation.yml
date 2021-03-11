@@ -1,0 +1,20 @@
+- title: About
+  url: /about.html
+- title: Research
+  url: /research.html
+- title: COVID-19
+  url: /research.html
+- title: Publications
+  url: /publications.html
+- title: Community
+  url: /community.html
+- title: Resources
+  url: /resources.html
+  sublinks:
+    - title: Resources
+      url: /Resources.html
+    - title: separator
+    - title: Flow & Spectral
+      url: /flow.html
+- title: SPECTRE
+  url: /resources.html

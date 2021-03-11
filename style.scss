@@ -19,15 +19,25 @@ html {
 
 body {
 	background: $white;
-  font: 14px/1.4 $helvetica;
+  font: 15px/1.5 $helvetica; // 14px/1.4
   color: $darkGray;
 }
 
+//max-width: 740px; then 795 px:
+
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 835px;
+  padding: 0 10px;
+  width: 100%; 
+}
+
+.container-subnav {
+  margin: 0 auto;
+  max-width: 835px;
   padding: 0 10px;
   width: 100%;
+  background-color: $lightGray;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -45,23 +55,32 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 20px;
+  font-size: 24px;  // 20px;
+  font-weight: 300; // TA added
+  color: #00003f; // Normally no color here
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 18px;
+  font-size: 22px; // 18px;
+  font-weight: 300; // TA added
+  color: #00003f; // Normally no color here
+  a {
+    color: inherit;
+  }
 }
 
 h3 {
-  font-size: 16px;
+  font-size: 18px; // 16px;
+  font-weight: 300; // TA added
+  color: #00003f; // Normally no color here
 }
 
 h4 {
   font-size: 14px;
-  color: $gray;
+  color: #00003f; // Normally $gray
 }
 
 p {
@@ -108,6 +127,23 @@ strong, b {
 
 img {
   max-width: 100%;
+}
+
+table-top {
+  font-family:    Arial, Helvetica, sans-serif;
+  text-align:center;
+  font-size: 16px; // 16px;
+  font-weight: 350; // TA added
+  color: #00003f; // Normally no color here
+}
+
+table-bottom {
+  font-family:    Arial, Helvetica, sans-serif;
+  text-align:center;
+  font-size: 14px; // 16px;
+  font-weight: 350; // TA added
+  color: #00003f; // Normally no color here
+  font-weight:    bold;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -165,8 +201,9 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 85px;  // TA: 70px; default
+  height: 85px; // TA: 70px; default
+  vertical-align: middle; // TA: not here by default
   margin-right: 15px;
 
   @include mobile {
@@ -192,18 +229,20 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #00003f; //$darkGray
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 28px;
+  font-size: 32px; // TA: 28px default -- changed to 30px
   letter-spacing: 1px;
 }
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
-  font-size: 16px;
+  color: $gray; //$gray
+  font-family: $helveticaNeue;
+  font-weight: 300;
+  font-size: 22px; // 18px default
 
   @include mobile {
     margin: 3px 0;
@@ -215,6 +254,8 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
+  color: #00003f; // TA: not here by default
+  line-height: 2.0; // TA: added new
 
   @include mobile {
     float: none;
@@ -225,7 +266,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #00003f; // $darkGray
     text-align: left;
     font-weight: 300;
     letter-spacing: 1px;
@@ -236,6 +277,175 @@ nav {
     }
   }
 }
+
+subnav {
+  float: left;
+  // margin-top: 5px; // @TODO: Vertically middle align
+  font-family: $helveticaNeue;
+  font-size: 16px;
+  color: #00003f; // TA: not here by default
+  line-height: 2.0; // TA: added new
+  margin-bottom: 15px;
+	
+  #border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  background-color: #CBC3E3;
+	
+  width: 100%;
+	
+  @include mobile {
+    float: none;
+    // margin-top: 5px;
+    margin-bottom: 15px;
+    display: block;
+    font-size: 16px;
+  }
+
+  a {
+    margin-left: 10px;
+    margin-right: 5px;
+    color: #00003f; // $darkGray 
+    text-align: left;
+    font-weight: 300;
+    letter-spacing: 1px;
+
+    @include mobile {
+      margin: 0 10px;
+      color: $blue;
+    }
+  }
+}
+
+subnav-title {
+  float: left;
+  // margin-top: 5px; // @TODO: Vertically middle align
+  font-family: $helveticaNeue;
+  font-size: 20px;
+  color: #CBC3E3; // TA: not here by default
+  line-height: 2.0; // TA: added new
+  // margin-bottom: 15px;
+	
+  border-top: 1px solid #ddd;
+  #border-bottom: 1px solid #ddd;
+  background-color: #301934;
+	
+  width: 100%;
+	
+  @include mobile {
+    float: none;
+    // margin-top: 5px;
+    margin-bottom: 15px;
+    display: block;
+    font-size: 16px;
+  }
+
+  a {
+    margin-left: 10px;
+    margin-right: 5px;
+    color: #CBC3E3; // $darkGray 
+    text-align: left;
+    font-weight: 300;
+    letter-spacing: 1px;
+
+    @include mobile {
+      margin: 0 10px;
+      color: $blue;
+    }
+  }
+}
+
+
+resource-nav {
+  float: left;
+  // margin-top: 5px; // @TODO: Vertically middle align
+  font-family: $helveticaNeue;
+  font-size: 16px;
+  color: #00003f; // TA: not here by default
+  line-height: 2.0; // TA: added new
+  // margin-bottom: 15px;
+	
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  background-color: #FAFAFA;
+  // background-color: #eeeeee;
+  // background-color: #f2f2f2;
+	
+  width: 100%;
+	
+  @include mobile {
+    float: none;
+    // margin-top: 5px;
+    // margin-bottom: 15px;
+    display: block;
+    font-size: 16px;
+  }
+
+  a {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #00003f; // $darkGray
+    text-align: left;
+    font-weight: 300;
+    letter-spacing: 1px;
+
+    @include mobile {
+      margin: 0 10px;
+      color: $blue;
+    }
+  }
+}
+
+resource-nav-title {
+  float: left;
+  // margin-top: 5px; // @TODO: Vertically middle align
+  font-family: $helveticaNeue;
+  font-size: 24px; //28px big
+  color: #00003f; // TA: not here by default
+  line-height: 2.0; // TA: added new
+  // margin-bottom: 15px;
+	
+  //border-top: 1px solid #ddd;
+  //border-bottom: 1px solid #ddd;
+  //border-left: 1px solid #ddd;
+  //border-right: 1px solid #ddd;
+  //background-color: #eeeeee;
+  //background-color: #00003f;
+	
+  width: 100%;
+	
+  @include mobile {
+    float: none;
+    // margin-top: 5px;
+    // margin-bottom: 15px;
+    display: block;
+    font-size: 16px;
+  }
+
+  a {
+    //margin-left: 15px;
+    margin-right: 5px;
+    //color: #f2f2f2; // $darkGray
+    color: #00003f;
+    text-align: left;
+    font-weight: 310;
+    letter-spacing: 1px;
+
+    //@include mobile {
+    //  margin: 0 10px;
+    //  color: $blue;
+    //}
+  }
+}
+
+
+.wrapper-subnav {
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  background-color: $lightGray;
+}
+
 
 //
 // .main
@@ -275,13 +485,48 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $lightGray; 
+}
+
+.wrapper-header {
+  // border-top: 1px solid #ddd;
+  // border-bottom: 1px solid #ddd;
+  // background-color: $lightGray;
+  border-top: 1px solid #00003f;
+  border-bottom: 1px solid #00003f;
+  background-color: #00003f;
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
 }
+
+// For boxes side by side https://stackoverflow.com/questions/23737427/how-to-put-two-iframes-side-by-side/23737699 
+
+.box{
+    float:left;
+    margin-right:20px;
+}
+
+.boxright{
+    float:left;
+    margin-right:200px;
+}
+
+.boxrow{
+}
+
+#wrapper { 
+    width: 750 px; 
+    height: auto; 
+    margin: 0 auto;
+} 
+
+.clear{
+    clear:both;
+}
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
