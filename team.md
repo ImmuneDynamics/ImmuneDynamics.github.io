@@ -30,4 +30,15 @@ permalink: /team/
 <br />
 <br />
 <br />
+
+<div class='row'>
+    <div class="image">
+        <a href="http://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en">
+            <img src="https://ca.slack-edge.com/TLYFBANH2-UM1JA0BC5-69f86dacaa11-512" alt="icon" width="180" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 5px">
+        </a>
+    </div>
+</div>
+
+[**Dr. Felix Marsh-Wakefield**](http://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en) is a post-doctoral researcher part of the Liver Injury & Cancer (Centenary Institute) and Human Cancer & Viral Immunology Laboratory (University of Sydney). He is an immunologist interested in investigating the role of various immune cells in a range of diseases, including hepatocellular carcinoma and multiple sclerosis. This primarily involves bioinformatics to assist in the analysis of high dimensional data, including that of imaging mass cytometry. He is part of the Marylou Ingram Scholarship Program run by the International Society for the Advancement of Cytometry (ISAC).
+
 <br />
