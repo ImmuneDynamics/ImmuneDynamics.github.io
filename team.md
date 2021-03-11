@@ -6,7 +6,7 @@ permalink: /team/
 
 <div class='row'>
     <div class="image">
-        <a href="#">
+        <a href="https://immunedynamics.github.io/thomas-ashhurst/">
             <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" alt="icon" width="180" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 5px">
         </a>
     </div>
@@ -18,7 +18,7 @@ permalink: /team/
 
 <div class='row'>
     <div class="image">
-        <a href="#">
+        <a href="https://immunedynamics.github.io/mark-read/">
             <img src="https://marknormanread.github.io/assets/images/MarkRead_small.JPG" alt="icon" width="180" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 5px">
         </a>
     </div>
