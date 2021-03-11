@@ -7,7 +7,7 @@ permalink: /team/
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" alt="icon" width="140" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 5px">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" alt="icon" width="180" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 5px">
         </a>
     </div>
 </div>
@@ -19,7 +19,7 @@ permalink: /team/
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://marknormanread.github.io/assets/images/MarkRead_small.JPG" alt="icon" width="140" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 5px">
+            <img src="https://marknormanread.github.io/assets/images/MarkRead_small.JPG" alt="icon" width="180" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 5px">
         </a>
     </div>
 </div>
