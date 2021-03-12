@@ -254,6 +254,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 14px;
+  font-weight: 320;
   color: #00003f; // TA: not here by default
   line-height: 2.0; // TA: added new
 
@@ -268,7 +269,7 @@ nav {
     margin-left: 20px;
     color: #00003f; // $darkGray
     text-align: left;
-    font-weight: 300;
+    font-weight: 320;
     letter-spacing: 1px;
 
     @include mobile {
