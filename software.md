@@ -4,6 +4,7 @@ title: Software
 permalink: /software/
 ---
 
+---
 
 <table class="table gmisc_table">
   <tbody>
@@ -22,5 +23,3 @@ permalink: /software/
 </table>
 
 <br />
-
----
