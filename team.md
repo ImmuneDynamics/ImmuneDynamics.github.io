@@ -47,6 +47,8 @@ permalink: /team/
 
 <br />
 <br />
+<br />
+<br />
 
 <div class='row'>
     <div class="image">
