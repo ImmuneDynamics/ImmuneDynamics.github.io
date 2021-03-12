@@ -22,5 +22,5 @@ permalink: /included/
 <br />
 <br />
 
-<p align="center"><iframe width="100%" height="600" src="https://static1.squarespace.com/static/4f5013cf24ac3afbd1aa0384/t/56bffd4b86db43b548a2a8ed/1455422910920/The+impact+of+adjusting+PMT+voltages+on+spillover+and+compensation.pdf" frameborder="0" style="border:1px solid black" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="100%" height="600" src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/pdfs/%F0%9F%93%98%20Simple%20discovery%20workflow_%20simple%20clustering%20and%20dimensionality%20reduction%20workflow%20for%20cytometry%20data-v118-20210312_220739.pdf" frameborder="0" style="border:1px solid black" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
