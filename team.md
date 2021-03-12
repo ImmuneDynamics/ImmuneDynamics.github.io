@@ -46,3 +46,18 @@ permalink: /team/
 [**Dr. Felix Marsh-Wakefield**](http://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en) is a post-doctoral researcher part of the Liver Injury & Cancer (Centenary Institute) and Human Cancer & Viral Immunology Laboratory (University of Sydney). He is an immunologist interested in investigating the role of various immune cells in a range of diseases, including hepatocellular carcinoma and multiple sclerosis. This primarily involves bioinformatics to assist in the analysis of high dimensional data, including that of imaging mass cytometry. He is part of the Marylou Ingram Scholarship Program run by the International Society for the Advancement of Cytometry (ISAC).
 
 <br />
+
+<div class='row'>
+    <div class="image">
+        <a href="https://scholar.google.com/citations?user=S-sNLPIAAAAJ&hl=en">
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fghar1821&psig=AOvVaw2sb4QMvY7mTSka_CbYIrZA&ust=1615594959342000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJj2sq--qe8CFQAAAAAdAAAAABAD" alt="icon" width="180" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 5px">
+        </a>
+    </div>
+</div>
+
+[**Givanna Putri**](https://scholar.google.com/citations?user=S-sNLPIAAAAJ&hl=en) is a PhD scholar from School of Computer Science at The University of Sydney, supervised by Dr. Mark Read and Prof. Irena Koprinska. She is a member of The Charles Perkins Centre, interested in interdisciplinary research, specifically using machine learning to uncover the development of immune response over time.
+
+<br />
+<br />
+<br />
+<br />
