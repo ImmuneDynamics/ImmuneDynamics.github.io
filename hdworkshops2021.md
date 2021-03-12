@@ -1,7 +1,7 @@
 ---
 layout: page
 title: High-dimensional (HD) analysis workshops
-permalink: /hdworkshops/
+permalink: /hdworkshops2021/
 ---
 
 Introduction to computational analysis for cytometry and single-cell data
