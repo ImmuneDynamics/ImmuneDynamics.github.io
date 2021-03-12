@@ -8,4 +8,5 @@ permalink: /included/
 <br />
 <br />
 
-{% include markdown.html %}
+<p align="center"><iframe width="560" height="315" src="markdown.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
