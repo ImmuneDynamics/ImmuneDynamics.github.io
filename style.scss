@@ -233,7 +233,7 @@ table-bottom {
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 32px; // TA: 28px default -- changed to 30px
+  font-size: 28px; // TA: 28px default -- changed to 30px or 32px
   letter-spacing: 1px;
 }
 
@@ -242,7 +242,7 @@ table-bottom {
   color: $gray; //$gray
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 22px; // 18px default
+  font-size: 20px; // 18px default -- changed to 22px
 
   @include mobile {
     margin: 3px 0;
