@@ -1,5 +1,5 @@
 ---
-layout: spectre-new
+layout: spectre
 title: Simple Discovery Workflow
 permalink: /included/
 ---
