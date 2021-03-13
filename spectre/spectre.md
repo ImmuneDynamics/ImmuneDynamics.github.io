@@ -199,6 +199,10 @@ Spectre is an R package and computational toolkit that enables comprehensive end
 
 ---
 
+These are approaches that are in use within our team, for which we do not yet have stable guidelines. These are described in our preprint ([Ashhurst\*, Marsh-Wakefield\*, Putri\*, et al. 2020. bioRxiv](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1)). If you are interested in using any of these approaches, please [get in contact](mailto:thomas.ashhurst@sydney.edu.au).
+
+<p> </p>
+
 <table class="table gmisc_table">
   <tbody>
 <!-- FIRST ROW: TITLE --> 
