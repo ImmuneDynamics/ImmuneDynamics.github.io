@@ -8,7 +8,7 @@ Spectre is an R package and computational toolkit that enables comprehensive end
 
 ![Spectre](https://wiki.centenary.org.au/download/attachments/146080606/sketch-image-1615023265755.png?version=1&modificationDate=1615023277206&api=v2)
 
-For more information on the Spectre, check out the '[about Spectre](https://wiki.centenary.org.au/x/az0MCQ)' page or [this talk](https://youtu.be/poEDERGXrQw?t=3151). If you are interested in testing new 'development' functions in Spectre, or adding your own function, see the developers guide. 
+For more information on Spectre, check out the '[about Spectre](https://wiki.centenary.org.au/x/az0MCQ)' page or [this talk](https://youtu.be/poEDERGXrQw?t=3151). If you are interested in testing new 'development' functions in Spectre, or adding your own function, see the developers guide. 
 
 **Citation:** if you use Spectre in your work, please consider citing [Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2020). bioRxiv. 2020.10.22.349563](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). To continue providing open-source tools such as Spectre, it helps us if we can demonstrate that our efforts are contributing to analysis efforts in the community. Please also consider citing the authors of the individual packages or tools (e.g. CytoNorm, FlowSOM, tSNE, UMAP, etc) that are critical elements of your analysis work. We have provided some generic text that you can use for your methods section with each protocol and on the 'about' page.
 
