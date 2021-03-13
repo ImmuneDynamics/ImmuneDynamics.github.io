@@ -363,9 +363,9 @@ These are approaches that are in use within our team, but are still under active
 
 Coming soon...
 
+- Choosing a co-factor for arcsinh transformation
 - Thinking about computational analysis approaches
 - Strategic use of clustering and dimensionality reduction
 - Batch alignment strategies
-
 - Plotting with Spectre and ggplot2
 - Data handling using data.table
