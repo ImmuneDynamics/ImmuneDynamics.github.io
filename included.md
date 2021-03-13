@@ -46,7 +46,7 @@ function includeHTML() {
 }
 </script>
   
-<div w3-include-html="/markdown"></div>
+<div w3-include-html="/markdown2"></div>
 
 <script>
 includeHTML();
