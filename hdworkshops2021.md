@@ -6,17 +6,17 @@ permalink: /hdworkshops2021/
 
 ---
 
-Sydney Cytometry Core Research Facility, along with the ASI SI SIG, ACS, and OSC...
+The [Sydney Cytometry Core Research Facility](), in partnership with the [ASI SI SIG](), [ACS](), and [Oz Single Cell consortium]() are running a number of workshops throughout 2021 on the computational analysis of high-dimensional cytometry or single-cell data.
 
 
-Introduction to computational analysis for cytometry and single-cell data
+## Introduction to computational analysis for cytometry and single-cell data
 
-Basic clustering and dimensionality reduction
+## Basic clustering and dimensionality reduction
 
-Advanced clustering and dimensionality reduction
+## Advanced clustering and dimensionality reduction
 
-Batch alignment
+## Batch alignment
 
-Time-series and pseudotime analysis
+## Time-series and pseudotime analysis
 
-Quantitative and statisticaly analysis
+## Quantitative and statisticaly analysis
