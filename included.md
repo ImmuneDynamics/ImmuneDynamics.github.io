@@ -47,6 +47,8 @@ function includeHTML() {
 </script>
   
 <div w3-include-html="https://immunedynamics.io/markdown2"></div>
+<div w3-include-html="markdown2.html"></div>
+<div w3-include-html="/markdown2.html"></div>
 
 <script>
 includeHTML();
