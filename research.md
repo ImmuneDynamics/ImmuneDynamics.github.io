@@ -23,7 +23,7 @@ Application
 
 <br />
 
-## High-dimensional cytometry, single cell, and imaging analysis tools
+## Computational analysis tools for high-dimensional cytometry, single cell, and imaging data
 
 ---
 
