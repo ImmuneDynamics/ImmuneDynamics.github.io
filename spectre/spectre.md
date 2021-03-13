@@ -34,10 +34,6 @@ Spectre is an R package and computational toolkit that enables comprehensive end
 
 <br />
 
-## Data preparation
-
----
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -45,7 +41,7 @@ Spectre is an R package and computational toolkit that enables comprehensive end
           <img src="https://wiki.centenary.org.au/download/attachments/159435971/image2020-8-21_9-36-10.png?version=1&modificationDate=1598002570816&api=v2" width="3000">
       </td>
       <td style="padding-left:.75em;width:65%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>Data preparation</b></p>
+        <p><b>Initial data preparation</b></p>
         <p>Here we provide instructions for initial data preparation, including compensation, cleanup gating, and data export from programs such as FlowJo.</p>
           <a href="https://wiki.centenary.org.au/display/SPECTRE" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
