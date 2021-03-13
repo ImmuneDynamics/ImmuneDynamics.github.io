@@ -1,7 +1,7 @@
 ---
 layout: spectre
 title: Installing R and RStudio
-permalink: /spectre/
+permalink: /installing-r/
 ---
 
 s
