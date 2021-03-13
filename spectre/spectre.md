@@ -128,7 +128,7 @@ Spectre is an R package and computational toolkit that enables comprehensive end
 <br />
 
 
-## Specialist workflows: Time-series analysis, scRNAseq, spatial
+## Specialist workflows
 
 ---
 
@@ -199,6 +199,11 @@ Spectre is an R package and computational toolkit that enables comprehensive end
 
 <br />
 
+## Tutorials
+
+---
+
+Coming soon...
 
 <br />
 <br />
