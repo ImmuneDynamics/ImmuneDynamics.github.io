@@ -91,5 +91,85 @@ Spectre is an R package and computational toolkit that enables comprehensive end
 </table>
 
 <br />
+<br />
+<br />
+<br />
+
+<table class="table gmisc_table">
+  <tbody>
+<!-- FIRST ROW: TITLE --> 
+    <tr style="border-top:1px solid grey">
+      <td style="padding-left:.75em;width:30%;border-top:2px solid grey;border-left:1px solid #000;border-right:1px solid #000;text-align:left">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Simple discovery workflow
+        </div>
+      </td>
+      <td style="padding-left:.75em;width:30%;border-top:2px solid grey;border-right:1px solid #000;text-align:left">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Batch alignment workflow
+        </div>
+      </td>
+      <td style="padding-left:.75em;width:30%;border-top:2px solid grey;border-right:1px solid #000;text-align:left">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Advanced quantitative and statistical analysis
+        </div>
+      </td>
+    </tr>
+<!-- SECOND ROW: Padding --> 
+    <tr>
+      <td style="padding-left:.75em;width:30%;border-left:1px solid #000;border-right:1px solid #000;text-align:left">
+          <br />
+      </td>
+        <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">
+            <br />
+        </td>
+        <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">
+            <br />
+        </td>
+     </tr>
+<!-- THIRD ROW: Image --> 
+    <tr>
+      <td style="padding-left:.75em;width:30%;border-left:1px solid #000;border-right:1px solid #000;text-align:left">
+          <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-46-9.png?version=1&modificationDate=1613891282510&api=v2" width="3000">
+      </td>
+        <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">
+            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2021-2-28_12-3-31.png?version=1&modificationDate=1614474211754&api=v2
+" width="3000">
+        </td>
+        <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">
+            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-45-0.png?version=1&modificationDate=1613891282558&api=v2" width="3000">
+        </td>
+      </tr>
+<!-- FOURTH ROW: Description --> 
+      <tr>
+          <td style="padding-left:.75em;width:30%;border-left:1px solid #000;border-right:1px solid #000;text-align:left">A simple workflow (with worked example) using a single R script to run clustering/dimensionality reduction, make plots, and perform some limited quantitative/statistical analysis. No batch alignment steps included.
+          </td>
+          <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">A comprehensive and adaptable workflow (with worked example) for the integration and analysis of data from multiple batches.
+          </td>
+          <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">A workflow to rapidly generate graphs and heatmaps from summary data to perform quantitative and statistical analysis.
+          </td>
+     </tr>
+<!-- FIFTH ROW: Go to page --> 
+      <tr>
+          <td style="padding-left:.75em;width:30%;border-bottom:2px solid grey;border-left:1px solid #000;border-right:1px solid #000;text-align:left">
+              <div style="text-align:center;font-size:large;font-weight:700;color:#00003f">
+                  <a href="https://wiki.centenary.org.au/x/4C8MCQ"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+              </div>
+          </td>
+          <td style="padding-left:.75em;width:30%;border-bottom:2px solid grey;border-right:1px solid #000;text-align:left">
+              <div style="text-align:center;font-size:large;font-weight:700;color:#00003f">
+                  <a href="https://wiki.centenary.org.au/x/zORfCQ"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+              </div>
+          </td>
+          <td style="padding-left:.75em;width:30%;border-bottom:2px solid grey;border-right:1px solid #000;text-align:left">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://wiki.centenary.org.au/display/SPECTRE"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                  </p>
+              </div>
+          </td>
+      </tr>
+    </tbody>
+</table>
+
+
+
 
 <p style="color:grey"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
