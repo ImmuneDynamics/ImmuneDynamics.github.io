@@ -1,6 +1,6 @@
 ---
 layout: spectre
-title: Installing R and RStudio
+title: Simple Discovery Workflow
 permalink: /spectre/simple-discovery/
 ---
 
