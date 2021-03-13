@@ -16,8 +16,6 @@ permalink: /included/
 <br />
 <br />
 
-<div w3-include-html="Untitled.html"></div>
-
 <script>
 function includeHTML() {
   var z, i, elmnt, file, xhttp;
@@ -48,10 +46,11 @@ function includeHTML() {
 }
 </script>
   
+<div w3-include-html="/Untitled.html"></div>
+
 <script>
 includeHTML();
 </script>
-
 
 <br />
 <br />
