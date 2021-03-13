@@ -99,7 +99,7 @@ Spectre is an R package and computational toolkit that enables comprehensive end
   <tbody>
 <!-- FIRST ROW: TITLE --> 
     <tr style="border-top:1px solid grey">
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid ##000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Simple discovery workflow
         </div>
       </td>
@@ -135,17 +135,17 @@ Spectre is an R package and computational toolkit that enables comprehensive end
      </tr>
 <!-- FIFTH ROW: Go to page --> 
       <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
               <div style="text-align:center;font-size:large;font-weight:700;color:#00003f">
                   <a href="https://wiki.centenary.org.au/x/4C8MCQ"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
               </div>
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
               <div style="text-align:center;font-size:large;font-weight:700;color:#00003f">
                   <a href="https://wiki.centenary.org.au/x/zORfCQ"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
               </div>
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
                       <a href="https://wiki.centenary.org.au/display/SPECTRE"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
