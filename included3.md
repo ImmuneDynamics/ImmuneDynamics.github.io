@@ -1,5 +1,6 @@
 ---
 layout: spectre
+title: Simple Discovery Workflow
 permalink: /included3/
 ---
 
@@ -39,6 +40,10 @@ function includeHTML() {
 }
 </script>
   
+<br />
+<br />
+<br />
+
 <!--<div w3-include-html="https://immunedynamics.io/markdown3"></div>-->
 <!--<div w3-include-html="markdown4.html"></div>-->
 <div w3-include-html="/markdown4.html"></div>
