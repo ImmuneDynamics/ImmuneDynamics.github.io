@@ -1,6 +1,6 @@
 ---
 layout: page
-title: High-dimensional (HD) analysis workshops
+title: High-dimensional (HD) analysis workshops - 2021
 permalink: /hdworkshops2021/
 ---
 
