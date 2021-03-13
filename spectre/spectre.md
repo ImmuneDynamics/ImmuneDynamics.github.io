@@ -130,8 +130,7 @@ Spectre is an R package and computational toolkit that enables comprehensive end
           <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-46-9.png?version=1&modificationDate=1613891282510&api=v2" width="3000">
       </td>
         <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">
-            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2021-2-28_12-3-31.png?version=1&modificationDate=1614474211754&api=v2
-" width="3000">
+            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2021-2-28_12-3-31.png?version=1&modificationDate=1614474211754&api=v2" width="3000">
         </td>
         <td style="padding-left:.75em;width:30%;border-right:1px solid #000;text-align:left">
             <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-45-0.png?version=1&modificationDate=1613891282558&api=v2" width="3000">
