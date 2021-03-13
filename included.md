@@ -33,3 +33,15 @@ permalink: /included/
 <br />
 <br />
 <br />
+
+<html>
+<body>
+    <object data="/pdfs/discovery.pdf" type="application/pdf">
+        <embed src="/pdfs/discovery.pdf" type="application/pdf" />
+    </object>
+</body>
+</html>
+
+<br />
+<br />
+<br />
