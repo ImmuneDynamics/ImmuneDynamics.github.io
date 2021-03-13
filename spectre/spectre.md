@@ -124,7 +124,7 @@ Spectre is an R package and computational toolkit that enables comprehensive end
 <br />
 
 
-## Specialist workflows
+## Specialised workflows
 
 ---
 
@@ -195,11 +195,34 @@ Spectre is an R package and computational toolkit that enables comprehensive end
 
 <br />
 
-## Tutorials
+## Advanced applications
 
 ---
 
 Coming soon...
+
+- Integrating data across experiments or technologies
+- Automated cell classification
+- Automated label transfer from Human Cell Atlas (HCA) datasets
+
+<br />
+
+## Tutorials and advanced applications
+
+---
+
+Coming soon...
+
+- Rapidly generate tSNE/UMAP plots from CSV or FCS files
+- Convert CSV to FCS files (and vise versa)
+- Computational analysis in FlowJo
+
+- Thinking about computational analysis approaches
+- Strategic use of clustering and dimensionality reduction
+- Batch alignment strategies
+
+- Plotting with Spectre and ggplot2
+- Data handling using data.table
 
 <br />
 <br />
