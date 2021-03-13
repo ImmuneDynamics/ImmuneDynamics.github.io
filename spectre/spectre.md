@@ -62,7 +62,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
       </tr>
     </tbody>
 </table>
-<p style="color:grey; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
+<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
 <br />
 
@@ -134,7 +134,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
       </tr>
     </tbody>
 </table>
-<p style="color:grey; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
+<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
 <br />
 
@@ -207,7 +207,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
       </tr>
     </tbody>
 </table>
-<p style="color:grey; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
+<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
 <br />
 
@@ -283,7 +283,7 @@ These are approaches that are in use within our team, but are still under active
       </tr>
     </tbody>
 </table>
-<p style="color:grey; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
+<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
 <br />
 
@@ -357,7 +357,7 @@ These are approaches that are in use within our team, but are still under active
       </tr>
     </tbody>
 </table>
-<p style="color:grey; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
+<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
 <br />
 
