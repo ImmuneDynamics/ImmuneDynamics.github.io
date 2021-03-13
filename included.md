@@ -28,7 +28,7 @@ permalink: /included/
 <br />
 <br />
 
-<p align="center"><iframe width="100%" height="600" src="pdfs/📘 Simple discovery workflow_ simple clustering and dimensionality reduction workflow for cytometry data-v118-20210312_220739.pdf" frameborder="0" style="border:1px solid black" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="100%" height="600" src="/pdfs/📘 Simple discovery workflow_ simple clustering and dimensionality reduction workflow for cytometry data-v118-20210312_220739.pdf" frameborder="0" style="border:1px solid black" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <br />
 <br />
