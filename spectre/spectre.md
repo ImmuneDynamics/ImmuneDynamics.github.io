@@ -32,7 +32,7 @@ Spectre is an R package and computational toolkit that enables comprehensive end
     </tbody>
 </table>
 
-<br />
+<p> </p>
 
 <table class="table gmisc_table">
   <tbody>
@@ -50,7 +50,7 @@ Spectre is an R package and computational toolkit that enables comprehensive end
     </tbody>
 </table>
 
-<p> </p>
+<br />
 
 ## Core analysis workflows
 
