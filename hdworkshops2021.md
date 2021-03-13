@@ -6,7 +6,7 @@ permalink: /hdworkshops2021/
 
 ---
 
-The [Sydney Cytometry Core Research Facility](), in partnership with the [ASI SI SIG](), [ACS](), and [Oz Single Cell consortium]() are running a number of workshops throughout 2021 on the computational analysis of high-dimensional cytometry or single-cell data.
+The [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au/), in partnership with the [Australia and New Zealand Society for Immunology](https://www.immunology.org.au/)'s [systems immunology](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/) special interest group, the [Australasian Cytometry Society](https://cytometry.org.au/), and [Oz Single Cell consortium](https://www.singlecells.org.au/) are running a number of workshops throughout 2021 on the computational analysis of high-dimensional cytometry or single-cell data.
 
 <br />
 
