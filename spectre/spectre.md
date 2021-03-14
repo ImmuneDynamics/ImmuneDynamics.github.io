@@ -14,7 +14,7 @@ For more information on Spectre, check out the '[about Spectre](https://wiki.cen
 
 <p> </p>
 
-## News
+# News
 
 ---
 
@@ -27,7 +27,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 
 <p> </p>
 
-## Getting started
+# Getting started
 
 ---
 
@@ -68,7 +68,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 
 <p> </p>
 
-## Core analysis workflows
+# Core analysis workflows
 
 ---
 
@@ -140,7 +140,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 
 <p> </p>
 
-## Other workflows
+# Other workflows
 
 ---
 
@@ -213,7 +213,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 
 <p> </p>
 
-## Specialised analysis areas
+# Specialised analysis areas
 
 ---
 
@@ -285,7 +285,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 
 <p> </p>
 
-## Advanced applications
+# Advanced applications
 
 ---
 
