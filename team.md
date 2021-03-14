@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Immune Dynamics' team
+title: Immune Dynamics team
 permalink: /team/
 ---
 
