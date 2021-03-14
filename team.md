@@ -43,8 +43,6 @@ One of our key initiatives has been the development of [Spectre](https://immuned
 <br />
 <br />
 
----
-
 <div class='row'>
     <div class="image">
         <a href="http://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en">
