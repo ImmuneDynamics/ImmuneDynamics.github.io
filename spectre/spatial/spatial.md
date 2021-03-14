@@ -4,26 +4,26 @@ title: Spatial analysis of IMC data using Spectre
 permalink: /spectre/spatial/
 ---
 
-Along with cytometry data, Spectre enable the spatial analysis of Imaging Mass Cytometry (IMC) data. This is aided by our extension package 'SpectreMAP', which facilitates the import, management, and visualisation of TIFF files. 
+Along with cytometry data, Spectre enable the spatial analysis of Imaging Mass Cytometry (IMC) data. The Hyperion (imaging mass cytometer, IMC) consists of a CyTOF (Helios) instrument, with an imaging module attached to the front. Within the imaging module, a pulsed laser scans and ablates the tissue section in incremental 1 um shots. In order to utilise this imaging data in R, we developed an extension of Spectre, termed 'SpectreMAP', to import, manage, and visualise TIFF files. Once cell segmentation has been performed (using our protocols, or those developed by others), the marker expression data for each cell across multiple images can be calculated and incorporated into a single data.table. Clustering, gating, or image-based classification can then label cellular populations. Subsequently, the relationship between cell types and their spatial arrangement and environments can be calculated using our spatial analysis functions.
 
 ![IMC](https://wiki.centenary.org.au/download/attachments/172228252/image2021-2-25_22-32-15.png?version=1&modificationDate=1614252735692&api=v2)
 
-The Hyperion (imaging mass cytometer, IMC) consists of a CyTOF (Helios) instrument, with an imaging module attached to the front. Within the imaging module, a pulsed laser scans and ablates the tissue section in incremental 1 um shots. With each laser shot, vaporised material is carried into the mass cytometer, and the metal ions are analysed by time-of-flight mass spectrometry. SpectreMAP was developed by Thomas Ashhurst (Sydney Cytometry Core Research Facility, The University of Sydney).
+For an overview of the spatial analysis components, please see **this page**.
 
-**The analysis workflow involves three key steps:**
-
-1. Cell segmentation using one of our approaches using Ilastik and/or CellProfiler.
-2. Integrating tiff files, masks, and cellular data into SpectreMAP's spatial data object in R.
-3. Performing cellular (clustering, dimensionality reduction) and spatial (region, distance, neighbour) analysis of the IMC dataset.
+<p> <p/>
 
 # Software installation and demos
 
 1. xxx
 
+<p> <p/>
+
 # Image visualisation
 
 1. MCD viewer
 2. HistoCat++
+
+<p> <p/>
 
 # Cell Segmentation
 
@@ -31,11 +31,15 @@ The Hyperion (imaging mass cytometer, IMC) consists of a CyTOF (Helios) instrume
 2. Bodenmiller segmentation pipeline
 3. Multi-cut segmentation pipeline
 
+<p> <p/>
+
 # Spatial analysis workflow steps with Spectre
 
 1. Integrated TIFFs and create SpectreMAP object
 2. Spatial analysis 
 3. Automated plot generation
+
+<p> <p/>
 
 # Other workflows
 
@@ -43,3 +47,4 @@ The Hyperion (imaging mass cytometer, IMC) consists of a CyTOF (Helios) instrume
 2. Cell type classification with Ilastik
 3. Region classification with Ilastik
 
+<p> <p/>
