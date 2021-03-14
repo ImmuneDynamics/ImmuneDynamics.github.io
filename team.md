@@ -32,7 +32,7 @@ One of our key initiatives has been the development of [Spectre](https://immuned
 <div class='row'>
     <div class="image">
         <a href="https://immunedynamics.github.io/mark-read/">
-            <img src="https://avatars.githubusercontent.com/u/35902776?s=400&u=d9b68e6896dd4db66362f284e1cd1e7110b74868&v=4" alt="icon" width="180" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 5px">
+            <img src="https://avatars.githubusercontent.com/u/35902776?s=400&u=d9b68e6896dd4db66362f284e1cd1e7110b74868&v=4" alt="icon" width="180" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 20px">
         </a>
     </div>
 </div>
