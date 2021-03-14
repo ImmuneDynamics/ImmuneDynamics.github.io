@@ -4,8 +4,6 @@ title: Spectre tutorials
 permalink: /spectre/tutorials/
 ---
 
----
-
 <table class="table gmisc_table">
   <tbody>
 <!-- FIRST ROW: TITLE --> 
