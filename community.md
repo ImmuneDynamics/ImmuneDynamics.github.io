@@ -24,8 +24,6 @@ We have taken a key role in two roadshows hosted by the [Australasian Cytometry 
 
 ---
 
-![Presentations](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Presentations.jpeg)
-
 Below is a collection of key presentations from various community activities.
 
 <br />
