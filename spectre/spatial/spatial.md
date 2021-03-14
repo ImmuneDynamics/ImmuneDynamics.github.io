@@ -4,7 +4,7 @@ title: Spectre - spatial analysis of IMC data
 permalink: /spectre/spatial/
 ---
 
-Along with cytometry data, Spectre enable the spatial analysis of Imaging Mass Cytometry (IMC) data. This is aided by our extension package 'SpectreMAP', that facilitates the import and management of TIFF files. 
+Along with cytometry data, Spectre enable the spatial analysis of Imaging Mass Cytometry (IMC) data. This is aided by our extension package 'SpectreMAP', which facilitates the import, management, and visualisation of TIFF files. 
 
 ![IMC](https://wiki.centenary.org.au/download/attachments/172228252/image2021-2-25_22-32-15.png?version=1&modificationDate=1614252735692&api=v2)
 
