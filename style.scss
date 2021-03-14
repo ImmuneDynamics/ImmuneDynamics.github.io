@@ -279,84 +279,7 @@ nav {
   }
 }
 
-subnav {
-  float: left;
-  // margin-top: 5px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 16px;
-  color: #00003f; // TA: not here by default
-  line-height: 2.0; // TA: added new
-  margin-bottom: 15px;
-	
-  #border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: #739AC5; //  #CBC3E3
-	
-  width: 100%;
-	
-  @include mobile {
-    float: none;
-    // margin-top: 5px;
-    margin-bottom: 15px;
-    display: block;
-    font-size: 16px;
-  }
-
-  a {
-    margin-left: 10px;
-    margin-right: 5px;
-    color: #00003f; // $darkGray 
-    text-align: left;
-    font-weight: 300;
-    letter-spacing: 1px;
-
-    @include mobile {
-      margin: 0 10px;
-      color: $blue;
-    }
-  }
-}
-
-subnav-title {
-  float: left;
-  // margin-top: 5px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 20px;
-  color: #CBC3E3; // TA: not here by default
-  line-height: 2.0; // TA: added new
-  // margin-bottom: 15px;
-	
-  border-top: 1px solid #ddd;
-  //border-bottom: 1px solid #ddd;
-  background-color: #739AC5; // #301934
-	
-  width: 100%;
-	
-  @include mobile {
-    float: none;
-    // margin-top: 5px;
-    margin-bottom: 15px;
-    display: block;
-    font-size: 20px;
-  }
-
-  a {
-    margin-left: 10px;
-    margin-right: 5px;
-    color: #CBC3E3; // $darkGray 
-    text-align: left;
-    font-weight: 300;
-    letter-spacing: 1px;
-
-    @include mobile {
-      margin: 0 10px;
-      color: $blue;
-    }
-  }
-}
-
-
-resource-nav {
+sub-nav {
   float: left;
   // margin-top: 5px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
@@ -398,7 +321,7 @@ resource-nav {
   }
 }
 
-resource-nav-title {
+sub-nav-title {
   float: left;
   // margin-top: 5px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
