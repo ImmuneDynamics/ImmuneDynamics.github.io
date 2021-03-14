@@ -12,7 +12,7 @@ For more information on Spectre, check out the '[about Spectre](https://wiki.cen
 
 **Citation:** if you use Spectre in your work, please consider citing [Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2020). bioRxiv. 2020.10.22.349563](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). To continue providing open-source tools such as Spectre, it helps us if we can demonstrate that our efforts are contributing to analysis efforts in the community. Please also consider citing the authors of the individual packages or tools (e.g. CytoNorm, FlowSOM, tSNE, UMAP, etc) that are critical elements of your analysis work. We have provided some generic text that you can use for your methods section with each protocol and on the 'about' page.
 
-<br />
+<p> </p>
 
 ## News
 
@@ -25,7 +25,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 - 2019-07-31: Spectre Github repository established.
 - 2019-05-11: The 'CAPX' workflow (precursor to Spectre) published as part of a methods chapter of 'Mass Cytometry: Methods and Protocols': Ashhurst TM et al. (2019). Methods Mol Biol. 1989:159-192. doi: 10.1007/978-1-4939-9454-0_12.
 
-<br />
+<p> </p>
 
 ## Getting started
 
@@ -66,7 +66,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 </table>
 <p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
-<br />
+<p> </p>
 
 ## Core analysis workflows
 
@@ -138,8 +138,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 </table>
 <p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
-<br />
-
+<p> </p>
 
 ## Other workflows
 
@@ -212,8 +211,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 </table>
 <p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
-<br />
-
+<p> </p>
 
 ## Specialised analysis areas
 
@@ -285,7 +283,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 </table>
 <p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
-<br />
+<p> </p>
 
 ## Advanced applications
 
@@ -361,4 +359,4 @@ These are approaches that are in use within our team, but are still under active
 </table>
 <p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
-<br />
+<p> </p>
