@@ -363,13 +363,31 @@ sub-nav-title {
   }
 }
 
-
 .wrapper-subnav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
 }
 
+
+
+.side-by-side-wrapper {
+    width:830px;
+    margin: 0 auto;
+}
+
+#block1 {
+    float:left;
+    width: 380px;
+}
+
+#block2
+{
+    float:right;
+    margin: 10px 20px;
+    padding: 20px;
+    width: 380px;
+}
 
 //
 // .main
