@@ -4,6 +4,17 @@ title: The Team
 permalink: /team/
 ---
 
+The ‘[Immune Dynamics Group](https://immunedynamics.io/about)’ is a multi-disciplinary collaborative team derived from multiple research labs, led by [Dr. Thomas Ashhurst](https://immunedynamics.github.io/thomas-ashhurst/) and [Dr. Mark Read](https://immunedynamics.github.io/mark-read/). This group combines expertise in immunology, infectious disease, high-dimensional single-cell & imaging technologies, computational biology, and data science, drawing from the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au/), the [Discipline of Pathology](https://www.sydney.edu.au/medicine-health/schools/school-of-medical-sciences/discipline-of-pathology.html), the [Discipline of Infectious Disease and Immunology](https://www.sydney.edu.au/medicine-health/our-research/school-of-medical-sciences.html), and the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), at the [University of Sydney](https://www.sydney.edu.au/). Our team works closely with collaborating labs, and the [Sydney Cytometry Facility](https://sydneycytometry.org.au/), to develop and apply various high-dimensional cytometry and imaging assays, as well as advanced computational analysis approaches, to map dynamic immune responses over time and space in a range of disease settings, including [viral encephalitis](https://immunedynamics.io/research) and [COVID-19](https://immunedynamics.io/research). 
+
+One of our key initiatives has been the development of [Spectre](https://immunedynamics.io/spectre/), an R package and computational toolkit that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional cytometry data from different batches or experiments ([Ashhurst TM, Marsh-Wakefield F, Putri GH et al., 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)). You can read more about our development and application work on the [research](https://immunedynamics.io/research) page, or about our community and education activities on the [community](https://immunedynamics.io/community) page.
+<!-- As part of our own research areas -->
+
+<p> </p>
+
+# Our members
+
+---
+
 <div class='row'>
     <div class="image">
         <a href="https://immunedynamics.github.io/thomas-ashhurst/">
@@ -19,21 +30,20 @@ permalink: /team/
 <div class='row'>
     <div class="image">
         <a href="https://immunedynamics.github.io/mark-read/">
-            <img src="https://marknormanread.github.io/assets/images/MarkRead_small.JPG" alt="icon" width="180" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 5px">
+            <img src="https://avatars.githubusercontent.com/u/35902776?s=400&u=d9b68e6896dd4db66362f284e1cd1e7110b74868&v=4" alt="icon" width="180" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 5px">
         </a>
     </div>
 </div>
 
-[**Dr. Mark Read**](https://immunedynamics.github.io/mark-read/) conducts research at the interface of Computer Science and Biomedicine at the University of Sydney. Algorithms, simulations, machine learning, gut microbial ecology, immunology and healthcare. Research is endless exciting possibilities.
+[**Dr. Mark Read**](https://immunedynamics.github.io/mark-read/) and the [Read Lab](https://immunedynamics.github.io/mark-read/) conduct research at the interface of Computer Science and Biomedicine at the University of Sydney. Algorithms, simulations, machine learning, gut microbial ecology, immunology and healthcare. Research is endless exciting possibilities.
 
 <br />
 <br />
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
+
+---
 
 <div class='row'>
     <div class="image">
@@ -45,9 +55,6 @@ permalink: /team/
 
 [**Dr. Felix Marsh-Wakefield**](http://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en) is a post-doctoral researcher part of the Liver Injury & Cancer (Centenary Institute) and Human Cancer & Viral Immunology Laboratory (University of Sydney). He is an immunologist interested in investigating the role of various immune cells in a range of diseases, including hepatocellular carcinoma and multiple sclerosis. This primarily involves bioinformatics to assist in the analysis of high dimensional data, including that of imaging mass cytometry. He is part of the Marylou Ingram Scholarship Program run by the International Society for the Advancement of Cytometry (ISAC).
 
-<br />
-<br />
-<br />
 <br />
 
 <div class='row'>
@@ -64,3 +71,174 @@ permalink: /team/
 <br />
 <br />
 <br />
+
+<div class='row'>
+    <div class="image">
+        <a href="https://immunedynamics.github.io/mark-read/">
+            <img src="https://www.sydney.edu.au/research/opportunities/images/supervisors/KingN.jpg?1205985788" alt="icon" width="180" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 5px">
+        </a>
+    </div>
+</div>
+
+[**Prof. Nicholas King**](https://scholar.google.com/citations?user=Wi2ADOEAAAAJ&hl=en) melds cell biology, virology, embryology and immunology into world-leading expertise in flavivirus-host interactions in mouse and human models, where he has made seminal contributions over 20 years. 
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+**Adrian**
+
+<br />
+
+<table class="table gmisc_table">
+  <tbody>
+<!-- FIRST ROW: TITLE --> 
+    <tr style="border-top:1px solid grey">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Dr. Thomas Ashhurst
+        </div>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Dr. Mark Read
+        </div>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Prof. Nicholas King
+        </div>
+      </td>
+    </tr>
+<!-- THIRD ROW: Image --> 
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" width="3000" style="padding-top: 5px">
+      </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://avatars.githubusercontent.com/u/35902776?s=400&u=d9b68e6896dd4db66362f284e1cd1e7110b74868&v=4" width="3000" style="padding-top: 5px">
+        </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://www.sydney.edu.au/research/opportunities/images/supervisors/KingN.jpg?1205985788" width="3000" style="padding-top: 5px; padding-left: 30px; padding-right: 30px">
+        </td>
+      </tr>
+<!-- FOURTH ROW: Description --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Dr. Thomas Ashhurst is an immunologist and high-dimensional cytometry specialist with the Sydney Cytometry Core Research Facility at The University of Sydney. 
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+Dr. Mark Read conducts research at the interface of Computer Science and Biomedicine at the University of Sydney.
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top"> Prof. King melds cell biology, virology, embryology and immunology into world-leading expertise in flavivirus-host interactions in mouse and human models, where he has made seminal contributions over 20 years.
+          </td>
+     </tr>
+<!-- FIFTH ROW: Go to page --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.github.io/thomas-ashhurst/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.github.io/mark-read/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://scholar.google.com/citations?user=Wi2ADOEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+      </tr>
+    </tbody>
+</table>
+<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
+
+<br />
+
+<table class="table gmisc_table">
+  <tbody>
+<!-- FIRST ROW: TITLE --> 
+    <tr style="border-top:1px solid grey">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Dr. Thomas Ashhurst
+        </div>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Dr. Mark Read
+        </div>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Dr. Felix Marsh-Wakefield
+        </div>
+      </td>
+    </tr>
+<!-- THIRD ROW: Image --> 
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" width="3000" style="padding-top: 5px">
+      </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://avatars.githubusercontent.com/u/35902776?s=400&u=d9b68e6896dd4db66362f284e1cd1e7110b74868&v=4" width="3000" style="padding-top: 5px">
+        </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://ca.slack-edge.com/TLYFBANH2-UM1JA0BC5-69f86dacaa11-512" width="3000" style="padding-top: 5px">
+        </td>
+      </tr>
+<!-- FOURTH ROW: Description --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Dr. Thomas Ashhurst is an immunologist and high-dimensional cytometry specialist with the Sydney Cytometry Core Research Facility at The University of Sydney. 
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+Dr. Mark Read conducts research at the interface of Computer Science and Biomedicine at the University of Sydney.
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">[**Dr. Felix Marsh-Wakefield**](http://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en) is a post-doctoral researcher part of the Liver Injury & Cancer (Centenary Institute) and Human Cancer & Viral Immunology Laboratory (University of Sydney). He is an immunologist interested in investigating the role of various immune cells in a range of diseases, including hepatocellular carcinoma and multiple sclerosis. This primarily involves bioinformatics to assist in the analysis of high dimensional data, including that of imaging mass cytometry. He is part of the Marylou Ingram Scholarship Program run by the International Society for the Advancement of Cytometry (ISAC).  
+          </td>
+     </tr>
+<!-- FIFTH ROW: Go to page --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.github.io/thomas-ashhurst/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.github.io/mark-read/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="http://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+      </tr>
+    </tbody>
+</table>
+<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
+
+<br />
+
+# Our network
+
+---
+
+**Diana**
+
+**Alanna?**
+
+
