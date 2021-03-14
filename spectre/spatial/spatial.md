@@ -13,7 +13,33 @@ The Hyperion (imaging mass cytometer, IMC) consists of a CyTOF (Helios) instrume
 **The analysis workflow involves three key steps:**
 
 1. Cell segmentation using one of our approaches using Ilastik and/or CellProfiler.
-
 2. Integrating tiff files, masks, and cellular data into SpectreMAP's spatial data object in R.
-
 3. Performing cellular (clustering, dimensionality reduction) and spatial (region, distance, neighbour) analysis of the IMC dataset.
+
+# Software installation and demos
+
+1. xxx
+
+# Image visualisation
+
+1. MCD viewer
+2. HistoCat++
+
+# Cell Segmentation
+
+1. Basic nuclear expansion segmentation
+2. Bodenmiller segmentation pipeline
+3. Multi-cut segmentation pipeline
+
+# Spatial analysis workflow steps with Spectre
+
+1. Integrated TIFFs and create SpectreMAP object
+2. Spatial analysis 
+3. Automated plot generation
+
+# Other workflows
+
+1. Spatial analysis of IMC data in FlowJo
+2. Cell type classification with Ilastik
+3. Region classification with Ilastik
+
