@@ -1,7 +1,7 @@
 ---
 layout: spectre
 title: Spectre tutorials
-permalink: /spectre/tutorials.
+permalink: /spectre/tutorials/
 ---
 
 Coming soon...
