@@ -14,11 +14,13 @@ Along with flow, spectral, or mass cytometry data, Spectre enables spatial analy
 
 # Software installation and demos
 
-1. xxx
+1. Installation and demos
 
 <p> </p>
 
 # Image visualisation
+
+We provide links for common software options for image visualisation. These are not required for cell segmentation, but are helpful for exploration of the raw imaging data.
 
 1. MCD viewer
 2. HistoCat++
@@ -27,13 +29,19 @@ Along with flow, spectral, or mass cytometry data, Spectre enables spatial analy
 
 # Cell Segmentation
 
+One of the key steps in the analysis of IMC data is cell segmentation. Essentially this uses one of a number of methods to create a 'mask' over each of the cells in the image, which allows us to measure all the signal contained within that cell. Once cells have been segmented from an image, we can then perform a number of single-cell analysis approaches. Here we provide software links, demo data, and protocols for performing cell segmentation on IMC data.
+
 1. Basic nuclear expansion segmentation
 2. Bodenmiller segmentation pipeline
 3. Multi-cut segmentation pipeline
+4. Cell type classification with Ilastik
+5. Region classification with Ilastik
 
 <p> </p>
 
 # Spatial analysis workflow steps with Spectre
+
+Here we provide workflows using SpectreMAP to facilitate spatial analysis of IMC data, following cell segmentation.
 
 1. Integrated TIFFs and create SpectreMAP object
 2. Spatial analysis 
@@ -44,7 +52,12 @@ Along with flow, spectral, or mass cytometry data, Spectre enables spatial analy
 # Other workflows
 
 1. Spatial analysis of IMC data in FlowJo
-2. Cell type classification with Ilastik
-3. Region classification with Ilastik
+2. TIFF to FCS
+3. HistoCat (MatLab/GUI)
+
+# Other software
+
+1. CytoMapper (R)
+2. CytoMAP (Matlab)
 
 <p> </p>
