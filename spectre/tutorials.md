@@ -24,7 +24,7 @@ permalink: /spectre/tutorials/
 <!-- THIRD ROW: Image --> 
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_15-16-23.png?version=1&modificationDate=1613891307896&api=v2" width="3000" style="padding-left: 20px; padding-right: 20px; padding-top: 5px">
+          <img src="https://wiki.centenary.org.au/download/attachments/159435971/image2020-8-21_9-36-28.png?version=1&modificationDate=1598002589232&api=v2" width="3000" style="padding-left: 20px; padding-right: 20px; padding-top: 5px">
       </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
             <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2021-2-21_18-50-20.png?version=1&modificationDate=1613893820633&api=v2" width="3000" style="padding-top: 5px">
