@@ -13,7 +13,7 @@ One of our key initiatives has been the development of [Spectre](https://immuned
 
 <p> </p>
 
-# Postdocs and Ph.D. students
+# Early and mid-career researchers
 
 ---
 
