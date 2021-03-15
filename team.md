@@ -13,7 +13,7 @@ One of our key initiatives has been the development of [Spectre](https://immuned
 
 <p> </p>
 
-# Members
+# Postdocs and students
 
 ---
 
@@ -80,6 +80,17 @@ One of our key initiatives has been the development of [Spectre](https://immuned
     </div>
 </div>
 
+
+**Diana**
+
+**Alanna?**
+
+
+# Faculty, directors
+
+---
+
+
 [**Prof. Nicholas King**](https://scholar.google.com/citations?user=Wi2ADOEAAAAJ&hl=en) melds cell biology, virology, embryology and immunology into world-leading expertise in flavivirus-host interactions in mouse and human models, where he has made seminal contributions over 20 years. 
 
 <br />
@@ -90,9 +101,14 @@ One of our key initiatives has been the development of [Spectre](https://immuned
 <br />
 <br />
 
+[**Dr. Adrian Smith**](https://scholar.google.com/citations?user=Wi2ADOEAAAAJ&hl=en) some placeholder text. 
 
-**Adrian**
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 
 <table class="table gmisc_table">
@@ -236,9 +252,5 @@ Dr. Mark Read conducts research at the interface of Computer Science and Biomedi
 # Our network
 
 ---
-
-**Diana**
-
-**Alanna?**
 
 
