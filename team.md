@@ -13,7 +13,7 @@ One of our key initiatives has been the development of [Spectre](https://immuned
 
 <p> </p>
 
-# Postdocs and students
+# Postdocs and Ph.D. students
 
 ---
 
@@ -75,6 +75,8 @@ One of our key initiatives has been the development of [Spectre](https://immuned
 **Diana**
 
 **Alanna?**
+
+**Jonathan Chung**
 
 
 # Faculty, directors
