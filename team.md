@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: Immune Dynamics team
 permalink: /team/
 ---
