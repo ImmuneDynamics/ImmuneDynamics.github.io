@@ -1,6 +1,6 @@
 ---
 layout: research
-title: Engagement in the Human Cell Atlas and other communitie
+title: Engagement in the Human Cell Atlas and other communities
 permalink: /research/communities/
 ---
 
