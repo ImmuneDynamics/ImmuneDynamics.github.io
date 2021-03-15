@@ -4,7 +4,7 @@ title: Spectre Protocols
 permalink: /spectre/protocols/
 ---
 
-# Data preparation
+## Data preparation
 
 ---
 
@@ -27,7 +27,7 @@ permalink: /spectre/protocols/
 
 <p> </p>
 
-# Core analysis workflows
+## Core analysis workflows
 
 ---
 
@@ -99,7 +99,7 @@ permalink: /spectre/protocols/
 
 <p> </p>
 
-# Other workflows
+## Other workflows
 
 ---
 
@@ -172,7 +172,7 @@ permalink: /spectre/protocols/
 
 <p> </p>
 
-# Specialised analysis areas
+## Specialised analysis areas
 
 ---
 
@@ -244,7 +244,7 @@ permalink: /spectre/protocols/
 
 <p> </p>
 
-# Advanced applications
+## Advanced applications
 
 ---
 
