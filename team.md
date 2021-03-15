@@ -72,15 +72,6 @@ One of our key initiatives has been the development of [Spectre](https://immuned
 <br />
 <br />
 
-<div class='row'>
-    <div class="image">
-        <a href="https://immunedynamics.github.io/mark-read/">
-            <img src="https://www.sydney.edu.au/research/opportunities/images/supervisors/KingN.jpg?1205985788" alt="icon" width="180" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 5px">
-        </a>
-    </div>
-</div>
-
-
 **Diana**
 
 **Alanna?**
@@ -90,6 +81,13 @@ One of our key initiatives has been the development of [Spectre](https://immuned
 
 ---
 
+<div class='row'>
+    <div class="image">
+        <a href="https://immunedynamics.github.io/mark-read/">
+            <img src="https://www.sydney.edu.au/research/opportunities/images/supervisors/KingN.jpg?1205985788" alt="icon" width="180" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 5px">
+        </a>
+    </div>
+</div>
 
 [**Prof. Nicholas King**](https://scholar.google.com/citations?user=Wi2ADOEAAAAJ&hl=en) melds cell biology, virology, embryology and immunology into world-leading expertise in flavivirus-host interactions in mouse and human models, where he has made seminal contributions over 20 years. 
 
