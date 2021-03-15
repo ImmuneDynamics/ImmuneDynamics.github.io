@@ -1,5 +1,5 @@
 ---
-layout: ta
+layout: resource
 title: Thomas Ashhurst - Talks
 permalink: /talks/
 ---
