@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Thomas Ashhurst, Ph.D
 permalink: /about/
 ---
 
