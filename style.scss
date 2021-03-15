@@ -253,7 +253,7 @@ nav {
   float: left;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 19px; // 16
+  font-size: 18px; // 16
   font-weight: 320; // 320
   color: #00003f; // TA: not here by default
   line-height: 2.0; // TA: added new
@@ -266,7 +266,7 @@ nav {
   }
 
   a {
-    margin-left: 20px;
+    // margin-left: 20px; // normally on, 20px
     color: #00003f; // $darkGray
     text-align: left;
     font-weight: 320;
