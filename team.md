@@ -15,6 +15,8 @@ One of our key initiatives has been the development of [Spectre](https://immuned
 
 # Early and mid-career researchers
 
+<!-- TOM - MARK - FELIX --> 
+
 <table class="table gmisc_table">
   <tbody>
 <!-- FIRST ROW: TITLE --> 
@@ -28,7 +30,7 @@ One of our key initiatives has been the development of [Spectre](https://immuned
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Prof. Nicholas King
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Dr. Felix Marsh-Wakefield
         </div>
       </td>
     </tr>
@@ -41,7 +43,7 @@ One of our key initiatives has been the development of [Spectre](https://immuned
             <img src="https://avatars.githubusercontent.com/u/35902776?s=400&u=d9b68e6896dd4db66362f284e1cd1e7110b74868&v=4" width="3000" style="padding-top: 5px">
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img src="https://www.sydney.edu.au/research/opportunities/images/supervisors/KingN.jpg?1205985788" width="3000" style="padding-top: 5px; padding-left: 30px; padding-right: 30px">
+            <img src="https://ca.slack-edge.com/TLYFBANH2-UM1JA0BC5-69f86dacaa11-512" width="3000" style="padding-top: 5px; padding-left: 30px; padding-right: 30px">
         </td>
       </tr>
 <!-- FOURTH ROW: Description --> 
@@ -51,7 +53,7 @@ One of our key initiatives has been the development of [Spectre](https://immuned
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
 Dr. Mark Read conducts research at the interface of Computer Science and Biomedicine at the University of Sydney.
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top"> Prof. King melds cell biology, virology, embryology and immunology into world-leading expertise in flavivirus-host interactions in mouse and human models, where he has made seminal contributions over 20 years.
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top"> Dr. Felix Marsh-Wakefield is a post-doctoral researcher part of the Liver Injury & Cancer (Centenary Institute) and Human Cancer & Viral Immunology Laboratory (University of Sydney). He is an immunologist interested in investigating the role of various immune cells in a range of diseases, including hepatocellular carcinoma and multiple sclerosis.
           </td>
      </tr>
 <!-- FIFTH ROW: Go to page --> 
@@ -73,7 +75,7 @@ Dr. Mark Read conducts research at the interface of Computer Science and Biomedi
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <a href="https://scholar.google.com/citations?user=Wi2ADOEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                      <a href="http://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">MORE INFO</span></b></a>
                   </p>
               </div>
           </td>
@@ -84,8 +86,75 @@ Dr. Mark Read conducts research at the interface of Computer Science and Biomedi
 
 <br />
 
+<!-- GIVANNA - DIANA - ALANNA --> 
 
+<table class="table gmisc_table">
+  <tbody>
+<!-- FIRST ROW: TITLE --> 
+    <tr style="border-top:1px solid grey">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Givanna Putri
+        </div>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Dr. Diana Shinko
+        </div>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Alanna Spiteri
+        </div>
+      </td>
+    </tr>
+<!-- THIRD ROW: Image --> 
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <img src="https://avatars.githubusercontent.com/u/5366317?s=460&u=ac0322d285310461de6ad2a4b938252b6ea2d948&v=4" width="3000" style="padding-top: 5px">
+      </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://avatars.githubusercontent.com/u/5366317?s=460&u=ac0322d285310461de6ad2a4b938252b6ea2d948&v=4" width="3000" style="padding-top: 5px">
+        </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://avatars.githubusercontent.com/u/5366317?s=460&u=ac0322d285310461de6ad2a4b938252b6ea2d948&v=4" width="3000" style="padding-top: 5px; padding-left: 30px; padding-right: 30px">
+        </td>
+      </tr>
+<!-- FOURTH ROW: Description --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Givanna Putri is a PhD scholar from School of Computer Science at The University of Sydney, supervised by Dr. Mark Read and Prof. Irena Koprinska. She is a member of The Charles Perkins Centre, interested in interdisciplinary research, specifically using machine learning to uncover the development of immune response over time.
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Dr. Diana Shinko is...
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Alanna Spiteri is...
+          </td>
+     </tr>
+<!-- FIFTH ROW: Go to page --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.io/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.io/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.io/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+      </tr>
+    </tbody>
+</table>
+<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
+<br />
 
 <br />
 <br />
