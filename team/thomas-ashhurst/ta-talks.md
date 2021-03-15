@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: Thomas Ashhurst - Talks
+title: Recorded talks
 permalink: /talks/
 ---
 
