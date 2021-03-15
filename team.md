@@ -43,7 +43,7 @@ One of our key initiatives has been the development of [Spectre](https://immuned
             <img height = "200px" align="middle" src="https://avatars.githubusercontent.com/u/35902776?s=400&u=d9b68e6896dd4db66362f284e1cd1e7110b74868&v=4" style="padding-top: 5px">
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img  height = "200px" align="middle" src="https://ca.slack-edge.com/TLYFBANH2-UM1JA0BC5-69f86dacaa11-512" style="padding-top: 5px">
+            <img height = "200px" align="middle" src="https://ca.slack-edge.com/TLYFBANH2-UM1JA0BC5-69f86dacaa11-512" style="padding-top: 5px">
         </td>
       </tr>
 <!-- FOURTH ROW: Description --> 
