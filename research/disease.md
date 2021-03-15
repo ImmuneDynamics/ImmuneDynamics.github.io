@@ -6,10 +6,6 @@ permalink: /research/disease/
 
 ---
 
-## Application to disease ##
-
----
-
 ![COVID](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/COVID%20image%20wide%202.png)
 
 We apply our high-dimensional technologies and analysis approaches to study inflammation and infectious disease. A particular focus has been the study of *immunopathology*, where the immune response to infection may be a significant driver of disease. 
