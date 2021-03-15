@@ -53,7 +53,7 @@ One of our key initiatives has been the development of [Spectre](https://immuned
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
 Dr. Mark Read conducts research at the interface of Computer Science and Biomedicine at the University of Sydney.
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top"> Dr. Felix Marsh-Wakefield is a post-doctoral researcher part of the Liver Injury & Cancer (Centenary Institute) and Human Cancer & Viral Immunology Laboratory (University of Sydney). He is an immunologist interested in investigating the role of various immune cells in a range of diseases, including hepatocellular carcinoma and multiple sclerosis.
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top"> Dr. Felix Marsh-Wakefield is a post-doctoral researcher part of the Liver Injury & Cancer (Centenary Institute) and Human Cancer & Viral Immunology Laboratory (University of Sydney). 
           </td>
      </tr>
 <!-- FIFTH ROW: Go to page --> 
