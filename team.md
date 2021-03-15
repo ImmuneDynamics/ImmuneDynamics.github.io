@@ -13,7 +13,7 @@ One of our key initiatives has been the development of [Spectre](https://immuned
 
 <p> </p>
 
-# Early and mid-career researchers
+## Early and mid-career researchers
 
 <!-- TOM - MARK - FELIX --> 
 
@@ -156,7 +156,7 @@ Dr. Mark Read conducts research at the interface of Computer Science and Biomedi
 
 <p> </p>
 
-# Faculty and directors
+## Faculty and directors
 
 <!-- TOM - MARK - FELIX --> 
 
