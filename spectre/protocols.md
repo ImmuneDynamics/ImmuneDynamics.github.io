@@ -6,8 +6,6 @@ permalink: /spectre/protocols/
 
 ## Data preparation
 
----
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -28,8 +26,6 @@ permalink: /spectre/protocols/
 <p> </p>
 
 ## Core analysis workflows
-
----
 
 <table class="table gmisc_table">
   <tbody>
@@ -100,8 +96,6 @@ permalink: /spectre/protocols/
 <p> </p>
 
 ## Other workflows
-
----
 
 <table class="table gmisc_table">
   <tbody>
@@ -174,8 +168,6 @@ permalink: /spectre/protocols/
 
 ## Specialised analysis areas
 
----
-
 <table class="table gmisc_table">
   <tbody>
 <!-- FIRST ROW: TITLE --> 
@@ -245,8 +237,6 @@ permalink: /spectre/protocols/
 <p> </p>
 
 ## Advanced applications
-
----
 
 These are approaches that are in use within our team, but are still under active development. These are described in our preprint ([Ashhurst\*, Marsh-Wakefield\*, Putri\*, et al. 2020. bioRxiv](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1)). If you are interested in using any of these approaches, please [get in touch](mailto:thomas.ashhurst@sydney.edu.au) with us.
 
