@@ -1,0 +1,13 @@
+---
+layout: post
+title: 2020-08-16 - 'Evaluating spectral cytometry for immune profiling in viral disease' published
+---
+
+![Spectral](https://onlinelibrary.wiley.com/cms/asset/21e66566-4603-4cce-bb24-d180a1ec4a92/cytoa24211-fig-0001-m.jpg)
+
+---
+
+**Evaluating spectral cytometry for immune profiling in viral disease. 2020. P Niewold, TM Ashhurst, AL Smith, NJC King. Cytometry Part A**
+In conventional fluorescence cytometry, each fluorophore present in a panel is measured in a target detector, through the use of wide band‐pass optical filters. In contrast, spectral cytometry uses a large number of detectors with narrow band‐pass filters to measure a fluorophore's signal across the spectrum, creating a more detailed fluorescent signature for each fluorophore. The spectral approach shows promise in adding flexibility to panel design and improving the measurement of fluorescent signal. However, few comparisons between conventional and spectral systems have been reported to date. We therefore sought to compare a modern conventional cytometry system with a modern spectral system, and to assess the quality of resulting datasets from the point of view of a flow cytometry user. Signal intensity, spread, and resolution were compared between the systems. Subsequently, the different methods of separating fluorophore signals were compared, where compensation mathematically separates multiple overlapping fluorophores and unmixing relies on creating a detailed fluorescent signature across the spectrum to separate the fluorophores. Within the spectral data set, signal spread and resolution were comparable between compensation and unmixing. However, for some highly overlapping fluorophores, unmixing resolved the two fluorescence signals where compensation did not. Finally, data from mid‐ to large‐size panels were acquired and were found to have comparable resolution for many fluorophores on both instruments, but reduced levels of spreading error on our spectral system improved signal resolution for a number of fluorophores, compared with our conventional system. Furthermore, autofluorescence extraction on the spectral system allowed for greater population resolution in highly autofluorescent samples. Overall, the implementation of a spectral cytometry approach resulted in data that are comparable to that generated on conventional systems, with a number of potential advantages afforded by the larger number of detectors, and the integration of the spectral unmixing approach. © 2020 International Society for Advancement of Cytometry
+
+**Manuscript**: [Cytometry A](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.24211).
