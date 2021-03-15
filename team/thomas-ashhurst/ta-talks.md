@@ -1,7 +1,7 @@
 ---
 layout: ta
 title: Thomas Ashhurst - Talks
-permalink: /thomas-ashhurst/talks
+permalink: /talks/
 ---
 
 **[Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://youtu.be/poEDERGXrQw?t=3151)**
