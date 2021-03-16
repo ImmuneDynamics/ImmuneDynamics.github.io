@@ -53,7 +53,7 @@ Dr. Ashhurst was awarded a prestigious [ISAC Marylou Ingram Scholarship](https:/
 - Online publication lists can be found on <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="15"> [Google Scholar](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en), 
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ORCID_iD.svg" alt="Logo" width="15"> [ORCID](https://orcid.org/0000-0001-7269-7773), 
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/b5544b7d0236876ce33e51e6c8b5eb3e6ef55e84/custom_SVG/Loop.svg" alt="Logo" width="15"> [Loop](https://loop.frontiersin.org/people/241397), 
-<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/a9738ae6b0e3712363450fd03e97e59690fc40cc/custom_SVG/Scopus_logo.svg" alt="Logo" width="15"> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55432845900), or 
+<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/a9738ae6b0e3712363450fd03e97e59690fc40cc/custom_SVG/Scopus_logo.svg" alt="Logo" width="15"> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55432845900), 
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/cd9d6c3a93fa1dfe723622955b19be00b3729893/custom_SVG/Publons.svg" alt="Logo" width="15"> [Publons](https://publons.com/researcher/3719456/thomas-m-ashhurst/), or [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date). <br/>
 
 **Funding**
