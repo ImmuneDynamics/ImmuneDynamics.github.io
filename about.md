@@ -16,26 +16,45 @@ permalink: /about/
     </div>
 </div>
 
-Dr. Thomas Ashhurst is an immunologist and high-dimensional cytometry specialist with the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au) at [The University of Sydney](https://www.sydney.edu.au/). In this role he provides advanced training and consultation for users of high-dimensional cytometry platforms, and leads a research effort to develop and apply a range of [single-cell cytometry/imaging technologies and assays](https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies), as well as [computational analysis tools](https://tomashhurst.github.io/research/#computational-analysis-approaches), to map dynamic immune responses over time, space, and disease. 
+Dr. Thomas Ashhurst is an immunologist and high-dimensional cytometry specialist with the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au) at [The University of Sydney](https://www.sydney.edu.au/). In this role he provides advanced training and consultation for users of high-dimensional cytometry platforms, and leads a research effort to develop and apply a range of [single-cell cytometry/imaging technologies and assays](https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies), as well as [computational analysis tools](https://tomashhurst.github.io/research/#computational-analysis-approaches), to map dynamic immune responses over time, space, and disease. In particular, he applies these technologies and approaches collaboratively to the study of immunology and infectious disease, including emerging pathogens such as [SARS-CoV-2/COVID-19](https://tomashhurst.github.io/research/#application-to-disease), [Zika virus encephalitis](https://tomashhurst.github.io/research/#application-to-disease), and [West Nile virus encephalitis](https://tomashhurst.github.io/research/#application-to-disease).
 
 ### [**READ MORE**](https://immunedynamics.io/thomas-ashhurst/)
 
 <br />
 
-## Research: Immune Dynamics
+## Mapping Dynamic Immunity
 
 <a href="https://immunedynamics.io/team/">
     <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Team.png?raw=true" alt="team" width="100%" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 10px">
 </a>
 
-As part of this research effort, Dr. Thomas Ashhurst co-leads a multi-disciplinary collaboration of multiple research labs, combining expertise in immunology, infectious disease, high-dimensional single-cell & imaging technologies, computational biology, and data science. 
+As part of this ongoing research effort, Dr. Thomas Ashhurst, along with Dr. Mark Read and Prof. Nicholas King, coordinate the [Immune Dynamics](https://immunedynamics.io/team) 'team', multi-disciplinary collaboration of multiple research labs, combining expertise in immunology, infectious disease, high-dimensional single-cell & imaging technologies, computational biology, and data science. This team draws from the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au/), the [Discipline of Pathology](https://www.sydney.edu.au/medicine-health/schools/school-of-medical-sciences/discipline-of-pathology.html), the [Discipline of Infectious Disease and Immunology](https://www.sydney.edu.au/medicine-health/our-research/school-of-medical-sciences.html), and the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), at the [University of Sydney](https://www.sydney.edu.au/). The team works closely with collaborating labs, and the [Sydney Cytometry Facility](https://sydneycytometry.org.au/), to develop and apply various high-dimensional cytometry and imaging assays, as well as advanced computational analysis approaches, to map dynamic immune responses over time and space in a range of disease settings, including [viral encephalitis](https://immunedynamics.io/research) and [COVID-19](https://immunedynamics.io/research). 
+
+### [**READ MORE**](https://immunedynamics.io/team/)
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 
-the '[Immune Dynamics](https://immunedynamics.io/team)' team, a multi-disciplinary collaboration of multiple research labs, combining expertise in immunology, infectious disease, high-dimensional single-cell & imaging technologies, computational biology, and data science. Dr. Ashhurst and his team apply these technologies and approaches collaboratively to the study of immunology and infectious disease, including emerging pathogens such as [SARS-CoV-2/COVID-19](https://tomashhurst.github.io/research/#application-to-disease), [Zika virus encephalitis](https://tomashhurst.github.io/research/#application-to-disease), and [West Nile virus encephalitis](https://tomashhurst.github.io/research/#application-to-disease).
+The team applies these technologies and approaches collaboratively to the study of immunology and infectious disease, including emerging pathogens such as [SARS-CoV-2/COVID-19](https://tomashhurst.github.io/research/#application-to-disease), [Zika virus encephalitis](https://tomashhurst.github.io/research/#application-to-disease), and [West Nile virus encephalitis](https://tomashhurst.github.io/research/#application-to-disease).
+
+
+co-leads a 
+
+
+
+the '[Immune Dynamics](https://immunedynamics.io/team)' team, a multi-disciplinary collaboration of multiple research labs, combining expertise in immunology, infectious disease, high-dimensional single-cell & imaging technologies, computational biology, and data science. Dr. Ashhurst and his team 
+
+
 
 The ‘[Immune Dynamics](https://immunedynamics.io/team)’ team is a multi-disciplinary collaboration of multiple research labs, combining expertise in immunology, infectious disease, high-dimensional single-cell & imaging technologies, computational biology, and data science. Coordinated by [Dr. Thomas Ashhurst](https://immunedynamics.github.io/thomas-ashhurst/) ([Sydney Cytometry Facility](https://sydneycytometry.org.au), USYD), [Dr. Mark Read](https://immunedynamics.github.io/mark-read/) ([School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), USYD), and [Prof. Nicholas King](https://scholar.google.com/citations?user=Wi2ADOEAAAAJ&hl=en) (School of Medical Sciences, USYD), this team draws from the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au/), the [Discipline of Pathology](https://www.sydney.edu.au/medicine-health/schools/school-of-medical-sciences/discipline-of-pathology.html), the [Discipline of Infectious Disease and Immunology](https://www.sydney.edu.au/medicine-health/our-research/school-of-medical-sciences.html), and the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), at the [University of Sydney](https://www.sydney.edu.au/). Our team works closely with collaborating labs, and the [Sydney Cytometry Facility](https://sydneycytometry.org.au/), to develop and apply various high-dimensional cytometry and imaging assays, as well as advanced computational analysis approaches, to map dynamic immune responses over time and space in a range of disease settings, including [viral encephalitis](https://immunedynamics.io/research) and [COVID-19](https://immunedynamics.io/research). 
 
-### [**READ MORE**](https://immunedynamics.io/team/)
 
 <br />
