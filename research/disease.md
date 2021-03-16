@@ -8,7 +8,9 @@ permalink: /research/disease/
 
 We apply our high-dimensional technologies and analysis approaches to study inflammation and infectious disease. A particular focus has been the study of *immunopathology*, where the immune response to infection may be a significant driver of disease. 
 
-### SARS-CoV-2 and COVID-19
+<br />
+
+## SARS-CoV-2 and COVID-19
 
 ![COVID](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/COVID%20image%20wide%202.png)
 
@@ -19,11 +21,15 @@ The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has ca
 - Our mass cytometry protocols have been cited in a number of COVID-19 studies, including [Rodriguez et al. 2020](https://doi.org/10.1016/j.xcrm.2020.100078) and [Koutsakos et al. 2021](https://doi.org/10.1016/j.xcrm.2021.100208).
 - Panel design and analysis protocols that may be helpful in COVID-19 research can be found on the [resources](https://tomashhurst.github.io/resources) page.
 
-### Zika and West Nile virus encephalitis and immune modulation
+<br />
+
+## Zika and West Nile virus encephalitis and immune modulation
 
 In mouse models of viral encephalitis, our work has demonstrated that inflammatory monocyte-derived macrophages which infiltrate into the brain contribute significantly to disease in [Zika virus](https://www.who.int/news-room/fact-sheets/detail/zika-virus) encephalitis ([Hayashida et al. 2019](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5)) and [West Nile virus](https://www.who.int/news-room/fact-sheets/detail/west-nile-virus) encephalitis ([Getts et al. 2012](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246)), and that *immune-modulatory therapies* targeting inflammatory monocytes may inhibit this process ([Getts et al. 2014](https://stm.sciencemag.org/content/6/219/219ra7.short)). This work was featured on [ABC News](http://www.abc.net.au/science/articles/2014/01/16/3926376.htm) and [The Guardian](http://www.theguardian.com/world/2014/jan/16/heart-attack-damage-can-be-reduced-with-a-simple-injection-say-experts). Our most recent work has demonstrated that viral encephalitis drives an *inflammatory mobilisation of the haematopoietic system* in the bone marrow, resulting in the generation of these pathogenic monocytes ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12), [Ashhurst 2020, Fluidigm webinar](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics)).
 
-### Immunology
+<br />
+
+## Immunology
 
 Through various collaborations, we have applied our approaches in a number of areas, such as IRF8 depletion ([Terry et al. 2015](https://www.karger.com/Article/Abstract/365972)), T cell exhaustion in LCMV infection ([Huber et al. 2017](https://jvi.asm.org/content/91/22/e01219-17.short)), VZV infection of NK cells ([Campbell et al. 2018](https://journals.plos.org/plospathogens/article?rev=1&id=10.1371/journal.ppat.1006999)), antibody-mediated cell subset depletion ([Jung et al. 2018](https://www.jimmunol.org/content/201/7/2176.abstract)), interferon-mediated lethality in LCMV infection ([Jung et al. 2020](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008525&rev=1)), B cell responses in multiple sclerosis ([Marsh-Wakefield et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/cti2.1133)), and intrapulmonary vaccination strategies ([Ferrell et al. 2021](https://doi.org/10.1038/s41385-021-00379-6)).
 
