@@ -63,7 +63,30 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
       </td>
       <td style="padding-left:.75em;width:65%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Spectre protocols and instructions</b></p>
-        <p>Here we provide protocols and instructions for using Spectre for the analysis of cytometry and imaging data.</p>
+        <p>Here we provide protocols and instructions for using Spectre for the analysis of cytometry data.</p>
+          <a href="https://immunedynamics.github.io/spectre/protocols/"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<p> </p>
+
+
+# Spatial analysis
+
+---
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Spatial.png?raw=true" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:65%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b>Spatial (IMC) analysis</b></p>
+        <p>Here we provide protocols and instructions for using Spectre for the spatial analysis of Imaging Mass Cytometry (IMC) data.</p>
           <a href="https://immunedynamics.github.io/spectre/protocols/"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
