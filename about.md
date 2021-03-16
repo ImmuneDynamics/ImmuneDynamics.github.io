@@ -9,7 +9,7 @@ permalink: /team/
 <div class='row'>
     <div class="image">
         <a href="https://immunedynamics.io/thomas-ashhurst/">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" alt="icon" width="190" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 50px">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" alt="icon" width="180" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 10px; padding-bottom: 50px">
         </a>
     </div>
 </div>
