@@ -13,7 +13,7 @@ permalink: /about/
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" alt="icon" width="180" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 10px; padding-bottom: 30px">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" alt="icon" width="180" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px">
         </a>
     </div>
 </div>
