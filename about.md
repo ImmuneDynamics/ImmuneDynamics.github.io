@@ -8,8 +8,7 @@ permalink: /about/
 
 <br />
 
-## Thomas Ashhurst, Ph.D
-<p style="text-align: right;">
+<h2>Thomas Ashhurst, Ph.D</h2><p style="text-align: right;">
 <a href="mailto:thomas.ashhurst@sydney.edu.au"><img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/EmailSVG.svg" alt="Email logo" width="25"></a>
 <a href="https://twitter.com/TomAsh_1"><img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/TwitterSVG.svg" alt="Twitter logo" width="25"></a>
 <a href="https://github.com/tomashhurst"><img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/GithubSVG.svg" alt="Github logo" width="25"></a>
