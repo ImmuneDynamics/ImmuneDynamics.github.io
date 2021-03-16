@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Thomas Ashhurst, Ph.D
+title: About
 permalink: /about/
 ---
+
+<br />
+
+## Thomas Ashhurst, Ph.D
 
 ---
 
@@ -21,7 +25,7 @@ Dr. Thomas Ashhurst is an immunologist and high-dimensional cytometry specialist
 <br />
 <br />
 
-# Immune Dynamics Team
+## Immune Dynamics Team
 
 ---
 
