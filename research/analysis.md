@@ -24,6 +24,12 @@ To facilitate the analysis of time-series data, we have also developed a number 
 
 <br />
 
+## Batch alignment and data integration
+
+TBC
+
+<br />
+
 ## Spatial analysis
 
 Most recently, we have adapted the Spectre package to facilitate spatial analysis of IMC data ([SpectreMAP Github](https://github.com/ImmuneDynamics/SpectreMAP)). Our ongoing work is focused on the development of better data integration approaches and spatial analysis tools.
