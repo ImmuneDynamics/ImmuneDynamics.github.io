@@ -6,6 +6,10 @@ permalink: /team/
 
 ---
 
+The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydney Cytometry Facility](https://sydneycytometry.org.au/) and multiple research and technology labs, combining expertise in immunology, infectious disease, high-dimensional single-cell & imaging technologies, computational biology, and data science. 
+
+<br />
+
 <div class='row'>
     <div class="image">
         <a href="https://immunedynamics.io/thomas-ashhurst/">
