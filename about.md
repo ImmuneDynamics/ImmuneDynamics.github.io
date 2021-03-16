@@ -9,6 +9,15 @@ permalink: /about/
 <br />
 
 ## Thomas Ashhurst, Ph.D
+<p style="text-align: right;">
+<a href="mailto:thomas.ashhurst@sydney.edu.au"><img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/EmailSVG.svg" alt="Email logo" width="25"></a>
+<a href="https://twitter.com/TomAsh_1"><img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/TwitterSVG.svg" alt="Twitter logo" width="25"></a>
+<a href="https://github.com/tomashhurst"><img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/GithubSVG.svg" alt="Github logo" width="25"></a>
+<a href="https://www.linkedin.com/in/thomas-ashhurst/"><img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/LinkedInSVG.svg" alt="LinkedIn logo" width="25"></a>
+<a href="https://www.researchgate.net/profile/Thomas-Ashhurst"><img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ResearchGate_icon_SVG.svg" alt="ResearchGate logo" width="25"></a>
+<a href="https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en"><img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="25"></a>
+<a href="https://orcid.org/0000-0001-7269-7773"><img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ORCID_iD.svg" alt="Logo" width="25"></a>
+</p>
 
 <div class='row'>
     <div class="image">
@@ -19,16 +28,6 @@ permalink: /about/
 </div>
 
 Dr. Thomas Ashhurst is an immunologist and high-dimensional cytometry specialist with the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au) at [The University of Sydney](https://www.sydney.edu.au/). In this role he provides advanced training and consultation for users of high-dimensional cytometry platforms, and leads a research effort to develop and apply a range of [single-cell cytometry/imaging technologies and assays](https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies), as well as [computational analysis tools](https://tomashhurst.github.io/research/#computational-analysis-approaches), to map dynamic immune responses over time, space, and disease. In particular, he applies these approaches collaboratively to the study of immunology and infectious disease, including emerging pathogens such as [SARS-CoV-2/COVID-19](https://tomashhurst.github.io/research/#application-to-disease), [Zika virus encephalitis](https://tomashhurst.github.io/research/#application-to-disease), and [West Nile virus encephalitis](https://tomashhurst.github.io/research/#application-to-disease).
-
-<p style="text-align: left;">
-<a href="mailto:thomas.ashhurst@sydney.edu.au"><img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/EmailSVG.svg" alt="Email logo" width="25"></a>
-<a href="https://twitter.com/TomAsh_1"><img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/TwitterSVG.svg" alt="Twitter logo" width="25"></a>
-<a href="https://github.com/tomashhurst"><img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/GithubSVG.svg" alt="Github logo" width="25"></a>
-<a href="https://www.linkedin.com/in/thomas-ashhurst/"><img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/LinkedInSVG.svg" alt="LinkedIn logo" width="25"></a>
-<a href="https://www.researchgate.net/profile/Thomas-Ashhurst"><img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ResearchGate_icon_SVG.svg" alt="ResearchGate logo" width="25"></a>
-<a href="https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en"><img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="25"></a>
-<a href="https://orcid.org/0000-0001-7269-7773"><img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ORCID_iD.svg" alt="Logo" width="25"></a>
-</p>
 
 ### [**READ MORE**](https://immunedynamics.io/thomas-ashhurst/)
 
