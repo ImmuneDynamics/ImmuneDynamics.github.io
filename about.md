@@ -14,6 +14,8 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
 
 ---
 
+<br />
+
 <div class='row'>
     <div class="image">
         <a href="https://immunedynamics.io/thomas-ashhurst/">
