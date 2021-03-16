@@ -22,7 +22,7 @@ Dr. Thomas Ashhurst is an immunologist and high-dimensional cytometry specialist
 
 <br />
 
-## Mapping Dynamic Immunity
+## Research: Mapping Dynamic Immunity
 
 As part of this ongoing research effort, Dr. Thomas Ashhurst, along with Dr. Mark Read and Prof. Nicholas King, coordinate the [Immune Dynamics](https://immunedynamics.io/team) 'team', multi-disciplinary collaboration of multiple research labs, combining expertise in immunology, infectious disease, high-dimensional single-cell & imaging technologies, computational biology, and data science. This team draws from the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au/), the [Discipline of Pathology](https://www.sydney.edu.au/medicine-health/schools/school-of-medical-sciences/discipline-of-pathology.html), the [Discipline of Infectious Disease and Immunology](https://www.sydney.edu.au/medicine-health/our-research/school-of-medical-sciences.html), and the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), at the [University of Sydney](https://www.sydney.edu.au/). The team works closely with collaborating labs, and the [Sydney Cytometry Facility](https://sydneycytometry.org.au/), to develop and apply various high-dimensional cytometry and imaging assays, as well as advanced computational analysis approaches, to map dynamic immune responses over time and space in a range of disease settings, including [viral encephalitis](https://immunedynamics.io/research) and [COVID-19](https://immunedynamics.io/research). 
 
