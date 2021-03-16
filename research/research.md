@@ -20,11 +20,11 @@ An overview of this work can be found in this **[Oz Single Cell webinar 2020](ht
 
 <div class="box">
   <div class="box">
-    <iframe align="left" class="vidyard_iframe" src="https://www.youtube.com/embed/poEDERGXrQw?start=3151" width="375" height="210" scrolling="no" frameborder="10" margin="10" allowtransparency="true" allowfullscreen></iframe>
+    <iframe align="left" class="vidyard_iframe" src="https://www.youtube.com/embed/poEDERGXrQw?start=3151" width="400" height="210" scrolling="no" frameborder="10" margin="10" allowtransparency="true" allowfullscreen></iframe>
   </div>
 
   <div class="box">
-   <iframe align="right" width="375" height="210" src="//play.vidyard.com/4A9gczgzSZrmMa2q5Tyuvf.html?" frameborder="10" margin="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe align="right" width="400" height="210" src="//play.vidyard.com/4A9gczgzSZrmMa2q5Tyuvf.html?" frameborder="10" margin="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
 
