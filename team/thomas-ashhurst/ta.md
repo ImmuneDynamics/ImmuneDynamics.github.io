@@ -1,13 +1,15 @@
 ---
-layout: ta
-title: Thomas Ashhurst - About
+layout: page
+title: Thomas Ashhurst, Ph.D
 permalink: /thomas-ashhurst/
+---
+
 ---
 
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" alt="icon" width="200" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 5px">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" alt="icon" width="180" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px">
         </a>
     </div>
 </div>
@@ -44,6 +46,49 @@ Dr. Ashhurst was awarded a prestigious [ISAC Marylou Ingram Scholarship](https:/
 - Systems Cytometry & NSW representative, the [Australia and New Zealand Society for Immunology (ASI)](https://www.immunology.org.au/).
 - Member and grantee, the [Marie Bashir Institute for Infectious Diseases and Biosecurity (MBI)](https://www.sydney.edu.au/marie-bashir-institute/).
 - Member and frequent invited speaker with the [Oz Single Cell (OSC)](https://www.singlecells.org.au/) community, the [Australasian Cytometry Society (ASC)](https://cytometry.org.au/), the [Australia and New Zealand Society for Immunology (ASI)](https://www.immunology.org.au/), and the [Human Cell Atlas (HCA)](https://www.humancellatlas.org/) community.
+
+**Publications**
+
+- A list of publications can be found on the [publications](https://tomashhurst.github.io/publications/) page. 
+- Alternatively, online publication lists can be found on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date), <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="15"> [Google Scholar](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en), 
+<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ORCID_iD.svg" alt="Logo" width="15"> [ORCID](https://orcid.org/0000-0001-7269-7773), 
+<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/b5544b7d0236876ce33e51e6c8b5eb3e6ef55e84/custom_SVG/Loop.svg" alt="Logo" width="15"> [Loop](https://loop.frontiersin.org/people/241397), 
+<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/a9738ae6b0e3712363450fd03e97e59690fc40cc/custom_SVG/Scopus_logo.svg" alt="Logo" width="15"> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55432845900), or 
+<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/cd9d6c3a93fa1dfe723622955b19be00b3729893/custom_SVG/Publons.svg" alt="Logo" width="15"> [Publons](https://publons.com/researcher/3719456/thomas-m-ashhurst/). <br/>
+
+**Funding**
+
+*Scholarships and fellowships*
+
+- The [International Society for the Advancement of Cytometry](https://isac-net.org/) (ISAC): [Marylou Ingram Scholarship](https://isac-net.org/page/Marylou-Ingram-Scholars) (2017).
+- [Sydney Medical School](https://www.sydney.edu.au/medicine-health/schools/sydney-medical-school.html) travelling fellowship: visiting researcher at [Stanford University](https://www.stanford.edu/) (2014).
+
+*Co-investigator*
+
+- [Sydney Catalyst](https://sydneycatalyst.org.au/): Cardiovascular initiative catalyst awards for seed funding in bioengineering and digital science (2020).
+- [Marie Bashir Institute for Infectious Diseases and Biosecurity (MBI)](https://www.sydney.edu.au/marie-bashir-institute/): Strategic multidisciplinary funding call (2017).
+
+*Associate investigator*
+
+- [National Health and Medical Research Council (NHMRC)](https://www.nhmrc.gov.au/): Ideas Grants (2021).
+- [Medical Research Future Fund](https://www.health.gov.au/initiatives-and-programs/medical-research-future-fund): 2020 Respiratory Medicine Clinical Trials on COVID 19 (2020).
+
+**Selected awards**
+
+- ISAC Exceptional Student Award (2017)
+- CYTO travel awards (2014 - 2019)
+- ACS travel awards (2012, 2019)
+- ICI travel award (2016)
+- Outstanding poster/talk awards (CYTO 2013, ACS 2014, ASI 2015)
+- Australian Postgraduate Award (2012)
+- Australian Defence Force Academy (ADFA) Education award (2005)
+
+**Community**
+
+- [ISAC Marylou Ingram Scholar](https://isac-net.org/page/Marylou-Ingram-Scholars) with the [International Society for the Advancement of Cytometry (ISAC)](https://isac-net.org/).
+- 'Systems Cytometry' & NSW representative of the [Systems Immunology special interest group (SIG)](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/) of the [Australian and New Zealand Society of Immunology](https://www.immunology.org.au/).
+- Actively involved in a number of socities that span immunology and cytometry. More information can be found on the [community](https://tomashhurst.github.io/community/) page.
+- Provided peer review for [Nature Communications](https://www.nature.com/ncomms/), [Cytometry A](https://onlinelibrary.wiley.com/journal/15524930), [Cytometry B](https://onlinelibrary.wiley.com/journal/15524957), [Bioinformatics](https://academic.oup.com/bioinformatics), and [Briefings in Bioinformatics](https://academic.oup.com/bib).
 
 **Sites**
 
