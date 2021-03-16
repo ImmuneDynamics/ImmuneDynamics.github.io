@@ -36,8 +36,6 @@ As part of this ongoing research effort, Dr. Thomas Ashhurst, along with Dr. Mar
 
 ### Team members:
 
----
-
 <div class='row'>
     <div class="image">
         <a href="https://immunedynamics.github.io/mark-read/">
@@ -86,11 +84,6 @@ As part of this ongoing research effort, Dr. Thomas Ashhurst, along with Dr. Mar
 **Alanna?**
 
 **Jonathan Chung**
-
-
-# Faculty, directors
-
----
 
 <div class='row'>
     <div class="image">
