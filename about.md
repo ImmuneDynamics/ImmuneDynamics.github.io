@@ -11,7 +11,7 @@ permalink: /about/
 <div class='row'>
     <div class="image">
         <a href="https://immunedynamics.io/thomas-ashhurst/">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" alt="icon" width="190" align="left" style="padding-left: 10px; padding-right: 10px; padding-top: 0px; padding-bottom: 10px">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" alt="icon" width="190" align="right" style="padding-left: 10px; padding-right: 10px; padding-top: 0px; padding-bottom: 10px">
         </a>
     </div>
 </div>
