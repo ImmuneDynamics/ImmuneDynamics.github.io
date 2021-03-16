@@ -34,6 +34,8 @@ As part of this ongoing research effort, Dr. Thomas Ashhurst, along with Dr. Mar
 
 <br />
 
+### Team members:
+
 ---
 
 <div class='row'>
