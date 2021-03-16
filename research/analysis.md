@@ -6,13 +6,13 @@ permalink: /research/analysis/
 
 ---
 
-![Comp](https://wiki.centenary.org.au/download/attachments/146080606/Screen%20Shot%202020-10-22%20at%2012.25.13%20pm.png?version=1&modificationDate=1603369521998&api=v2)
-
 Following a seed funding grant from the [Marie Bashir Institute for Infectious Diseases and Biosecurity](https://www.sydney.edu.au/marie-bashir-institute/) (*"Mapping dynamic immunity: next-generation computational approaches to track the evolution of immune responses in West Nile virus and Zika virus encephalitis"*), we established the ‘[Immune Dynamics](https://github.com/ImmuneDynamics)’ team, a collaborative group with a focus on the development of novel computational analysis tools to address challenges in high-dimensional analysis.
 
 <br />
 
 ## Computational analysis of cytometry data
+
+![Comp](https://wiki.centenary.org.au/download/attachments/146080606/Screen%20Shot%202020-10-22%20at%2012.25.13%20pm.png?version=1&modificationDate=1603369521998&api=v2)
 
 My team and I have developed a number of computational analysis approaches, including [SPECTRE](https://wiki.centenary.org.au/display/SPECTRE), an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments ([Ashhurst\*,  Marsh-Wakefield\*, Putri\* et al. bioRxiv. 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)). 
 
