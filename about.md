@@ -6,8 +6,6 @@ permalink: /team/
 
 ---
 
-<br />
-
 <div class='row'>
     <div class="image">
         <a href="https://immunedynamics.io/thomas-ashhurst/">
