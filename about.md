@@ -8,13 +8,9 @@ permalink: /team/
 
 The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydney Cytometry Facility](https://sydneycytometry.org.au/) and multiple research and technology labs, combining expertise in immunology, infectious disease, high-dimensional single-cell & imaging technologies, computational biology, and data science. 
 
-<div class='row'>
-    <div class="image">
-        <a href="https://immunedynamics.github.io/thomas-ashhurst/">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" alt="icon" width="180" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 5px">
-        </a>
-    </div>
-</div>
+<a href="https://immunedynamics.io/team/">
+    <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Team.png?raw=true" alt="team" width="100%" style="padding-left: 70px; padding-right: 70px; padding-top: 30px; padding-bottom: 30px">
+</a>
 
 ---
 
@@ -108,9 +104,6 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
 <br />
 <br />
 
-<a href="https://immunedynamics.io/team/">
-    <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Team.png?raw=true" alt="team" width="100%" style="padding-left: 70px; padding-right: 70px; padding-top: 30px; padding-bottom: 30px">
-</a>
 
 <br />
 <br />
