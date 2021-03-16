@@ -34,7 +34,7 @@ Dr. Thomas Ashhurst, Dr. Mark Read and Prof. Nicholas King, co-lead the [Immune 
 
 <br />
 
-### Collaborative members:
+### Collaborating team members:
 
 <div class='row'>
     <div class="image">
