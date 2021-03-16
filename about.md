@@ -22,7 +22,7 @@ Dr. Thomas Ashhurst is an immunologist and high-dimensional cytometry specialist
 
 <br />
 
-## Research: Mapping Dynamic Immunity
+## The 'Immune Dynamics' team
 
 <a href="https://immunedynamics.io/team/">
     <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Team.png?raw=true" alt="team" width="100%" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 10px">
