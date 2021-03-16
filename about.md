@@ -22,20 +22,6 @@ Dr. Thomas Ashhurst is an immunologist and high-dimensional cytometry specialist
 
 <br />
 
-## The 'Immune Dynamics' team
-
-<a href="https://immunedynamics.io/team/">
-    <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Team.png?raw=true" alt="team" width="100%" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 10px">
-</a>
-
-Dr. Thomas Ashhurst, Dr. Mark Read and Prof. Nicholas King, co-lead the [Immune Dynamics](https://immunedynamics.io/team) 'team', multi-disciplinary collaboration of multiple research labs, and the Sydney Cytometry Facility, combining expertise in immunology, infectious disease, high-dimensional single-cell & imaging technologies, computational biology, and data science. This team draws from the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au/), the [Discipline of Pathology](https://www.sydney.edu.au/medicine-health/schools/school-of-medical-sciences/discipline-of-pathology.html), the [Discipline of Infectious Disease and Immunology](https://www.sydney.edu.au/medicine-health/our-research/school-of-medical-sciences.html), and the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), at the [University of Sydney](https://www.sydney.edu.au/). The team works closely with the [Sydney Cytometry Facility](https://sydneycytometry.org.au/), to develop and apply various high-dimensional cytometry and imaging assays, as well as advanced computational analysis approaches, to address challenges in modern single-cell and imaging sciences. The team then applies these approaches with collaborating labs to map dynamic immune responses over time and space in a range of disease setting. 
-
-### [**READ MORE**](https://immunedynamics.io/team/)
-
-<br />
-
-### Members:
-
 <div class='row'>
     <div class="image">
         <a href="https://immunedynamics.github.io/mark-read/">
