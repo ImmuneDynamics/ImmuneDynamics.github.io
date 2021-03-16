@@ -6,8 +6,6 @@ permalink: /about/
 
 ---
 
-<br />
-
 ## Thomas Ashhurst, Ph.D
 
 <div class='row'>
