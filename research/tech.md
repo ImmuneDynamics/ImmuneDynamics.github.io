@@ -6,8 +6,6 @@ permalink: /research/tech/
 
 ---
 
-![HD](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/HDtech3.png)
-
 Critical to investigating complex immune responses to disease is the capacity to measure cells at the single-cell level, examining multiple features of the cell simultaneously. To address this, we develop and apply a variety of high-dimensional cytometry technologies and assays. 
 
 <br />
