@@ -6,10 +6,6 @@ permalink: /team/
 
 ---
 
-<a href="https://immunedynamics.io/team/">
-    <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Team.png?raw=true" alt="team" width="100%" style="padding-left: 70px; padding-right: 70px; padding-top: 30px; padding-bottom: 30px">
-</a>
-
 <br />
 
 <div class='row'>
@@ -101,6 +97,11 @@ permalink: /team/
 <br />
 <br />
 <br />
+
+<a href="https://immunedynamics.io/team/">
+    <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Team.png?raw=true" alt="team" width="100%" style="padding-left: 70px; padding-right: 70px; padding-top: 30px; padding-bottom: 30px">
+</a>
+
 <br />
 <br />
 <br />
