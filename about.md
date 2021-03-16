@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
---
+---
 
 <br />
 
@@ -23,7 +23,6 @@ Dr. Thomas Ashhurst is an immunologist and high-dimensional cytometry specialist
 [**READ MORE**](https://immunedynamics.io/thomas-ashhurst/)
 
 <br />
-<br />
 
 ## Immune Dynamics Team
 
@@ -31,5 +30,4 @@ The ‘[Immune Dynamics](https://immunedynamics.io/team)’ team is a multi-disc
 
 [**READ MORE**](https://immunedynamics.io/team/)
 
-<br />
 <br />
