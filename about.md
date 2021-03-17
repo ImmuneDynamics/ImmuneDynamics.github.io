@@ -8,11 +8,17 @@ permalink: /team/
 
 The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydney Cytometry Facility](https://sydneycytometry.org.au/) and multiple research and technology labs, combining expertise in immunology, infectious disease, high-dimensional single-cell & imaging technologies, computational biology, and data science. Led/coordinated by Dr. Thomas Ashhurst, Dr. Mark Read, and Prof. Nicholas King, this team draws from SCF, PATHOLOGY, IDI, and SCS at USYD.
 
-<a href="https://immunedynamics.io/team/">
-    <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Team.png?raw=true" alt="team" width="100%" style="padding-left: 70px; padding-right: 70px; padding-top: 30px; padding-bottom: 30px">
-</a>
-
 ---
+
+<br />
+
+<div class='row'>
+    <div class="image">
+        <a href="https://immunedynamics.io/thomas-ashhurst/">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" alt="icon" width="180" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 50px">
+        </a>
+    </div>
+</div>
 
 [**Dr. Thomas Ashhurst**](https://immunedynamics.io/thomas-ashhurst/) is an immunologist and high-dimensional cytometry specialist with the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au) at [The University of Sydney](https://www.sydney.edu.au/). In this role he provides advanced training and consultation for users of high-dimensional cytometry platforms, and leads a research effort to develop and apply a range of [single-cell cytometry/imaging technologies and assays](https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies), as well as [computational analysis tools](https://tomashhurst.github.io/research/#computational-analysis-approaches), to map dynamic immune responses over time, space, and disease. In particular, he applies these technologies and approaches collaboratively to the study of immunology and infectious disease, including emerging pathogens such as [SARS-CoV-2/COVID-19](https://tomashhurst.github.io/research/#application-to-disease), [Zika virus encephalitis](https://tomashhurst.github.io/research/#application-to-disease), and [West Nile virus encephalitis](https://tomashhurst.github.io/research/#application-to-disease). 
 
