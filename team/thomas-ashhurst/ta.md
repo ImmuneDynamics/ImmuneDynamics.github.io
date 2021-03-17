@@ -44,33 +44,6 @@ Dr. Ashhurst was awarded a prestigious [ISAC Marylou Ingram Scholarship](https:/
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/a9738ae6b0e3712363450fd03e97e59690fc40cc/custom_SVG/Scopus_logo.svg" alt="Logo" width="15"> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55432845900), 
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/cd9d6c3a93fa1dfe723622955b19be00b3729893/custom_SVG/Publons.svg" alt="Logo" width="15"> [Publons](https://publons.com/researcher/3719456/thomas-m-ashhurst/), or [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date). <br/>
 
-**Funding**
-
-*Scholarships and fellowships*
-
-- The [International Society for the Advancement of Cytometry](https://isac-net.org/) (ISAC): [Marylou Ingram Scholarship](https://isac-net.org/page/Marylou-Ingram-Scholars) (2017).
-- [Sydney Medical School](https://www.sydney.edu.au/medicine-health/schools/sydney-medical-school.html) travelling fellowship: visiting researcher at [Stanford University](https://www.stanford.edu/) (2014).
-
-*Co-investigator*
-
-- [Sydney Catalyst](https://sydneycatalyst.org.au/): Cardiovascular initiative catalyst awards for seed funding in bioengineering and digital science (2020).
-- [Marie Bashir Institute for Infectious Diseases and Biosecurity (MBI)](https://www.sydney.edu.au/marie-bashir-institute/): Strategic multidisciplinary funding call (2017).
-
-*Associate investigator*
-
-- [National Health and Medical Research Council (NHMRC)](https://www.nhmrc.gov.au/): Ideas Grants (2021).
-- [Medical Research Future Fund](https://www.health.gov.au/initiatives-and-programs/medical-research-future-fund): 2020 Respiratory Medicine Clinical Trials on COVID 19 (2020).
-
-**Selected awards**
-
-- ISAC Exceptional Student Award (2017)
-- CYTO travel awards (2014 - 2019)
-- ACS travel awards (2012, 2019)
-- ICI travel award (2016)
-- Outstanding poster/talk awards (CYTO 2013, ACS 2014, ASI 2015)
-- Australian Postgraduate Award (2012)
-- Australian Defence Force Academy (ADFA) Education award (2005)
-
 **Societies and communities**
 
 More information on society and community activity can be found on the [community](https://immunedynamics.io/community/) page.
