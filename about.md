@@ -43,7 +43,7 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
             <img height = "200px" src="https://ca.slack-edge.com/TLYFBANH2-UM1JA0BC5-69f86dacaa11-512" style="padding-top: 5px">
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;vertical-align:top">
-            <img height = "200px" src="https://scholar.google.com/citations?user=S-sNLPIAAAAJ&hl=en" style="padding-top: 5px">
+            <img height = "200px" src="https://avatars.githubusercontent.com/u/5366317?s=460&u=ac0322d285310461de6ad2a4b938252b6ea2d948&v=4" style="padding-top: 5px">
         </td>
       </tr>
 <!-- FOURTH ROW: Description --> 
