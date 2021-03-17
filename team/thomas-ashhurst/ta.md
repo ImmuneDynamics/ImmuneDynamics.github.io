@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: ta
 title: Thomas Ashhurst - Profile
 permalink: /thomas-ashhurst/
 ---
