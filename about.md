@@ -8,6 +8,99 @@ permalink: /team/
 
 The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydney Cytometry Facility](https://sydneycytometry.org.au/) and multiple research and technology labs, combining expertise in immunology, infectious disease, high-dimensional single-cell & imaging technologies, computational biology, and data science. Led/coordinated by Dr. Thomas Ashhurst, Dr. Mark Read, and Prof. Nicholas King, this team draws from SCF, PATHOLOGY, IDI, and SCS at USYD.
 
+<!-- TOM - MARK - FELIX --> 
+
+<table class="table gmisc_table">
+  <tbody>
+<!-- FIRST ROW: TITLE --> 
+    <tr style="border-top:1px solid grey">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Dr. Thomas Ashhurst
+        </div>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Dr. Mark Read
+        </div>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Dr. Felix Marsh-Wakefield
+        </div>
+      </td>
+    </tr>
+<!-- THIRD ROW: Image --> 
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;vertical-align:top">
+          <img height = "200px" src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" style="padding-top: 5px">
+      </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;vertical-align:top">
+            <img height = "200px" src="https://avatars.githubusercontent.com/u/35902776?s=400&u=d9b68e6896dd4db66362f284e1cd1e7110b74868&v=4" style="padding-top: 5px">
+        </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;vertical-align:top">
+            <img height = "200px" src="https://ca.slack-edge.com/TLYFBANH2-UM1JA0BC5-69f86dacaa11-512" style="padding-top: 5px">
+        </td>
+      </tr>
+<!-- FOURTH ROW: Description --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Dr. Thomas Ashhurst is an immunologist and high-dimensional cytometry specialist with the Sydney Cytometry Core Research Facility at The University of Sydney. 
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+Dr. Mark Read conducts research at the interface of Computer Science and Biomedicine at the University of Sydney.
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top"> Dr. Felix Marsh-Wakefield is a post-doctoral researcher part of the Liver Injury & Cancer (Centenary Institute) and Human Cancer & Viral Immunology Laboratory (University of Sydney). 
+          </td>
+     </tr>
+<!-- FIFTH ROW: Go to page --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.github.io/thomas-ashhurst/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.github.io/mark-read/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="http://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+      </tr>
+    </tbody>
+</table>
+<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br />
 
 <div class='row'>
