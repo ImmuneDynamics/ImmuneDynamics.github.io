@@ -17,19 +17,32 @@ Below = areas of research, development, and application. Can find the research i
 
 ## Computational analysis and data integration 
 
+Development
 - Spectre for computational analysis
 - Batch alignment/integration
+- Paretobench and DR dev
+- ICB paper example
+
+Application
 — examples in WNV/ZIKV/COVID etc
 
 ## Time-series analysis
 
+Development
 - ChronoClust
 - TrackSOM
+
+Application
 — examples in COVID etc
 
 ## Spatial analysis of high-dimensional imaging data
 
 — examples in TBC
+
+## Community activities
+
+- Roadshow examples
+- Workshops
 
 <br />
 <br />
