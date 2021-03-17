@@ -1,7 +1,7 @@
 ---
-layout: resource
+layout: ta
 title: Recorded talks
-permalink: /talks/
+permalink: /thomas-ashhurst/talks/
 ---
 
 ---
