@@ -11,17 +11,22 @@ permalink: /research2/
 
 ## Development of high-dimensional cytometry and spatial technologies
 
+- Flow, CyTOF, IMC, spectral, scRNAseq
 — examples of the CyTOF/spectral/flow dev papers
 
-## Data analysis and integration 
+## Computational analysis and data integration 
 
-— examples in WNV/ZIKV/COVID
+- Spectre for computational analysis
+- Batch alignment/integration
+— examples in WNV/ZIKV/COVID etc
 
-## Time-series 
+## Time-series analysis
 
+- ChronoClust
+- TrackSOM
 — examples in COVID etc
 
-## Spatial analysis
+## Spatial analysis of high-dimensional imaging data
 
 — examples in TBC
 
