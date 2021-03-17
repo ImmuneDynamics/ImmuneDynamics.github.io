@@ -8,6 +8,7 @@ permalink: /research2/
 
 **Overview**: beginning in the laboratory of [Prof. Nicholas King]() (Pathology, USYD), and now continuing within the [Sydney Cytometry Facility]() (USYD) and the multi-disciplinary [Immune Dynamics](https://immunedynamics.io/team/) team, our work involves the development and application of a range of [high-dimensional single-cell cytometry/imaging technologies and assays](https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies), as well as [computational analysis approaches](https://tomashhurst.github.io/research/#computational-analysis-approaches), to map dynamic immune responses over time, space, and disease. We collaboratively apply these approaches to the study of immunology and infectious disease, including emerging pathogens such as [SARS-CoV-2 and COVID-19](https://tomashhurst.github.io/research/#application-to-disease), [Zika virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis, and [West Nile virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis. We then explore how these datasets, technologies, and analysis methdologies may contribute to, or benefit from, efforts such as the [Human Cell Atlas (HCA)](http://humancellatlas.org/).
 
+Below = research and development themes. Can find the research interests of our individual members via the 'Team' page.
 
 ## Development of high-dimensional cytometry and spatial technologies
 
