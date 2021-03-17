@@ -6,7 +6,7 @@ permalink: /team/
 
 ---
 
-The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydney Cytometry Facility](https://sydneycytometry.org.au/) and multiple research and technology labs, combining expertise in immunology, infectious disease, high-dimensional single-cell & imaging technologies, computational biology, and data science. 
+The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydney Cytometry Facility](https://sydneycytometry.org.au/) and multiple research and technology labs, combining expertise in immunology, infectious disease, high-dimensional single-cell & imaging technologies, computational biology, and data science. Coordinated by Dr. Thomas Ashhurst, Dr. Mark Read, and Prof. Nicholas King, this team draws from SCF, PATHOLOGY, IDI, and SCS at USYD.
 
 <a href="https://immunedynamics.io/team/">
     <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Team.png?raw=true" alt="team" width="100%" style="padding-left: 70px; padding-right: 70px; padding-top: 30px; padding-bottom: 30px">
