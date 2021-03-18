@@ -8,7 +8,7 @@ permalink: /team/
 
 The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydney Cytometry Facility](https://sydneycytometry.org.au/) and multiple research and technology labs, combining expertise in immunology, infectious disease, high-dimensional single-cell & imaging technologies, computational biology, and data science. Led by [Dr. Thomas Ashhurst](https://immunedynamics.github.io/thomas-ashhurst/) and [Dr. Mark Read](https://marknormanread.github.io/), this team draws from SCF, PATHOLOGY, IDI, and SCS at USYD.
 
-<!-- TOM - MARK - FELIX --> 
+<!-- TOM - MARK - FELIX - GIVANNA --> 
 
 <table class="table gmisc_table">
   <tbody>
@@ -100,9 +100,96 @@ Dr. Mark Read conducts research at the interface of Computer Science and Biomedi
 <br />
 <br />
 
+<!-- DIANA - ALANNA - ADRIAN - NICK --> 
 
+<table class="table gmisc_table">
+  <tbody>
+<!-- FIRST ROW: TITLE --> 
+    <tr style="border-top:1px solid grey">
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">D.S
+        </div>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">A.Sp
+        </div>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">A.Sm
+        </div>
+      </td>
+            <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Prof. Nicholas King
+        </div>
+      </td>
+    </tr>
+<!-- THIRD ROW: Image --> 
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;vertical-align:top">
+          <img height = "200px" src="" style="padding-top: 5px">
+      </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;vertical-align:top">
+            <img height = "200px" src="" style="padding-top: 5px">
+        </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;vertical-align:top">
+            <img height = "200px" src="" style="padding-top: 5px">
+        </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;vertical-align:top">
+            <img height = "200px" src="" style="padding-top: 5px">
+        </td>
+      </tr>
+<!-- FOURTH ROW: Description --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">TBC
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">TBC
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">TBC 
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">TBC
+          </td>
+     </tr>
+<!-- FIFTH ROW: Go to page --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.github.io/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.github.io/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.github.io/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.github.io/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                  </p>
+              </div>
+          </td>
+      </tr>
+    </tbody>
+</table>
+<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 
