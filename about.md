@@ -94,11 +94,6 @@ Dr. Mark Read conducts research at the interface of Computer Science and Biomedi
 <p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 <!-- DIANA - ALANNA - ADRIAN - NICK --> 
 
