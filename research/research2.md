@@ -12,8 +12,13 @@ Below = areas of research, development, and application. Can find the research i
 
 ## Development of high-dimensional cytometry and spatial technologies
 
-- Flow, CyTOF, IMC, spectral, scRNAseq
-— examples of the CyTOF/spectral/flow dev papers
+![Tech](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/HDtech3.png)
+
+Critical to investigating complex immune responses to disease is the capacity to measure cells at the single-cell level, examining multiple features of the cell simultaneously. To address this, we develop and apply a variety of high-dimensional cytometry technologies and assays. We have developed novel technology platforms, such as our world first 10-laser ‘LSR-X’ platform developed with BD, and one of the first published 25 colour flow cytometry assays (Ashhurst et al. 2017). We also developed the first assays to be used on Australia’s first mass cytometer (CyTOF) (Ashhurst et al. 2019), as well as Australia’s first Imaging Mass Cytometer (IMC, SpectreMAP Github). We have recently published a book (HM McGuire, TM Ashhurst (eds). 2019), featuring a collecting of up-to-date and cutting-edge protocols in mass cytometry, which is now a standard resource in the field. Most recently, we have implemented high-dimensional spectral cytometry platforms and panels, and performed comprehensive evaluations of both conventional and spectral cytometry (Niewold*, Ashhurst* et al. 2020).
+
+ADD SCRNASEQ.
+
+<br />
 
 ## Computational analysis and data integration 
 
@@ -37,6 +42,9 @@ Application
 
 ## Spatial analysis of high-dimensional imaging data
 
+- Spatial analysis platform --> integrated with Spectre
+- Improved cell segmentation workflows
+- Spatial statistics and neighbourhood analysis
 — examples in TBC
 
 ## Community activities
