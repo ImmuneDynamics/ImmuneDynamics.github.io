@@ -10,6 +10,23 @@ permalink: /research2/
 
 Below = areas of research, development, and application. Can find the research interests of our individual members via the 'Team' page.
 
+
+## Development of high-dimensional cytometry and spatial technologies
+- 
+
+## Computational analysis and data integration
+A major focus of our group is the development of computational analysis solutions for high-dimensional cytometry data.
+
+## Time-series analysis
+- 
+
+## Spatial analysis of high-dimensional imaging data
+- 
+
+
+
+
+
 ## Development of high-dimensional cytometry and spatial technologies
 
 ![Tech](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/HDtech3.png)
