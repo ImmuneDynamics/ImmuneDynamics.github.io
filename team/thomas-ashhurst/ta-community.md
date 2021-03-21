@@ -18,10 +18,10 @@ A selection of activities highlights are described below.
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
           <img src="https://isac-net.org/graphics/isac-logo.png" width="3000" style="padding-top: 10px">
       </td>
-      <td style="padding-left:.75em;width:65%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;width:65%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b>ISAC scholarship (+CYTO etc)</b></p>
         <p>Placeholder text.</p>
         <p>Placeholder text.</p>
