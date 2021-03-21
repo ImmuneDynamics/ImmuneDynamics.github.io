@@ -100,8 +100,7 @@ A selection highlights are described below.
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b>Oz Single Cell</b></p>
         <p>Placeholder text.</p>
-        <p>Placeholder text.</p>
-        <p>Placeholder text.</p>
+        <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Thrilled to announce our preprint is out on bioRxiv: <a href="https://t.co/YebSZu94Yq">https://t.co/YebSZu94Yq</a>. Here we present Spectre, an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments. <a href="https://t.co/l1crJst3lO">https://t.co/l1crJst3lO</a> <a href="https://t.co/hcs2rZd8Lk">https://t.co/hcs2rZd8Lk</a> <a href="https://t.co/IX4sa9K9Jf">pic.twitter.com/IX4sa9K9Jf</a></p>&mdash; Dr Thomas Ashhurst (@TomAsh_1) <a href="https://twitter.com/TomAsh_1/status/1320551790199275520?ref_src=twsrc%5Etfw">October 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <a href="https://wiki.centenary.org.au/pages/viewpage.action?pageId=150442594" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
