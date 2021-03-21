@@ -10,9 +10,15 @@ I am a current [ISAC Marylou Ingram Scholar](https://isac-net.org/page/Marylou-I
 
 ---
 
+**ISAC**
+
+I am a current [ISAC Marylou Ingram Scholar](https://isac-net.org/page/Marylou-Ingram-Scholars) with the [International Society for the Advancement of Cytometry (ISAC)](https://isac-net.org/). More about program. Also involved in CYTO -- regular presenter, program committee, and invited speaker at a number of Fluidigm CyTOF or IMC events during, or associated with, CYTO.
+
+---
+
 ![Roadshows](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Homeshow%20wide%20thin.png)
 
-We have also engaged in a number of community-focused educational endeavours, such as the ACS roadshows in 2016 (**Polychromatic Flow Cytometry**; Dr. Pratip Chattopadhyay and [Thomas Ashhurst](tomashhurst.github.io)) and in 2020 (**[High-dimensional analysis](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/)**; [Dr. Thomas Ashhurst](tomashhurst.github.io), [Dr. Felix Marsh-Wakefield](https://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en), and [Givanna Putri](https://scholar.google.com/citations?user=S-sNLPIAAAAJ&hl=en)).
+I have been engaged in a number of community-focused educational endeavours, such as the ACS roadshows in 2016 (**Polychromatic Flow Cytometry**; Dr. Pratip Chattopadhyay and [Thomas Ashhurst](tomashhurst.github.io)) and in 2020 (**[High-dimensional analysis](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/)**; [Dr. Thomas Ashhurst](tomashhurst.github.io), [Dr. Felix Marsh-Wakefield](https://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en), and [Givanna Putri](https://scholar.google.com/citations?user=S-sNLPIAAAAJ&hl=en)).
 
 - Embed tweet?
 - Embed photos of tour
