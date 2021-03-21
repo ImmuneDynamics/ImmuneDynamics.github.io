@@ -19,7 +19,7 @@ A selection of activities highlights are described below.
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:20%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-          <img src="https://isac-net.org/graphics/isac-logo.png" width="3000" style="padding-top: 10px">
+          <img src="https://isac-net.org/graphics/isac-logo.png" width="3000" style="padding-top: 30px">
       </td>
       <td style="padding-left:.75em;width:80%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b>ISAC scholarship (+CYTO etc)</b></p>
