@@ -22,12 +22,11 @@ A selection highlights are described below.
           <img src="https://isac-net.org/graphics/isac-logo.png" width="3000" style="padding-top: 30px">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-        <p><b>ISAC scholarship (+CYTO etc)</b></p>
-        <p>Placeholder text.</p>
-        <p>Placeholder text.</p>
-        <p>Placeholder text.</p>
-        <a href="https://wiki.centenary.org.au/pages/viewpage.action?pageId=150442594" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
-          <p> </p>
+        <p><b>ISAC Marylou Ingram Scholars program</b></p>
+        <p>In 2017 I was awarded a prestigious Marylou Ingram Scholarship by the International Society for the Advancement of Cytometry (ISAC). This award recognises.... 
+        <p><b>Involvement in CYTO, ISAC's annual meeting</b></p>
+        <p>more stuff about involvement with CYTO -- regular presenter, workshops, and program committee</p>
+        <p> </p>
       </td>
       </tr>
     </tbody>
