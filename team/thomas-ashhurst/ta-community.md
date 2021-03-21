@@ -23,7 +23,7 @@ A selection highlights are described below.
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b>ISAC Marylou Ingram Scholars program</b></p>
-        <p>In 2017 I was awarded a prestigious Marylou Ingram Scholarship by the International Society for the Advancement of Cytometry (ISAC). This award recognises.... 
+        <p>In 2017 I was awarded a prestigious Marylou Ingram Scholarship by the International Society for the Advancement of Cytometry (ISAC). This award recognises....</p>
         <p><b>Involvement in CYTO, ISAC's annual meeting</b></p>
         <p>more stuff about involvement with CYTO -- regular presenter, workshops, and program committee</p>
         <p> </p>
