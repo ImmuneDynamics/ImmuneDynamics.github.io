@@ -18,10 +18,10 @@ A selection highlights are described below.
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
           <img src="https://isac-net.org/graphics/isac-logo.png" width="3000" style="padding-top: 30px">
       </td>
-      <td style="padding-left:.75em;width:70%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b>ISAC scholarship (+CYTO etc)</b></p>
         <p>Placeholder text.</p>
         <p>Placeholder text.</p>
@@ -38,10 +38,10 @@ A selection highlights are described below.
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
           <img src="https://cytometry.org.au/wp-content/uploads/2018/05/cropped-169572_medium.jpg" width="3000" style="padding-top: 30px">
       </td>
-      <td style="padding-left:.75em;width:70%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b>ACS Roadshows</b></p>
         <p>I have been engaged in a number of community-focused educational endeavours, such as the ACS roadshows in 2016 (**Polychromatic Flow Cytometry**; Dr. Pratip Chattopadhyay and [Thomas Ashhurst](tomashhurst.github.io)) and in 2020 (**[High-dimensional analysis](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/)**; [Dr. Thomas Ashhurst](tomashhurst.github.io), [Dr. Felix Marsh-Wakefield](https://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en), and [Givanna Putri](https://scholar.google.com/citations?user=S-sNLPIAAAAJ&hl=en)).</p>
         <a href="https://wiki.centenary.org.au/pages/viewpage.action?pageId=150442594" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
@@ -56,10 +56,10 @@ A selection highlights are described below.
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
           <img src="https://lifeboat.com/blog.images/logo.human-cell-atlas2.jpg" width="3000" style="padding-top: 30px">
       </td>
-      <td style="padding-left:.75em;width:70%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b>Human Cell Atlas</b></p>
         <p>I am actively involved in the Human Cell Atlas (HCA) community, including attendance at HCA general meetings in Hinxton, UK (2018), and Tokyo, Japan (2019), seeking to help define the contribution of high-dimensional cytometry and imaging technologies to the objectives of the HCA (Czechowska et al. 2018, WS06: 'Cytometry in the Era of the Human Cell Atlas'). We also presented on Spectre, one of our computational tools, at the HCA Asia meeting (virtual) in 2020.</p>
         <a href="https://wiki.centenary.org.au/pages/viewpage.action?pageId=150442594" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
@@ -74,10 +74,10 @@ A selection highlights are described below.
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
           <img src="https://www.immunology.org.au/_assets/img/asi-logo.png" width="3000" style="padding-top: 30px">
       </td>
-      <td style="padding-left:.75em;width:70%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b>Lafferty debate</b></p>
         <p>Placeholder text.</p>
         <p>Placeholder text.</p>
@@ -94,10 +94,10 @@ A selection highlights are described below.
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
           <img src="https://www.immunology.org.au/_assets/img/asi-logo.png" width="3000" style="padding-top: 30px">
       </td>
-      <td style="padding-left:.75em;width:70%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b>Oz Single Cell</b></p>
         <p>Placeholder text.</p>
         <p>Placeholder text.</p>
@@ -114,10 +114,10 @@ A selection highlights are described below.
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
           <img src="https://marvel-b1-cdn.bc0a.com/f00000000212165/www.fluidigm.com/images/logo.png" width="3000" style="padding-top: 30px">
       </td>
-      <td style="padding-left:.75em;width:70%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b>CyTOF and IMC users communities</b></p>
         <p>Placeholder text.</p>
         <p>Placeholder text.</p>
