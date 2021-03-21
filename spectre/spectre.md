@@ -19,6 +19,8 @@ permalink: /spectre/
 - --> by creating a platform and data-agnostic platform, we can efficiently incorporate various analysis tools, and particular integration tools, developed for cytometry (e.g. FlowSOM) and transcriptomics (e.g. Harmony, Liger, Seurat)
 - By doing this, multiple approaches can be efficiently run and compared
 
+--> in our case, focusing on methods that can scale to large datasets consisting of millions of cells (ref https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9#Abs1)
+
 **Timeseries analysis**:
 - Another major focus is the incorporation of time-series analysis approaches, as this is an under-developed field, but critical in many areas on biology
 
