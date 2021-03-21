@@ -35,8 +35,6 @@ A selection of activities highlights are described below.
 
 <p> </p>
 
----
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -57,13 +55,11 @@ A selection of activities highlights are described below.
 
 <p> </p>
 
----
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-          <img src="https://www.sanger.ac.uk/wp-content/uploads/human_cell_atlas_logo600.jpg" width="3000" style="padding-top: 30px">
+          <img src="https://lifeboat.com/blog.images/logo.human-cell-atlas2.jpg" width="3000" style="padding-top: 30px">
       </td>
       <td style="padding-left:.75em;width:70%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b>Human Cell Atlas</b></p>
@@ -78,8 +74,6 @@ A selection of activities highlights are described below.
 </table>
 
 <p> </p>
-
----
 
 <table class="table gmisc_table">
   <tbody>
@@ -101,10 +95,6 @@ A selection of activities highlights are described below.
 
 <p> </p>
 
----
-
----
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -124,8 +114,6 @@ A selection of activities highlights are described below.
 </table>
 
 <p> </p>
-
----
 
 <table class="table gmisc_table">
   <tbody>
