@@ -35,15 +35,119 @@ A selection of activities highlights are described below.
 
 <p> </p>
 
-Roadshows
+---
 
-Human Cell Atlas
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+          <img src="https://cytometry.org.au/wp-content/uploads/2018/05/cropped-169572_medium.jpg" width="3000" style="padding-top: 30px">
+      </td>
+      <td style="padding-left:.75em;width:70%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+        <p><b>ACS Roadshows</b></p>
+        <p>Placeholder text.</p>
+        <p>Placeholder text.</p>
+        <p>Placeholder text.</p>
+        <a href="https://wiki.centenary.org.au/pages/viewpage.action?pageId=150442594" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
 
-Lafferty debate
+<p> </p>
 
-Oz Single Cell
+---
 
-Fluidigm CyTOF and IMC users communities
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+          <img src="https://www.sanger.ac.uk/wp-content/uploads/human_cell_atlas_logo600.jpg" width="3000" style="padding-top: 30px">
+      </td>
+      <td style="padding-left:.75em;width:70%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+        <p><b>Human Cell Atlas</b></p>
+        <p>Placeholder text.</p>
+        <p>Placeholder text.</p>
+        <p>Placeholder text.</p>
+        <a href="https://wiki.centenary.org.au/pages/viewpage.action?pageId=150442594" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<p> </p>
+
+---
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+          <img src="https://www.immunology.org.au/_assets/img/asi-logo.png" width="3000" style="padding-top: 30px">
+      </td>
+      <td style="padding-left:.75em;width:70%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+        <p><b>Lafferty debate</b></p>
+        <p>Placeholder text.</p>
+        <p>Placeholder text.</p>
+        <p>Placeholder text.</p>
+        <a href="https://wiki.centenary.org.au/pages/viewpage.action?pageId=150442594" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<p> </p>
+
+---
+
+---
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+          <img src="https://www.immunology.org.au/_assets/img/asi-logo.png" width="3000" style="padding-top: 30px">
+      </td>
+      <td style="padding-left:.75em;width:70%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+        <p><b>Oz Single Cell</b></p>
+        <p>Placeholder text.</p>
+        <p>Placeholder text.</p>
+        <p>Placeholder text.</p>
+        <a href="https://wiki.centenary.org.au/pages/viewpage.action?pageId=150442594" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<p> </p>
+
+---
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+          <img src="https://marvel-b1-cdn.bc0a.com/f00000000212165/www.fluidigm.com/images/logo.png" width="3000" style="padding-top: 30px">
+      </td>
+      <td style="padding-left:.75em;width:70%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+        <p><b>CyTOF and IMC users communities</b></p>
+        <p>Placeholder text.</p>
+        <p>Placeholder text.</p>
+        <p>Placeholder text.</p>
+        <a href="https://wiki.centenary.org.au/pages/viewpage.action?pageId=150442594" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<p> </p>
+
+---
 
 ---
 
