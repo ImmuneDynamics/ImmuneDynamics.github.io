@@ -11,7 +11,7 @@ I am a current [ISAC Marylou Ingram Scholar](https://isac-net.org/page/Marylou-I
 - Peer review for Nature Communications, Cytometry A, Cytometry B, Bioinformatics, and Briefings in Bioinformatics.
 - Member and grantee, the Marie Bashir Institute for Infectious Diseases and Biosecurity (MBI).
 
-A selection of activities highlights are described below.
+A selection highlights are described below.
 
 ---
 
