@@ -6,7 +6,55 @@ permalink: /thomas-ashhurst/community
 
 ![Community](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Community%20bannger.png)
 
-I am a current [ISAC Marylou Ingram Scholar](https://isac-net.org/page/Marylou-Ingram-Scholars) with the [International Society for the Advancement of Cytometry (ISAC)](https://isac-net.org/), and serve as the 'Systems Cytometry' & NSW representative of the [Systems Immunology special interest group (SIG)](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/) of the [Australian and New Zealand Society of Immunology](https://www.immunology.org.au/). I am actively involved with a number of other societies and communities, including the [Australasian Cytometry Society (ACS)](https://cytometry.org.au/), the [Oz Single Cell (OSC)](https://www.singlecells.org.au/) consoritum, the [Human Cell Atlas (HCA)](https://www.humancellatlas.org/) community, and the [Fluidigm Imaging Mass Cytometry (IMC)](https://www.fluidigm.com/articles/imc-user-group-meeting-2019-recap) users community. A selection of key activities are described below.
+I am a current [ISAC Marylou Ingram Scholar](https://isac-net.org/page/Marylou-Ingram-Scholars) with the [International Society for the Advancement of Cytometry (ISAC)](https://isac-net.org/), and serve as the 'Systems Cytometry' & NSW representative of the [Systems Immunology special interest group (SIG)](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/) of the [Australian and New Zealand Society of Immunology](https://www.immunology.org.au/). I am actively involved with a number of other societies and communities, including the [Australasian Cytometry Society (ACS)](https://cytometry.org.au/), the [Oz Single Cell (OSC)](https://www.singlecells.org.au/) consoritum, the [Human Cell Atlas (HCA)](https://www.humancellatlas.org/) community, and the [Fluidigm Imaging Mass Cytometry (IMC)](https://www.fluidigm.com/articles/imc-user-group-meeting-2019-recap) users community.  fr
+
+- Peer review for Nature Communications, Cytometry A, Cytometry B, Bioinformatics, and Briefings in Bioinformatics.
+- Member and grantee, the Marie Bashir Institute for Infectious Diseases and Biosecurity (MBI).
+
+A selection of activities highlights are described below.
+
+---
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://isac-net.org/graphics/isac-logo.png" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:65%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b>ISAC scholarship (+CYTO etc)</b></p>
+        <p>Placeholder text.</p>
+        <p>Placeholder text.</p>
+        <p>Placeholder text.</p>
+        <a href="https://wiki.centenary.org.au/pages/viewpage.action?pageId=150442594" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<p> </p>
+
+Roadshows
+
+Human Cell Atlas
+
+Lafferty debate
+
+Oz Single Cell
+
+Fluidigm CyTOF and IMC users communities
+
+---
+
+---
+
+---
+
+---
+
+
+
 
 ---
 
