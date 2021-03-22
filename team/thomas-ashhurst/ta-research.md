@@ -38,7 +38,7 @@ An overview of this work can be found in this **[Oz Single Cell webinar 2020](ht
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-## High-dimensional cytometry and imaging technologies ##
+## High-dimensional cytometry, imaging, and single-cell technologies ##
 
 ---
 
