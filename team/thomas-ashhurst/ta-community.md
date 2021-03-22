@@ -6,12 +6,11 @@ permalink: /thomas-ashhurst/community
 
 ![Community](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Community%20bannger.png)
 
-I am a current [ISAC Marylou Ingram Scholar](https://isac-net.org/page/Marylou-Ingram-Scholars) with the [International Society for the Advancement of Cytometry (ISAC)](https://isac-net.org/), and serve as the 'Systems Cytometry' & NSW representative of the [Systems Immunology special interest group (SIG)](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/) of the [Australian and New Zealand Society of Immunology](https://www.immunology.org.au/). I am actively involved with a number of other societies and communities, including the [Australasian Cytometry Society (ACS)](https://cytometry.org.au/), the [Oz Single Cell (OSC)](https://www.singlecells.org.au/) consoritum, the [Human Cell Atlas (HCA)](https://www.humancellatlas.org/) community, and the [Fluidigm Imaging Mass Cytometry (IMC)](https://www.fluidigm.com/articles/imc-user-group-meeting-2019-recap) users community.  fr
+**Societies**: I am a current [ISAC Marylou Ingram Scholar](https://isac-net.org/page/Marylou-Ingram-Scholars) with the [International Society for the Advancement of Cytometry (ISAC)](https://isac-net.org/), and serve as the 'Systems Cytometry' & NSW representative of the [Systems Immunology special interest group (SIG)](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/) of the [Australian and New Zealand Society of Immunology](https://www.immunology.org.au/). I am actively involved with a number of other societies and communities, including the [Australasian Cytometry Society (ACS)](https://cytometry.org.au/), the [Oz Single Cell (OSC)](https://www.singlecells.org.au/) consoritum, the [Human Cell Atlas (HCA)](https://www.humancellatlas.org/) community, and the [Fluidigm Imaging Mass Cytometry (IMC)](https://www.fluidigm.com/articles/imc-user-group-meeting-2019-recap) users community. I am also a member and grantee of the [Marie Bashir Institute for Infectious Diseases and Biosecurity (MBI)](https://www.sydney.edu.au/marie-bashir-institute/).
 
-- Peer review for Nature Communications, Cytometry A, Cytometry B, Bioinformatics, and Briefings in Bioinformatics.
-- Member and grantee, the Marie Bashir Institute for Infectious Diseases and Biosecurity (MBI).
+**Peer review contributions**: I provide peer review for [Nature Communications](https://www.nature.com/ncomms/), [Cytometry A](https://onlinelibrary.wiley.com/journal/15524930), [Cytometry B](https://onlinelibrary.wiley.com/journal/15524957), [Bioinformatics](https://academic.oup.com/bioinformatics), and [Briefings in Bioinformatics](https://academic.oup.com/bib).
 
-A selection highlights are described below.
+A selection of key highlights can be found below.
 
 ---
 
