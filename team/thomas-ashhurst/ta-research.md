@@ -7,13 +7,13 @@ permalink: /thomas-ashhurst/research/
 
 **Overview**: my research involves the development and application of new [high-dimensional cytometry, single-cell, and imaging methods](https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies), as well as novel [computational and machine learning analysis approaches](https://tomashhurst.github.io/research/#computational-analysis-approaches), to comprehensively map dynamic immune responses over time and across multiple biological tissues, to reveal key mediators of inflammation and immunity in health and disease. In this context, I co-lead a [multi-disciplinary collaboration]() of multiple research and technology labs at the University of Sydney, combining expertise in immunology, infectious disease, high-dimensional single-cell & imaging technologies, computational biology, and data science. We collaboratively apply our novel approaches to the study of immunology and infectious disease, inclidng emerging pathogens, including [SARS-CoV-2 and COVID-19](https://tomashhurst.github.io/research/#application-to-disease), [Zika virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis, and [West Nile virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis. We then explore how these datasets, technologies, and analysis methdologies may contribute to, or benefit from, efforts such as the [Human Cell Atlas (HCA)](http://humancellatlas.org/).
 
-![Research](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Research.png)
-
 This work is summarised in the following four sections (below):
 1. [High-dimensional cytometry and imaging technologies](https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies)
 2. [Computational analysis approaches](https://tomashhurst.github.io/research/#computational-analysis-approaches)
 3. [Application to disease (incl. COVID-19)](https://tomashhurst.github.io/research/#application-to-disease)
 4. [Engagement in the Human Cell Atlas (HCA) and other communities](https://tomashhurst.github.io/research/#engagement-in-the-human-cell-atlas-and-other-communities)
+
+![Research](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Research.png)
 
 An overview of this work can be found in this **[Oz Single Cell webinar 2020](https://youtu.be/poEDERGXrQw?t=3151)** on computational biology and this **[Fluidigm webinar 2020](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics)**, featured on the '[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)' page.
 
