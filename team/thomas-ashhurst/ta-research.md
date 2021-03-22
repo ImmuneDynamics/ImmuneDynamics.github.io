@@ -13,7 +13,7 @@ This work is summarised in the following four sections (below):
 3. [Application to disease (incl. COVID-19)](https://tomashhurst.github.io/research/#application-to-disease)
 4. [Engagement in the Human Cell Atlas (HCA) and other communities](https://tomashhurst.github.io/research/#engagement-in-the-human-cell-atlas-and-other-communities)
 
-![Research](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Research.png)
+<br />
 
 An overview of this work can be found in this **[Oz Single Cell webinar 2020](https://youtu.be/poEDERGXrQw?t=3151)** on computational biology and this **[Fluidigm webinar 2020](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics)**, featured on the '[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)' page.
 
@@ -63,7 +63,9 @@ We also developed the first assays to be used on [Australia’s first mass cytom
 
 ---
 
-![Comp](https://wiki.centenary.org.au/download/attachments/146080606/Screen%20Shot%202020-10-22%20at%2012.25.13%20pm.png?version=1&modificationDate=1603369521998&api=v2)
+<!--![Comp](https://wiki.centenary.org.au/download/attachments/146080606/Screen%20Shot%202020-10-22%20at%2012.25.13%20pm.png?version=1&modificationDate=1603369521998&api=v2)-->
+
+![Research](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Research.png)
 
 Following a seed funding grant from the [Marie Bashir Institute for Infectious Diseases and Biosecurity](https://www.sydney.edu.au/marie-bashir-institute/) (*"Mapping dynamic immunity: next-generation computational approaches to track the evolution of immune responses in West Nile virus and Zika virus encephalitis"*), we established the ‘[Immune Dynamics](https://github.com/ImmuneDynamics)’ team, a collaborative group with a focus on the development of novel computational analysis tools to address challenges in high-dimensional analysis.
 
