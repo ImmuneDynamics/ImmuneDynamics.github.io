@@ -4,23 +4,10 @@ title: Thomas Ashhurst - Research
 permalink: /thomas-ashhurst/research/
 ---
 
-- Starting in King lab -- immune response to viral encephalitis -- cellular infiltration -- and bone marrow mobilisation
-- Expanding out via HD technologies and comp. analysis approaches
-- Now with the SC, leading a multi-disciplinary research effort to bring together expertise in immu, inf. dis, HD tech, comp. biol, and data sciences to map dynamic immune responses over time and space in a range of disease settings, incluidng COVID-19.
-- More information:
-- 1. HD SC and imaging technologies
-- 2. Advanced computational analysis approaches
-- 3. Mapping immune dynamics over time and space in a range of disease settings
-- 4. Interaction with atlasses
 
----
----
----
----
+**Overview**: My research involves the development and application of new [high-dimensional cytometry, single-cell, and imaging methods](https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies), as well as [novel computational analysis and machine learning approaches](https://tomashhurst.github.io/research/#computational-analysis-approaches), to comprehensively map dynamic immune responses over time and across multiple biological tissues, to reveal key mediators of inflammation and immunity in health and disease. In this context, I co-lead a [multi-disciplinary collaboration]() of multiple research and technology labs at the University of Sydney, combining expertise in immunology, infectious disease, high-dimensional single-cell & imaging technologies, computational biology, and data science. We apply our novel approaches collaboratively to the study of immunology and infectious disease, inclidng emerging pathogens, including [SARS-CoV-2 and COVID-19](https://tomashhurst.github.io/research/#application-to-disease), [Zika virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis, and [West Nile virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis. We then explore how these datasets, technologies, and analysis methdologies may contribute to, or benefit from, efforts such as the [Human Cell Atlas (HCA)](http://humancellatlas.org/).
 
 ![Research](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Research.png)
-
-**Overview**: my research involves the development and application of a range of [high-dimensional single-cell cytometry/imaging technologies and assays](https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies), as well as [computational analysis approaches](https://tomashhurst.github.io/research/#computational-analysis-approaches), to map dynamic immune responses over time, space, and disease. Previously with the [King Lab](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/nicholas-king.html) during my PhD, and currently with the [Sydney Cytometry Facility](https://sydneycytometry.org.au/) and the collaborative [Immune Dynamics Team](https://tomashhurst.github.io/research/#computational-analysis-approaches), my team and I collaboratively apply these approaches to the study of immunology and infectious disease, including emerging pathogens such as [SARS-CoV-2 and COVID-19](https://tomashhurst.github.io/research/#application-to-disease), [Zika virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis, and [West Nile virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis. We then explore how these datasets, technologies, and analysis methdologies may contribute to, or benefit from, efforts such as the [Human Cell Atlas (HCA)](http://humancellatlas.org/).
 
 This work is summarised in the following four sections (below):
 1. [High-dimensional cytometry and imaging technologies](https://tomashhurst.github.io/research/#high-dimensional-cytometry-and-imaging-technologies)
@@ -61,6 +48,8 @@ An overview of this work can be found in this **[Oz Single Cell webinar 2020](ht
 
 Critical to investigating complex immune responses to disease is the capacity to measure cells at the single-cell level, examining multiple features of the cell simultaneously. To address this, we develop and apply a variety of high-dimensional cytometry technologies and assays. We have developed novel technology platforms, such as our world first [10-laser ‘LSR-X’ platform](https://sydneycytometry.org.au/hdflow) developed with BD, and one of the first published 25 colour flow cytometry assays ([Ashhurst et al. 2017](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37)). We also developed the first assays to be used on [Australia’s first mass cytometer (CyTOF)](https://www.immunology.org.au/files/Newsletter_pdfs/ASI_NL_March_2015.pdf) ([Ashhurst et al. 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)), as well as Australia’s first Imaging Mass Cytometer (IMC, [SpectreMAP Github](https://github.com/ImmuneDynamics/SpectreMAP)). We have recently published a book ([HM McGuire, TM Ashhurst (eds). 2019](https://link.springer.com/book/10.1007/978-1-4939-9454-0)), featuring a collecting of up-to-date and cutting-edge protocols in mass cytometry, which is now a standard resource in the field. Most recently, we have implemented high-dimensional spectral cytometry platforms and panels, and performed comprehensive evaluations of both conventional and spectral cytometry ([Niewold\*, Ashhurst\* et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211)). 
 
+During my PhD with the, [King Lab](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/nicholas-king.html) I developed and utilised a number of high-dimensional cytometry assays, including Australia's first mass cytometry assays, to comprehensively profile inflammatory mobilisation of the murine haematopoietic system in the bone marrow during viral encephalitis. 
+
 <br />
 
 ## Computational analysis approaches ##
@@ -93,6 +82,8 @@ The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has ca
 - Panel design and analysis protocols that may be helpful in COVID-19 research can be found on the [resources](https://tomashhurst.github.io/resources) page.
 
 **Zika and West Nile virus encephalitis and immune modulation**
+
+Previously with the [King Lab](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/nicholas-king.html) during my PhD, and currently with the [Sydney Cytometry Facility](https://sydneycytometry.org.au/), 
 
 In mouse models of viral encephalitis, our work has demonstrated that inflammatory monocyte-derived macrophages which infiltrate into the brain contribute significantly to disease in [Zika virus](https://www.who.int/news-room/fact-sheets/detail/zika-virus) encephalitis ([Hayashida et al. 2019](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5)) and [West Nile virus](https://www.who.int/news-room/fact-sheets/detail/west-nile-virus) encephalitis ([Getts et al. 2012](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246)), and that *immune-modulatory therapies* targeting inflammatory monocytes may inhibit this process ([Getts et al. 2014](https://stm.sciencemag.org/content/6/219/219ra7.short)). This work was featured on [ABC News](http://www.abc.net.au/science/articles/2014/01/16/3926376.htm) and [The Guardian](http://www.theguardian.com/world/2014/jan/16/heart-attack-damage-can-be-reduced-with-a-simple-injection-say-experts). Our most recent work has demonstrated that viral encephalitis drives an *inflammatory mobilisation of the haematopoietic system* in the bone marrow, resulting in the generation of these pathogenic monocytes ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12), [Ashhurst 2020, Fluidigm webinar](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics)).
 
