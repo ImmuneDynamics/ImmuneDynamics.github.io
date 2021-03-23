@@ -36,6 +36,8 @@ A selection of key activites with each society can be found below.
 
 <p> </p>
 
+---
+
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -60,6 +62,8 @@ A selection of key activites with each society can be found below.
 
 <p> </p>
 
+---
+
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -83,6 +87,8 @@ A selection of key activites with each society can be found below.
 
 <p> </p>
 
+---
+
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -104,6 +110,8 @@ A selection of key activites with each society can be found below.
 </table>
 
 <p> </p>
+
+---
 
 <table class="table gmisc_table">
   <tbody>
@@ -129,6 +137,8 @@ A selection of key activites with each society can be found below.
 </table>
 
 <p> </p>
+
+---
 
 <table class="table gmisc_table">
   <tbody>
