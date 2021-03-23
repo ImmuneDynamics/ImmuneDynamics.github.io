@@ -17,6 +17,9 @@ Below we describe areas of research. More information on the research interests 
 <br />
 
 ## Computational analysis and data integration across cytometry and single-cell technologies
+
+---
+
 A major focus of our collaborative group is the development of computational analysis solutions for high-dimensional cytometry data.
 
 - Important -- ability to test and compare different clustering, DR, and alignment/integration tools -- in Spectre, make it easy to run multiple tools to optimiset he approach 
@@ -38,6 +41,9 @@ Application
 — examples in WNV/ZIKV/COVID etc
 
 ## Time-series clustering analysis for mapping dynamic immune responses
+
+---
+
 - Another major focus is the incorporation of time-series analysis approaches, as this is an under-developed field, but critical in many areas on biology
 
 Development
@@ -49,6 +55,8 @@ Application
 
 ## Spatial analysis of high-dimensional imaging data
 
+---
+
 - Spatial analysis platform --> integrated with Spectre
 - Improved cell segmentation workflows
 - Spatial statistics and neighbourhood analysis
@@ -56,11 +64,15 @@ Application
 
 ## Community contributions and activitiers
 
+---
+
 - Roadshow examples
 - Workshops
 - HCA...
 
 ## *TBC: Development of high-dimensional cytometry and spatial technologies*
+
+---
 
 ![Tech](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/HDtech3.png)
 
