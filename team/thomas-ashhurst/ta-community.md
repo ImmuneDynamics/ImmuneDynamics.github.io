@@ -115,9 +115,12 @@ A selection of key activites with each society can be found below.
         <p><b>Oz Single Cell</b></p>
         <p>I have been a member of the Oz Single Cell consortium since it's inception in 2017, 
           and have been a regular attendee and presenter at the annual meetings.
-          In 2019 I was invited to speak on high-dimensional cytometry and imaging technologies at the annual meeting in Melbourne, and subsequently invited to present as part of the online webinar series in 2020.
+          In 2019 I was invited to speak on high-dimensional cytometry and imaging technologies at the annual meeting in Melbourne.
         </p>
         <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Great beginner-friendly &amp; comprehensive presentation from <a href="https://twitter.com/TomAsh_1?ref_src=twsrc%5Etfw">@TomAsh_1</a> on single-cell technologies incl. flow cytometry, mass cytometry, genomic cytometry, tissue mass cytometry and more! <a href="https://twitter.com/hashtag/ozsinglecell19?src=hash&amp;ref_src=twsrc%5Etfw">#ozsinglecell19</a> <a href="https://t.co/1bSwZHa1xE">pic.twitter.com/1bSwZHa1xE</a></p>&mdash; Betty Zhang (@bettyzhang99) <a href="https://twitter.com/bettyzhang99/status/1152729434081730560?ref_src=twsrc%5Etfw">July 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <p>
+          Subsequently, I was invited to present our work advanced computational analysis as part of the online webinar series in 2020.
+        </p>
         <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Computation Biology is the topic of <a href="https://twitter.com/hashtag/ozSingleCell?src=hash&amp;ref_src=twsrc%5Etfw">#ozSingleCell</a> Episode 10. Featuring ⁦<a href="https://twitter.com/stephaniehicks?ref_src=twsrc%5Etfw">@stephaniehicks</a>⁩ ⁦<a href="https://twitter.com/drneavin?ref_src=twsrc%5Etfw">@drneavin</a>⁩ ⁦<a href="https://twitter.com/TomAsh_1?ref_src=twsrc%5Etfw">@TomAsh_1</a>⁩ <br><br>Wednesday 18th Nov, 11am AEDT.<br><br>Register <a href="https://t.co/sKoW6edQRg">https://t.co/sKoW6edQRg</a> <a href="https://t.co/4CKGzDlnl5">pic.twitter.com/4CKGzDlnl5</a></p>&mdash; OzSingleCell Omics (@ozsinglecells) <a href="https://twitter.com/ozsinglecells/status/1327089893269377024?ref_src=twsrc%5Etfw">November 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
           <p> </p>
       </td>
