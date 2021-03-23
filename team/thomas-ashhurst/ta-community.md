@@ -120,7 +120,7 @@ A selection of key activites with each society can be found below.
           <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/OSC.png" width="3000" style="padding-top: 30px">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-        <p><h2>Oz Single Cell</b></h2>
+        <p><h2>Oz Single Cell</h2></p>
         <p>I have been a member of the Oz Single Cell consortium since it's inception in 2017, 
           and have been a regular attendee and presenter at the annual meetings.
           In 2019 I was invited to speak on high-dimensional cytometry and imaging technologies at the annual meeting in Melbourne.
