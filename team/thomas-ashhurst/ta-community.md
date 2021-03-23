@@ -4,8 +4,6 @@ title: Thomas Ashhurst - Community
 permalink: /thomas-ashhurst/community
 ---
 
-![Community](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Community%20bannger.png)
-
 **Overview**: I am a current [ISAC Marylou Ingram Scholar](https://isac-net.org/page/Marylou-Ingram-Scholars) with the [International Society for the Advancement of Cytometry (ISAC)](https://isac-net.org/), and serve as the 'Systems Cytometry' & NSW representative of the [Systems Immunology special interest group (SIG)](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/) of the [Australian and New Zealand Society of Immunology](https://www.immunology.org.au/). I am actively involved with a number of other societies and communities, including the [Australasian Cytometry Society (ACS)](https://cytometry.org.au/), the [Oz Single Cell (OSC)](https://www.singlecells.org.au/) consoritum, the [Human Cell Atlas (HCA)](https://www.humancellatlas.org/) community, and the [Fluidigm Imaging Mass Cytometry (IMC)](https://www.fluidigm.com/articles/imc-user-group-meeting-2019-recap) users community. I am also a member and grantee of the [Marie Bashir Institute for Infectious Diseases and Biosecurity (MBI)](https://www.sydney.edu.au/marie-bashir-institute/). I provide ***peer review*** for [Nature Communications](https://www.nature.com/ncomms/), [Cytometry A](https://onlinelibrary.wiley.com/journal/15524930), [Cytometry B](https://onlinelibrary.wiley.com/journal/15524957), [Bioinformatics](https://academic.oup.com/bioinformatics), and [Briefings in Bioinformatics](https://academic.oup.com/bib).
 
 A selection of key highlights can be found below.
@@ -21,6 +19,7 @@ A selection of key highlights can be found below.
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b>ISAC Marylou Ingram Scholars program</b></p>
         <p>In 2017 I was awarded a prestigious Marylou Ingram Scholarship by the International Society for the Advancement of Cytometry (ISAC). This award recognises....</p>
+        <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/Scholars.png?raw=true" width="3000" style="padding-top: 10px;padding-bottom: 10px">
         <p><b>Involvement in CYTO, ISAC's annual meeting</b></p>
         <p>more stuff about involvement with CYTO -- regular presenter, workshops, and program committee</p>
         <p> </p>
