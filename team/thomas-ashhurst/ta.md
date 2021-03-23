@@ -30,19 +30,4 @@ Dr. Ashhurst was awarded a prestigious [ISAC Marylou Ingram Scholarship](https:/
 &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/LinkedInSVG.svg" alt="LinkedIn logo" width="20"> LinkedIn: [Thomas-Ashhurst](https://www.linkedin.com/in/thomas-ashhurst/) <br/>
 &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ResearchGate_icon_SVG.svg" alt="ResearchGate logo" width="20"> ResearchGate: [Thomas-Ashhurst](https://www.researchgate.net/profile/Thomas-Ashhurst) <br/>
 
-**Primary affiliations**
-
-- High-dimensional cytometry specialist, [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au/), [Charles Perkins Centre](https://www.sydney.edu.au/charles-perkins-centre/), [The University of Sydney](https://www.sydney.edu.au/).
-- Co-lead, [Immune Dynamics](https://tomashhurst.github.io/immunedynamics) collaborative team.
-
-**Societies and communities**
-
-More information on society and community activity can be found on the [community](https://immunedynamics.io/community/) page.
-
-- [ISAC Marylou Ingram Scholar](https://isac-net.org/page/Marylou-Ingram-Scholars) with the [International Society for the Advancement of Cytometry (ISAC)](https://isac-net.org/).
-- 'Systems Cytometry' & NSW representative of the [Systems Immunology special interest group (SIG)](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/) of the [Australian and New Zealand Society of Immunology](https://www.immunology.org.au/).
-- Peer review for [Nature Communications](https://www.nature.com/ncomms/), [Cytometry A](https://onlinelibrary.wiley.com/journal/15524930), [Cytometry B](https://onlinelibrary.wiley.com/journal/15524957), [Bioinformatics](https://academic.oup.com/bioinformatics), and [Briefings in Bioinformatics](https://academic.oup.com/bib).
-- Member and grantee, the [Marie Bashir Institute for Infectious Diseases and Biosecurity (MBI)](https://www.sydney.edu.au/marie-bashir-institute/).
-- Member and frequent invited speaker with the [Oz Single Cell (OSC)](https://www.singlecells.org.au/) community, the [Australasian Cytometry Society (ASC)](https://cytometry.org.au/), the [Australia and New Zealand Society for Immunology (ASI)](https://www.immunology.org.au/), and the [Human Cell Atlas (HCA)](https://www.humancellatlas.org/) community.
-
 <br />
