@@ -43,7 +43,7 @@ A selection of key activites with each society can be found below.
           <img src="https://cytometry.org.au/wp-content/uploads/2018/05/cropped-169572_medium.jpg" width="3000" style="padding-top: 30px">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-        <p><b>The Australasian Cytometry Society (ACS)</b></p>
+        <p><h2>The Australasian Cytometry Society (ACS)</h2></p>
         <p>
           I have been a member of ACS since 2012, where am frequent invited speaker on topcs involving high-dimensional cytometry and analysis. I served on the ACS council as the Student Liason Officer for two years.
           In 2016 I was invited to participate as a speaker on the ACS 'Polychromatic Flow Cytometry Roadshow', a speaking tour visiting multiple cities across Australia and New Zealand, alongside Dr. Pratip Chattopadhyay from the NIH. 
@@ -67,7 +67,7 @@ A selection of key activites with each society can be found below.
           <img src="https://lifeboat.com/blog.images/logo.human-cell-atlas2.jpg" width="3000" style="padding-top: 30px">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-        <p><b>Human Cell Atlas (HCA)</b></p>
+        <p><h2>Human Cell Atlas (HCA)</h2></p>
         <p>I am actively involved in the Human Cell Atlas (HCA) community, including attendance at HCA general meetings in Hinxton, UK (2018), and Tokyo, Japan (2019), seeking to help define the contribution of high-dimensional cytometry and imaging technologies to the objectives of the HCA (Czechowska et al. 2018, WS06: 'Cytometry in the Era of the Human Cell Atlas'). 
         </p>
         <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/HCA%20meetings.png?raw=true" width="3000" style="padding-top: 10px; padding-bottom: 10px">
@@ -90,7 +90,7 @@ A selection of key activites with each society can be found below.
           <img src="https://www.immunology.org.au/_assets/img/asi-logo.png" width="3000" style="padding-top: 30px">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-        <p><b>The Australia and New Zealand Society for Immunology (ASI)</b></p>
+        <p><h2>The Australia and New Zealand Society for Immunology (ASI)</h2></p>
         <p>
           I have been a member of ASI since 2011, and a regular attendee and presenter at the ASI annual meeting. 
           I currently serve as the NSW and 'Systems Immunology' representative of the Systems Immunology special interest group.
@@ -112,7 +112,7 @@ A selection of key activites with each society can be found below.
           <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/OSC.png" width="3000" style="padding-top: 30px">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-        <p><b>Oz Single Cell</b></p>
+        <p><h2>Oz Single Cell</b></h2>
         <p>I have been a member of the Oz Single Cell consortium since it's inception in 2017, 
           and have been a regular attendee and presenter at the annual meetings.
           In 2019 I was invited to speak on high-dimensional cytometry and imaging technologies at the annual meeting in Melbourne.
@@ -137,7 +137,7 @@ A selection of key activites with each society can be found below.
           <img src="https://marvel-b1-cdn.bc0a.com/f00000000212165/www.fluidigm.com/images/logo.png" width="3000" style="padding-top: 30px">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-        <p><b>CyTOF and IMC users communities</b></p>
+        <p><h2>CyTOF and IMC users communities</h2></p>
         <p>Placeholder text.</p>
         <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tom Ashhurst of the Univ. of Sydney sharing beautiful and exciting results using <a href="https://twitter.com/hashtag/ImagingMassCytometry?src=hash&amp;ref_src=twsrc%5Etfw">#ImagingMassCytometry</a> to track <a href="https://twitter.com/hashtag/immune?src=hash&amp;ref_src=twsrc%5Etfw">#immune</a> responses in <a href="https://twitter.com/hashtag/viral?src=hash&amp;ref_src=twsrc%5Etfw">#viral</a> <a href="https://twitter.com/hashtag/encephalitis?src=hash&amp;ref_src=twsrc%5Etfw">#encephalitis</a>. <a href="https://t.co/sYmXJ0mO3t">https://t.co/sYmXJ0mO3t</a> <a href="https://twitter.com/hashtag/CyTOF?src=hash&amp;ref_src=twsrc%5Etfw">#CyTOF</a> <a href="https://twitter.com/hashtag/ImageMC18?src=hash&amp;ref_src=twsrc%5Etfw">#ImageMC18</a> <a href="https://twitter.com/hashtag/Imaging?src=hash&amp;ref_src=twsrc%5Etfw">#Imaging</a> <a href="https://twitter.com/hashtag/Pathology?src=hash&amp;ref_src=twsrc%5Etfw">#Pathology</a> <a href="https://t.co/mEAdSHt5eT">pic.twitter.com/mEAdSHt5eT</a></p>&mdash; Fluidigm (@fluidigm) <a href="https://twitter.com/fluidigm/status/1039545795370987527?ref_src=twsrc%5Etfw">September 11, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <p>Placeholder text.</p>
