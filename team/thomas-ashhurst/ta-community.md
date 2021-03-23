@@ -20,7 +20,6 @@ A selection of key highlights can be found below.
         <p><b>ISAC Marylou Ingram Scholars program</b></p>
         <p>In 2017 I was awarded a prestigious Marylou Ingram Scholarship by the International Society for the Advancement of Cytometry (ISAC). This award recognises....</p>
         <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/Scholars.png?raw=true" width="3000" style="padding-top: 10px;padding-bottom: 10px">
-        <p><b>Involvement in CYTO, ISAC's annual meeting</b></p>
         <p>more stuff about involvement with CYTO -- regular presenter, workshops, and program committee</p>
         <p> </p>
       </td>
@@ -40,7 +39,6 @@ A selection of key highlights can be found below.
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b>ACS Roadshows</b></p>
         <p>I have been engaged in a number of community-focused educational endeavours, such as the ACS roadshows in 2016 (**Polychromatic Flow Cytometry**; Dr. Pratip Chattopadhyay and [Thomas Ashhurst](tomashhurst.github.io)) and in 2020 (**[High-dimensional analysis](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/)**; [Dr. Thomas Ashhurst](tomashhurst.github.io), [Dr. Felix Marsh-Wakefield](https://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en), and [Givanna Putri](https://scholar.google.com/citations?user=S-sNLPIAAAAJ&hl=en)).</p>
-        <a href="https://wiki.centenary.org.au/pages/viewpage.action?pageId=150442594" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
       </tr>
@@ -58,7 +56,7 @@ A selection of key highlights can be found below.
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b>Human Cell Atlas</b></p>
         <p>I am actively involved in the Human Cell Atlas (HCA) community, including attendance at HCA general meetings in Hinxton, UK (2018), and Tokyo, Japan (2019), seeking to help define the contribution of high-dimensional cytometry and imaging technologies to the objectives of the HCA (Czechowska et al. 2018, WS06: 'Cytometry in the Era of the Human Cell Atlas'). We also presented on Spectre, one of our computational tools, at the HCA Asia meeting (virtual) in 2020.</p>
-        <a href="https://wiki.centenary.org.au/pages/viewpage.action?pageId=150442594" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+        <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/HCA%20meetings.png?raw=true" width="3000" style="padding-top: 10px; padding-bottom: 10px">
           <p> </p>
       </td>
       </tr>
@@ -78,7 +76,6 @@ A selection of key highlights can be found below.
         <p>Placeholder text.</p>
         <p>Placeholder text.</p>
         <p>Placeholder text.</p>
-        <a href="https://wiki.centenary.org.au/pages/viewpage.action?pageId=150442594" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
       </tr>
@@ -116,7 +113,6 @@ A selection of key highlights can be found below.
         <p>Placeholder text.</p>
         <p>Placeholder text.</p>
         <p>Placeholder text.</p>
-        <a href="https://wiki.centenary.org.au/pages/viewpage.action?pageId=150442594" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
       </tr>
