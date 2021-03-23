@@ -19,7 +19,7 @@ A selection of key activites with each society can be found below.
           <img src="https://isac-net.org/graphics/isac-logo.png" width="3000" style="padding-top: 30px">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-        <p><b>The International Society for the Advancement of Cytometry (ISAC)</b></p>
+        <p><h2>The International Society for the Advancement of Cytometry (ISAC)</h2></p>
         <p>
           I have been a member of ISAC since 2013, and a regular attendee and presenter at CYTO, ISAC's annual meeting. 
           In 2017 I was awarded a prestigious Marylou Ingram Scholarship by the International Society for the Advancement of Cytometry (ISAC). 
