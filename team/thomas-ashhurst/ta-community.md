@@ -45,7 +45,7 @@ A selection of key activites with each society can be found below.
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b>The Australasian Cytometry Society (ACS)</b></p>
         <p>
-          I have been a member of ACS since 2012, where am frequent invited speaker on topcs involving high-dimensional cytometry and analysis. 
+          I have been a member of ACS since 2012, where am frequent invited speaker on topcs involving high-dimensional cytometry and analysis. I served on the ACS council as the Student Liason Officer for two years.
           In 2016 I was invited to participate as a speaker on the ACS 'Polychromatic Flow Cytometry Roadshow', a speaking tour visiting multiple cities across Australia and New Zealand, alongside Dr. Pratip Chattopadhyay from the NIH. 
         </p>
         <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/Roadshow%202016.png?raw=true" width="3000" style="padding-top: 10px; padding-bottom: 10px">
@@ -73,7 +73,7 @@ A selection of key activites with each society can be found below.
         <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/HCA%20meetings.png?raw=true" width="3000" style="padding-top: 10px; padding-bottom: 10px">
         <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks for the shout out <a href="https://twitter.com/drjosephpowell?ref_src=twsrc%5Etfw">@drjosephpowell</a>. Our (<a href="https://twitter.com/nickjck?ref_src=twsrc%5Etfw">@nickjck</a> <a href="https://twitter.com/adrianlloyd?ref_src=twsrc%5Etfw">@adrianlloyd</a> <a href="https://twitter.com/mnread?ref_src=twsrc%5Etfw">@mnread</a> <a href="https://twitter.com/SydneyCytometry?ref_src=twsrc%5Etfw">@SydneyCytometry</a>) pilot project &#39;Mapping Dynamic Immunity&#39;, funded by <a href="https://twitter.com/MarieBashirInst?ref_src=twsrc%5Etfw">@MarieBashirInst</a>, is to develop a flow/mass cyto single-cell time-series atlas of mouse tissues in multiple models of infection. 1/2 <a href="https://t.co/vVz9DAgrqL">pic.twitter.com/vVz9DAgrqL</a></p>&mdash; Dr Thomas Ashhurst (@TomAsh_1) <a href="https://twitter.com/TomAsh_1/status/1131402856173514753?ref_src=twsrc%5Etfw">May 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <p>
-          I also presented on Spectre, one of our computational tools, at the HCA Asia meeting (virtual) in 2020.</p>
+          I also presented on Spectre, one of our computational tools, at the HCA Asia meeting (virtual) in 2020.
         </p>
           <p> </p>
       </td>
@@ -92,7 +92,9 @@ A selection of key activites with each society can be found below.
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b>The Australia and New Zealand Society for Immunology (ASI)</b></p>
         <p>
-          I have been a member of ASI since 2011, and a regular attendee and presenter at the ASI annual meeting. In 2018 I was invited to speak in the Lafferty comedy debate event of the annual meeting, argueing for 'big data is better'.
+          I have been a member of ASI since 2011, and a regular attendee and presenter at the ASI annual meeting. 
+          I currently serve as the NSW and 'Systems Immunology' representative of the Systems Immunology special interest group.
+          In 2018 I was invited to speak in the Lafferty comedy debate event of the annual meeting, argueing for 'big data is better'.
         </p>
         <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The highlight of <a href="https://twitter.com/hashtag/asi2018WA?src=hash&amp;ref_src=twsrc%5Etfw">#asi2018WA</a> ASI Lafferty Debate...Size does matter: Big data is best. <a href="https://twitter.com/ASImmunology?ref_src=twsrc%5Etfw">@ASImmunology</a> <a href="https://t.co/z74t1WWxGi">pic.twitter.com/z74t1WWxGi</a></p>&mdash; Lai Guan NG (@lai9uan) <a href="https://twitter.com/lai9uan/status/1070242622315278337?ref_src=twsrc%5Etfw">December 5, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
           <p> </p>
