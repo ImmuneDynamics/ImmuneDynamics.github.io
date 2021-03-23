@@ -51,7 +51,7 @@ A selection of key activites with each society can be found below.
         <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/Roadshow%202016.png?raw=true" width="3000" style="padding-top: 10px; padding-bottom: 10px">
         <p> I was invited as a speaker on a subsequent roadshow in 2020 on 'High-Dimensional Analysis', alongside Dr. Felix Marsh-Wakefield and Givanna Putri from our team, which was converted to an online 'homeshow' due to COVID-19.
         </p>
-        <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Homeshow%20wide%20thin.png" width="3000" style="padding-top: 10px; padding-bottom: 10px">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are proud to announce, in association with <a href="https://twitter.com/ASImmunology?ref_src=twsrc%5Etfw">@ASImmunology</a> ASI-SIG, our 1st &quot;Homeshow&quot; showcasing High Dimensional Data Analysis: 17th-21th Aug. Follow link to register: <a href="https://t.co/7R5gNAXEwe">https://t.co/7R5gNAXEwe</a> Want to become an ACS member? Sign up here <a href="https://t.co/Q6pBc9cUev">https://t.co/Q6pBc9cUev</a> <a href="https://twitter.com/hashtag/flowcytometry?src=hash&amp;ref_src=twsrc%5Etfw">#flowcytometry</a> <a href="https://t.co/ZbyiH1HR9G">pic.twitter.com/ZbyiH1HR9G</a></p>&mdash; ACS- Australasian Cytometry Society (@ACScytometry) <a href="https://twitter.com/ACScytometry/status/1282501897966940160?ref_src=twsrc%5Etfw">July 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <p> </p>
       </td>
       </tr>
