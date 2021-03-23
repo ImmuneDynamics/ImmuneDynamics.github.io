@@ -35,12 +35,14 @@ A selection of key highlights can be found below.
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-          <img src="https://cytometry.org.au/wp-content/uploads/2018/05/cropped-169572_medium.jpg" width="3000" style="padding-top: 30px">
           <img src="https://www.immunology.org.au/_assets/img/asi-logo.png" width="3000" style="padding-top: 5px">
+          <img src="https://cytometry.org.au/wp-content/uploads/2018/05/cropped-169572_medium.jpg" width="3000" style="padding-top: 30px">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b>ACS Roadshows</b></p>
         <p>I have been engaged in a number of community-focused educational endeavours, such as the ACS roadshows in 2016 (**Polychromatic Flow Cytometry**; Dr. Pratip Chattopadhyay and [Thomas Ashhurst](tomashhurst.github.io)) and in 2020 (**[High-dimensional analysis](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/)**; [Dr. Thomas Ashhurst](tomashhurst.github.io), [Dr. Felix Marsh-Wakefield](https://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en), and [Givanna Putri](https://scholar.google.com/citations?user=S-sNLPIAAAAJ&hl=en)).</p>
+        <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Homeshow%20wide%20thin.png" width="3000" style="padding-top: 10px; padding-bottom: 10px">
+        <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/Roadshow%202016.png?raw=true" width="3000" style="padding-top: 10px; padding-bottom: 10px">
           <p> </p>
       </td>
       </tr>
