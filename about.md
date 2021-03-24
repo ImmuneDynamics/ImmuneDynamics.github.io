@@ -48,7 +48,7 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
       </tr>
 <!-- FOURTH ROW: Description --> 
       <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Immunologist and high-dimensional cytometry specialist. 
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Immunologist and high-dimensional cytometry specialist, Sydney Cytometry Core Research Facility, The University of Sydney.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
 Lecturer, Computer Science and Biomedicine at the University of Sydney.
