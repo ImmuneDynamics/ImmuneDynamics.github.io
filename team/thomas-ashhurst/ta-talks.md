@@ -6,6 +6,16 @@ permalink: /thomas-ashhurst/talks/
 
 ---
 
+**[Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre - applications in viral encephalitis and COVID-19](https://www.youtube.com/watch?v=DamU2mngEg8)**
+
+Seminar, Leiden University Medical Center
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/DamU2mngEg8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<br />
+
+---
+
 **[Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://youtu.be/poEDERGXrQw?t=3151)**
 
 Oz Single Cell 2020, Computational biology.
