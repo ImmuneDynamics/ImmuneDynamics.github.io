@@ -13,24 +13,6 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
 <table class="table gmisc_table">
   <tbody>
 <!-- FIRST ROW: TITLE --> 
-    <tr style="border-top:1px solid grey">
-      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:16px;font-weight:300;color:#00003f">Dr. Thomas Ashhurst
-        </div>
-      </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:16px;font-weight:300;color:#00003f">Dr. Mark Read
-        </div>
-      </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:16px;font-weight:300;color:#00003f">Dr. Felix Marsh-Wakefield
-        </div>
-      </td>
-            <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:16px;font-weight:300;color:#00003f">Givanna Putri
-        </div>
-      </td>
-    </tr>
 <!-- THIRD ROW: Image --> 
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;vertical-align:top">
@@ -48,14 +30,25 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
       </tr>
 <!-- FOURTH ROW: Description --> 
       <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Immunologist and high-dimensional cytometry specialist, Sydney Cytometry Core Research Facility, The University of Sydney.
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <div style="text-align:center;font-size:16px;font-weight:300;color:#00003f">Dr. Thomas Ashhurst
+          </div>
+            Immunologist and high-dimensional cytometry specialist, Sydney Cytometry Core Research Facility, The University of Sydney.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <div style="text-align:center;font-size:16px;font-weight:300;color:#00003f">Dr. Mark Read
+          </div>
 Lecturer, Computer Science and Biomedicine at the University of Sydney.
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top"> Post-doctoral researcher, Liver Injury & Cancer (Centenary Institute) and Human Cancer & Viral Immunology Laboratory (University of Sydney).
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top"> 
+          <div style="text-align:center;font-size:16px;font-weight:300;color:#00003f">Dr. Felix Marsh-Wakefield
+          </div>
+          Post-doctoral researcher, Liver Injury & Cancer (Centenary Institute) and Human Cancer & Viral Immunology Laboratory (University of Sydney).
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top"> PhD scholar, School of Computer Science at The University of Sydney. 
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top"> 
+          <div style="text-align:center;font-size:16px;font-weight:300;color:#00003f">Givanna Putri
+          </div>
+            PhD scholar, School of Computer Science at The University of Sydney. 
           </td>
      </tr>
 <!-- FIFTH ROW: Go to page --> 
