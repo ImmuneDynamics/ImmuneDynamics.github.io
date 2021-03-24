@@ -15,19 +15,19 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
 <!-- FIRST ROW: TITLE --> 
     <tr style="border-top:1px solid grey">
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:18px;font-weight:300;color:#00003f">Dr. Thomas Ashhurst
+        <div style="text-align:center;font-size:16px;font-weight:300;color:#00003f">Dr. Thomas Ashhurst
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:18px;font-weight:300;color:#00003f">Dr. Mark Read
+        <div style="text-align:center;font-size:16px;font-weight:300;color:#00003f">Dr. Mark Read
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:18px;font-weight:300;color:#00003f">Dr. Felix Marsh-Wakefield
+        <div style="text-align:center;font-size:16px;font-weight:300;color:#00003f">Dr. Felix Marsh-Wakefield
         </div>
       </td>
             <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:18px;font-weight:300;color:#00003f">Givanna Putri
+        <div style="text-align:center;font-size:16px;font-weight:300;color:#00003f">Givanna Putri
         </div>
       </td>
     </tr>
