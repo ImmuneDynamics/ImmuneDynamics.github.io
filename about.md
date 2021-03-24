@@ -15,19 +15,19 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
 <!-- FIRST ROW: TITLE --> 
     <tr style="border-top:1px solid grey">
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Dr. Thomas Ashhurst
+        <div style="text-align:center;font-size:18px;font-weight:300;color:#00003f">Dr. Thomas Ashhurst
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Dr. Mark Read
+        <div style="text-align:center;font-size:18px;font-weight:300;color:#00003f">Dr. Mark Read
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Dr. Felix Marsh-Wakefield
+        <div style="text-align:center;font-size:18px;font-weight:300;color:#00003f">Dr. Felix Marsh-Wakefield
         </div>
       </td>
             <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Givanna Putri
+        <div style="text-align:center;font-size:18px;font-weight:300;color:#00003f">Givanna Putri
         </div>
       </td>
     </tr>
@@ -48,14 +48,14 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
       </tr>
 <!-- FOURTH ROW: Description --> 
       <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Dr. Thomas Ashhurst is an immunologist and high-dimensional cytometry specialist with the Sydney Cytometry Core Research Facility at The University of Sydney. 
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Immunologist and high-dimensional cytometry specialist. 
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-Dr. Mark Read conducts research at the interface of Computer Science and Biomedicine at the University of Sydney.
+Lecturer, Computer Science and Biomedicine at the University of Sydney.
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top"> Dr. Felix Marsh-Wakefield is a post-doctoral researcher part of the Liver Injury & Cancer (Centenary Institute) and Human Cancer & Viral Immunology Laboratory (University of Sydney). 
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top"> Post-doctoral researcher, Liver Injury & Cancer (Centenary Institute) and Human Cancer & Viral Immunology Laboratory (University of Sydney).
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top"> Givanna Putri is a PhD scholar from School of Computer Science at The University of Sydney, supervised by Dr. Mark Read and Prof. Irena Koprinska. 
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top"> PhD scholar, School of Computer Science at The University of Sydney. 
           </td>
      </tr>
 <!-- FIFTH ROW: Go to page --> 
