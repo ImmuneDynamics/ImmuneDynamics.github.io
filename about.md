@@ -141,7 +141,7 @@ Lecturer, Computer Science and Biomedicine at the University of Sydney.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">TBC 
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Prof. King melds cell biology, virology, embryology and immunology into world-leading expertise in flavivirus-host interactions in mouse and human models, where he has made seminal contributions over 20 years. 
+          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Principle Investigator, The University of Sydney. 
           </td>
      </tr>
 <!-- FIFTH ROW: Go to page --> 
