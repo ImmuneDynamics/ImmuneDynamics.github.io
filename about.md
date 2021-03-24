@@ -31,22 +31,22 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
 <!-- FOURTH ROW: Description --> 
       <tr>
           <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FAFAFA;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-          <div style="text-align:center;font-size:16px;font-weight:300;color:#FFFFFF">Dr. Thomas Ashhurst
+          <div style="text-align:center;font-size:16px;font-weight:350;color:#00003f">Dr. Thomas Ashhurst
           </div>
             Immunologist and high-dimensional cytometry specialist, Sydney Cytometry Core Research Facility, The University of Sydney.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-          <div style="text-align:center;font-size:16px;font-weight:300;color:#FFFFFF">Dr. Mark Read
+          <div style="text-align:center;font-size:16px;font-weight:350;color:#00003f">Dr. Mark Read
           </div>
 Lecturer, Computer Science and Biomedicine at the University of Sydney.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid FFFFFF000;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid FFFFFF000;text-align:left; vertical-align:top"> 
-          <div style="text-align:center;font-size:16px;font-weight:300;color:#FFFFFF">Dr. Felix Marsh-Wakefield
+          <div style="text-align:center;font-size:16px;font-weight:350;color:#00003f">Dr. Felix Marsh-Wakefield
           </div>
           Post-doctoral researcher, Liver Injury & Cancer (Centenary Institute) and Human Cancer & Viral Immunology Laboratory (University of Sydney).
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top"> 
-          <div style="text-align:center;font-size:16px;font-weight:300;color:#FFFFFF">Givanna Putri
+          <div style="text-align:center;font-size:16px;font-weight:350;color:#00003f">Givanna Putri
           </div>
             PhD scholar, School of Computer Science at The University of Sydney. 
           </td>
