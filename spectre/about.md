@@ -22,23 +22,23 @@ Selected **publications** citing or acknowledging Spectre (or the initial versio
 
 - Koutsakos et al 2021, [Cell Reports Medicine](https://www.sciencedirect.com/science/article/pii/S2666379121000197)
 - Ferrell et al 2021, [Mucosal Immunology](https://www.nature.com/articles/s41385-021-00379-6)
-- Ng et al 2020, [Nature Immunology](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation)
+- Ng et al 2020, [**Nature Immunology**](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation)
 - Vuckovic et al 2020, [Blood Advances](https://ashpublications.org/bloodadvances/article/4/19/4593/463891/Inverse-relationship-between-oligoclonal-expanded)
 - Johnson et al 2020, [Frontiers in Immunology](https://www.frontiersin.org/articles/10.3389/fimmu.2020.01481/full)
 - Ferrer-Font et al, 2020, [Cytometry Part A](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24016)
 - Marsh-Wakefield et al 2020, [Clinical and Translational Immunology](https://onlinelibrary.wiley.com/doi/full/10.1002/cti2.1133)
-- Pirozyan 2020, Fronteirs in Immunology
-- Counoupas et al 2020, BioRxiv
-- Shinko et al 2019, Frontiers in immunology
-- Hayashida et al 2019, J Neuroinflam
-- Marsh-Wakefield et al 2019, Frontiers in immunology
-- Stifter et al 2019, Cell Reports
-- Stern et al 2018, Frontiers in Immunology
-- McGuire et al 2018, Cancer Immunology
-- Campbell et al 2018, Plos Pathogens
-- Jung et al 2018, J Immunol
-- Roediger et al 2018, Cell
-- Niewold et al 2018, Communications in Biology
+- Pirozyan 2020, [Fronteirs in Immunology]()
+- Counoupas et al 2020, [BioRxiv]()
+- Shinko et al 2019, [Frontiers in Immunology]()
+- Hayashida et al 2019, [J Neuroinflam]()
+- Marsh-Wakefield et al 2019, [Frontiers in immunology]()
+- Stifter et al 2019, [Cell Reports]()
+- Stern et al 2018, [Frontiers in Immunology]()
+- McGuire et al 2018, [Cancer Immunology]()
+- Campbell et al 2018, [Plos Pathogens]()
+- Jung et al 2018, [J Immunol]()
+- Roediger et al 2018, [**Cell**]()
+- Niewold et al 2018, [Communications in Biology]()
 
 Selected **online forums** citing Spectre (or the initial version of Spectre, 'CAPX') and associated scripts.
 - ResearchGate: https://www.researchgate.net/post/What_are_the_best_R_packages_for_flow_cytometric_data_analysis
