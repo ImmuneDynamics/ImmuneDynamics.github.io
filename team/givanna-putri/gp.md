@@ -1,5 +1,5 @@
 ---
-layout: ta
+layout: gp
 title: Givanna Putri - Profile
 permalink: /givanna-putri/
 ---
