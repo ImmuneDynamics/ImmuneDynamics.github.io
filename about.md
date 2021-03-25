@@ -103,7 +103,7 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
 <!-- THIRD ROW: Image --> 
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-                <a href="https://immunedynamics.github.io/thomas-ashhurst/">
+                <a href="https://scholar.google.com/citations?user=Wi2ADOEAAAAJ&hl=en">
           <img height = "200px" src="https://www.sydney.edu.au/research/opportunities/images/supervisors/KingN.jpg?1205985788" style="padding-top: 5px">
         </a>
       </td>
