@@ -14,7 +14,7 @@ The Spectre package was constructed on the basis of the CAPX workflow in R. Alon
 
 <br />
 
-## Citations of Spectre
+## Citations and references of Spectre
 
 ---
 
