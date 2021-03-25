@@ -60,7 +60,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 
 <p> </p>
 
-# Protocols: cytometry
+# Protocols - cytometry
 
 ---
 
@@ -82,7 +82,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 
 <p> </p>
 
-# Protocols: scRNAseq
+# Protocols - scRNAseq
 
 ---
 
@@ -105,7 +105,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 <p> </p>
 
 
-# Protocols: spatial analysis
+# Protocols - spatial analysis
 
 ---
 
