@@ -14,11 +14,11 @@ The Spectre package was constructed on the basis of the CAPX workflow in R. Alon
 
 <br />
 
-## Studies that have cited Spectre
+## Citations of Spectre
 
 ---
 
-Here is a selection of studies that cited Spectre (or the initial version of Spectre, 'CAPX') and associated scripts.
+Selected **studies** citing Spectre (or the initial version of Spectre, 'CAPX') and associated scripts.
 
 - Koutsakos et al 2021, Cell Reports Medicine
 - Ferrell et al 2021, Mucosal Immunology
@@ -35,6 +35,9 @@ Here is a selection of studies that cited Spectre (or the initial version of Spe
 - Jung et al 2018, J Immunol
 - Roediger et al 2018, Cell
 - Niewold et al 2018, Communications in Biology
+
+Selected **online forums** citing Spectre (or the initial version of Spectre, 'CAPX') and associated scripts.
+- ResearchGate: https://www.researchgate.net/post/What_are_the_best_R_packages_for_flow_cytometric_data_analysis
 
 <br />
 
