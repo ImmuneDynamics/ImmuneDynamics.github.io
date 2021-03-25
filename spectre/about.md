@@ -28,6 +28,8 @@ Spectre is an R package designed to facilitate data analysis workflows that simp
 
 Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) (or '[CAPX](https://github.com/sydneycytometry/CAPX)', the initial version of Spectre, and associated scripts ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12))) has been used in a variety of studies, both with our team and independently, including the study of COVID-19, vaccine responses, NK cell biology, multiple myeloma, pediatric burns, multiple sclerosis, bone marrow transplantation, and cerebral malaria, among others:
 
+*Published works*
+
 - Koutsakos et al 2021, [Cell Reports Medicine](https://www.sciencedirect.com/science/article/pii/S2666379121000197)
 - Ferrell et al 2021, [Mucosal Immunology](https://www.nature.com/articles/s41385-021-00379-6)
 - **Ng et al 2020, [Nature Immunology](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation)**
@@ -48,26 +50,24 @@ Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.
 - **Roediger et al 2018, [Cell](https://doi.org/10.1016/j.cell.2018.08.013)**
 - Niewold et al 2018, [Communications in Biology](https://www.nature.com/articles/s42003-018-0216-2)
 
-Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) (or '[CAPX](https://github.com/sydneycytometry/CAPX)', the initial version of Spectre, and associated scripts ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12))) has been also been reference in a number of online forums and posts:
+*Known presentations*
+
+- TCR2 one
+- ASI Brisbane talks
+- 
+
+From user feedback, we also know that these tools are in use in a wide range of contexts, including Universities, research institutions, and biotechnology companies. These tools have also been referenced in a number of online forums and posts:
 
 - [ResearchGate](https://www.researchgate.net/post/What_are_the_best_R_packages_for_flow_cytometric_data_analysis): What are the best R packages for flow cytometric data analysis?
 - [CyTOForum](http://cytoforum.stanford.edu/viewtopic.php?f=3&t=2007&p=5229&hilit=spectre#p5229): FlowJo transformation before clustering
 - [CyTOForum](http://cytoforum.stanford.edu/viewtopic.php?f=3&t=2303&p=5729&hilit=spectre#p5729): Data representation
 - [LinkedIn](https://www.linkedin.com/pulse/clinical-studies-immunotherapy-more-immune-monitoring-amir/): Clinical studies, immunotherapy, and more in the Immune Monitoring Biweekly (Issue 27)
 
-Spectre has also featured prominently in a number of **workshops**, such as the '[high-dimensional analysis homeshow](https://immunedynamics.io/homeshow/)' in 2020, hosted by the Australian Cytometry Society and Australia and New Zealand society for Immunology.
+Spectre has also featured prominently in community **workshops**, such as the '[high-dimensional analysis homeshow](https://immunedynamics.io/homeshow/)' in 2020, hosted by the Australian Cytometry Society and Australia and New Zealand society for Immunology.
 
 <br />
 
-## What makes Spectre different?
-
----
-
-TBC
-
-<br />
-
-## Built on data.table
+## Spectre built on data.table
 
 ---
 
@@ -85,10 +85,3 @@ Whilst clustering tools such as FlowSOM scale well to large datasets, dimensiona
 
 <br />
 
-## Details
-
----
-
-TBC
-
-<br />
