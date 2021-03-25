@@ -26,7 +26,7 @@ Spectre is an R package designed to facilitate data analysis workflows that simp
 
 ---
 
-Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) (or '[CAPX](https://github.com/sydneycytometry/CAPX)', the initial version of Spectre, and associated scripts ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12))) has been used in a variety of studies, both with our team and independently, including the study of COVID-19, vaccine responses, NK cell biology, multiple myeloma, pediatric burns, multiple sclerosis, bone marrow transplantation, and cerebral malaria, among others:
+Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) (or '[CAPX](https://github.com/sydneycytometry/CAPX)', the initial version of Spectre, and associated scripts ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12))) has been used in a variety of studies, both with our team and independently, including the study of COVID-19, vaccine responses, NK cell biology, multiple myeloma, pediatric burns, multiple sclerosis, bone marrow transplantation, and cerebral malaria, among others; in prestigious journals such as [Cell](https://doi.org/10.1016/j.cell.2018.08.013) and [Nature Immunology](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation):
 
 *Published works*
 
@@ -50,13 +50,14 @@ Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.
 - **Roediger et al 2018, [Cell](https://doi.org/10.1016/j.cell.2018.08.013)**
 - Niewold et al 2018, [Communications in Biology](https://www.nature.com/articles/s42003-018-0216-2)
 
-*Known presentations*
+From evidence at conferences, online posts, or feedback from users, we  know that these tools are in use in a wide range of contexts, including Universities, research institutions, and biotechnology companies. These tools have also been referenced in a number of online forums and posts.
+
+*Select presentations*
 
 - TCR2 one
 - ASI Brisbane talks
-- 
 
-From user feedback, we also know that these tools are in use in a wide range of contexts, including Universities, research institutions, and biotechnology companies. These tools have also been referenced in a number of online forums and posts:
+*Online forums and posts*
 
 - [ResearchGate](https://www.researchgate.net/post/What_are_the_best_R_packages_for_flow_cytometric_data_analysis): What are the best R packages for flow cytometric data analysis?
 - [CyTOForum](http://cytoforum.stanford.edu/viewtopic.php?f=3&t=2007&p=5229&hilit=spectre#p5229): FlowJo transformation before clustering
