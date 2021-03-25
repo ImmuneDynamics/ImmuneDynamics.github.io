@@ -16,7 +16,7 @@ As the size and complexity of high-dimensional cytometry data continues to expan
 [Ashhurst\*, Marsh-Wakefield\*, Putri\* et al. bioRxiv. 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="99729668" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 30px"></div>
 
-<br />
+<p> </p>
 
 ## What is Spectre
 
@@ -36,7 +36,7 @@ In the following presentation, we describe the integration, exploration, and ana
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/poEDERGXrQw?start=3151" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<br />
+<p> </p>
 
 ## Works citing Spectre
 
@@ -84,7 +84,7 @@ From evidence at conferences, online posts, or feedback from users, we  know tha
 
 Spectre has also featured prominently in community **workshops**, such as the '[high-dimensional analysis homeshow](https://immunedynamics.io/homeshow/)' in 2020, hosted by the [Australian Cytometry Society](https://cytometry.org.au/) and [Australia and New Zealand society for Immunology](https://www.immunology.org.au/).
 
-<br />
+<p> </p>
 
 ## Spectre built on data.table
 
@@ -94,7 +94,7 @@ Many existing computational tools store data in a custom format, such as the flo
 
 Rather than storing analysis outputs (clusters, dimensionality reduction values, annotations etc) in separate areas of a custom data format, Spectre simply adds new columns to the existing data.table. The simplicity of this data structure facilitates extremely fast and simple filtering/subsetting by data.table, as every cell (row) contains all of the information relevant for that cell: such as cellular expression, samples/groups, clusters/populations, and dimensionality reduction coordinates.
 
-<br />
+<p> </p>
 
 ## Clustering and dimensionality reduction strategies for large datasets
 
@@ -103,4 +103,3 @@ Rather than storing analysis outputs (clusters, dimensionality reduction values,
 Whilst clustering tools such as FlowSOM scale well to large datasets, dimensionality reduction approaches such as t-SNE and UMAP do not; as they incur lengthy computing time, excessive memory usage, and significant crowding effects that inhibit their utility. Whilst some improvements to runtime (flt-SNE) and plot crowding (opt-SNE) have been made, scalability and plot crowding limitations persist. As dimensionality reduction tools are primarily used to visualise cellular data and clustering results, we plot a subset of the clustered data, which addresses scalability and retains legibility. By using proportional subsampling from each sample, the relative number of cells from each cluster in each sample can be preserved in a smaller dataset, allowing for interpretable analysis via DR. Putative cellular populations amongst the clusters can then be identified, and annotated in both the subsampled DR dataset, as well as the whole clustered dataset. The whole annotated dataset can subsequently be used in downstream quantification and statistical analysis.
 
 <br />
-
