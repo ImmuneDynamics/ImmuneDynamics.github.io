@@ -54,7 +54,7 @@ Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.
 - Roediger et al 2018, [Cell](https://doi.org/10.1016/j.cell.2018.08.013)
 - Niewold et al 2018, [Communications in Biology](https://www.nature.com/articles/s42003-018-0216-2)
 
-From evidence at conferences, online posts, or feedback from users, we  know that these tools are in use in a wide range of contexts, including Universities, research institutions, and biotechnology companies. These tools have also been referenced in a number of online forums and posts.
+From evidence at conferences, online posts, or feedback from users, we  know that these tools are in use in a wide range of contexts, including universities, research institutions, and biotechnology companies. These tools have also been referenced in a number of online forums and posts.
 
 *Select presentations*
 
