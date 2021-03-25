@@ -18,11 +18,13 @@ The Spectre package was constructed on the basis of the CAPX workflow in R. Alon
 
 ---
 
-Selected **studies** citing Spectre (or the initial version of Spectre, 'CAPX') and associated scripts.
+Selected **publications** citing or acknowledging Spectre (or the initial version of Spectre, 'CAPX') and associated scripts.
 
 - Koutsakos et al 2021, Cell Reports Medicine
 - Ferrell et al 2021, Mucosal Immunology
 - Vuckovic et al 2020, Blood Advances
+- Johnson et al 2020, Frontiers in Immunology
+- Ferrer-Font et al, 2020, Cytometry Part A
 - Marsh-Wakefield et al 2020, Clinical and Translational Immunology
 - Pirozyan 2020, Fronteirs in Immunology
 - Counoupas et al 2020, BioRxiv
@@ -30,6 +32,7 @@ Selected **studies** citing Spectre (or the initial version of Spectre, 'CAPX') 
 - Hayashida et al 2019, J Neuroinflam
 - Marsh-Wakefield et al 2019, Frontiers in immunology
 - Stifter et al 2019, Cell Reports
+- Stern et al 2018, Frontiers in immunology
 - McGuire et al 2018, Cancer Immunology
 - Campbell et al 2018, Plos Pathogens
 - Jung et al 2018, J Immunol
