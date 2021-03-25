@@ -12,7 +12,7 @@ As the size and complexity of high-dimensional cytometry data continues to expan
 
 The Spectre package was constructed on the basis of the CAPX workflow in R. Along with the various R packages used within Spectre, we would like to acknowledge the cytofkit and Seurat R packages from providing inspiration for elements of the package design.
 
-< br />
+<br />
 
 ## Studies that have cited Spectre
 
