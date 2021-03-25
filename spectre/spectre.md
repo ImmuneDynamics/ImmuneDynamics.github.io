@@ -10,6 +10,7 @@ permalink: /spectre/
 
 ![Spectre](https://wiki.centenary.org.au/download/attachments/146080606/sketch-image-1615023265755.png?version=1&modificationDate=1615023277206&api=v2)
 ![Spectre2](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Clusters%20wide.png)
+![Spectre3](https://wiki.centenary.org.au/download/attachments/172228252/image2021-2-25_22-32-15.png?version=1&modificationDate=1614252735692&api=v2)
 
 <p> </p>
 
