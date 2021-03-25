@@ -14,9 +14,13 @@ permalink: /givanna-putri/
     </div>
 </div>
 
-Description
+Givanna Putri is...
+
+<br />
 
 ---
 
 **Contact info**
 
+Email:
+Twitter:
