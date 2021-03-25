@@ -36,7 +36,7 @@ Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.
 
 - Koutsakos et al 2021, [Cell Reports Medicine](https://www.sciencedirect.com/science/article/pii/S2666379121000197)
 - Ferrell et al 2021, [Mucosal Immunology](https://www.nature.com/articles/s41385-021-00379-6)
-- **Ng et al 2020, [Nature Immunology](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation)**
+- Ng et al 2020, [Nature Immunology](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation)
 - Vuckovic et al 2020, [Blood Advances](https://ashpublications.org/bloodadvances/article/4/19/4593/463891/Inverse-relationship-between-oligoclonal-expanded)
 - Johnson et al 2020, [Frontiers in Immunology](https://www.frontiersin.org/articles/10.3389/fimmu.2020.01481/full)
 - Ferrer-Font et al, 2020, [Cytometry Part A](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24016)
@@ -51,7 +51,7 @@ Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.
 - McGuire et al 2018, [Cancer Immunology](https://link.springer.com/article/10.1007/s00262-017-2107-7)
 - Campbell et al 2018, [Plos Pathogens](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006999)
 - Jung et al 2018, [J Immunol](https://www.jimmunol.org/content/201/7/2176.abstract)
-- **Roediger et al 2018, [Cell](https://doi.org/10.1016/j.cell.2018.08.013)**
+- Roediger et al 2018, [Cell](https://doi.org/10.1016/j.cell.2018.08.013)
 - Niewold et al 2018, [Communications in Biology](https://www.nature.com/articles/s42003-018-0216-2)
 
 From evidence at conferences, online posts, or feedback from users, we  know that these tools are in use in a wide range of contexts, including Universities, research institutions, and biotechnology companies. These tools have also been referenced in a number of online forums and posts.
