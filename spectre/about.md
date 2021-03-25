@@ -26,7 +26,7 @@ Spectre is an R package designed to facilitate data analysis workflows that simp
 
 ---
 
-Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) (or '[CAPX](https://github.com/sydneycytometry/CAPX)', the initial version of Spectre, and associated scripts ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12))) has been used in a variety of studies, including the study of COVID-19, vaccine responses, NK cell biology, multiple myeloma, pediatric burns, multiple sclerosis, bone marrow transplantation, and cerebral malaria, among others:
+Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) (or '[CAPX](https://github.com/sydneycytometry/CAPX)', the initial version of Spectre, and associated scripts ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12))) has been used in a variety of studies, both with our team and independently, including the study of COVID-19, vaccine responses, NK cell biology, multiple myeloma, pediatric burns, multiple sclerosis, bone marrow transplantation, and cerebral malaria, among others:
 
 - Koutsakos et al 2021, [Cell Reports Medicine](https://www.sciencedirect.com/science/article/pii/S2666379121000197)
 - Ferrell et al 2021, [Mucosal Immunology](https://www.nature.com/articles/s41385-021-00379-6)
@@ -35,18 +35,18 @@ Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.
 - Johnson et al 2020, [Frontiers in Immunology](https://www.frontiersin.org/articles/10.3389/fimmu.2020.01481/full)
 - Ferrer-Font et al, 2020, [Cytometry Part A](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24016)
 - Marsh-Wakefield et al 2020, [Clinical and Translational Immunology](https://onlinelibrary.wiley.com/doi/full/10.1002/cti2.1133)
-- Pirozyan 2020, [Fronteirs in Immunology]()
-- Counoupas et al 2020, [BioRxiv]()
-- Shinko et al 2019, [Frontiers in Immunology]()
-- Hayashida et al 2019, [J Neuroinflam]()
-- Marsh-Wakefield et al 2019, [Frontiers in immunology]()
-- Stifter et al 2019, [Cell Reports]()
-- Stern et al 2018, [Frontiers in Immunology]()
-- McGuire et al 2018, [Cancer Immunology]()
-- Campbell et al 2018, [Plos Pathogens]()
-- Jung et al 2018, [J Immunol]()
+- Pirozyan 2020, [Fronteirs in Immunology](https://www.frontiersin.org/articles/10.3389/fimmu.2020.00372/full)
+- Counoupas et al 2020, [BioRxiv](https://doi.org/10.1101/2020.02.25.964312)
+- Shinko et al 2019, [Frontiers in Immunology](https://www.frontiersin.org/articles/10.3389/fimmu.2019.02584/full)
+- Hayashida et al 2019, [J Neuroinflam](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5)
+- Marsh-Wakefield et al 2019, [Frontiers in immunology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6688400/)
+- Stifter et al 2019, [Cell Reports](https://www.cell.com/cell-reports/pdf/S2211-1247(19)31492-5.pdf)
+- Stern et al 2018, [Frontiers in Immunology](https://www.frontiersin.org/articles/10.3389/fimmu.2018.01672/full)
+- McGuire et al 2018, [Cancer Immunology](https://link.springer.com/article/10.1007/s00262-017-2107-7)
+- Campbell et al 2018, [Plos Pathogens](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006999)
+- Jung et al 2018, [J Immunol](https://www.jimmunol.org/content/201/7/2176.abstract)
 - **Roediger et al 2018, [Cell](https://doi.org/10.1016/j.cell.2018.08.013)**
-- Niewold et al 2018, [Communications in Biology]()
+- Niewold et al 2018, [Communications in Biology](https://www.nature.com/articles/s42003-018-0216-2)
 
 Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) (or '[CAPX](https://github.com/sydneycytometry/CAPX)', the initial version of Spectre, and associated scripts ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12))) has been also been reference in a number of online forums and posts:
 
