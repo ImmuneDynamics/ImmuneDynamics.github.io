@@ -4,17 +4,11 @@ title: Citation
 permalink: /spectre/citation/
 ---
 
-<br />
-
-## Citing spectre
-
-If you use Spectre in your work, please consider citing [Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2020). bioRxiv. 2020.10.22.349563](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). To continue providing open-source tools such as Spectre, it helps us if we can demonstrate that our efforts are contributing to analysis efforts in the community. Please also consider citing the authors of the individual packages or tools (e.g. CytoNorm, FlowSOM, tSNE, UMAP, etc) that are critical elements of your analysis work. We have provided some generic text that you can use for your methods section with each protocol and on the '[about](https://wiki.centenary.org.au/x/az0MCQ)' page.
+**Citation**: if you use Spectre in your work, please consider citing [Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2020). bioRxiv. 2020.10.22.349563](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). To continue providing open-source tools such as Spectre, it helps us if we can demonstrate that our efforts are contributing to analysis efforts in the community. Please also consider citing the authors of the individual packages or tools (e.g. CytoNorm, FlowSOM, tSNE, UMAP, etc) that are critical elements of your analysis work. We have provided some generic text that you can use for your methods section with each protocol and on the '[about](https://wiki.centenary.org.au/x/az0MCQ)' page.
 
 <br />
 
-## Citations and references of Spectre
-
-Select *publications* citing or acknowledging Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) or 'CAPX', the initial version of Spectre ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)), and associated scripts.
+**Current references**: select publications citing or acknowledging Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) or 'CAPX', the initial version of Spectre ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)), and associated scripts.
 
 - Koutsakos et al 2021, [Cell Reports Medicine](https://www.sciencedirect.com/science/article/pii/S2666379121000197)
 - Ferrell et al 2021, [Mucosal Immunology](https://www.nature.com/articles/s41385-021-00379-6)
@@ -36,7 +30,7 @@ Select *publications* citing or acknowledging Spectre ([Ashhurst et al, 2020](ht
 - **Roediger et al 2018, [Cell](https://doi.org/10.1016/j.cell.2018.08.013)**
 - Niewold et al 2018, [Communications in Biology]()
 
-Select *online media* referencing Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) or 'CAPX', the initial version of Spectre ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)), and associated scripts.
+Select online media referencing Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) or 'CAPX', the initial version of Spectre ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)), and associated scripts.
 
 - [ResearchGate](https://www.researchgate.net/post/What_are_the_best_R_packages_for_flow_cytometric_data_analysis): What are the best R packages for flow cytometric data analysis?
 - [CyTOForum](http://cytoforum.stanford.edu/viewtopic.php?f=3&t=2007&p=5229&hilit=spectre#p5229): FlowJo transformation before clustering
@@ -44,4 +38,3 @@ Select *online media* referencing Spectre ([Ashhurst et al, 2020](https://www.bi
 - [LinkedIn](https://www.linkedin.com/pulse/clinical-studies-immunotherapy-more-immune-monitoring-amir/): Clinical studies, immunotherapy, and more in the Immune Monitoring Biweekly (Issue 27)
 
 <br />
-
