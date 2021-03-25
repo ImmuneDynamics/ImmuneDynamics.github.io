@@ -41,7 +41,7 @@ Selected **publications** citing or acknowledging Spectre (or the initial versio
 - Niewold et al 2018, [Communications in Biology]()
 
 Selected **online forums** citing Spectre (or the initial version of Spectre, 'CAPX') and associated scripts.
-- 'What are the best R packages for flow cytometric data analysis?', [ResearchGate](https://www.researchgate.net/post/What_are_the_best_R_packages_for_flow_cytometric_data_analysis)
+- [ResearchGate](https://www.researchgate.net/post/What_are_the_best_R_packages_for_flow_cytometric_data_analysis): 'What are the best R packages for flow cytometric data analysis?'
 
 <br />
 
