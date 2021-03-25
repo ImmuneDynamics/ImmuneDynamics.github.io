@@ -47,7 +47,7 @@ Select online media referencing Spectre ([Ashhurst et al, 2020](https://www.bior
 - [CyTOForum](http://cytoforum.stanford.edu/viewtopic.php?f=3&t=2303&p=5729&hilit=spectre#p5729): Data representation
 - [LinkedIn](https://www.linkedin.com/pulse/clinical-studies-immunotherapy-more-immune-monitoring-amir/): Clinical studies, immunotherapy, and more in the Immune Monitoring Biweekly (Issue 27)
 
-Spectre has also featured prominently in a number of workshops, such as the '[high-dimensional analysis homeshow](https://immunedynamics.io/homeshow/)' in 2020, hosted by the Australian Cytometry Society and Australia and New Zealand society for Immunology.
+Spectre has also featured prominently in a number of **workshops**, such as the '[high-dimensional analysis homeshow](https://immunedynamics.io/homeshow/)' in 2020, hosted by the Australian Cytometry Society and Australia and New Zealand society for Immunology.
 
 <br />
 
