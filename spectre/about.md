@@ -40,7 +40,7 @@ Selected **publications** citing or acknowledging Spectre (or the initial versio
 - **Roediger et al 2018, [Cell]()**
 - Niewold et al 2018, [Communications in Biology]()
 
-Selected **online forums** citing Spectre (or the initial version of Spectre, 'CAPX') and associated scripts.
+Selected **online media** referencing Spectre (or the initial version of Spectre, 'CAPX') and associated scripts.
 - [ResearchGate](https://www.researchgate.net/post/What_are_the_best_R_packages_for_flow_cytometric_data_analysis): What are the best R packages for flow cytometric data analysis?
 - [CyTOForum](http://cytoforum.stanford.edu/viewtopic.php?f=3&t=2007&p=5229&hilit=spectre#p5229): FlowJo transformation before clustering
 - [CyTOForum](http://cytoforum.stanford.edu/viewtopic.php?f=3&t=2303&p=5729&hilit=spectre#p5729): Data representation
