@@ -37,7 +37,7 @@ Selected **publications** citing or acknowledging Spectre (or the initial versio
 - McGuire et al 2018, [Cancer Immunology]()
 - Campbell et al 2018, [Plos Pathogens]()
 - Jung et al 2018, [J Immunol]()
-- **Roediger et al 2018, [Cell]()**
+- **Roediger et al 2018, [Cell](https://doi.org/10.1016/j.cell.2018.08.013)**
 - Niewold et al 2018, [Communications in Biology]()
 
 Selected **online media** referencing Spectre (or the initial version of Spectre, 'CAPX') and associated scripts.
