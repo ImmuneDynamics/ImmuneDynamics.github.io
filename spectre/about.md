@@ -26,7 +26,7 @@ Spectre is an R package designed to facilitate data analysis workflows that simp
 
 ---
 
-Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) (or '[CAPX](https://github.com/sydneycytometry/CAPX)', the initial version of Spectre, and associated scripts ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12))) has been used in a variety of studies, including the study of COVID-19, vaccine responses, NK cell biology, multiple myeloma, pediatric burns, multiple sclerosis, bone marrow transplantation, and cerebral malaria, among others.
+Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) (or '[CAPX](https://github.com/sydneycytometry/CAPX)', the initial version of Spectre, and associated scripts ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12))) has been used in a variety of studies, including the study of COVID-19, vaccine responses, NK cell biology, multiple myeloma, pediatric burns, multiple sclerosis, bone marrow transplantation, and cerebral malaria, among others:
 
 - Koutsakos et al 2021, [Cell Reports Medicine](https://www.sciencedirect.com/science/article/pii/S2666379121000197)
 - Ferrell et al 2021, [Mucosal Immunology](https://www.nature.com/articles/s41385-021-00379-6)
@@ -48,7 +48,7 @@ Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.
 - **Roediger et al 2018, [Cell](https://doi.org/10.1016/j.cell.2018.08.013)**
 - Niewold et al 2018, [Communications in Biology]()
 
-Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) (or '[CAPX](https://github.com/sydneycytometry/CAPX)', the initial version of Spectre, and associated scripts ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12))) has been also been reference in a number of online forums and posts.
+Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) (or '[CAPX](https://github.com/sydneycytometry/CAPX)', the initial version of Spectre, and associated scripts ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12))) has been also been reference in a number of online forums and posts:
 
 - [ResearchGate](https://www.researchgate.net/post/What_are_the_best_R_packages_for_flow_cytometric_data_analysis): What are the best R packages for flow cytometric data analysis?
 - [CyTOForum](http://cytoforum.stanford.edu/viewtopic.php?f=3&t=2007&p=5229&hilit=spectre#p5229): FlowJo transformation before clustering
