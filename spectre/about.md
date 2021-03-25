@@ -51,8 +51,6 @@ Select **online media** referencing Spectre ([Ashhurst et al, 2020](https://www.
 
 ## What makes Spectre different?
 
----## What makes Spectre different?
-
 ---
 
 TBC
