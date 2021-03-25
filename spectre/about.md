@@ -22,6 +22,7 @@ Selected **publications** citing or acknowledging Spectre (or the initial versio
 
 - Koutsakos et al 2021, Cell Reports Medicine
 - Ferrell et al 2021, Mucosal Immunology
+- Ng et al 2020, Nature Immunology
 - Vuckovic et al 2020, Blood Advances
 - Johnson et al 2020, Frontiers in Immunology
 - Ferrer-Font et al, 2020, Cytometry Part A
