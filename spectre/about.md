@@ -68,7 +68,7 @@ From evidence at conferences, online posts, or feedback from users, we  know tha
 - [CyTOForum](http://cytoforum.stanford.edu/viewtopic.php?f=3&t=2303&p=5729&hilit=spectre#p5729): Data representation
 - [LinkedIn](https://www.linkedin.com/pulse/clinical-studies-immunotherapy-more-immune-monitoring-amir/): Clinical studies, immunotherapy, and more in the Immune Monitoring Biweekly (Issue 27)
 
-Spectre has also featured prominently in community **workshops**, such as the '[high-dimensional analysis homeshow](https://immunedynamics.io/homeshow/)' in 2020, hosted by the Australian Cytometry Society and Australia and New Zealand society for Immunology.
+Spectre has also featured prominently in community **workshops**, such as the '[high-dimensional analysis homeshow](https://immunedynamics.io/homeshow/)' in 2020, hosted by the [Australian Cytometry Society](https://cytometry.org.au/) and [Australia and New Zealand society for Immunology](https://www.immunology.org.au/).
 
 <br />
 
