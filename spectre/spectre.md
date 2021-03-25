@@ -10,6 +10,13 @@ permalink: /spectre/
 
 ![Spectre](https://wiki.centenary.org.au/download/attachments/146080606/sketch-image-1615023265755.png?version=1&modificationDate=1615023277206&api=v2)
 ![Spectre2](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Clusters%20wide.png)
+
+<p> </p>
+
+Along with flow, spectral, or mass cytometry data, Spectre enables [spatial analysis](https://immunedynamics.github.io/spectre/spatial/) of Imaging Mass Cytometry (IMC) data. Through our extension package, ‘[SpectreMAP](https://immunedynamics.github.io/spectre/spatial/)’, we can import, manage, and visualise TIFF files using RStudio. Once [cell segmentation](https://immunedynamics.github.io/spectre/spatial/) has been performed (using [our protocols](https://immunedynamics.github.io/spectre/spatial/), or those [developed by others](https://immunedynamics.github.io/spectre/spatial/)), the marker expression data for each cell across multiple images can be calculated and incorporated into a single data.table.
+
+<p> </p>
+
 ![Spectre3](https://wiki.centenary.org.au/download/attachments/172228252/image2021-2-25_22-32-15.png?version=1&modificationDate=1614252735692&api=v2)
 
 <p> </p>
