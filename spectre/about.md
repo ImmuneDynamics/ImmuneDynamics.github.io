@@ -58,8 +58,10 @@ From evidence at conferences, online posts, or feedback from users, we  know tha
 
 *Select presentations*
 
-- TCR2 one
-- ASI Brisbane talks
+- [Cancer Research, 2019](https://cancerres.aacrjournals.org/content/79/13_Supplement/2307.short)
+- [International Congress of Immunology, 2016](http://ici2016-c10000.epresenter.com.au/clients/1/121/submissions/14263/abstract.pdf)
+- [Annual Meeting of the German Society for Immunology](https://onlinelibrary.wiley.com/doi/pdf/10.1002/eji.201770300#page=243)
+- Neurology: [Alemtuzumab](https://n.neurology.org/content/94/15_Supplement/3937.abstract), [B cells and multiple sclerosis](https://n.neurology.org/content/94/15_Supplement/3953.abstract), [T cells and multiple sclerosis](https://n.neurology.org/content/94/15_Supplement/5301.abstract)
 
 *Online forums and posts*
 
