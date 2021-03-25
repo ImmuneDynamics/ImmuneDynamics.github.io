@@ -36,7 +36,7 @@ Spectre is an R package designed to facilitate data analysis workflows that simp
 
 Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) (or '[CAPX](https://github.com/sydneycytometry/CAPX)', the initial version of Spectre, and associated scripts ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12))) has been used in a variety of studies, both with our team and independently, including the study of COVID-19, vaccine responses, NK cell biology, multiple myeloma, pediatric burns, multiple sclerosis, bone marrow transplantation, and cerebral malaria, among others; in prestigious journals such as [Cell](https://doi.org/10.1016/j.cell.2018.08.013) and [Nature Immunology](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation):
 
-*Published works*
+*Select publications*
 
 - Koutsakos et al 2021, [Cell Reports Medicine](https://www.sciencedirect.com/science/article/pii/S2666379121000197)
 - Ferrell et al 2021, [Mucosal Immunology](https://www.nature.com/articles/s41385-021-00379-6)
