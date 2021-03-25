@@ -10,6 +10,8 @@ permalink: /spectre/citation/
 
 If you use Spectre in your work, please consider citing [Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2020). bioRxiv. 2020.10.22.349563](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). To continue providing open-source tools such as Spectre, it helps us if we can demonstrate that our efforts are contributing to analysis efforts in the community. Please also consider citing the authors of the individual packages or tools (e.g. CytoNorm, FlowSOM, tSNE, UMAP, etc) that are critical elements of your analysis work. We have provided some generic text that you can use for your methods section with each protocol and on the '[about](https://wiki.centenary.org.au/x/az0MCQ)' page.
 
+<br />
+
 ## Citations and references of Spectre
 
 Select *publications* citing or acknowledging Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) or 'CAPX', the initial version of Spectre ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)), and associated scripts.
