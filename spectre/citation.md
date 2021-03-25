@@ -1,6 +1,6 @@
 ---
 layout: spectre
-title: Citations and references of Spectre
+title: Citation
 permalink: /spectre/citation/
 ---
 
