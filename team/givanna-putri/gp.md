@@ -14,7 +14,7 @@ permalink: /givanna-putri/
     </div>
 </div>
 
-Givanna Putri is...
+Givanna Putri is a PhD scholar from School of Computer Science at The University of Sydney, supervised by Dr. Mark Read and Prof. Irena Koprinska. She is a member of The Charles Perkins Centre, interested in interdisciplinary research, specifically using machine learning to uncover the development of immune response over time.
 
 <br />
 
