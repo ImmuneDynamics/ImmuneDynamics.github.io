@@ -4,8 +4,6 @@ title: Getting started
 permalink: /spectre/getting-started/
 ---
 
-<br />
-
 ## R and RStudio
 
 <table class="table gmisc_table">
