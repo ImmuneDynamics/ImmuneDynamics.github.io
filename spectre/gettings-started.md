@@ -24,7 +24,7 @@ permalink: /spectre/getting-started/
         <a href="https://cran.r-project.org/mirrors.html" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Download R
         </span></b></a>
-        <p> </p>
+         | 
         <a href="https://rstudio.com/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Download RStudio
         </span></b></a>
