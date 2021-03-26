@@ -67,7 +67,7 @@ In 2014, during my PhD in the laboratory of [Prof. Nicholas King](https://www.sy
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/IMC%20long.png?raw=true" alt="icon" width="180" align="left" style="padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/IMC%20long.png?raw=true" alt="icon" width="180" align="right" style="padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px">
         </a>
     </div>
 </div>
@@ -91,7 +91,7 @@ In 2016, with the [Sydney Cytometry Core Research Facility](), I took a leading 
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Aurora.png?raw=true" alt="icon" width="180" align="left" style="padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Aurora.png?raw=true" alt="icon" width="180" align="right" style="padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px">
         </a>
     </div>
 </div>
