@@ -1,10 +1,10 @@
 ---
 layout: ta
-title: Thomas Ashhurst - Single Cell and Spatial Technologies
+title: Thomas Ashhurst - Technology and Analysis
 permalink: /thomas-ashhurst/technology/
 ---
 
-## High-dimensional cytometry, imaging, and single-cell technologies ##
+## Single-cell and imaging technologies ##
 
 <!--![HD](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/HDtech3.png)-->
 
