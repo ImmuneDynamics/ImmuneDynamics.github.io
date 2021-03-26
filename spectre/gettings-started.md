@@ -15,9 +15,9 @@ permalink: /spectre/getting-started/
           <img src="https://www.r-project.org/logo/Rlogo.svg" width="3000">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>
+        <p><h3>
           Install R and RStudio
-        </b></p>
+        </h3></p>
         <p>
           Download the latest version of R by visiting https://cran.r-project.org/mirrors.html and selecting a mirror to download R. Download the latest version of R Studio by visiting https://rstudio.com/ and go to download.
         </p>
@@ -29,9 +29,9 @@ permalink: /spectre/getting-started/
             Download RStudio
         </span></b></a>
         <br />
-        <p><b>
+        <p><h3>
           R & RStudio tutorial
-        </b></p>
+        </h3></p>
         <p>
           To get started with using R/RStudio, check out our brief introductory R tutorial.
         </p>
@@ -55,9 +55,9 @@ permalink: /spectre/getting-started/
           <img src="https://dl3.cbsistatic.com/catalog/2017/12/19/9bbc46dc-1d94-45d0-977a-e4e776e0588d/imgingest-1712473237099407863.png" width="3000">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>
+        <p><h3>
           Install XQuartz (for mac users)
-        </b></p>
+        </h3></p>
         <p>
           For mac users only, X11 (including tcltk) requires XQuartz to be installed since it is no longer part of OS X. Always re-install XQuartz when upgrading your macOS to a new major version.
         </p>
@@ -85,9 +85,9 @@ permalink: /spectre/getting-started/
           <img src="https://wiki.centenary.org.au/download/attachments/146080606/Spectre%20wide.png?version=1&modificationDate=1614253260985&api=v2" width="3000">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>
+        <p><h3>
           Install Spectre (from Github)
-        </b></p>
+        </h3></p>
         <p>
           Instructions for install and updating Spectre from Github (current default choice) is described below on this page.
         </p>
@@ -95,9 +95,9 @@ permalink: /spectre/getting-started/
             Install from Github
         </span></b></a>
         <br />
-        <p><b>
+        <p><h3>
           Spectre tutorial
-        </b></p>
+        </h3></p>
         <p>
           To get started, you can check out our Spectre tutorial.
         </p>
@@ -121,9 +121,9 @@ permalink: /spectre/getting-started/
           <img src="https://wiki.centenary.org.au/download/attachments/172228252/SpectreMAP%20wide.png?version=2&modificationDate=1614467478815&api=v2" width="3000">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>
+        <p><h3>
           Install SpectreMAP (if performing spatial analysis)
-        </b></p>
+        </h3></p>
         <p>
           If you intend to perform spatial analysis of Imaging Mass Cytometry (IMC) data, your will also need to install SpectreMAP.
         </p>
