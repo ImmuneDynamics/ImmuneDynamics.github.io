@@ -23,7 +23,7 @@ Below we describe areas of research. More information on the research interests 
 
 <br />
 
-## Computational analysis and data integration across cytometry and single-cell technologies
+## Data analysis and integration across cytometry and single-cell technologies
 
 ---
 
