@@ -87,4 +87,139 @@ permalink: /spectre/getting-started/
 
 <p> </p>
 
+<br />
 
+## Spectre
+
+---
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://wiki.centenary.org.au/download/attachments/146080606/image2020-4-7_16-49-11.png?version=1&modificationDate=1586242151363&api=v2" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b>
+          Install Spectre (from Github)
+        </b></p>
+        <p>
+          Instructions for install and updating Spectre from Github (current default choice) is described below on this page.
+        </p>
+        <a href="https://wiki.centenary.org.au/x/7-kiCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+            Install from Github
+        </span></b></a>
+        <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<p> </p>
+
+
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://wiki.centenary.org.au/download/attachments/146080606/image2020-4-7_16-49-11.png?version=1&modificationDate=1586242151363&api=v2" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b>
+          Install SpectreMAP (if performing spatial analysis)
+        </b></p>
+        <p>
+          If you intend to perform spatial analysis of Imaging Mass Cytometry (IMC) data, your will also need to install SpectreMAP.
+        </p>
+        <a href="https://wiki.centenary.org.au/x/eIJmCg" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+            Install SpectreMAP
+        </span></b></a>
+        <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<p> </p>
+
+
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://wiki.centenary.org.au/download/attachments/146080606/image2020-4-7_16-49-11.png?version=1&modificationDate=1586242151363&api=v2" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b>
+          Install SpectreMAP (if performing spatial analysis)
+        </b></p>
+        <p>
+          To get started, you can check out our Spectre tutorial.
+        </p>
+        <a href="https://wiki.centenary.org.au/x/5ysMCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+            Spectre tutorial
+        </span></b></a>
+        <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<p> </p>
+
+
+## Other
+
+---
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://wiki.centenary.org.au/download/attachments/150442594/docker_facebook_share.png?version=1&modificationDate=1580942055355&api=v2" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b>
+          Install from Docker
+        </b></p>
+        <p>
+          Install a 'container' version of Spectre using Docker, that contains a pre-built environment with all the required packages necessary to use Spectre.
+        </p>
+        <a href="https://wiki.centenary.org.au/x/F4hfCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+            Install from Docker
+        </span></b></a>
+        <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<p> </p>
+
+
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://wiki.centenary.org.au/download/attachments/150442594/GitHub-Mark.png?version=1&modificationDate=1580941974093&api=v2" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b>
+          Install a development version of Spectre
+        </b></p>
+        <p>
+          If you are interested in testing new features, or contributing your own, you can also install the development version of Spectre from Github. We suggested using in conjunction with our developers guide.
+        </p>
+        <a href="https://wiki.centenary.org.au/x/TKNmCg" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+            Install development version
+        </span></b></a>
+        <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<p> </p>
