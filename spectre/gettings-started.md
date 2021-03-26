@@ -149,9 +149,9 @@ permalink: /spectre/getting-started/
           <img src="https://wiki.centenary.org.au/download/attachments/150442594/docker_facebook_share.png?version=1&modificationDate=1580942055355&api=v2" width="3000">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>
+        <p><h3>
           Install from Docker
-        </b></p>
+        </h3></p>
         <p>
           Install a 'container' version of Spectre using Docker, that contains a pre-built environment with all the required packages necessary to use Spectre.
         </p>
@@ -175,9 +175,9 @@ permalink: /spectre/getting-started/
           <img src="https://wiki.centenary.org.au/download/attachments/150442594/GitHub-Mark.png?version=1&modificationDate=1580941974093&api=v2" width="3000">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>
+        <p><h3>
           Install a development version of Spectre
-        </b></p>
+        </h3></p>
         <p>
           If you are interested in testing new features, or contributing your own, you can also install the development version of Spectre from Github. We suggested using in conjunction with our developers guide.
         </p>
