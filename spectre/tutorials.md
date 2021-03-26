@@ -4,6 +4,8 @@ title: Spectre tutorials
 permalink: /spectre/tutorials/
 ---
 
+## General tutorials
+
 <table class="table gmisc_table">
   <tbody>
 <!-- FIRST ROW: TITLE --> 
@@ -71,6 +73,8 @@ permalink: /spectre/tutorials/
 <p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
 <br />
+
+## Analysis strategies
 
 <table class="table gmisc_table">
   <tbody>
