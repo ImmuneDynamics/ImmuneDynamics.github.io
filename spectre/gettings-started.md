@@ -29,6 +29,7 @@ permalink: /spectre/getting-started/
             Download RStudio
         </span></b></a>
         <br />
+        <br />
         <p><h3>
           R & RStudio tutorial
         </h3></p>
@@ -92,6 +93,7 @@ permalink: /spectre/getting-started/
         <a href="https://wiki.centenary.org.au/x/7-kiCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Install from Github
         </span></b></a>
+        <br />
         <br />
         <p><h3>
           Spectre tutorial
