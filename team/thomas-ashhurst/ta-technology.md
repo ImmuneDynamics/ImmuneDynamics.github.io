@@ -1,6 +1,6 @@
 ---
 layout: ta
-title: Thomas Ashhurst - Technology and Analysis
+title: Thomas Ashhurst - Single Cell and Spatial Technologies
 permalink: /thomas-ashhurst/technology/
 ---
 
