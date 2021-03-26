@@ -63,9 +63,9 @@ Critical to investigating the complex immune response to disease is the capacity
       <td style="padding-left:.75em;width:65%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b>Mass cytometry (CyTOF)</b></p>
         <p>
-          In 2014, during my PhD in the laboratory of [Prof. Nicholas King](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/nicholas-king.html), I was the first to develop and apply assays using [Australia's first](https://www.immunology.org.au/files/Newsletter_pdfs/ASI_NL_March_2015.pdf) **mass cytometer (CyTOF)**, having recieved training in the laboratory of [Dr. Garry Nolan]() at [Stanford University](). 
-          I used this novel technology to comprehensively profile inflammatory mobilisation of the murine haematopoietic system in the bone marrow during viral encephalitis ([Ashhurst et al. 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)). 
-          This early work in mass cytometry lead to the publication of a book, featuring a collecting of up-to-date and cutting-edge protocols in mass cytometry, which is now a standard resource in the field ([HM McGuire, TM Ashhurst (eds). 2019](https://link.springer.com/book/10.1007/978-1-4939-9454-0)). 
+          In 2014, during my PhD in the laboratory of Prof. Nicholas King, I was the first to develop and apply assays using Australia's first mass cytometer (CyTOF), having recieved training in the laboratory of Dr. Garry Nolan at Stanford University. 
+          I used this novel technology to comprehensively profile inflammatory mobilisation of the murine haematopoietic system in the bone marrow during viral encephalitis (<a href="https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12">Ashhurst et al. 2019</a>).
+          This early work in mass cytometry lead to the publication of a book, featuring a collecting of up-to-date and cutting-edge protocols in mass cytometry, which is now a standard resource in the field (<a href = "https://link.springer.com/book/10.1007/978-1-4939-9454-0">HM McGuire, TM Ashhurst (eds). 2019</a>). 
         </p>
           <p> </p>
       </td>
