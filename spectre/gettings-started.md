@@ -15,9 +15,9 @@ permalink: /spectre/getting-started/
           <img src="https://www.r-project.org/logo/Rlogo.svg" width="3000">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><h3>
+        <p><h2>
           Install R and RStudio
-        </h3></p>
+        </h2></p>
         <p>
           Download the latest version of R by visiting https://cran.r-project.org/mirrors.html and selecting a mirror to download R. Download the latest version of R Studio by visiting https://rstudio.com/ and go to download.
         </p>
@@ -30,9 +30,9 @@ permalink: /spectre/getting-started/
         </span></b></a>
         <br />
         <br />
-        <p><h3>
+        <p><h2>
           R & RStudio tutorial
-        </h3></p>
+        </h2></p>
         <p>
           To get started with using R/RStudio, check out our brief introductory R tutorial.
         </p>
@@ -56,9 +56,9 @@ permalink: /spectre/getting-started/
           <img src="https://dl3.cbsistatic.com/catalog/2017/12/19/9bbc46dc-1d94-45d0-977a-e4e776e0588d/imgingest-1712473237099407863.png" width="3000">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><h3>
+        <p><h2>
           Install XQuartz (for mac users)
-        </h3></p>
+        </h2></p>
         <p>
           For mac users only, X11 (including tcltk) requires XQuartz to be installed since it is no longer part of OS X. Always re-install XQuartz when upgrading your macOS to a new major version.
         </p>
@@ -84,9 +84,9 @@ permalink: /spectre/getting-started/
           <img src="https://wiki.centenary.org.au/download/attachments/146080606/Spectre%20wide.png?version=1&modificationDate=1614253260985&api=v2" width="3000">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><h3>
+        <p><h2>
           Install Spectre (from Github)
-        </h3></p>
+        </h2></p>
         <p>
           Instructions for install and updating Spectre from Github (current default choice) is described below on this page.
         </p>
@@ -95,9 +95,9 @@ permalink: /spectre/getting-started/
         </span></b></a>
         <br />
         <br />
-        <p><h3>
+        <p><h2>
           Spectre tutorial
-        </h3></p>
+        </h2></p>
         <p>
           To get started, you can check out our Spectre tutorial.
         </p>
@@ -121,9 +121,9 @@ permalink: /spectre/getting-started/
           <img src="https://wiki.centenary.org.au/download/attachments/172228252/SpectreMAP%20wide.png?version=2&modificationDate=1614467478815&api=v2" width="3000">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><h3>
+        <p><h2>
           Install SpectreMAP (if performing spatial analysis)
-        </h3></p>
+        </h2></p>
         <p>
           If you intend to perform spatial analysis of Imaging Mass Cytometry (IMC) data, your will also need to install SpectreMAP.
         </p>
@@ -147,9 +147,9 @@ permalink: /spectre/getting-started/
           <img src="https://wiki.centenary.org.au/download/attachments/150442594/docker_facebook_share.png?version=1&modificationDate=1580942055355&api=v2" width="3000">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><h3>
+        <p><h2>
           Install from Docker
-        </h3></p>
+        </h2></p>
         <p>
           Install a 'container' version of Spectre using Docker, that contains a pre-built environment with all the required packages necessary to use Spectre.
         </p>
@@ -173,9 +173,9 @@ permalink: /spectre/getting-started/
           <img src="https://wiki.centenary.org.au/download/attachments/150442594/GitHub-Mark.png?version=1&modificationDate=1580941974093&api=v2" width="3000">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><h3>
+        <p><h2>
           Install a development version of Spectre
-        </h3></p>
+        </h2></p>
         <p>
           If you are interested in testing new features, or contributing your own, you can also install the development version of Spectre from Github. We suggested using in conjunction with our developers guide.
         </p>
