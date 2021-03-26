@@ -1,7 +1,7 @@
 ---
 layout: spectre
-title: Spectre Protocols
-permalink: /spectre/protocols/
+title: Spectre - Cytometry Protocols
+permalink: /spectre/cytometry/
 ---
 
 ## Data preparation
