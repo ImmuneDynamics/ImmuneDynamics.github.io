@@ -4,8 +4,6 @@ title: Recorded talks
 permalink: /thomas-ashhurst/talks/
 ---
 
----
-
 **[Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre - applications in viral encephalitis and COVID-19](https://www.youtube.com/watch?v=DamU2mngEg8)**
 
 Seminar, Leiden University Medical Center
