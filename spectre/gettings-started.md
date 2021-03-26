@@ -82,7 +82,7 @@ permalink: /spectre/getting-started/
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <img src="https://wiki.centenary.org.au/download/attachments/146080606/image2020-4-7_16-49-11.png?version=1&modificationDate=1586242151363&api=v2" width="3000">
+          <img src="https://wiki.centenary.org.au/download/attachments/146080606/Spectre%20wide.png?version=1&modificationDate=1614253260985&api=v2" width="3000">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>
@@ -93,6 +93,16 @@ permalink: /spectre/getting-started/
         </p>
         <a href="https://wiki.centenary.org.au/x/7-kiCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Install from Github
+        </span></b></a>
+        <br />
+        <p><b>
+          Spectre tutorial
+        </b></p>
+        <p>
+          To get started, you can check out our Spectre tutorial.
+        </p>
+        <a href="https://wiki.centenary.org.au/x/5ysMCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+            Spectre tutorial
         </span></b></a>
         <p> </p>
       </td>
@@ -108,7 +118,7 @@ permalink: /spectre/getting-started/
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <img src="https://wiki.centenary.org.au/download/attachments/146080606/image2020-4-7_16-49-11.png?version=1&modificationDate=1586242151363&api=v2" width="3000">
+          <img src="https://wiki.centenary.org.au/download/attachments/172228252/SpectreMAP%20wide.png?version=2&modificationDate=1614467478815&api=v2" width="3000">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>
@@ -127,33 +137,6 @@ permalink: /spectre/getting-started/
 </table>
 
 <p> </p>
-
-
-
-<table class="table gmisc_table">
-  <tbody>
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <img src="https://wiki.centenary.org.au/download/attachments/146080606/image2020-4-7_16-49-11.png?version=1&modificationDate=1586242151363&api=v2" width="3000">
-      </td>
-      <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>
-          Spectre tutorial
-        </b></p>
-        <p>
-          To get started, you can check out our Spectre tutorial.
-        </p>
-        <a href="https://wiki.centenary.org.au/x/5ysMCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
-            Spectre tutorial
-        </span></b></a>
-        <p> </p>
-      </td>
-      </tr>
-    </tbody>
-</table>
-
-<p> </p>
-
 
 ## Other
 
