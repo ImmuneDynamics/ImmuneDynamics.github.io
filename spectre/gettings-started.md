@@ -153,7 +153,7 @@ permalink: /spectre/getting-started/
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>
-          Install SpectreMAP (if performing spatial analysis)
+          Spectre tutorial
         </b></p>
         <p>
           To get started, you can check out our Spectre tutorial.
