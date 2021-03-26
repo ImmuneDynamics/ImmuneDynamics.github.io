@@ -116,7 +116,7 @@ Critical to investigating the complex immune response to disease is the capacity
           <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Rhapsody.jpg?raw=true" width="3000">
       </td>
       <td style="padding-left:.75em;width:65%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-        <p><b>Multiomic single-cell transcriptomic system</b></p>
+        <p><b>Single-cell transcriptomics</b></p>
         <p>
           Most recently, I lead the establishment of the genomic/molecular cytometry arm of the Sydney Cytometry Facility, incorporating the BD Rhapsody, a **multiomic single-cell transcriptomic system**. 
         </p>
