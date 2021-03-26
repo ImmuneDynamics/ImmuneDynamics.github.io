@@ -14,7 +14,7 @@ Critical to investigating the complex immune response to disease is the capacity
 
 ---
 
-## High-dimensional cytometry and single-cell technologies
+## High-dimensional cytometry technologies
 
 <table class="table gmisc_table">
   <tbody>
@@ -95,9 +95,11 @@ Critical to investigating the complex immune response to disease is the capacity
 
 
 
+<br />
 
+---
 
-
+## Single-cell sequencing and multi-omics technologies
 
 <table class="table gmisc_table">
   <tbody>
