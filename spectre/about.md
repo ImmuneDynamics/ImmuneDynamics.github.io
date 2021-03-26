@@ -19,7 +19,7 @@ As the size and complexity of high-dimensional cytometry data continues to expan
 
 <p> </p>
 
-<div style="margin-left: 30px"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to announce our preprint is out on bioRxiv: <a href="https://t.co/YebSZu94Yq">https://t.co/YebSZu94Yq</a>. Here we present Spectre, an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments. <a href="https://t.co/l1crJst3lO">https://t.co/l1crJst3lO</a> <a href="https://t.co/hcs2rZd8Lk">https://t.co/hcs2rZd8Lk</a> <a href="https://t.co/IX4sa9K9Jf">pic.twitter.com/IX4sa9K9Jf</a></p>&mdash; Dr Thomas Ashhurst (@TomAsh_1) <a href="https://twitter.com/TomAsh_1/status/1320551790199275520?ref_src=twsrc%5Etfw">October 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Thrilled to announce our preprint is out on bioRxiv: <a href="https://t.co/YebSZu94Yq">https://t.co/YebSZu94Yq</a>. Here we present Spectre, an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments. <a href="https://t.co/l1crJst3lO">https://t.co/l1crJst3lO</a> <a href="https://t.co/hcs2rZd8Lk">https://t.co/hcs2rZd8Lk</a> <a href="https://t.co/IX4sa9K9Jf">pic.twitter.com/IX4sa9K9Jf</a></p>&mdash; Dr Thomas Ashhurst (@TomAsh_1) <a href="https://twitter.com/TomAsh_1/status/1320551790199275520?ref_src=twsrc%5Etfw">October 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br />
 
