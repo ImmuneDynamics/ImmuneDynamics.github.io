@@ -10,6 +10,13 @@ Critical to investigating the complex immune response to disease is the capacity
 
 *My position with SC facility -- allows access to a wide range of SC and imaging technologies.*
 
+
+*My current efforts:*
+- Multiomics via Rhapsody
+- HD panels for spectral
+- As well as continued application of flow, cytof, and IMC technologies across a number of studies.
+
+
 <br />
 
 ---
@@ -120,13 +127,6 @@ Critical to investigating the complex immune response to disease is the capacity
 </table>
 
 <p> </p>
-
-<br />
-
-My current efforts:
-- Multiomics via Rhapsody
-- HD panels for spectral
-- As well as continued application of flow, cytof, and IMC technologies across a number of studies.
 
 <br />
 
