@@ -10,6 +10,12 @@ Critical to investigating the complex immune response to disease is the capacity
 
 *My position with SC facility -- allows access to a wide range of SC and imaging technologies.*
 
+<br />
+
+---
+
+## High-dimensional cytometry and single-cell technologies
+
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -33,29 +39,6 @@ Critical to investigating the complex immune response to disease is the capacity
 <p> </p>
 
 
-
-
-
-
-<table class="table gmisc_table">
-  <tbody>
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-        <p> </p>
-          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/IMC%20long%203.png?raw=true" width="3000">
-      </td>
-      <td style="padding-left:.75em;width:65%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-        <p><b>Imaging Mass Cytometry (IMC)</b></p>
-        <p>
-          Recently, with the Sydney Cytometry Facility, I developed and applied the first **Imaging Mass Cytometry (IMC)** assays in Australia, to profile cellular infiltration into the brain of West Nile or Zika virus infected mice. This work has been presented at a number of recent international meetings (refs).
-        </p>
-          <p> </p>
-      </td>
-      </tr>
-    </tbody>
-</table>
-
-<p> </p>
 
 
 
@@ -142,5 +125,32 @@ My current efforts:
 - Multiomics via Rhapsody
 - HD panels for spectral
 - As well as continued application of flow, cytof, and IMC technologies across a number of studies.
+
+<br />
+
+---
+
+## High-dimensional imaging/spatial technologies
+
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+        <p> </p>
+          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/IMC%20long%203.png?raw=true" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:65%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+        <p><b>Imaging Mass Cytometry (IMC)</b></p>
+        <p>
+          Recently, with the Sydney Cytometry Facility, I developed and applied the first **Imaging Mass Cytometry (IMC)** assays in Australia, to profile cellular infiltration into the brain of West Nile or Zika virus infected mice. This work has been presented at a number of recent international meetings (refs).
+        </p>
+          <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<p> </p>
 
 <br />
