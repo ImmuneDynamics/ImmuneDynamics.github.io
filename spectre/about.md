@@ -15,7 +15,7 @@ As the size and complexity of high-dimensional cytometry data continues to expan
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="99729668" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 30px"></div>
 
-<p> </p>
+<br />
 
 ## What is Spectre
 
@@ -33,7 +33,7 @@ In the following presentation, we describe the integration, exploration, and ana
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/poEDERGXrQw?start=3151" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<p> </p>
+<br />
 
 ## Works citing Spectre
 
@@ -79,7 +79,7 @@ From evidence at conferences, online posts, or feedback from users, we  know tha
 
 Spectre has also featured prominently in community **workshops**, such as the '[high-dimensional analysis homeshow](https://immunedynamics.io/homeshow/)' in 2020, hosted by the [Australian Cytometry Society](https://cytometry.org.au/) and [Australia and New Zealand society for Immunology](https://www.immunology.org.au/).
 
-<p> </p>
+<br />
 
 ## Spectre built on data.table
 
@@ -87,7 +87,7 @@ Many existing computational tools store data in a custom format, such as the flo
 
 Rather than storing analysis outputs (clusters, dimensionality reduction values, annotations etc) in separate areas of a custom data format, Spectre simply adds new columns to the existing data.table. The simplicity of this data structure facilitates extremely fast and simple filtering/subsetting by data.table, as every cell (row) contains all of the information relevant for that cell: such as cellular expression, samples/groups, clusters/populations, and dimensionality reduction coordinates.
 
-<p> </p>
+<br />
 
 ## Clustering and dimensionality reduction strategies for large datasets
 
