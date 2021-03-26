@@ -67,7 +67,7 @@ permalink: /spectre/getting-started/
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://dl3.cbsistatic.com/catalog/2017/12/19/9bbc46dc-1d94-45d0-977a-e4e776e0588d/imgingest-1712473237099407863.png" width="3000">
+          <img src="https://www.r-project.org/logo/Rlogo.svg" width="3000">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>
