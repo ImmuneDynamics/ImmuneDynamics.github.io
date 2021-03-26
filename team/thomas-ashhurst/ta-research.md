@@ -83,7 +83,7 @@ Critical to investigating the complex immune response to disease is the capacity
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:middle">
+      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
           <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/IMC%20long%203.png?raw=true" width="3000">
       </td>
       <td style="padding-left:.75em;width:65%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
@@ -103,35 +103,10 @@ Critical to investigating the complex immune response to disease is the capacity
 
 
 
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:middle">
-          <img src="https://images.squarespace-cdn.com/content/v1/4f5013cf24ac3afbd1aa0384/1455230070354-2VUW5KGW5XS42AGTAKEU/ke17ZwdGBToddI8pDm48kKV0nEQLrZCZyN20-sdpYlF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ivq7Q1ckvJa8MA8qNUlEOZ5IGU-1O_EUPktdRWJqBeswtSHa-_ZlYvzXGRIA25Fyg/_YD_5607.jpg" width="3000">
-      </td>
-      <td style="padding-left:.75em;width:65%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-        <p><b>Imaging Mass Cytometry (IMC)</b></p>
-        <p>
-          Recently, with the Sydney Cytometry Facility, I developed and applied the first **Imaging Mass Cytometry (IMC)** assays in Australia, to profile cellular infiltration into the brain of West Nile or Zika virus infected mice. This work has been presented at a number of recent international meetings (refs).
-        </p>
-          <p> </p>
-      </td>
-      </tr>
-    </tbody>
-</table>
-
-<p> </p>
-
-
-
-
-
-
-<table class="table gmisc_table">
-  <tbody>
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:middle">
+      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
           <img src="https://images.squarespace-cdn.com/content/v1/4f5013cf24ac3afbd1aa0384/1517479439340-OJAUXTK1VVX54Q23HFVY/ke17ZwdGBToddI8pDm48kFD1R4V_5Z7AhympG1IVDOQUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dp7RxE9KNg1_YEbOHW7YKY3GlwBRJCIV3hPQ76i27Cz_CjLISwBs8eEdxAxTptZAUg/LSR-X.png" width="3000">
       </td>
       <td style="padding-left:.75em;width:65%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
@@ -159,7 +134,7 @@ Critical to investigating the complex immune response to disease is the capacity
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:middle">
+      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
           <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Aurora.png?raw=true" width="3000">
       </td>
       <td style="padding-left:.75em;width:65%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
@@ -184,7 +159,7 @@ Critical to investigating the complex immune response to disease is the capacity
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:middle">
+      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
           <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Rhapsody.jpg?raw=true" width="3000">
       </td>
       <td style="padding-left:.75em;width:65%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
