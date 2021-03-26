@@ -12,7 +12,7 @@ permalink: /spectre/getting-started/
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <img src="https://www.r-project.org/logo/Rlogo.svg" width="3000">
+          <img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" width="3000">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><h2>
