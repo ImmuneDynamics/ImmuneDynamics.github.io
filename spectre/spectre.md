@@ -61,7 +61,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 
 <p> </p>
 
-# Protocols - cytometry
+# Protocols
 
 ---
 
@@ -83,10 +83,6 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 
 <p> </p>
 
-# Protocols - scRNAseq
-
----
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -104,11 +100,6 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 </table>
 
 <p> </p>
-
-
-# Protocols - spatial analysis
-
----
 
 <table class="table gmisc_table">
   <tbody>
