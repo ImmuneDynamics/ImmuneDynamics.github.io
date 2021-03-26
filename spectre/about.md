@@ -13,7 +13,9 @@ As the size and complexity of high-dimensional cytometry data continues to expan
 
 <div style="margin-left: 30px"><a href="https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract">Ashhurst*, Marsh-Wakefield*, Putri* et al. bioRxiv. 2020</a></div>
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="99729668" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 30px"></div>
+<p> </p>
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-uuid="43aea27f-44e1-830b-9604-012cc953aa80" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 30px"></div>
 
 <br />
 
