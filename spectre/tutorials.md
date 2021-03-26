@@ -4,6 +4,8 @@ title: Spectre tutorials
 permalink: /spectre/tutorials/
 ---
 
+The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain specific and reproducible workflows for different types of analysis using Spectre. The [tutorials provided on this page](https://immunedynamics.io/spectre/tutorials/) are intended to educate users on various aspects of analysis, or to showcase unique or bespoke uses of Spectre, which may go on to become stable workflows if there is sufficient interest from users. 
+
 ## General tutorials
 
 <table class="table gmisc_table">
