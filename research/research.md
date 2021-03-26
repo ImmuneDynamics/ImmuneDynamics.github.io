@@ -14,6 +14,14 @@ Below we describe areas of research. More information on the research interests 
 
 <br />
 
+## Inflammatory response maps and atlases
+
+---
+
+xxxxxx
+
+<br />
+
 ## Computational analysis and data integration across cytometry and single-cell technologies
 
 ---
