@@ -4,7 +4,7 @@ title: Spectre tutorials
 permalink: /spectre/tutorials/
 ---
 
-The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain specific and reproducible workflows for different types of analysis using Spectre. The [tutorials provided on this page](https://immunedynamics.io/spectre/tutorials/) are intended to educate users on various aspects of analysis, or to showcase unique or bespoke uses of Spectre, which may go on to become stable workflows if there is sufficient interest from users. 
+The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain specific and reproducible workflows for different types of analysis using Spectre. The [tutorials provided on this page](https://immunedynamics.io/spectre/tutorials/) are intended to educate users on various aspects of analysis, or to showcase unique or bespoke uses of Spectre, which may go on to become stable workflows if there is sufficient interest from users. If there is content on this page you would like to see more of, or you would like to see turned into a standard workflow, then please drop us a note on our [Q&A page](https://github.com/ImmuneDynamics/Spectre/discussions) or [email us](mailto:thomas.ashhurst@sydney.edu.au).
 
 <br />
 
