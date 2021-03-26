@@ -48,7 +48,7 @@ An overview of this work can be found in this **[Oz Single Cell webinar 2020](ht
 
 ---
 
-![HD](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/HDtech3.png)
+<!--![HD](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/HDtech3.png)-->
 
 Critical to investigating the complex immune response to disease is the capacity to measure cells at the single-cell level, examining multiple features of the cell simultaneously. However, the development and implimentation of new methods that can achieve this is inherently challenging. To address this, I have lead a number of developments of new cytometry technologies or assays. 
 
