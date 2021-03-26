@@ -136,7 +136,7 @@ permalink: /spectre/getting-started/
     </tbody>
 </table>
 
-<p> </p>
+<br />
 
 ## Other
 
@@ -190,4 +190,4 @@ permalink: /spectre/getting-started/
     </tbody>
 </table>
 
-<p> </p>
+<br />
