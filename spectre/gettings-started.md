@@ -19,7 +19,7 @@ permalink: /spectre/getting-started/
           Install R and RStudio
         </h2></p>
         <p>
-          Download the latest version of R by visiting https://cran.r-project.org/mirrors.html and selecting a mirror to download R. Download the latest version of R Studio by visiting https://rstudio.com/ and go to download.
+          Spectre is a software package in 'R'. We recommend interacting with Spectre and the R code via RStudio. Download the latest version of R by visiting https://cran.r-project.org/mirrors.html and selecting a mirror to download R. Download the latest version of R Studio by visiting https://rstudio.com/ and go to download.
         </p>
         <a href="https://cran.r-project.org/mirrors.html" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Download R
