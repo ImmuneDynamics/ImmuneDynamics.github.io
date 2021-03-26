@@ -12,13 +12,14 @@ permalink: /research/
 
 Below we describe areas of research. More information on the research interests of our individual members can be found on the [team](https://immunedynamics.io/team/) page.
 
-<br />
-
-## Inflammatory response maps and atlases
+## Single-cell systems immunology of inflammation and infectious disease
 
 ---
 
-xxxxxx
+- Inflammatory response maps and atlases across diseases
+- Integration approaches to leverage multiple single-cell and cytometry technologies
+- COVID-19
+- Viral encephalitis
 
 <br />
 
@@ -46,6 +47,8 @@ Development
 Application
 — examples in WNV/ZIKV/COVID etc
 
+<br />
+
 ## Time-series clustering analysis for mapping dynamic immune responses
 
 ---
@@ -59,6 +62,8 @@ Development
 Application
 — examples in COVID etc
 
+<br />
+
 ## Spatial analysis of high-dimensional imaging data
 
 ---
@@ -67,3 +72,5 @@ Application
 - Improved cell segmentation workflows
 - Spatial statistics and neighbourhood analysis
 — examples in TBC
+
+<br />
