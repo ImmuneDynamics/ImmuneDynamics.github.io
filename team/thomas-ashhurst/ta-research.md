@@ -20,7 +20,7 @@ inflammatory [haematopoietic mobilisation](https://immunedynamics.io/thomas-ashh
 emergent [COVID-19](https://immunedynamics.io/thomas-ashhurst/research/#sars-cov-2-and-covid-19),
 general [immunology](https://immunedynamics.io/thomas-ashhurst/research/#general-immunology),
 and the [Human Cell Atlas](https://immunedynamics.io/thomas-ashhurst/research/#engagement-in-the-human-cell-atlas-and-other-communities)
-can be found below.
+can be found further down this page.
 
 - My work in developing **single-cell technologies** and **analysis methods** can be found on my [technology](https://immunedynamics.io/thomas-ashhurst/technology/) and [analysis](https://immunedynamics.io/thomas-ashhurst/analysis/) pages.
 
