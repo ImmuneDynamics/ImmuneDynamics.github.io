@@ -4,9 +4,9 @@ title: Getting started
 permalink: /spectre/getting-started/
 ---
 
-## R and RStudio
+<br />
 
----
+## R and RStudio
 
 <table class="table gmisc_table">
   <tbody>
@@ -76,8 +76,6 @@ permalink: /spectre/getting-started/
 
 ## Spectre
 
----
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -139,8 +137,6 @@ permalink: /spectre/getting-started/
 <br />
 
 ## Other
-
----
 
 <table class="table gmisc_table">
   <tbody>
