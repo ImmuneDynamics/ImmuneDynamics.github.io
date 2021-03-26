@@ -29,6 +29,16 @@ permalink: /spectre/getting-started/
             Download RStudio
         </span></b></a>
         <p> </p>
+        <p><b>
+          R & RStudio tutorial
+        </b></p>
+        <p>
+          To get started with using R/RStudio, check out our brief introductory R tutorial.
+        </p>
+        <a href="https://wiki.centenary.org.au/x/MIBfCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+            R tutorial
+        </span></b></a>
+        <p> </p>
       </td>
       </tr>
     </tbody>
@@ -53,31 +63,6 @@ permalink: /spectre/getting-started/
         </p>
         <a href="http://xquartz.macosforge.org/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Install XQuartz
-        </span></b></a>
-        <p> </p>
-      </td>
-      </tr>
-    </tbody>
-</table>
-
-<p> </p>
-
-
-<table class="table gmisc_table">
-  <tbody>
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://www.r-project.org/logo/Rlogo.svg" width="3000">
-      </td>
-      <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>
-          R & RStudio tutorial
-        </b></p>
-        <p>
-          To get started with using R/RStudio, check out our brief introductory R tutorial.
-        </p>
-        <a href="https://wiki.centenary.org.au/x/MIBfCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
-            Tutorial
         </span></b></a>
         <p> </p>
       </td>
