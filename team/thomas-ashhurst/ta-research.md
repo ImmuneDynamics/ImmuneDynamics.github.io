@@ -1,6 +1,6 @@
 ---
 layout: ta
-title: Thomas Ashhurst - Research ApplicationOverview
+title: Thomas Ashhurst - Research Overview
 permalink: /thomas-ashhurst/research/
 ---
 
