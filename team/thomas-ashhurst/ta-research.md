@@ -22,7 +22,7 @@ general [immunology](https://immunedynamics.io/thomas-ashhurst/research/#general
 and the [Human Cell Atlas](https://immunedynamics.io/thomas-ashhurst/research/#engagement-in-the-human-cell-atlas-and-other-communities)
 can be found further down this page.
 
-- My work in developing **single-cell technologies** and **analysis methods** can be found on my [technology](https://immunedynamics.io/thomas-ashhurst/technology/) and [analysis](https://immunedynamics.io/thomas-ashhurst/analysis/) pages.
+- My work in developing **[single-cell technologies](https://immunedynamics.io/thomas-ashhurst/technology/)** and **[analysis methods](https://immunedynamics.io/thomas-ashhurst/analysis/)** can be found on my [technology](https://immunedynamics.io/thomas-ashhurst/technology/) and [analysis](https://immunedynamics.io/thomas-ashhurst/analysis/) pages.
 
 An overview of my research work can be found in this [Oz Single Cell webinar 2020](https://youtu.be/poEDERGXrQw?t=3151) on computational biology and this [Fluidigm webinar 2020](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics), featured on the '[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)' page.
 
