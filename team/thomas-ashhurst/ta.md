@@ -4,8 +4,6 @@ title: Thomas Ashhurst - Profile
 permalink: /thomas-ashhurst/
 ---
 
----
-
 <div class='row'>
     <div class="image">
         <a href="#">
