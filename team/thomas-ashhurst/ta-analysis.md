@@ -4,8 +4,6 @@ title: Thomas Ashhurst - Computational Analysis
 permalink: /thomas-ashhurst/analysis/
 ---
 
-## Computational analysis approaches ##
-
 <!--![Comp](https://wiki.centenary.org.au/download/attachments/146080606/Screen%20Shot%202020-10-22%20at%2012.25.13%20pm.png?version=1&modificationDate=1603369521998&api=v2)-->
 
 ![Research](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Research.png)
