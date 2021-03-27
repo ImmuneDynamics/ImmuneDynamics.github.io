@@ -1,5 +1,5 @@
 ---
-layout: gp
-title: Givanna Putri - Publications
-permalink: /givanna-putri/publications
+layout: nk
+title: Nicholas King - Publications
+permalink: /nicholas-king/publications
 ---
