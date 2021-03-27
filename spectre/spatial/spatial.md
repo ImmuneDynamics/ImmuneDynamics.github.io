@@ -12,7 +12,7 @@ Along with flow, spectral, or mass cytometry data, [Spectre](https://immunedynam
 
 <p> </p>
 
-# Software installation and demos
+# Getting started with spatial analysis
 
 <table class="table gmisc_table">
   <tbody>
