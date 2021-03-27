@@ -49,6 +49,8 @@ Below we detail our specific areas of research and development. More information
 - COVID-19
 - Viral encephalitis
 
+- Immunopathology -- myeloid-mono in WNV, myeloid-neut in COVID-19
+
 <br />
 
 ## Data analysis and integration across cytometry and single-cell technologies
