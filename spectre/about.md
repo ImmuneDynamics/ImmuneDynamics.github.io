@@ -11,13 +11,10 @@ As the size and complexity of high-dimensional cytometry data continues to expan
 <!--<span class="__dimensions_badge_embed__" data-id="pub.1132092846" data-hide-zero-citations="true" data-legend="always" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <p> </p>-->
 
-<div style="margin-left: 30px"><a href="https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract">Ashhurst*, Marsh-Wakefield*, Putri* et al. bioRxiv. 2020</a></div>
-
+<!--<div style="margin-left: 30px"><a href="https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract">Ashhurst*, Marsh-Wakefield*, Putri* et al. bioRxiv. 2020</a></div>
 <p> </p>
-
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-details="right" data-badge-type="donut" data-altmetric-id="92965811" data-hide-no-mentions="true" class="altmetric-embed" style="margin-left: 30px"></div>
-
-<p> </p>
+<p> </p>-->
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Thrilled to announce our preprint is out on bioRxiv: <a href="https://t.co/YebSZu94Yq">https://t.co/YebSZu94Yq</a>. Here we present Spectre, an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments. <a href="https://t.co/l1crJst3lO">https://t.co/l1crJst3lO</a> <a href="https://t.co/hcs2rZd8Lk">https://t.co/hcs2rZd8Lk</a> <a href="https://t.co/IX4sa9K9Jf">pic.twitter.com/IX4sa9K9Jf</a></p>&mdash; Dr Thomas Ashhurst (@TomAsh_1) <a href="https://twitter.com/TomAsh_1/status/1320551790199275520?ref_src=twsrc%5Etfw">October 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
