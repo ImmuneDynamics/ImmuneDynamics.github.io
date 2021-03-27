@@ -1,7 +1,7 @@
 ---
-layout: gp
-title: Givanna Putri - Research
-permalink: /givanna-putri/research/
+layout: mr
+title: Mark Read - Research
+permalink: /mark-read/research/
 ---
 
 **Overview**: my research involves...
