@@ -1,7 +1,7 @@
 ---
-layout: gp
-title: Givanna Putri - Research
-permalink: /givanna-putri/research/
+layout: nk
+title: Nicholas King - Research
+permalink: /nicholas-king/research/
 ---
 
 **Overview**: my research involves...
