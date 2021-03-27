@@ -1,5 +1,5 @@
 ---
-layout: gp
+layout: mr
 title: Mark Read - Profile
 permalink: /mark-read/
 ---
