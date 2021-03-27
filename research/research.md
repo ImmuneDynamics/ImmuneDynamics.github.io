@@ -1,6 +1,6 @@
 ---
 layout: research2
-title: Research - Dingle-cell systems immunology of inflammation and infectious disease
+title: Research Overview - single-cell systems immunology of inflammation and infectious disease
 permalink: /research/
 ---
 
