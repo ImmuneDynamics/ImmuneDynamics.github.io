@@ -1,16 +1,36 @@
 ---
 layout: research2
-title: Research overview
+title: Research - Dingle-cell systems immunology of inflammation and infectious disease
 permalink: /research/
 ---
 
 ---
 
-**Background**: the expansion of high-dimensional cytometry, single-cell, and imaging technologies has lead to a significant shift in our approach to analysing immunological data. As the size and complexity of high-dimensional cytometry data continue to expand, comprehensive, scalable, and methodical computational analysis approaches are essential. Yet, contemporary clustering and dimensionality reduction tools alone are insufficient to analyze or reproduce analyses across large numbers of samples, batches, or experiments. Moreover, approaches that allow for the integration of data across batches or experiments are not well incorporated into computational toolkits to allow for streamlined workflows, nor are approaches to analyse time-series data. 
+**Background**: 
 
-**Our work**: resulting from a seed funding grant from the [Marie Bashir Institute for Infectious Diseases and Biosecurity](https://www.sydney.edu.au/marie-bashir-institute/), we established the the [Immune Dynamics team](https://immunedynamics.io/team), a multi-disciplinary collaboration between the [Sydney Cytometry Facility](https://sydneycytometry.org.au/) and multiple [research and technology labs](https://immunedynamics.io/team) at the University of Sydney, to address these challenges. Our team integrates expertise in immunology, infectious disease, high-dimensional single-cell & imaging technologies, computational biology, and data science. Collectively, our work is focused on the development of various [high-dimensional cytometry, single-cell, and imaging methods](), as well as [advanced computational analysis approaches](), to address challenges in modern single-cell and imaging sciences. With our collaborators, we apply these approaches to comprehensively map dynamic immune responses at the single-cell level over time and across multiple biological tissues, seeking to reveal key mediators of inflammation and immunity. In particular, we apply these approaches to the study of immunology and infectious disease, including emerging pathogens such as [SARS-CoV-2 and COVID-19](https://tomashhurst.github.io/research/#application-to-disease), [Zika virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis, and [West Nile virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis. We then explore how these datasets, technologies, and analysis methdologies may contribute to, or benefit from, efforts such as the [Human Cell Atlas (HCA)](http://humancellatlas.org/).
+_SCSI_
 
-Below we describe areas of research. More information on the research interests of our individual members can be found on the [team](https://immunedynamics.io/team/) page.
+- inflammation and infectious disease
+- immunopathology in particular
+- investigation of the immune response at the single cell level is critical to elucidating the mechanistic drivers of health and disease 
+
+_TECH_
+
+- the expansion of high-dimensional cytometry, single-cell, and imaging technologies has lead to a significant shift in our approach to analysing immunological data. 
+
+_DATA_
+
+- As the size and complexity of high-dimensional cytometry data continue to expand, comprehensive, scalable, and methodical computational analysis approaches are essential. 
+- Yet, contemporary clustering and dimensionality reduction tools alone are insufficient to analyze or reproduce analyses across large numbers of samples, batches, or experiments. 
+- Moreover, approaches that allow for the integration of data across batches or experiments are not well incorporated into computational toolkits to allow for streamlined workflows, nor are approaches to analyse time-series data. 
+
+--> something about capacity to contribute to, or utilise, single-cell atlas datasets, such as those developed by the HCA, HubMap, and LifeTime.
+
+**Our work**: 
+
+Initiated through a seed grant from the [Marie Bashir Institute for Infectious Diseases and Biosecurity](https://www.sydney.edu.au/marie-bashir-institute/), we established the the [Immune Dynamics team](https://immunedynamics.io/team), a multi-disciplinary collaboration between multiple [research and technology labs](https://immunedynamics.io/team) at the University of Sydney; integrating expertise in immunology, infectious disease, single-cell & imaging technologies, computational biology, and data science. Our team seeks to comprehensively map dynamic immune repsonses at the single cell level, over time, in various inflammatory and infectious diseases. Through the development of novel [single-cell and imaging methods](), as well as [advanced computational analysis approaches](), we seek to address key challenges in the single-cell study of inflammation, and develop single-cell 'atlases' that may be leveraged to reveal the key mediators of health and disease, as part of larger efforts such as the [Human Cell Atlas]() project. Our team has a particular interest in the study of emerging pathogens, such as [SARS-CoV-2 and COVID-19](https://tomashhurst.github.io/research/#application-to-disease), [Zika virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis, and [West Nile virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis. 
+
+Below we detail our specific areas of research and development. More information on the research interests of our individual members can be found on the [team](https://immunedynamics.io/team/) page.
 
 ## Single-cell systems immunology of inflammation and infectious disease
 
