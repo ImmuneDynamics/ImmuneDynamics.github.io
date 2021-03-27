@@ -1,6 +1,6 @@
 ---
 layout: research2
-title: Research Overview - Single-Cell Systems Immunology of Inflammation and Infectious Disease
+title: Research Overview
 permalink: /research/
 ---
 
