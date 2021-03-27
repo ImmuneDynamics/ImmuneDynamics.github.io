@@ -30,9 +30,9 @@ _DATA_
 
 **Our work**: 
 
-Initiated through a seed grant from the [Marie Bashir Institute for Infectious Diseases and Biosecurity](https://www.sydney.edu.au/marie-bashir-institute/), we established the the [Immune Dynamics team](https://immunedynamics.io/team), a multi-disciplinary collaboration between multiple [research and technology labs](https://immunedynamics.io/team) at the University of Sydney; integrating expertise in immunology, infectious disease, single-cell & imaging technologies, computational biology, and data science. 
+Initiated through a seed grant from the [Marie Bashir Institute for Infectious Diseases and Biosecurity](https://www.sydney.edu.au/marie-bashir-institute/), we established the the [Immune Dynamics team](https://immunedynamics.io/team), a multi-disciplinary collaboration between [multiple research and technology labs](https://immunedynamics.io/team) at the University of Sydney; integrating expertise in immunology, infectious disease, single-cell & imaging technologies, computational biology, and data science. 
 
-Our team seeks to comprehensively map dynamic immune repsonses at the single cell level, over time, in various inflammatory and infectious diseases. Through the development of novel [single-cell and imaging methods](), as well as [advanced computational analysis approaches](), we seek to address key challenges in the single-cell study of inflammation, and develop single-cell 'atlases' that may be leveraged to reveal the key mediators of health and disease, as part of larger efforts such as the [Human Cell Atlas]() project. Our team has a particular interest in the study of emerging pathogens, such as [SARS-CoV-2 and COVID-19](https://tomashhurst.github.io/research/#application-to-disease), [Zika virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis, and [West Nile virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis. 
+Our team seeks to comprehensively map dynamic immune repsonses at the single cell level, over time, in various inflammatory and infectious diseases. Through the development of novel [single-cell and imaging methods](), as well as [advanced computational analysis approaches](), we seek to address key challenges in the study of inflammation, and develop single-cell 'atlases' that may be leveraged to reveal key mediators of health and disease, as part of larger efforts such as the [Human Cell Atlas]() project. Our team has a particular interest in the study of emerging infectious diseases, such as [COVID-19](https://tomashhurst.github.io/research/#application-to-disease) (SARS-CoV-2), [Zika virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis, and [West Nile virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis. 
 
 Below we detail our specific areas of research and development. More information on the research interests of our individual members can be found on the [team](https://immunedynamics.io/team/) page.
 
@@ -44,6 +44,8 @@ Below we detail our specific areas of research and development. More information
 
 - Inflammatory response maps and atlases across diseases
 - Integration approaches to leverage multiple single-cell and cytometry technologies
+- -- HD cytometry different role to scSEQ
+- -- Methods to integrated and utilise the strength of each dataset
 - COVID-19
 - Viral encephalitis
 
