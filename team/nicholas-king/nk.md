@@ -1,5 +1,5 @@
 ---
-layout: gp
+layout: nk
 title: Nicholas King - Profile
 permalink: /nicholas-king/
 ---
