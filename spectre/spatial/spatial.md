@@ -34,6 +34,8 @@ Along with flow, spectral, or mass cytometry data, [Spectre](https://immunedynam
 
 <p> </p>
 
+<br />
+
 # Image visualisation
 
 We provide links for common software options for image visualisation. These are not required for cell segmentation, but are helpful for exploration of the raw imaging data.
@@ -88,13 +90,7 @@ We provide links for common software options for image visualisation. These are 
 
 
 
-
-
-
-
-
-
-
+<br />
 
 # Cell Segmentation
 
