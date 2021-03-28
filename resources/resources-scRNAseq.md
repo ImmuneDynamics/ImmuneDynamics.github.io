@@ -4,12 +4,9 @@ title: Resources - Single Cell RNA Sequencing
 permalink: /resources/scrnaseq
 ---
 
-![scRNAseq]()
+Coming soon!
 
-**Single Cell RNA Sequencing**: xxx
-
-**Published protocols**:
-- xxx
-
+<br />
+<br />
 <br />
 <br />
