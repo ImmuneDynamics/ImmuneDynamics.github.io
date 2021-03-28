@@ -17,12 +17,3 @@ permalink: /nicholas-king/
 TBC
 
 <br />
-<br />
-<br />
-
----
-
-**Contact info**
-
-Email:
-Twitter:
