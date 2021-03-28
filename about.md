@@ -108,10 +108,13 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
         </a>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+        <a href="https://immunedynamics.github.io/alanna-spiteri/">
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+        <a href="https://immunedynamics.github.io/diana-shinko/">
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+        <a href="https://immunedynamics.github.io/jonathan-chung/">
       </td>
     </tr>
 <!-- FOURTH ROW: Description --> 
@@ -122,16 +125,19 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
             Principle Investigator, The University of Sydney.
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">
+          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">Alanna Spiteri
           </div>
+            Ph.D Scholar, Pathology, The University of Sydney.
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid FFFFFF000;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid FFFFFF000;text-align:left; vertical-align:top"> 
-          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">
+          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">Dr. Diana Shinko
           </div>
+            Mass cytometry specialist, Sydney Cytometry Core Research Facility, The University of Sydney and Centenary Institute.
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top"> 
-          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">
+          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">Jonathan Chung
           </div>
+            Ph.D Scholar, School of Computer Science, The University of Sydney.
         </td>
      </tr>
 <!-- FIFTH ROW: Go to page --> 
@@ -146,18 +152,21 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
           <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
+                    <a href="https://immunedynamics.github.io/alanna-spiteri/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
                   </p>
               </div>
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
+                    <a href="https://immunedynamics.github.io/diana-shinko/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
                   </p>
               </div>
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
+                    <a href="https://immunedynamics.github.io/jonathan-chung/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
                   </p>
               </div>
           </td>
