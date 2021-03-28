@@ -103,18 +103,24 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
 <!-- THIRD ROW: Image --> 
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-                <a href="https://immunedynamics.github.io/nicholas-king/">
+        <a href="https://immunedynamics.github.io/nicholas-king/">
           <img height = "200px" src="https://www.sydney.edu.au/research/opportunities/images/supervisors/KingN.jpg?1205985788" style="padding-top: 5px">
         </a>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
         <a href="https://immunedynamics.github.io/alanna-spiteri/">
+                    <img height = "200px" src="" style="padding-top: 5px">
+        </a>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
         <a href="https://immunedynamics.github.io/diana-shinko/">
+                    <img height = "200px" src="" style="padding-top: 5px">
+        </a>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
         <a href="https://immunedynamics.github.io/jonathan-chung/">
+                    <img height = "200px" src="" style="padding-top: 5px">
+        </a>
       </td>
     </tr>
 <!-- FOURTH ROW: Description --> 
