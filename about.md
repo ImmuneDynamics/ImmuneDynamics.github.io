@@ -21,7 +21,7 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
         </a>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-        <a href="https://marknormanread.github.io/">
+        <a href="https://immunedynamics.github.io/mark-read/">
             <img height = "200px" src="https://avatars.githubusercontent.com/u/35902776?s=400&u=d9b68e6896dd4db66362f284e1cd1e7110b74868&v=4" style="padding-top: 5px">
         </a>
       </td>
@@ -103,7 +103,7 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
 <!-- THIRD ROW: Image --> 
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-                <a href="https://scholar.google.com/citations?user=Wi2ADOEAAAAJ&hl=en">
+                <a href="https://immunedynamics.github.io/nicholas-king/">
           <img height = "200px" src="https://www.sydney.edu.au/research/opportunities/images/supervisors/KingN.jpg?1205985788" style="padding-top: 5px">
         </a>
       </td>
@@ -139,7 +139,7 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
           <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                    <a href="https://scholar.google.com/citations?user=Wi2ADOEAAAAJ&hl=en"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                    <a href="https://immunedynamics.github.io/nicholas-king/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
                   </p>
               </div>
           </td>
