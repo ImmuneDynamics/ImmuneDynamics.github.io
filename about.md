@@ -118,7 +118,7 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
         </a>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-        <a href="https://immunedynamics.github.io/adrian-smith/">
+        <a href="https://sydneycytometry.org.au/">
                     <img height = "200px" src="https://media-exp1.licdn.com/dms/image/C5603AQH_kPbIVIieZQ/profile-displayphoto-shrink_400_400/0/1516982824275?e=1622678400&v=beta&t=7liYMlWxbSXnsLqewqEr_QZN_HXD7zMXCOuJ20wbMy8" style="padding-top: 5px">
         </a>
       </td>
@@ -172,7 +172,7 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
           <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                    <a href="https://immunedynamics.github.io/adrian-smith/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                    <a href="https://sydneycytometry.org.au/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
                   </p>
               </div>
           </td>
