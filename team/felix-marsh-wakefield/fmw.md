@@ -1,5 +1,5 @@
 ---
-layout: fmw
+layout: page
 title: Felix Marsh-Wakefield - Profile
 permalink: /felix-marsh-wakefield/
 ---
