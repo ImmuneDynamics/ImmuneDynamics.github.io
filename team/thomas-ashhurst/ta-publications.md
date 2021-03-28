@@ -65,8 +65,6 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 - Protocols and instructions available on the [Spectre Home Page](https://wiki.centenary.org.au/display/SPECTRE).
 
 <br />
-<br />
-
 
 
 <div class='row'>
@@ -81,6 +79,8 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 - Paper resulting from a joint ACS-ASI venture in the development of guidelines for computational analysis of high-dimensional cytometry data.
 
+<br />
+<br />
 <br />
 <br />
 <br />
