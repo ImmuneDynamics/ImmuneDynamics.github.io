@@ -16,12 +16,12 @@ permalink: /givanna-putri/
 
 Givanna Putri is a PhD scholar from School of Computer Science at The University of Sydney, supervised by Dr. Mark Read and Prof. Irena Koprinska. She is a member of The Charles Perkins Centre, interested in interdisciplinary research, specifically using machine learning to uncover the development of immune response over time.
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
+**Contact info**
+
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/EmailSVG.svg" alt="Email logo" width="20"> Email: [givanna.haryonoputri@sydney.edu.au](mailto:givanna.haryonoputri@sydney.edu.au) <br/>
+
+**Sites and academic profiles**
+
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="25"> [Google Scholar](http://scholar.google.com/citations?user=S-sNLPIAAAAJ&hl=en) <br/>
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/GithubSVG.svg" alt="Github logo" width="20"> [Github](https://github.com/ghar1821) <br/> 
