@@ -49,6 +49,14 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 ---
 
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-46-9.png?version=1&modificationDate=1613891282510&api=v2" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
 [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). 2021. TM Ashhurst\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... Cytometry A (accepted with corrections).
 
 - Pre-print: [Ashhurst et al, 2020, bioRxiv](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)
@@ -56,6 +64,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 - Code available from our [Github page](https://github.com/ImmuneDynamics/spectre)
 - Protocols and instructions available on the [Spectre Home Page](https://wiki.centenary.org.au/display/SPECTRE).
 
+<br />
 <br />
 
 
