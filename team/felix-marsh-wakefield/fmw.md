@@ -17,10 +17,3 @@ permalink: /felix-marsh-wakefield/
 Felix Marsh-Wakefield is a post-doctoral researcher part of the Liver Injury & Cancer (Centenary Institute) and Human Cancer & Viral Immunology Laboratory (University of Sydney). He is an immunologist interested in investigating the role of various immune cells in a range of diseases, including hepatocellular carcinoma and multiple sclerosis. This primarily involves bioinformatics to assist in the analysis of high dimensional data, including that of imaging mass cytometry. He is part of the Marylou Ingram Scholarship Program run by the International Society for the Advancement of Cytometry (ISAC).
 
 <br />
-
----
-
-**Contact info**
-
-Email:
-Twitter:
