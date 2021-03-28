@@ -18,7 +18,7 @@ Felix Marsh-Wakefield is a post-doctoral researcher part of the Liver Injury & C
 
 **Contact info**
 
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/EmailSVG.svg" alt="Email logo" width="20"> Email: [felix.marsh-wakefield@sydney.edu.au](felix.marsh-wakefield@sydney.edu.au) <br/>
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/EmailSVG.svg" alt="Email logo" width="20"> Email: [felix.marsh-wakefield@sydney.edu.au](mailto:felix.marsh-wakefield@sydney.edu.au) <br/>
 &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/TwitterSVG.svg" alt="Twitter logo" width="20"> Twitter: [@doc_merlin](https://twitter.com/doc_merlin) <br/>
 
 **Sites and academic profiles**
