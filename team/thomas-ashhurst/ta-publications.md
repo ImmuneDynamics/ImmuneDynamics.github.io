@@ -31,7 +31,7 @@ My publications include [1 book](https://immunedynamics.io/thomas-ashhurst/publi
 
 This book details a compilation of up-to-date and cutting-edge protocols in mass cytometry. Chapters guide readers through setting up a facility, panel design and reagent preparation, sample preparation, specific applications, and data analysis. Written in the highly successful Methods in Molecular Biology series format, chapters include introductions to their respective topics, lists of the necessary materials and reagents, step-by-step, readily reproducible laboratory protocols, and tips on troubleshooting and avoiding known pitfalls. Authoritative and cutting-edge, Mass Cytometry: Methods and Protocols aims to ensure successful results in the further study of this vital field.
 
-'Mass Cytometry: Methods and Protocols' has been downloaded over [44,000 times](https://link.springer.com/book/10.1007/978-1-4939-9454-0). Protocols provided in this book have been cited in a wide variety of applications, including COVID-19 ([Rodriguez et al. 2020](https://doi.org/10.1016/j.xcrm.2020.100078), [Koutsakos et al. 2021](https://doi.org/10.1016/j.xcrm.2021.100208)).
+'Mass Cytometry: Methods and Protocols' has been downloaded over [45,000 times](https://link.springer.com/book/10.1007/978-1-4939-9454-0). Protocols provided in this book have been cited in a wide variety of applications, including COVID-19 ([Rodriguez et al. 2020](https://doi.org/10.1016/j.xcrm.2020.100078), [Koutsakos et al. 2021](https://doi.org/10.1016/j.xcrm.2021.100208)).
 
 <br />
 
