@@ -1,5 +1,5 @@
 ---
-layout: fmw
+layout: page
 title: Felix Marsh-Wakefield - Research
 permalink: /felix-marsh-wakefield/research/
 ---
