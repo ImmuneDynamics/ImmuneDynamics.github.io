@@ -63,7 +63,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://onlinelibrary.wiley.com/pb-assets/journal-banners/14401711-1591846820847.jpg" alt="icon" width="250" align="right">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/FMW%202021.png?raw=true" alt="icon" width="250" align="right">
         </a>
     </div>
 </div>
@@ -77,23 +77,6 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 
 
-
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-46-9.png?version=1&modificationDate=1613891282510&api=v2" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
-
-[Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). 2021. TM Ashhurst\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... Cytometry A (accepted).
-
-- Pre-print: [Ashhurst et al, 2020, bioRxiv](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)
-- Presentation at the Oz Single Cell webinar series: [computational biology](https://youtu.be/poEDERGXrQw?t=3148).
-- Code available from our [Github page](https://github.com/ImmuneDynamics/spectre)
-- Protocols and instructions available on the [Spectre Home Page](https://wiki.centenary.org.au/display/SPECTRE).
-
-<br />
 
 <div class='row'>
     <div class="image">
