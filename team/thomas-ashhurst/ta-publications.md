@@ -1,7 +1,7 @@
 ---
 layout: ta
 title: Thomas Ashhurst - Publications
-permalink: /thomas-ashhurst/publications
+permalink: /thomas-ashhurst/publications/
 ---
 
 ![Publications](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Publication%202.png)
