@@ -1,5 +1,5 @@
 ---
-layout: mr
+layout: page
 title: Mark Read - Profile
 permalink: /mark-read/
 ---
