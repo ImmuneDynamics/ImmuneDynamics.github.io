@@ -36,7 +36,7 @@ He is also actively involved in the [Australasian Cytometry Society](https://imm
 &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/GithubSVG.svg" alt="Github logo" width="20"> [Github](https://github.com/tomashhurst) <br/>
 &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/LinkedInSVG.svg" alt="LinkedIn logo" width="20"> [LinkedIn](https://www.linkedin.com/in/thomas-ashhurst/) <br/>
 &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ResearchGate_icon_SVG.svg" alt="ResearchGate logo" width="20"> [ResearchGate](https://www.researchgate.net/profile/Thomas-Ashhurst) <br/>
-&nbsp;&nbsp;&nbsp;<img src="https://s3.amazonaws.com/protocols-files/public/6f37aae407d1c3261f56707cf7d8e3a47c4d284af7e8d2ae19cb40776fda17a7/b9mjcz36.png" alt="Logo" width="20"> [Protocols.io](https://www.protocols.io/workspaces/thomas-ashhurst) <br/>
+&nbsp;&nbsp;&nbsp;<img src="https://s3.amazonaws.com/protocols-files/public/6f37aae407d1c3261f56707cf7d8e3a47c4d284af7e8d2ae19cb40776fda17a7/b9mjcz36.png" alt="Logo" width="20"> [Protocols.io](https://www.protocols.io/researchers/thomas-ashhurst/) <br/>
 
 **Online Publication lists**
 
