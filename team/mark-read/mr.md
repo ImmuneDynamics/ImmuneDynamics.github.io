@@ -23,7 +23,8 @@ We conduct research at the interface of Computer Science and Biomedicine at the 
 
 **Sites and academic profiles**
 
-&nbsp;&nbsp;&nbsp;<img src="https://e7.pngegg.com/pngimages/791/516/png-clipart-web-development-internet-world-wide-web-web-design-globe.png" alt="Github logo" width="20"> [Lab website](https://sydney.edu.au/engineering/about/our-people/academic-staff/mark-read.html) <br/>
+&nbsp;&nbsp;&nbsp;<img src="https://e7.pngegg.com/pngimages/791/516/png-clipart-web-development-internet-world-wide-web-web-design-globe.png" alt="Github logo" width="20"> [Personal website](https://marknormanread.github.io/) <br/>
+&nbsp;&nbsp;&nbsp;<img src="https://e7.pngegg.com/pngimages/791/516/png-clipart-web-development-internet-world-wide-web-web-design-globe.png" alt="Github logo" width="20"> [USYD website](https://sydney.edu.au/engineering/about/our-people/academic-staff/mark-read.html) <br/>
 &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/GithubSVG.svg" alt="Github logo" width="20"> [Github](https://github.com/marknormanread) <br/> 
 &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="15"> [Google Scholar](https://scholar.google.co.uk/citations?user=WfvA3zIAAAAJ&hl=en&authuser=1) <br/>
 &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ResearchGate_icon_SVG.svg" alt="ResearchGate logo" width="20"> [ResearchGate](https://www.researchgate.net/profile/Mark_Read2) <br/>
