@@ -1,5 +1,5 @@
 ---
-layout: nk
+layout: page
 title: Nicholas King - Profile
 permalink: /nicholas-king/
 ---
@@ -16,4 +16,6 @@ permalink: /nicholas-king/
 
 TBC
 
+<br />
+<br />
 <br />
