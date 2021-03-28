@@ -100,6 +100,7 @@ A selection of key activites with each society can be found below.
         <p>
           I have been a member of ASI since 2011, and a regular attendee and presenter at the ASI annual meeting. 
           I currently serve as the NSW and 'Systems Immunology' representative of the Systems Immunology special interest group.
+          In 2019 I was invited to an ASI special initiative - a meeting of ASI members in Dunedin, NZ, to discuss standards and approaches for the computational analysis of high-dimensional data analysis.
           In 2018 I was invited to speak in the Lafferty comedy debate event of the annual meeting, argueing for 'big data is better'.
         </p>
         <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The highlight of <a href="https://twitter.com/hashtag/asi2018WA?src=hash&amp;ref_src=twsrc%5Etfw">#asi2018WA</a> ASI Lafferty Debate...Size does matter: Big data is best. <a href="https://twitter.com/ASImmunology?ref_src=twsrc%5Etfw">@ASImmunology</a> <a href="https://t.co/z74t1WWxGi">pic.twitter.com/z74t1WWxGi</a></p>&mdash; Lai Guan NG (@lai9uan) <a href="https://twitter.com/lai9uan/status/1070242622315278337?ref_src=twsrc%5Etfw">December 5, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
