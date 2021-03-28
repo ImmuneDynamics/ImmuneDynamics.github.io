@@ -109,17 +109,17 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
         <a href="https://immunedynamics.github.io/alanna-spiteri/">
-                    <img height = "200px" src="" style="padding-top: 5px">
+                    <img height = "200px" src="https://i1.rgstatic.net/ii/profile.image/930583249162243-1598879744562_Q512/Alanna-Spiteri.jpg" style="padding-top: 5px">
         </a>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
         <a href="https://immunedynamics.github.io/diana-shinko/">
-                    <img height = "200px" src="" style="padding-top: 5px">
+                    <img height = "200px" src="https://pbs.twimg.com/profile_images/879517624765263872/D_lEvz_M_400x400.jpg" style="padding-top: 5px">
         </a>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-        <a href="https://immunedynamics.github.io/jonathan-chung/">
-                    <img height = "200px" src="" style="padding-top: 5px">
+        <a href="https://immunedynamics.github.io/adrian-smith/">
+                    <img height = "200px" src="https://media-exp1.licdn.com/dms/image/C5603AQH_kPbIVIieZQ/profile-displayphoto-shrink_400_400/0/1516982824275?e=1622678400&v=beta&t=7liYMlWxbSXnsLqewqEr_QZN_HXD7zMXCOuJ20wbMy8" style="padding-top: 5px">
         </a>
       </td>
     </tr>
@@ -141,9 +141,9 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
             Mass cytometry specialist, Sydney Cytometry Core Research Facility, The University of Sydney and Centenary Institute.
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top"> 
-          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">Jonathan Chung
+          <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">Dr. Adrian Smith
           </div>
-            Ph.D Scholar, School of Computer Science, The University of Sydney.
+            Technical director, Sydney Cytometry Core Research Facility, The University of Sydney and Centenary Institute.
         </td>
      </tr>
 <!-- FIFTH ROW: Go to page --> 
@@ -172,7 +172,7 @@ The Immune Dynamics team is a multi-disciplinary collaboration between the [Sydn
           <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                    <a href="https://immunedynamics.github.io/jonathan-chung/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                    <a href="https://immunedynamics.github.io/adrian-smith/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
                   </p>
               </div>
           </td>
