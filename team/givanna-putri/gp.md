@@ -14,8 +14,15 @@ permalink: /givanna-putri/
     </div>
 </div>
 
-Givanna Putri is a PhD scholar from School of Computer Science at The University of Sydney, supervised by Dr. Mark Read and Prof. Irena Koprinska. She is a member of The Charles Perkins Centre, interested in interdisciplinary research, specifically using machine learning to uncover the development of immune response over time.
+Givanna Putri is a PhD scholar from The School of Computer Science at The University of Sydney, supervised by [Dr. Mark Read](https://immunedynamics.github.io/team) and [Prof. Irena Koprinska](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/irena-koprinska.html), and a member of The Charles Perkins Centre.
+She received her Bachelor degree in Information Technology from The University of Sydney in 2015, and worked professionally as a software developer between 2015-2017.
+Her current PhD research is funded by The Australian Government Research Training Program Scholarship and The University of Sydney Alumni Scholarship, investigating the use of temporal clustering and tracking algorithm to reveal the development of immune response over time.
 
+During her PhD, she developed machine learning techniques which explicitly cluster and track cellular populations development in time-course high dimensional cytometry data.
+This included the TrackSOM algorithm which was recently used to profile [SARS-CoV-2/COVID-19](https://immunedynamics.github.io/thomas-ashhurst/research/#application-to-disease) patients, and the [ChronoClust](https://github.com/ghar1821/Chronoclust) algorithm which publication on the Knowledge Based System journal won the Dolby scientific paper competition in 2019.
+Additionally, she also developed a novel benchmarking methodology [ParetoBench](https://github.com/ghar1821/ParetoBench) which uses the Pareto Front framework to fairly compare the performances of clustering algorithms using several performance metrics.
+
+She was awarded The Student Travel Award from the International Society for Advancement of Cytometry (ISAC) and The Postgraduate Research Support Scheme from The University of Sydney to present ChronoClust at the 34th Congress of the International Society for Advancement of Cytometry (CYTO) conference.
 
 **Contact info**
 
