@@ -1,6 +1,6 @@
 ---
 layout: research2
-title: Research - spatial analysis of high-dimensional imaging data
+title: Spatial analysis of high-dimensional imaging data
 permalink: /research/spatial/
 ---
 
