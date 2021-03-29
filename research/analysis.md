@@ -9,7 +9,7 @@ permalink: /research/analysis/
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://images.squarespace-cdn.com/content/v1/4f5013cf24ac3afbd1aa0384/1455230070354-2VUW5KGW5XS42AGTAKEU/ke17ZwdGBToddI8pDm48kKV0nEQLrZCZyN20-sdpYlF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ivq7Q1ckvJa8MA8qNUlEOZ5IGU-1O_EUPktdRWJqBeswtSHa-_ZlYvzXGRIA25Fyg/_YD_5607.jpg" alt="icon" width="230" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 15px; padding-bottom: 10px">
+            <img src="https://images.squarespace-cdn.com/content/v1/4f5013cf24ac3afbd1aa0384/1455230070354-2VUW5KGW5XS42AGTAKEU/ke17ZwdGBToddI8pDm48kKV0nEQLrZCZyN20-sdpYlF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ivq7Q1ckvJa8MA8qNUlEOZ5IGU-1O_EUPktdRWJqBeswtSHa-_ZlYvzXGRIA25Fyg/_YD_5607.jpg" alt="icon" width="250" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 15px; padding-bottom: 10px">
         </a>
     </div>
 </div>
@@ -25,7 +25,7 @@ Key to our 'systems immunology' approach to studing inflammation and infectious 
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_15-17-53.png?version=1&modificationDate=1613891307741&api=v2" alt="icon" width="230" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 15px; padding-bottom: 10px">
+            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_15-17-53.png?version=1&modificationDate=1613891307741&api=v2" alt="icon" width="250" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 15px; padding-bottom: 10px">
         </a>
     </div>
 </div>
@@ -39,10 +39,7 @@ To address these challenges, we developed '[Spectre](https://immunedynamics.io/s
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2021-2-28_12-3-31.png?version=1&modificationDate=1614474211754&api=v2" alt="icon" width="230" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 15px; padding-bottom: 10px">
-        </a>
-        <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2021-2-21_22-15-46.png?version=1&modificationDate=1613906146172&api=v2" alt="icon" width="230" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 15px; padding-bottom: 10px">
+            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2021-2-28_12-3-31.png?version=1&modificationDate=1614474211754&api=v2" alt="icon" width="250" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 15px; padding-bottom: 10px">
         </a>
     </div>
 </div>
