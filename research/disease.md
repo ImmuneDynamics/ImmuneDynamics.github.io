@@ -10,7 +10,7 @@ We apply our high-dimensional technologies and analysis approaches to study infl
 
 <br />
 
-## COVID-19
+## SARS-CoV-2 and COVID-19
 
 The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has caused >101 million infections and 2.18 million deaths worldwide (as of January 28, 2021). Infection with SARS-CoV-2 results in a spectrum of clinical presentations, called coronavirus disease 2019 (COVID-19), ranging from asymptomatic to fatal disease. Through a collaboration with the [Doherty Institute](https://www.doherty.edu.au/) and the [University of Melbourne](https://www.unimelb.edu.au/), we comprehensively profiled the immune response to [SARS-CoV-2](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) in a cohort of [COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) patients. Our work demonstrated that patients with severe disease exhibited an excessive and hyper-activated immune response ([Koutsakos et al. 2021](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7)). To study the kinetics of this immune response, we also developed and applied a novel time-series analysis approach called [TrackSOM](https://github.com/ghar1821/TrackSOM). 
 
