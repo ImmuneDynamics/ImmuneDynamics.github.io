@@ -13,10 +13,10 @@ permalink: /research/
 **Our research**: initiated through a seed grant from the [Marie Bashir Institute for Infectious Diseases and Biosecurity](https://www.sydney.edu.au/marie-bashir-institute/), we established the the [Immune Dynamics team](https://immunedynamics.io/team), a multi-disciplinary collaboration between [multiple research and technology labs](https://immunedynamics.io/team) at the University of Sydney; integrating expertise in immunology, infectious disease, single-cell & imaging technologies, computational biology, and data science. Our team seeks to comprehensively map dynamic immune repsonses at the single cell level, over time, in various inflammatory and infectious diseases. Through the development of novel [single-cell and imaging methods](), as well as [advanced computational analysis approaches](), we seek to address key challenges in the study of inflammation, and develop single-cell 'atlases' that may be leveraged to reveal key mediators of health and disease, as part of larger efforts such as the [Human Cell Atlas]() project. Our team has a particular interest in the study of emerging infectious diseases, such as [COVID-19](https://tomashhurst.github.io/research/#application-to-disease) (SARS-CoV-2), [Zika virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis, and [West Nile virus](https://tomashhurst.github.io/research/#application-to-disease) encephalitis. 
 
 Below we detail our specific areas of research and development, including:
-1. [Analysis and integration of single-cell data](https://immunedynamics.github.io/research//research/#data-analysis-and-integration-across-cytometry-and-single-cell-technologies)
-2. Time-series analysis
-3. Spatial analysis
-4. Application to inflammation and infectious disease
+1. [Analysis and integration](https://immunedynamics.github.io/research/#data-analysis-and-integration-across-cytometry-and-single-cell-technologies) of single-cell data
+2. [Time-series](https://immunedynamics.github.io/research/#time-series-clustering-analysis-for-mapping-dynamic-immune-responses) analysis
+3. [Spatial analysis](https://immunedynamics.github.io/research/#spatial-analysis-of-high-dimensional-imaging-data) of high-dimensional imaging data
+4. [Application](https://immunedynamics.github.io/research/#single-cell-systems-immunology-of-inflammation-and-infectious-disease) to inflammation and infectious disease
 
 More information on the research interests of our individual members can be found on the [team](https://immunedynamics.io/team/) page.
 
