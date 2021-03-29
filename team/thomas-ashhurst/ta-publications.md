@@ -63,7 +63,7 @@ SHRT
     </div>
 </div>
 
-[Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). 2021. TM Ashhurst\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... Cytometry A (accepted with corrections).
+[Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). 2021. TM Ashhurst\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... Cytometry A (accepted with corrections). *Lead and corresponding author*.
 
 - Pre-print: [Ashhurst et al, 2020, bioRxiv](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)
 - Presentation at the Oz Single Cell webinar series: [computational biology](https://youtu.be/poEDERGXrQw?t=3148).
@@ -100,7 +100,8 @@ SHRT
     </div>
 </div>
 
-[Integrated immune dynamics define correlates of COVID-19 severity and antibody responses](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7). 2021. M Koutsakos, LC Rowntree, L Hensen, ... TM Ashhurst, ... K Kedzierska. Cell Reports Medicine.
+[Integrated immune dynamics define correlates of COVID-19 severity and antibody responses](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7). 2021. M Koutsakos, LC Rowntree, L Hensen, ... TM Ashhurst, ... K Kedzierska. Cell Reports Medicine. *Lead the computational analysis of COVID-19 blood samples, and supervised the development of TrackSOM for time-series tracking*.
+
 - [Summary](https://immunedynamics.io/koutsakos2021/)
 - Media: [Doherty Institute News](https://www.doherty.edu.au/news-events/news/mapping-an-effective-immune-response-to-covid-19), [Medical Xpress](https://medicalxpress.com/news/2021-02-effective-immune-response-covid-.html), [Herald Sun](https://www.heraldsun.com.au/coronavirus/melbourne-experts-uncover-why-covid-affects-people-differently/news-story/ed5ffb9604c1b4db776503562e494f71), [Ticker](https://twitter.com/tickerNEWSau/status/1359991653243572224?s=20).
 
@@ -127,7 +128,7 @@ SHRT
     </div>
 </div>
 
-[Using single-cell cytometry to illustrate integrated multi-perspective evaluation of clustering algorithms using Pareto fronts](https://doi.org/10.1093/bioinformatics/btab038). 2021. GH Putri, I Koprinska, TM Ashhurst, NJC King, MN Read. Bioinformatics
+[Using single-cell cytometry to illustrate integrated multi-perspective evaluation of clustering algorithms using Pareto fronts](https://doi.org/10.1093/bioinformatics/btab038). 2021. GH Putri, I Koprinska, TM Ashhurst, NJC King, MN Read. Bioinformatics. *Supervising role*.
 
 - Code available from the [Github repository](https://github.com/ghar1821/ParetoBench).
 
@@ -143,7 +144,7 @@ SHRT
     </div>
 </div>
 
-[Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold, TM Ashhurst, AL Smith, NJC King. Cytometry Part A.
+[Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold, TM Ashhurst, AL Smith, NJC King. Cytometry Part A. *Co-lead author*.
 
 <br />
 <br />
