@@ -1,6 +1,6 @@
 ---
 layout: research2
-title: Research - Application in inflammation and infectious disease
+title: Application in inflammation and infectious disease
 permalink: /research/disease/
 ---
 
