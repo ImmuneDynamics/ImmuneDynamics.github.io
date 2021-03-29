@@ -4,8 +4,6 @@ title: Overview - Single Cell Systems Immunology of Inflammation and Infectious 
 permalink: /research/
 ---
 
----
-
 ### Background
 
 Emerging viral diseases are a major threat to global health, affecting millions of people worldwide. This threat has been demonstrated in the emergence of novel coronaviruses, such as the Severe Acute Respiratory Syndrome (SARS) virus and Middle Eastern Respiratory Syndrome (MERS) virus, which cause a respiratory disease with high mortality. Recently, the most wide-scale pandemic in modern times was caused by the novel SARS-like Coronavirus 2 (SARS-CoV-2), with infection leading to a severe form of acute respiratory distress syndrome (ARDS). Similarly, severe and rapidly spreading disease has been seen in infection with flaviviruses, including Zika virus (ZIKV), West Nile Virus (WNV), Japanese Encephalitis virus (JEV), and dengue virus (DENV). In this setting, the immune response is a crucial component of host defence in preventing viral dissemination and invasion of host tissues. However, a key feature of many of these severe viral diseases is immunopathology, where an excessive immune response to the virus, mediated significantly by myeloid cells, causes substantial damage to critical host tissues, such as the lung (SARS, MERS, SARS-CoV-2) or central nervous system (ZIKV, WNV, JEV).
