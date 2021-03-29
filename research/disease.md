@@ -9,8 +9,7 @@ Collectively, our central interest is in the comprehensive mapping of the immune
 We apply our high-dimensional technologies and analysis approaches to study inflammation and infectious disease. A particular focus has been the study of *immunopathology*, where the immune response to infection may be a significant driver of disease. 
 
 <br />
-
----
+<br />
 
 # COVID-19
 
@@ -22,8 +21,7 @@ The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has ca
 - Panel design and analysis protocols that may be helpful in COVID-19 research can be found on the [resources](https://tomashhurst.github.io/resources) page.
 
 <br />
-
----
+<br />
 
 # Viral encephalitis
 
