@@ -15,7 +15,7 @@ permalink: /givanna-putri/
 </div>
 
 Givanna Putri is a PhD scholar from The School of Computer Science at The University of Sydney, supervised by [Dr. Mark Read](https://immunedynamics.github.io/team) and [Prof. Irena Koprinska](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/irena-koprinska.html), and a member of The Charles Perkins Centre.
-She received her Bachelor degree in Information Technology from The University of Sydney in 2015, and worked professionally as a software developer between 2015-2017.
+She received her Bachelor degree (with first class Honours) in Information Technology from The University of Sydney in 2015, and worked professionally as a software developer between 2015-2017.
 Her current PhD research is funded by The Australian Government Research Training Program Scholarship and The University of Sydney Alumni Scholarship, investigating the use of temporal clustering and tracking algorithm to reveal the development of immune response over time.
 
 During her PhD, she developed machine learning techniques which explicitly cluster and track cellular populations development in time-course high dimensional cytometry data.
