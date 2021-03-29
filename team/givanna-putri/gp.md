@@ -24,6 +24,8 @@ Additionally, she also developed a novel benchmarking methodology [ParetoBench](
 
 She was awarded The Student Travel Award from the International Society for Advancement of Cytometry (ISAC) and The Postgraduate Research Support Scheme from The University of Sydney to present ChronoClust at the 34th Congress of the International Society for Advancement of Cytometry (CYTO) conference.
 
+She is extremely interested in inter-disciplinary research, specifically in using Machine Learning and Artifical Intelligence to advance life sciences.
+
 **Contact info**
 
 &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/EmailSVG.svg" alt="Email logo" width="20"> Email: [givanna.haryonoputri@sydney.edu.au](mailto:givanna.haryonoputri@sydney.edu.au) <br/>
