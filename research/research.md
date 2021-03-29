@@ -26,12 +26,20 @@ Below we detail our specific areas of research and development. More information
 
 ---
 
-- Inflammatory response maps and atlases across diseases
-- Integration approaches to leverage multiple single-cell and cytometry technologies
-- -- HD cytometry different role to scSEQ
-- -- Methods to integrated and utilise the strength of each dataset
-- COVID-19
-- Viral encephalitis
+Collectively, our central interest is in the comprehensive mapping of the immune response to inflammation and infectious disease at the single-cell level. We seek to apply multiple high-dimensional cytometry, single-cell, analysis approaches to facilitate a 'systems immunology' approach to our investigation. A particular focus of our group has been the study of immunopathology, where the immune response to infection may be a significant driver of disease.
+
+### COVID-19
+
+The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has caused >101 million infections and 2.18 million deaths worldwide (as of January 28, 2021). Infection with SARS-CoV-2 results in a spectrum of clinical presentations, called coronavirus disease 2019 (COVID-19), ranging from asymptomatic to fatal disease. Through a collaboration with the [Doherty Institute](https://www.doherty.edu.au/) and the [University of Melbourne](https://www.unimelb.edu.au/), we comprehensively profiled the immune response to [SARS-CoV-2](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) in a cohort of [COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) patients. Our work demonstrated that patients with severe disease exhibited an excessive and hyper-activated immune response ([Koutsakos et al. 2021](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7)). To study the kinetics of this immune response, we also developed and applied a novel time-series analysis approach called [TrackSOM](https://github.com/ghar1821/TrackSOM). 
+
+- This study has been featured on [Doherty Instite News](https://www.doherty.edu.au/news-events/news/mapping-an-effective-immune-response-to-covid-19), [Medical Xpress](https://medicalxpress.com/news/2021-02-effective-immune-response-covid-.html), the [Herald Sun](https://www.heraldsun.com.au/coronavirus/melbourne-experts-uncover-why-covid-affects-people-differently/news-story/ed5ffb9604c1b4db776503562e494f71), and [Ticker](https://twitter.com/tickerNEWSau/status/1359991653243572224?s=20).
+- Our [webinar](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics) from 2020 (Mapping Immunity Across Time, Space and Disease State) is featured on the Fluidigim ‘[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)’ page.
+- Our mass cytometry protocols have been cited in a number of COVID-19 studies, including [Rodriguez et al. 2020](https://doi.org/10.1016/j.xcrm.2020.100078) and [Koutsakos et al. 2021](https://doi.org/10.1016/j.xcrm.2021.100208).
+- Panel design and analysis protocols that may be helpful in COVID-19 research can be found on the [resources](https://tomashhurst.github.io/resources) page.
+
+### Viral encephalitis
+
+In mouse models of viral encephalitis, our work has demonstrated that inflammatory monocyte-derived macrophages which infiltrate into the brain contribute significantly to disease in [Zika virus](https://www.who.int/news-room/fact-sheets/detail/zika-virus) encephalitis ([Hayashida et al. 2019](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5)) and [West Nile virus](https://www.who.int/news-room/fact-sheets/detail/west-nile-virus) encephalitis ([Getts et al. 2012](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246)), and that *immune-modulatory therapies* targeting inflammatory monocytes may inhibit this process ([Getts et al. 2014](https://stm.sciencemag.org/content/6/219/219ra7.short)). This work was featured on [ABC News](http://www.abc.net.au/science/articles/2014/01/16/3926376.htm) and [The Guardian](http://www.theguardian.com/world/2014/jan/16/heart-attack-damage-can-be-reduced-with-a-simple-injection-say-experts). Our most recent work has demonstrated that viral encephalitis drives an *inflammatory mobilisation of the haematopoietic system* in the bone marrow, resulting in the generation of these pathogenic monocytes ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12), [Ashhurst 2020, Fluidigm webinar](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics)).
 
 - Immunopathology -- myeloid-mono in WNV, myeloid-neut in COVID-19
 
@@ -43,14 +51,11 @@ Below we detail our specific areas of research and development. More information
 
 A major focus of our collaborative group is the development of computational analysis solutions for high-dimensional cytometry data.
 
-- Important -- ability to test and compare different clustering, DR, and alignment/integration tools -- in Spectre, make it easy to run multiple tools to optimiset he approach 
-- Inspire by efforts of HCA
-- Sought to create an interface that would allow a seamless transition across a wide variety of single-cell data types -- including flow, spectral, CyTOF, and scRNAseq, including multiomic assays such as CITE-seq and Abseq
-- In particular faciliate integration and label transfer between datasets, so that reference datasets generated by the HCA and other groups could be leveraged in a wide variety of contexts, in both HD cytometry and single-cell SEQ
-- --> by creating a platform and data-agnostic platform, we can efficiently incorporate various analysis tools, and particular integration tools, developed for cytometry (e.g. FlowSOM) and transcriptomics (e.g. Harmony, Liger, Seurat)
-- By doing this, multiple approaches can be efficiently run and compared
+Key to our 'systems immunology' approach to studing inflammation and infectious disease is the capacity to analyse and integrate datasets generated by different single-cell and cytometry technologies. In particular, the challenges in analysing high-dimensional flow, spectral, or mass cytometry (CyTOF) datasets are different to those typically faced in analysing single-cell sequencing data, This is largely due to the large number of cells in cytometry datasets, consisting of tens to hundreds of millions of cells. However, fewer features can be measured on individual cells through these cytometry technologies (typically <50 proteins), when compared to single-cell multiomic approaches (such as CITE-seq: thousands of transcripts and 228 proteins), though fewer cells are measured. Ideally, we could utilise a system that is versatile enough to manage data generated through different cytometry or single-cell technologies, with a built in capacity to integrate datasets across batches, experiments, or technologies.
 
---> in our case, focusing on methods that can scale to large datasets consisting of millions of cells (ref https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9#Abs1)
+To address these challenges, we developed '[Spectre](https://immunedynamics.io/spectre/)', a computational toolkit in R that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional cytometry data from different batches or experiments ([Ashhurst et al, 2021](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)). Spectre streamlines the analytical stages of raw data pre-processing, batch alignment, data integration, clustering, dimensionality reduction, visualisation and population labelling, as well as quantitative and statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by data and laboratory scientists. 
+
+Inspired by the efforts of the [Human Cell Atlas (HCA)](http://humancellatlas.org/), we sought to create an interface that would allow a seamless transition across a wide variety of single-cell data types - including flow, spectral, CyTOF, and scRNAseq, including multiomic assays such as CITE-seq and Abseq. In particular, our goal was to faciliate integration and label transfer between datasets, so that reference datasets generated by the HCA and other groups could be leveraged in a wide variety of contexts, in both HD cytometry and single-cell sequencing. By creating a technology and data-agnostic platform, we can efficiently incorporate various analysis tools, and particular integration tools, developed for cytometry (e.g. FlowSOM, CytoNorm) and transcriptomics (e.g. Harmony, Liger, Seurat). By doing this, multiple approaches can be efficiently run and compared within a single environment. Critically, as many existing scRNAseq tools [do not scale well to large datasets](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9#Abs1), we have focused our analysis and integration approaches around methods that can scale to large datasets consisting of millions of cells.
 
 Development
 - Spectre for computational analysis
@@ -67,14 +72,10 @@ Application
 
 ---
 
-- Another major focus is the incorporation of time-series analysis approaches, as this is an under-developed field, but critical in many areas on biology
+The immune response to inflammation and disease is dynamic over time, and many studies collect samples over a time course of disease. However, the temporal aspects of these datasets are rarely use directly in the analysis of immune dynamics. While pseudo-time analysis approaches are common to infer trajectories in single-cell or cytometry data, actual-time analysis is an under-developed area. To address this limitaiton, we developed a number of approaches for clustering and analysing time-series data. Initially we developed ChronoClust (Putri)...
 
-Development
-- ChronoClust
-- TrackSOM
-
-Application
-— examples in COVID etc
+We subsequently build upon the FlowSOM algorithm to create TrackSOM...
+- COVID-19 paper
 
 <br />
 
