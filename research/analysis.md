@@ -9,8 +9,7 @@ permalink: /research/analysis/
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="
-https://images.squarespace-cdn.com/content/v1/4f5013cf24ac3afbd1aa0384/1455230070354-2VUW5KGW5XS42AGTAKEU/ke17ZwdGBToddI8pDm48kKV0nEQLrZCZyN20-sdpYlF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ivq7Q1ckvJa8MA8qNUlEOZ5IGU-1O_EUPktdRWJqBeswtSHa-_ZlYvzXGRIA25Fyg/_YD_5607.jpg" alt="icon" width="180" align="right" style="padding-left: 10px; padding-right: 0px; padding-top: 10px; padding-bottom: 10px">
+            <img src="https://images.squarespace-cdn.com/content/v1/4f5013cf24ac3afbd1aa0384/1455230070354-2VUW5KGW5XS42AGTAKEU/ke17ZwdGBToddI8pDm48kKV0nEQLrZCZyN20-sdpYlF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ivq7Q1ckvJa8MA8qNUlEOZ5IGU-1O_EUPktdRWJqBeswtSHa-_ZlYvzXGRIA25Fyg/_YD_5607.jpg" alt="icon" width="180" align="right" style="padding-left: 10px; padding-right: 0px; padding-top: 10px; padding-bottom: 10px">
         </a>
     </div>
 </div>
