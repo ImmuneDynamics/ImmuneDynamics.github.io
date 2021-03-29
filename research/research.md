@@ -22,9 +22,9 @@ Below we detail our specific areas of research and development. More information
 
 <br />
 
-## Single-cell systems immunology of inflammation and infectious disease
-
 ---
+
+# Single-cell systems immunology of inflammation and infectious disease
 
 Collectively, our central interest is in the comprehensive mapping of the immune response to inflammation and infectious disease at the single-cell level. We seek to apply multiple high-dimensional cytometry, single-cell, analysis approaches to facilitate a 'systems immunology' approach to our investigation. A particular focus of our group has been the study of immunopathology, where the immune response to infection may be a significant driver of disease.
 
@@ -45,9 +45,9 @@ In mouse models of viral encephalitis, our work has demonstrated that inflammato
 
 <br />
 
-## Data analysis and integration across cytometry and single-cell technologies
-
 ---
+
+# Data analysis and integration across cytometry and single-cell technologies
 
 A major focus of our collaborative group is the development of computational analysis solutions for high-dimensional cytometry data.
 
@@ -68,9 +68,9 @@ Application
 
 <br />
 
-## Time-series clustering analysis for mapping dynamic immune responses
-
 ---
+
+# Time-series clustering analysis for mapping dynamic immune responses
 
 The immune response to inflammation and disease is dynamic over time, and many studies collect samples over a time course of disease. However, the temporal aspects of these datasets are rarely use directly in the analysis of immune dynamics. While pseudo-time analysis approaches are common to infer trajectories in single-cell or cytometry data, actual-time analysis is an under-developed area. To address this limitaiton, we developed a number of approaches for clustering and analysing time-series data. Initially we developed ChronoClust (Putri)...
 
@@ -79,9 +79,9 @@ We subsequently build upon the FlowSOM algorithm to create TrackSOM...
 
 <br />
 
-## Spatial analysis of high-dimensional imaging data
-
 ---
+
+## Spatial analysis of high-dimensional imaging data
 
 - Spatial analysis platform --> integrated with Spectre
 - Improved cell segmentation workflows
