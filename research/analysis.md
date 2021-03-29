@@ -22,6 +22,14 @@ Key to our 'systems immunology' approach to studing inflammation and infectious 
 
 ### Analysis of large cytometry and single-cell datasets
 
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_15-17-53.png?version=1&modificationDate=1613891307741&api=v2" alt="icon" width="230" align="right" style="padding-left: 10px; padding-right: 0px; padding-top: 10px; padding-bottom: 10px">
+        </a>
+    </div>
+</div>
+
 To address these challenges, we developed '[Spectre](https://immunedynamics.io/spectre/)', a computational toolkit in R that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional cytometry data from different batches or experiments ([Ashhurst et al, 2021](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)). Spectre streamlines the analytical stages of raw data pre-processing, batch alignment, data integration, clustering, dimensionality reduction, visualisation and population labelling, as well as quantitative and statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by data and laboratory scientists. 
 
 <br />
