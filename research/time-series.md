@@ -11,7 +11,7 @@ An immune response may be successful in a person, but not another.
 In the event it is not successful, manual effective health-promoting interventions are crucial to prevent fatalities. 
 Designing an effective interventions requires an in-depth understanding on how the immune response develop in a disease over time.
 To understand this, biologists perform time-course experiments, extracting diseased samples from several time-points, characterising individual cells using cytometry, and thereafter analysing them to map out the specific times at which cells differentiate or functionally change.
-The fundamental challenges to analysing such temporal cytometry data is not only the identification of the cellular populations in the dataset, but also the tracking of their phenotypic changes over time.
+The fundamental challenge to analysing such temporal cytometry data is not only the identification of the cellular populations in the dataset, but also the tracking of their phenotypic changes over time.
 Whilst there exists clustering approaches such as FlowSOM and Phenograph which identifies cellular populations in non-temporal cytometry data, little attempts have been made to develop methodologies which simultaneously cluster cells and track their changes over time. 
 To address this, we developed [ChronoClust](https://www.sciencedirect.com/science/article/abs/pii/S0950705119300796) and [TrackSOM](https://github.com/ghar1821/TrackSOM).
 
