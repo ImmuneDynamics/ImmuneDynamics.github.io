@@ -1,7 +1,6 @@
 ---
 layout: research2
 title: Research overview 2
-permalink: /research2/
 ---
 
 ---
