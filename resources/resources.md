@@ -6,7 +6,7 @@ permalink: /resources/
 
 On this page we provide links to protocols, software, and other resources written or collected by members of the team and our collaborators, for flow cytometry, spectral cytometry, mass cytometry (CyTOF), Imaging Mass Cytometry (IMC), computational analysis, and spatial analysis. You can also explore:
 - The **[Sydney Cytometry Extranet](https://sydneycytometry.org.au/wiki-launch)**: this external resource site from the Sydney Cytometry Facility hosts a number of protocols and resources developed by facility staff and users. Non-facility users can request access using the form on the page linked above.
-- Our **[protocols.io](https://www.protocols.io/workspaces/immune-dynamics)** page
+- Our **[protocols.io](https://www.protocols.io/workspaces/immune-dynamics)** page for various laboratory protocols.
 
 <br />
 
