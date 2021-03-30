@@ -37,6 +37,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 - 2020-10-23: Spectre pre-print now online: [Ashhurst TM, Marsh-Wakefield F, Putri GH, et al. (2020). bioRxiv. 2020.10.22.349563](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1).
 - 2019-07-31: Spectre Github repository established.
 - 2019-05-11: The 'CAPX' workflow (the initial version of Spectre) published as part of a methods chapter of ['Mass Cytometry: Methods and Protocols': Ashhurst TM et al. (2019). Methods Mol Biol. 1989:159-192. doi: 10.1007/978-1-4939-9454-0_12](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12).
+- 2018-09-25: [CAPX Github](https://github.com/sydneycytometry/CAPX) established.
 
 <p> </p>
 
