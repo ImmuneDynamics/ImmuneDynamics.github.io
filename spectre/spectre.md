@@ -94,7 +94,9 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
       </td>
       <td style="padding-left:.75em;width:65%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Spectre protocols for scRNAseq analysis</b></p>
-        <p>Here we provide protocols and instructions for using Spectre for the analysis of scRNAseq and CITEseq/Ab-seq data.</p>
+        <p>
+          Though Spectre was not designed explicitly to work with genomic data, a number of Spectre's processing, analysis, or plotting functions can be helpful in analysing scRNAseq data. Here we provide analysis options and tools to support scRNAseq analysis, in conjunction with existing tools such as Seurat and SingleCellExperiment.
+        </p>
           <a href="https://wiki.centenary.org.au/x/l-kiCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
