@@ -6,7 +6,7 @@ permalink: /spectre/
 
 **Overview**: Spectre is an R package and computational toolkit that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional cytometry data from different batches or experiments. Spectre streamlines the analytical stages of raw data pre-processing, batch alignment, data integration, clustering, dimensionality reduction, visualisation and population labelling, as well as quantitative and statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by data and laboratory scientists. 
 
-**Current version**: [`v0.4.2`](https://github.com/ImmuneDynamics/Spectre)
+**Current version**: [```v0.4.2```](https://github.com/ImmuneDynamics/Spectre)
 
 <p> </p>
 
