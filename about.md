@@ -110,12 +110,12 @@ You can contact us via [email](mailto:thomas.ashhurst@sydney.edu.au) or on [Twit
         </a>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-        <a href="https://immunedynamics.github.io/alanna-spiteri/">
+        <a href="https://www.researchgate.net/profile/Alanna-Spiteri">
                     <img height = "200px" src="https://i1.rgstatic.net/ii/profile.image/930583249162243-1598879744562_Q512/Alanna-Spiteri.jpg" style="padding-top: 5px">
         </a>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-        <a href="https://immunedynamics.github.io/diana-shinko/">
+        <a href="https://www.researchgate.net/profile/Diana-Shinko">
                     <img height = "200px" src="https://pbs.twimg.com/profile_images/879517624765263872/D_lEvz_M_400x400.jpg" style="padding-top: 5px">
         </a>
       </td>
@@ -160,14 +160,14 @@ You can contact us via [email](mailto:thomas.ashhurst@sydney.edu.au) or on [Twit
           <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                    <a href="https://immunedynamics.github.io/alanna-spiteri/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                    <a href="https://www.researchgate.net/profile/Alanna-Spiteri"><b><span style="font-size: 18px">MORE INFO</span></b></a>
                   </p>
               </div>
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                    <a href="https://immunedynamics.github.io/diana-shinko/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                    <a href="https://www.researchgate.net/profile/Diana-Shinko"><b><span style="font-size: 18px">MORE INFO</span></b></a>
                   </p>
               </div>
           </td>
