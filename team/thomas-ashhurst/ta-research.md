@@ -1,7 +1,7 @@
 ---
 layout: ta
 title: Thomas Ashhurst - Research Overview
-permalink: /thomas-ashhurst/research/
+<!-- permalink: /thomas-ashhurst/research/ -->
 ---
 
 ## Overview
