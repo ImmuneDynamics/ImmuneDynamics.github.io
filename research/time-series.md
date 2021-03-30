@@ -29,7 +29,7 @@ To address this, we developed [ChronoClust](https://www.sciencedirect.com/scienc
     </div>
 </div>
 
-ChronoClust is a novel clustering and cluster tracking algorithm specifically designed to cluster and track cellular populations in temporal cytometry data. 
+ChronoClust ([paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705119300796), [Github](https://github.com/ghar1821/chronoclust)) is a novel clustering and cluster tracking algorithm specifically designed to cluster and track cellular populations in temporal cytometry data. 
 For each time-point, ChronoClust uses density based clustering algorithms which cluster cells into microclusters (MCs) and thereafter daisy-chained those MCs to form clusters.
 The evolution of clusters are then tracked by the virtue of their MCs over time. 
 We demonstrated ChronoClust's prowess by analysing a temporal cytometry data elucidating the immune response of West Nile Virus (WNV) infected mice in the bone marrow (WNV-BM).
@@ -48,7 +48,7 @@ ChronoClust was able to not only automatically reproduce the clusters and relati
 </div>
 
 Building on ChronoClust’s success, we were curious as to whether its tracking methodology could be used to enhance an existing algorithm.
-Following our [previous clustering algorithm benchmarking study](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab038/6122691) which found FlowSOM clustering algorithm to be extremely effective in clustering benchmark single time-point cytometry data, we developed TrackSOM, a temporal clustering and tracking algorithm which fuses ChronoClust's tracking methodology with the clustering prowess of FlowSOM. 
+Following our [previous clustering algorithm benchmarking study](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab038/6122691) which found FlowSOM clustering algorithm to be extremely effective in clustering benchmark single time-point cytometry data, we developed TrackSOM ([paper](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7), [Github](https://github.com/ghar1821/TrackSOM)), a temporal clustering and tracking algorithm which fuses ChronoClust's tracking methodology with the clustering prowess of FlowSOM. 
 In summary, TrackSOM amalgamates data from all time-point into one dataset, and thereafter cluster them using the Self Organising Map (SOM).
 For each time-point, TrackSOM then isolates the non-empty SOM nodes for that time-point, and perform consensus hierarchical clustering on them.
 Tracking of the resulting meta-clusters then ensues, by virtue of the SOM nodes. 
