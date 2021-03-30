@@ -102,6 +102,14 @@ permalink: /spectre/getting-started/
         <a href="https://wiki.centenary.org.au/x/5ysMCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Spectre tutorial
         </span></b></a>
+        <br />
+        <br />
+        <p>
+          Alternatively, you can check out our 
+          <a href="https://wiki.centenary.org.au/x/mYGoBw" target="_blank" rel="noopener noreferrer">guide</a>
+          for replicating Spectre' analysis workflow in 
+          <a href="https://wiki.centenary.org.au/x/mYGoBw" target="_blank" rel="noopener noreferrer">FlowJo</a>.
+        </p>
         <p> </p>
       </td>
       </tr>
