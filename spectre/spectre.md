@@ -76,7 +76,9 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
       </td>
       <td style="padding-left:.75em;width:65%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Spectre protocols for cytometry analysis</b></p>
-        <p>Here we provide protocols and instructions for using Spectre for the analysis of high-dimensional flow, spectral, or mass (CyTOF) cytometry data.</p>
+        <p>
+          Here we provide protocols and instructions for using Spectre for the analysis of high-dimensional flow, spectral, or mass (CyTOF) cytometry data. This includes workflows and strategies for performing alignment/integration of data generated in different batches or experiments.
+        </p>
           <a href="https://immunedynamics.io/spectre/cytometry/"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
