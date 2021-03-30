@@ -16,6 +16,6 @@ We are involved in the [Human Cell Atlas (HCA)](https://www.humancellatlas.org/)
 
 ![Roadshows](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Homeshow%20wide%20thin.png)
 
-We have also engaged in a number of community-focused educational endeavours, such as the ACS roadshows in 2016 (**Polychromatic Flow Cytometry**; Dr. Pratip Chattopadhyay and [Thomas Ashhurst](tomashhurst.github.io)) and in 2020 (**[High-dimensional analysis](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/)**; [Dr. Thomas Ashhurst](tomashhurst.github.io), [Dr. Felix Marsh-Wakefield](https://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en), and [Givanna Putri](https://scholar.google.com/citations?user=S-sNLPIAAAAJ&hl=en)).
+We have also engaged in a number of community-focused educational endeavours, such as the ACS roadshows in 2016 (**Polychromatic Flow Cytometry**; Dr. Pratip Chattopadhyay and [Thomas Ashhurst](https://immunedynamics.github.io/thomas-ashhurst/)) and in 2020 (**[High-dimensional analysis](https://www.immunology.org.au/Programs/Special-Interest-Groups/Systems-Immunology/acs-asi-homeshow-2020/)**; [Dr. Thomas Ashhurst](https://immunedynamics.github.io/thomas-ashhurst/), [Dr. Felix Marsh-Wakefield](https://immunedynamics.github.io/felix-marsh-wakefield/), and [Givanna Putri](https://immunedynamics.github.io/givanna-putri/)).
 
 <br />
