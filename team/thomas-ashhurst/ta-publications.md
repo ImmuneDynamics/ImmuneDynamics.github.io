@@ -107,6 +107,8 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 - Protocols and instructions available on the [Spectre Home Page](https://wiki.centenary.org.au/display/SPECTRE).
 - In the [top 5% of all research outputs](https://www.altmetric.com/details/92965811) scored by Altmetric
 
+<br />
+
 <div class='row'>
     <div class="image">
         <a href="#">
@@ -114,8 +116,6 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
         </a>
     </div>
 </div>
-
-<br />
 
 [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold, TM Ashhurst, AL Smith, NJC King. Cytometry Part A. *Co-lead author*.
 
