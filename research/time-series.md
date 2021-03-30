@@ -24,7 +24,7 @@ To address this, we developed [ChronoClust](https://www.sciencedirect.com/scienc
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/186841491/TS.png?version=1&modificationDate=1613891308205&api=v2" alt="icon" width="300" align="right" style="padding-left: 30px; padding-right: 0px; padding-top: 5px; padding-bottom: 10px">
+            <img src="https://wiki.centenary.org.au/download/attachments/186841491/TS.png?version=1&modificationDate=1613891308205&api=v2" alt="icon" width="300" align="right" style="padding-left: 30px; padding-right: 0px; padding-top: 5px; padding-bottom: 10px; border: 5px solid #555">
         </a>
     </div>
 </div>
