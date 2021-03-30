@@ -14,7 +14,11 @@ permalink: /mark-read/
     </div>
 </div>
 
-We conduct research at the interface of Computer Science and Biomedicine at the University of Sydney. Algorithms, simulations, machine learning, gut microbial ecology, immunology and healthcare. Research is endless exciting possibilities.
+Dr. Read joined the Charles Perkins Centre as a research fellow in 2013, enticed by its cross-disciplinary emphasis on understanding and tackling disease. Here he will employ computational modelling and simulation techniques to help understand how bacterial ecosystems in the gut influence nutrient uptake, and how this in turn can influence health.
+
+Dr. Read’s background lies in computational immunology; he created the world’s first agent-based simulation of experimental autoimmune encephalomyelitis, a murine model of T-cell mediated multiple sclerosis. His research has explored how computational modelling and simulation can complement traditional wet-lab research, and the complex issue of ensuring that models and simulations adequately capture biological systems that are typically not well understood. He is well versed in both the benefits and challenges of conducting cross-disciplinary research, having worked closely with Biologists, Engineers, Mathematicians, Statisticians and Computer Scientists throughout his research career. He is a versatile researcher, and has in recent years applied his skills in developing and exploring underwater swarm robotics algorithms: algorithms that allow systems of underwater robots to collectively act in a decentralised and self-organised manner to solve complex tasks.
+
+Mark fully embraces interdisciplinary research; he enjoys the challenges and the unique success that comes from tackling new problems as part of a team of experts from a wide variety of fields.
 
 **Contact info**
 
