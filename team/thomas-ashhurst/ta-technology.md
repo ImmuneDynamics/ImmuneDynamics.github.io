@@ -8,15 +8,6 @@ permalink: /thomas-ashhurst/technology/
 
 Critical to investigating the complex immune response to disease is the capacity to measure cells at the single-cell level, examining multiple features of the cell simultaneously. However, the development and implimentation of new methods that can achieve this is inherently challenging. To address this, I have lead a number of developments of new cytometry technologies or assays. 
 
-*My position with SC facility -- allows access to a wide range of SC and imaging technologies.*
-
-
-*My current efforts:*
-- Multiomics via Rhapsody
-- HD panels for spectral
-- As well as continued application of flow, cytof, and IMC technologies across a number of studies.
-
-
 <br />
 
 ---
