@@ -19,6 +19,8 @@ To address this, we developed [ChronoClust](https://www.sciencedirect.com/scienc
 
 <br />
 
+---
+
 ### ChronoClust
 
 <div class='row'>
@@ -38,6 +40,8 @@ We demonstrated ChronoClust's prowess by analysing a temporal cytometry data elu
 ChronoClust was able to not only automatically reproduce the clusters and relationships previously determined manually by an expert, but was also able to uncover the temporal changes in cellular populations abundances consistent with existing biological studies.
 
 <br />
+
+---
 
 ### TrackSOM
 
