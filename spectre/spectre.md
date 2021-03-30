@@ -20,7 +20,8 @@ Along with flow, spectral, or mass cytometry data, Spectre enables [spatial anal
 
 <p> </p>
 
-**More info**: for more information on Spectre, check out the '[about Spectre](https://immunedynamics.github.io/spectre/about)' page. If you are interested in testing new 'development' functions in Spectre, or adding your own function, see the [developers guide](https://wiki.centenary.org.au/x/lMj3C). 
+**More info**: for more information on Spectre, check out the '[about Spectre](https://immunedynamics.github.io/spectre/about)' page. If you are interested in testing new 'development' functions in Spectre, or adding your own function, see the
+<a href="https://wiki.centenary.org.au/x/lMj3C"  target="_blank" rel="noopener noreferrer">developers guide</a>.
 
 **Citation**: if you use Spectre in your work, please consider citing [Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2020). bioRxiv. 2020.10.22.349563](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). To continue providing open-source tools such as Spectre, it helps us if we can demonstrate that our efforts are contributing to analysis efforts in the community. Please also consider citing the authors of the individual packages or tools (e.g. CytoNorm, FlowSOM, tSNE, UMAP, etc) that are critical elements of your analysis work. We have provided some generic text that you can use for your methods section with each protocol and on the '[citation](https://immunedynamics.github.io/spectre/citation)' page.
 
