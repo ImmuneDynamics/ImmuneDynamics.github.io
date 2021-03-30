@@ -105,7 +105,7 @@ You can contact us via [email](mailto:thomas.ashhurst@sydney.edu.au) or on [Twit
 <!-- THIRD ROW: Image --> 
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-        <a href="https://immunedynamics.github.io/nicholas-king/">
+        <a href="https://www.researchgate.net/profile/Nicholas-King-11">
           <img height = "200px" src="https://www.sydney.edu.au/research/opportunities/images/supervisors/KingN.jpg?1205985788" style="padding-top: 5px">
         </a>
       </td>
@@ -153,7 +153,7 @@ You can contact us via [email](mailto:thomas.ashhurst@sydney.edu.au) or on [Twit
           <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                    <a href="https://immunedynamics.github.io/nicholas-king/"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+                    <a href="https://www.researchgate.net/profile/Nicholas-King-11"><b><span style="font-size: 18px">MORE INFO</span></b></a>
                   </p>
               </div>
           </td>
