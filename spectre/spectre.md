@@ -32,10 +32,11 @@ Along with flow, spectral, or mass cytometry data, Spectre enables [spatial anal
 
 To receive updates, you can join our mailing list [here](https://forms.gle/vrg58485Ri5wagRr7).
 
+- 2021-03-30: [20 papers have referenced Spectre](https://immunedynamics.io/spectre/metrics/) (and/or CAPX and associated scripts).
 - 2021-03-08: Spectre [v0.4.0 release](https://github.com/ImmuneDynamics/Spectre) – including significant improvements, as well as the addition of new batch alignment functions.
 - 2020-10-23: Spectre pre-print now online: [Ashhurst TM, Marsh-Wakefield F, Putri GH, et al. (2020). bioRxiv. 2020.10.22.349563](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1).
 - 2019-07-31: Spectre Github repository established.
-- 2019-05-11: The 'CAPX' workflow (precursor to Spectre) published as part of a methods chapter of 'Mass Cytometry: Methods and Protocols': Ashhurst TM et al. (2019). Methods Mol Biol. 1989:159-192. doi: 10.1007/978-1-4939-9454-0_12.
+- 2019-05-11: The 'CAPX' workflow (the initial version of Spectre) published as part of a methods chapter of 'Mass Cytometry: Methods and Protocols': Ashhurst TM et al. (2019). Methods Mol Biol. 1989:159-192. doi: 10.1007/978-1-4939-9454-0_12.
 
 <p> </p>
 
