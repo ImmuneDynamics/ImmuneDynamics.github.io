@@ -38,14 +38,12 @@ Key to a 'systems immunology' approach to studing inflammation and infectious di
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/146080604/SPECTRE?version=6&modificationDate=1588780080372&api=v2" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
+            <img src="https://wiki.centenary.org.au/download/attachments/146080606/Spectre%20wide.png?version=1&modificationDate=1614253260985&api=v2" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
         </a>
     </div>
 </div>
 
-- A major focus of our collaborative group is the development of computational analysis solutions for high-dimensional cytometry data.
-
-To address these challenges, we developed '[Spectre](https://immunedynamics.io/spectre/)', a computational toolkit in R that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional cytometry data from different batches or experiments ([Ashhurst et al, 2021](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)). Spectre streamlines the analytical stages of raw data pre-processing, batch alignment, data integration, clustering, dimensionality reduction, visualisation and population labelling, as well as quantitative and statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by data and laboratory scientists. 
+A major focus of our collaborative group is the development of computational analysis solutions for high-dimensional cytometry data. To address the challenges list above, we developed '[Spectre](https://immunedynamics.io/spectre/)', a computational toolkit in R that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional cytometry data from different batches or experiments ([Ashhurst et al, 2021](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)). Spectre streamlines the analytical stages of raw data pre-processing, batch alignment, data integration, clustering, dimensionality reduction, visualisation and population labelling, as well as quantitative and statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by data and laboratory scientists. 
 
 <br />
 
@@ -54,7 +52,7 @@ To address these challenges, we developed '[Spectre](https://immunedynamics.io/s
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2021-2-28_12-3-31.png?version=1&modificationDate=1614474211754&api=v2" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
+            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/Integration.png" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
         </a>
     </div>
 </div>
