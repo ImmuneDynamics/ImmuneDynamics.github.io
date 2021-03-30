@@ -17,6 +17,8 @@ The fundamental challenge to analysing such temporal cytometry data is not only 
 Whilst there exists clustering approaches such as FlowSOM and Phenograph which identifies cellular populations in non-temporal cytometry data, little attempts have been made to develop methodologies which simultaneously cluster cells and track their changes over time. 
 To address this, we developed [ChronoClust](https://www.sciencedirect.com/science/article/abs/pii/S0950705119300796) and [TrackSOM](https://github.com/ghar1821/TrackSOM).
 
+<br />
+
 ### ChronoClust
 
 <div class='row'>
@@ -32,6 +34,8 @@ For each time-point, ChronoClust uses density based clustering algorithms which 
 The evolution of clusters are then tracked by the virtue of their MCs over time. 
 We demonstrated ChronoClust's prowess by analysing a temporal cytometry data elucidating the immune response of West Nile Virus (WNV) infected mice in the bone marrow (WNV-BM).
 ChronoClust was able to not only automatically reproduce the clusters and relationships previously determined manually by an expert, but was also able to uncover the temporal changes in cellular populations abundances consistent with existing biological studies.
+
+<br />
 
 ### TrackSOM
 
