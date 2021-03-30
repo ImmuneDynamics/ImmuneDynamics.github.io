@@ -19,6 +19,14 @@ To address this, we developed [ChronoClust](https://www.sciencedirect.com/scienc
 
 ### ChronoClust
 
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://wiki.centenary.org.au/download/attachments/186841491/TS.png?version=1&modificationDate=1613891308205&api=v2" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
+        </a>
+    </div>
+</div>
+
 ChronoClust is a novel clustering and cluster tracking algorithm specifically designed to cluster and track cellular populations in temporal cytometry data. 
 For each time-point, ChronoClust uses density based clustering algorithms which cluster cells into microclusters (MCs) and thereafter daisy-chained those MCs to form clusters.
 The evolution of clusters are then tracked by the virtue of their MCs over time. 
@@ -30,7 +38,7 @@ ChronoClust was able to not only automatically reproduce the clusters and relati
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://user-images.githubusercontent.com/11766139/112920952-ac116180-9155-11eb-934d-2beea20c3836.png)" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
+            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/TrackSOM.png" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
         </a>
     </div>
 </div>
