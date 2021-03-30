@@ -6,8 +6,6 @@ permalink: /research/disease/
 
 Collectively, our central interest is in the comprehensive mapping of the immune response to inflammation and infectious disease at the single-cell level. We seek to apply multiple high-dimensional cytometry, single-cell, analysis approaches to facilitate a 'systems immunology' approach to our investigation. A particular focus of our group has been the study of immunopathology, where the immune response to infection may be a significant driver of disease.
 
-We apply our high-dimensional technologies and analysis approaches to study inflammation and infectious disease. A particular focus has been the study of *immunopathology*, where the immune response to infection may be a significant driver of disease. 
-
 <br />
 
 ### SARS-CoV-2 and COVID-19
@@ -24,7 +22,5 @@ The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has ca
 ### Viral encephalitis
 
 In mouse models of viral encephalitis, our work has demonstrated that inflammatory monocyte-derived macrophages which infiltrate into the brain contribute significantly to disease in [Zika virus](https://www.who.int/news-room/fact-sheets/detail/zika-virus) encephalitis ([Hayashida et al. 2019](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5)) and [West Nile virus](https://www.who.int/news-room/fact-sheets/detail/west-nile-virus) encephalitis ([Getts et al. 2012](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246)), and that *immune-modulatory therapies* targeting inflammatory monocytes may inhibit this process ([Getts et al. 2014](https://stm.sciencemag.org/content/6/219/219ra7.short)). This work was featured on [ABC News](http://www.abc.net.au/science/articles/2014/01/16/3926376.htm) and [The Guardian](http://www.theguardian.com/world/2014/jan/16/heart-attack-damage-can-be-reduced-with-a-simple-injection-say-experts). Our most recent work has demonstrated that viral encephalitis drives an *inflammatory mobilisation of the haematopoietic system* in the bone marrow, resulting in the generation of these pathogenic monocytes ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12), [Ashhurst 2020, Fluidigm webinar](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics)).
-
-- Immunopathology -- myeloid-mono in WNV, myeloid-neut in COVID-19
 
 <br />
