@@ -1,7 +1,7 @@
 ---
 layout: ta
 title: Thomas Ashhurst - Single Cell and Spatial Technologies
-permalink: /thomas-ashhurst/technology/
+<!--permalink: /thomas-ashhurst/technology/-->
 ---
 
 <!--![HD](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/HDtech3.png)-->
