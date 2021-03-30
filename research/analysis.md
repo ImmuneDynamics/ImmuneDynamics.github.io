@@ -38,7 +38,7 @@ Key to a 'systems immunology' approach to studing inflammation and infectious di
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/146080606/Spectre%20wide.png?version=1&modificationDate=1614253260985&api=v2" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Spectre%20clusters.png?raw=true" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
         </a>
     </div>
 </div>
