@@ -6,13 +6,14 @@ permalink: /research/time-series/
 
 ### Immune responeses over time
 
-![TS](https://wiki.centenary.org.au/download/attachments/150459925/image2020-10-7_18-19-39.png?version=1&modificationDate=1602094779678&api=v2)
-
 The immune response to disease is inherently complex, dynamic, and specific. 
 While it is mostly effective, the success of an immune response varies not only between diseases, but also between individuals. 
 Designing effective intervention in disease requires an in-depth understanding of how the immune response responds to disease over time.
 To understand this, time-course experiments are often performed, extracting diseased samples from several time-points, characterising individual cells using cytometry or single-cell methods, and thereafter analysing them to map out the specific times at which cells differentiate or functionally change.
 The fundamental challenge to analysing such temporal data is not only the identification of the cellular populations in the dataset, but also the tracking of their phenotypic and functional changes over time.
+
+![TS](https://wiki.centenary.org.au/download/attachments/150459925/image2020-10-7_18-19-39.png?version=1&modificationDate=1602094779678&api=v2)
+
 Whilst there exists clustering approaches such as FlowSOM and Phenograph which identify cellular populations in non-temporal cytometry data, few attempts have been made to develop methodologies which simultaneously cluster cells and track their changes over time. 
 To address this, we developed [ChronoClust](https://www.sciencedirect.com/science/article/abs/pii/S0950705119300796) and [TrackSOM](https://github.com/ghar1821/TrackSOM).
 
