@@ -6,6 +6,8 @@ permalink: /research/time-series/
 
 ### Immune responeses over time
 
+![TS](https://wiki.centenary.org.au/download/attachments/150459925/image2020-10-7_18-19-39.png?version=1&modificationDate=1602094779678&api=v2)
+
 The immune response to disease is inherently complex, dynamic, and specific. 
 While it is mostly effective, the success of an immune response varies not only between diseases, but also between individuals. 
 Designing effective intervention in disease requires an in-depth understanding of how the immune response responds to disease over time.
@@ -23,7 +25,7 @@ To address this, we developed [ChronoClust](https://www.sciencedirect.com/scienc
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/186841491/TS.png?version=1&modificationDate=1613891308205&api=v2" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
+            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/research/CC.jpg" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
         </a>
     </div>
 </div>
