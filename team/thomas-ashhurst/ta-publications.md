@@ -85,7 +85,6 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 <br />
 <br />
 <br />
-<br />
 
 <div class='row'>
     <div class="image">
