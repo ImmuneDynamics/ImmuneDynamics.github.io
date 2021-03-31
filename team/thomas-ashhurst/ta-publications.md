@@ -52,6 +52,23 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 <div class='row'>
     <div class="image">
         <a href="#">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/FMW%202021.png?raw=true" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+[Making the most of high dimensional cytometry data](). 2021. A Mitchell\*, F Marsh-Wakefield\*, S Norton, TM Ashhurst, ... HM McGuire, R Kemp. Immunology and Cellular Biology (accepted with corrections).
+
+- Paper resulting from a joint ACS-ASI venture in the development of guidelines for computational analysis of high-dimensional cytometry data.
+
+<br />
+<br />
+<br />
+<br />
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
             <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Koutsakos%202021.png" alt="icon" width="250" align="right">
         </a>
     </div>
