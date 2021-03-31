@@ -78,8 +78,9 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
     </div>
 </div>
 
-[Making the most of high dimensional cytometry data](). 2021. A Mitchell\*, F Marsh-Wakefield\*, S Norton, TM Ashhurst, ... HM McGuire, R Kemp. Immunology and Cellular Biology (accepted for publication).
+**Making the most of high dimensional cytometry data**. 2021. A Mitchell\*, F Marsh-Wakefield\*, S Norton, TM Ashhurst, ... HM McGuire, R Kemp. Immunology and Cellular Biology (accepted for publication).
 
+<br />
 <br />
 <br />
 <br />
