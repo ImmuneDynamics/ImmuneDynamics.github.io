@@ -27,8 +27,6 @@ Along with flow, spectral, or mass cytometry data, Spectre enables [spatial anal
 
 **Current version**: [```v0.4.2```](https://github.com/ImmuneDynamics/Spectre)
 
-https://github.com/ImmuneDynamics/Spectre/blob/acb12a2ab30f06a4fd163175da6f283eb9385dec/DESCRIPTION#L4
-
 <p> </p>
 
 # News
