@@ -57,7 +57,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
     </div>
 </div>
 
-[Making the most of high dimensional cytometry data](). 2021. A Mitchell\*, F Marsh-Wakefield\*, S Norton, TM Ashhurst, ... HM McGuire, R Kemp. Immunology and Cellular Biology (accepted with corrections).
+[Making the most of high dimensional cytometry data](). 2021. A Mitchell\*, F Marsh-Wakefield\*, S Norton, TM Ashhurst, ... HM McGuire, R Kemp. Immunology and Cellular Biology (accepted for publication).
 
 - Paper resulting from a joint ACS-ASI venture in the development of guidelines for computational analysis of high-dimensional cytometry data.
 
