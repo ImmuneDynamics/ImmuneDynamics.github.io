@@ -180,6 +180,8 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 [Analysis of the murine bone marrow hematopoietic system using mass and flow cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). 2019. TM Ashhurst, DA Cox, AL Smith, NJC King. Mass Cytometry, 159-192
 
+- [>2,300 downloads](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12) since 2019.
+
 [Staining of phosphorylated signalling markers protocol for mass cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_10). 2019. D Shinko, TM Ashhurst, HM McGuire, KA Charles. Mass Cytometry, 139-146
 
 [Collateral Damage: What Effect Does Anti-CD4 and Anti-CD8α Antibody–Mediated Depletion Have on Leukocyte Populations?](https://www.jimmunol.org/content/201/7/2176.abstract) 2018. SR Jung, T Suprunenko, TM Ashhurst, NJC King, MJ Hofer. The Journal of Immunology 201 (7), 2176-2186
