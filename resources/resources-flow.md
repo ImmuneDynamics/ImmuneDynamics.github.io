@@ -8,7 +8,9 @@ permalink: /resources/flow
 
 **FLOW & SPECTRAL CYTOMETRY**: Below is a collection of resources and protocols for flow cytometry and spectral cytometry.
 
-For a comparison of spectral and conventional flow cytometry, see our [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211) ([Niewold\*, Ashhurst\* et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211)).  
+**Spectral vs conventional cytometry**:
+
+- For a comparison of spectral and conventional flow cytometry, see our [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211) ([Niewold\*, Ashhurst\* et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211)).  
 
 **Panel design**:
 
