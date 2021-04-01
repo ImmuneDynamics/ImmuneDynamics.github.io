@@ -27,17 +27,6 @@ permalink: /spectre/getting-started/
             Download RStudio
         </span></b></a>
         <br />
-        <br />
-        <p><h2>
-          R & RStudio tutorial
-        </h2></p>
-        <p>
-          To get started with using R/RStudio, check out our brief introductory R tutorial.
-        </p>
-        <a href="https://wiki.centenary.org.au/x/MIBfCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
-            R tutorial
-        </span></b></a>
-        <p> </p>
       </td>
       </tr>
     </tbody>
@@ -69,7 +58,35 @@ permalink: /spectre/getting-started/
     </tbody>
 </table>
 
+
 <p> </p>
+
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:70%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><h2>
+          R & RStudio tutorial
+        </h2></p>
+        <p>
+          To get started with using R/RStudio, check out our brief introductory R tutorial.
+        </p>
+        <a href="https://wiki.centenary.org.au/x/MIBfCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+            R tutorial
+        </span></b></a>
+        <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+
+<p> </p>
+
 
 <br />
 
