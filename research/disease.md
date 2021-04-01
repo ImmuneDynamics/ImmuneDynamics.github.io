@@ -35,16 +35,6 @@ In mouse models of viral encephalitis, inflammatory monocyte-derived macrophages
 
 ---
 
-### Viral encephalitis
-
-![Viral](https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/Clusters.png?raw=true)
-
-In mouse models of viral encephalitis, inflammatory monocyte-derived macrophages which infiltrate into the brain contribute significantly to disease ([Getts et al. 2012](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246)), where immune-modulatory therapies targeting inflammatory monocytes may inhibit this process ([Getts et al. 2014](https://stm.sciencemag.org/content/6/219/219ra7.short)). Our recent work has comprehensively profiled the immune infiltrate in models of viral encephalitis, revealing complex cellular kinetics in both Zika virus (ZIKV) ([Hayashida et al. 2019](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5)) and West Nile virus (WNV) ([Ashhurst et al. 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) encephalitis. Additionally, we have demonstrated that viral encephalitis drives an *inflammatory mobilisation of the haematopoietic system* in the bone marrow, resulting in the generation of pathogenic monocytes ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12), [Ashhurst 2020, Fluidigm webinar](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics)).
-
-<br />
-
----
-
 ### Viral and general immunology
 
 ![Immu](https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/research/VZV.png)
