@@ -25,10 +25,28 @@ The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has ca
 
 ---
 
-### Viral infection and encephalitis
+### Viral encephalitis
 
 ![Viral](https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/Clusters.png?raw=true)
 
 In mouse models of viral encephalitis, inflammatory monocyte-derived macrophages which infiltrate into the brain contribute significantly to disease ([Getts et al. 2012](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246)), where immune-modulatory therapies targeting inflammatory monocytes may inhibit this process ([Getts et al. 2014](https://stm.sciencemag.org/content/6/219/219ra7.short)). Our recent work has comprehensively profiled the immune infiltrate in models of viral encephalitis, revealing complex cellular kinetics in both Zika virus (ZIKV) ([Hayashida et al. 2019](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5)) and West Nile virus (WNV) ([Ashhurst et al. 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) encephalitis. Additionally, we have demonstrated that viral encephalitis drives an *inflammatory mobilisation of the haematopoietic system* in the bone marrow, resulting in the generation of pathogenic monocytes ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12), [Ashhurst 2020, Fluidigm webinar](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics)).
+
+<br />
+
+---
+
+### Viral encephalitis
+
+![Viral](https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/Clusters.png?raw=true)
+
+In mouse models of viral encephalitis, inflammatory monocyte-derived macrophages which infiltrate into the brain contribute significantly to disease ([Getts et al. 2012](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246)), where immune-modulatory therapies targeting inflammatory monocytes may inhibit this process ([Getts et al. 2014](https://stm.sciencemag.org/content/6/219/219ra7.short)). Our recent work has comprehensively profiled the immune infiltrate in models of viral encephalitis, revealing complex cellular kinetics in both Zika virus (ZIKV) ([Hayashida et al. 2019](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5)) and West Nile virus (WNV) ([Ashhurst et al. 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) encephalitis. Additionally, we have demonstrated that viral encephalitis drives an *inflammatory mobilisation of the haematopoietic system* in the bone marrow, resulting in the generation of pathogenic monocytes ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12), [Ashhurst 2020, Fluidigm webinar](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics)).
+
+<br />
+
+---
+
+### General immunology
+
+Through various collaborations, we have applied our approaches in a number of areas, including T cell exhaustion in LCMV infection ([Huber et al. 2017](https://jvi.asm.org/content/91/22/e01219-17.short)), VZV infection of NK cells ([Campbell et al. 2018](https://journals.plos.org/plospathogens/article?rev=1&id=10.1371/journal.ppat.1006999)), antibody-mediated cell subset depletion ([Jung et al. 2018](https://www.jimmunol.org/content/201/7/2176.abstract)), interferon-mediated lethality in LCMV infection ([Jung et al. 2020](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008525&rev=1)), B cell responses in multiple sclerosis ([Marsh-Wakefield et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/cti2.1133)), and intrapulmonary vaccination strategies ([Ferrell et al. 2021](https://doi.org/10.1038/s41385-021-00379-6)).
 
 <br />
