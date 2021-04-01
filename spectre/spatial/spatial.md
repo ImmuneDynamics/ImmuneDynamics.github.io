@@ -20,6 +20,8 @@ If you use Spectre or SpectreMAP in your work, please consider citing Ashhurst T
 
 # Getting started with spatial analysis
 
+For an overview of approaches to spatial analysis, check out [this page](https://wiki.centenary.org.au/x/_pxCCw).
+
 <table class="table gmisc_table">
   <tbody>
     <tr>
