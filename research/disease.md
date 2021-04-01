@@ -45,7 +45,9 @@ In mouse models of viral encephalitis, inflammatory monocyte-derived macrophages
 
 ---
 
-### General immunology
+### Viral and general immunology
+
+![Immu](https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/research/VZV.png)
 
 Through various collaborations, we have applied our approaches in a number of areas, including T cell exhaustion in LCMV infection ([Huber et al. 2017](https://jvi.asm.org/content/91/22/e01219-17.short)), VZV infection of NK cells ([Campbell et al. 2018](https://journals.plos.org/plospathogens/article?rev=1&id=10.1371/journal.ppat.1006999)), antibody-mediated cell subset depletion ([Jung et al. 2018](https://www.jimmunol.org/content/201/7/2176.abstract)), interferon-mediated lethality in LCMV infection ([Jung et al. 2020](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008525&rev=1)), B cell responses in multiple sclerosis ([Marsh-Wakefield et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/cti2.1133)), and intrapulmonary vaccination strategies ([Ferrell et al. 2021](https://doi.org/10.1038/s41385-021-00379-6)).
 
