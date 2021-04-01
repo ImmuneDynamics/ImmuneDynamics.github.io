@@ -6,7 +6,7 @@ permalink: /resources/flow
 
 ![Flow](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Tech.png)
 
-In flow cytometry, a suspension of single cells is labelled with antibodies against various surface or intracelluar targets. These antibodies are conjugated to fluorescent molecules (fluorophores) which, when excited by a laser, emit light that is captured by a fluorescence detector. The use of multiple lasers and detectors allow us to label cells with up to 26 individual fluorophore conjugated antibodies using our existing assays.
+In flow cytometry, a suspension of single cells is labelled with antibodies against various surface or intracelluar targets. These antibodies are conjugated to fluorescent molecules (fluorophores) which, when excited by a laser, emit light that is captured by a fluorescence detector. The use of multiple lasers and detectors allow us to label cells with up to 26 individual fluorophore conjugated antibodies using our existing assays. Fore more information on the flow and spectral cytometry instruments at the Sydney Cytometry Core Research Facility, see [this page](https://sydneycytometry.org.au/flowcytometry).
 
 **Spectral vs conventional cytometry**:
 
