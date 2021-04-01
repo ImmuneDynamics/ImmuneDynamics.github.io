@@ -1,6 +1,6 @@
 ---
 layout: ta
-title: Thomas Ashhurst - Profile
+title: Thomas Ashhurst, Ph.D
 permalink: /thomas-ashhurst/
 ---
 
