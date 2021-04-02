@@ -76,9 +76,25 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 <br />
 
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_15-17-53.png?version=1&modificationDate=1613891307741&api=v2" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
 [Analysis of the murine bone marrow hematopoietic system using mass and flow cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). 2019. **TM Ashhurst**, DA Cox, AL Smith, NJC King. Mass Cytometry, 159-192
 
 - [>2,300 downloads](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12) since 2019.
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/team/thomas-ashhurst/Ashhurst%202017.png" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
 
 [High‐Dimensional Fluorescence Cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). 2017. **TM Ashhurst**, AL Smith, NJC King. Current Protocols in Immunology 119 (1), 5.8. 1-5.8. 38
 
