@@ -138,7 +138,7 @@ BY Chua, CE van de Sandt, JR Habel, W Zhang, X Jia, L Kedzierski, **TM Ashhurst*
     </div>
 </div>
 
-[Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold, **TM Ashhurst**, AL Smith, NJC King. Cytometry Part A. *Co-lead author*.
+[Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. Cytometry Part A. *Co-lead author*.
 
 <br />
 <br />
