@@ -26,7 +26,7 @@ permalink: /spectre/getting-started/
         <a href="https://rstudio.com/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Download RStudio
         </span></b></a>
-        <br />
+        <p> </p>
       </td>
       </tr>
     </tbody>
