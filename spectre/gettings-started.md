@@ -164,9 +164,7 @@ permalink: /spectre/getting-started/
         <br />
         <p>
           Once you have completed the introductory Spectre tutorial, you can get started with analyis using the 
-          <a href="https://wiki.centenary.org.au/x/4C8MCQ" target="_blank" rel="noopener noreferrer">
-            simple discovery workflow
-          </a>.
+          <a href="https://wiki.centenary.org.au/x/4C8MCQ" target="_blank" rel="noopener noreferrer">simple discovery workflow</a>.
         </p>
         <p> </p>
         <p>
