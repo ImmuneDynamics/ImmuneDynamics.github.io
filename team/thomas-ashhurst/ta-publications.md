@@ -75,6 +75,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. Cytometry Part A. *Co-lead author*.
 
 <br />
+<br />
 
 <div class='row'>
     <div class="image">
@@ -88,6 +89,10 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 - [>2,300 downloads](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12) since 2019.
 
+<br />
+<br />
+<br />
+
 <div class='row'>
     <div class="image">
         <a href="#">
@@ -97,6 +102,10 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 </div>
 
 [High‐Dimensional Fluorescence Cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). 2017. **TM Ashhurst**, AL Smith, NJC King. Current Protocols in Immunology 119 (1), 5.8. 1-5.8. 38
+
+<br />
+<br />
+<br />
 
 [The plasticity of inflammatory monocyte responses to the inflamed central nervous system](https://www.sciencedirect.com/science/article/pii/S0008874914001117). 2014. **TM Ashhurst**\*, C van Vreden\*, P Niewold\*, NJC King. Cellular immunology 291 (1-2), 49-57
 
