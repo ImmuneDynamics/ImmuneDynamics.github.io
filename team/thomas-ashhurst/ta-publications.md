@@ -115,13 +115,14 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/team/thomas-ashhurst/Ashhurst%202014.gif" alt="icon" width="150" align="right">
+            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/team/thomas-ashhurst/Ashhurst%202014.gif" alt="icon" width="250" align="right">
         </a>
     </div>
 </div>
 
 [The plasticity of inflammatory monocyte responses to the inflamed central nervous system](https://www.sciencedirect.com/science/article/pii/S0008874914001117). 2014. **TM Ashhurst**\*, C van Vreden\*, P Niewold\*, NJC King. Cellular immunology 291 (1-2), 49-57
 
+<br />
 <br />
 <br />
 
