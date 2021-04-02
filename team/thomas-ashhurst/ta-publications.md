@@ -64,6 +64,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 - Protocols and instructions available on the [Spectre Home Page](https://immunedynamics.github.io/spectre).
 - In the [top 5% of all research outputs](https://www.altmetric.com/details/92965811) scored by Altmetric
 
+<br />
 <p> </p>
 
 <div class='row'>
@@ -78,6 +79,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 - ISAC [webinar](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211) on spectral cytometry
 
+<br />
 <p> </p>
 
 <div class='row'>
