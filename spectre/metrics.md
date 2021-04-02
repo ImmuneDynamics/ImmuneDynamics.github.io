@@ -24,6 +24,7 @@ among others; in prestigious journals such as [Cell](https://doi.org/10.1016/j.c
 - Ferrell et al 2021, [Mucosal Immunology](https://www.nature.com/articles/s41385-021-00379-6)
 - Putri et al 2021, [Bioinformatics](https://doi.org/10.1093/bioinformatics/btab038)
 - Ng et al 2020, [Nature Immunology](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation)
+- Spiteri et al 2020, [Frontiers in Immunology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7752943/)
 - Vuckovic et al 2020, [Blood Advances](https://ashpublications.org/bloodadvances/article/4/19/4593/463891/Inverse-relationship-between-oligoclonal-expanded)
 - Johnson et al 2020, [Frontiers in Immunology](https://www.frontiersin.org/articles/10.3389/fimmu.2020.01481/full)
 - Ferrer-Font et al, 2020, [Cytometry Part A](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24016)
