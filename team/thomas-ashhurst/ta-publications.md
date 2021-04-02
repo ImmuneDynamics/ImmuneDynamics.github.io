@@ -61,7 +61,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 - Presentation at the Oz Single Cell webinar series: [computational biology](https://youtu.be/poEDERGXrQw?t=3148).
 - Code available from our [Github page](https://github.com/ImmuneDynamics/spectre)
-- Protocols and instructions available on the [Spectre Home Page](https://wiki.centenary.org.au/display/SPECTRE).
+- Protocols and instructions available on the [Spectre Home Page](https://immunedynamics.github.io/spectre).
 - In the [top 5% of all research outputs](https://www.altmetric.com/details/92965811) scored by Altmetric
 
 <div class='row'>
