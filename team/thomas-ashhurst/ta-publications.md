@@ -27,7 +27,7 @@ My publications include [1 book](https://immunedynamics.io/thomas-ashhurst/publi
     </div>
 </div>
 
-[Mass Cytometry: Methods and Protocols](https://link.springer.com/book/10.1007/978-1-4939-9454-0). HM McGuire, **TM Ashhurst** (eds). 2019. Springer New York.
+[Mass Cytometry: Methods and Protocols](https://link.springer.com/book/10.1007/978-1-4939-9454-0). HM McGuire\*, **TM Ashhurst**\* (eds). 2019. Springer New York.
 
 This book details a compilation of up-to-date and cutting-edge protocols in mass cytometry. Chapters guide readers through setting up a facility, panel design and reagent preparation, sample preparation, specific applications, and data analysis. Written in the highly successful Methods in Molecular Biology series format, chapters include introductions to their respective topics, lists of the necessary materials and reagents, step-by-step, readily reproducible laboratory protocols, and tips on troubleshooting and avoiding known pitfalls. Authoritative and cutting-edge, Mass Cytometry: Methods and Protocols aims to ensure successful results in the further study of this vital field.
 
