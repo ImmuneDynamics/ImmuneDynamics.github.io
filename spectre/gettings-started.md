@@ -108,7 +108,7 @@ permalink: /spectre/getting-started/
         <a href="https://wiki.centenary.org.au/x/7-kiCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Install from Github
         </span></b></a>
-        <br />
+        <p> </p>
       </td>
       </tr>
     </tbody>
