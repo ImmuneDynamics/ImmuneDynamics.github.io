@@ -74,6 +74,8 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. Cytometry Part A. *Co-lead author*.
 
+- ISAC [webinar](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211) on spectral cytometry
+
 <br />
 <br />
 
@@ -88,6 +90,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 [Analysis of the murine bone marrow hematopoietic system using mass and flow cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). 2019. **TM Ashhurst**, DA Cox, AL Smith, NJC King. Mass Cytometry, 159-192
 
 - [>2,300 downloads](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12) since 2019.
+- Protocols dervied from this paper are listed on the [resource](https://immunedynamics.github.io/resources) page
 
 <br />
 <br />
