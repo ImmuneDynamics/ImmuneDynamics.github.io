@@ -64,6 +64,8 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 - Protocols and instructions available on the [Spectre Home Page](https://immunedynamics.github.io/spectre).
 - In the [top 5% of all research outputs](https://www.altmetric.com/details/92965811) scored by Altmetric
 
+<p> </p>
+
 <div class='row'>
     <div class="image">
         <a href="#">
@@ -75,6 +77,8 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. Cytometry Part A.
 
 - ISAC [webinar](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211) on spectral cytometry
+
+<p> </p>
 
 <div class='row'>
     <div class="image">
@@ -104,6 +108,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 [High‐Dimensional Fluorescence Cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). 2017. **TM Ashhurst**, AL Smith, NJC King. Current Protocols in Immunology 119 (1), 5.8. 1-5.8. 38. *Corresponding author*.
 
+<br />
 <br />
 <br />
 
