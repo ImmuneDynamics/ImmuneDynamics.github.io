@@ -115,7 +115,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0008874914X00080-cov200h.gif" alt="icon" width="250" align="right">
+            <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0008874914X00080-cov200h.gif" alt="icon" width="200" align="right">
         </a>
     </div>
 </div>
