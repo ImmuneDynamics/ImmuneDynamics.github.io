@@ -175,8 +175,7 @@ permalink: /spectre/getting-started/
 </table>
 
 
-<p> </p>
-
+<br />
 
 
 ## Other
