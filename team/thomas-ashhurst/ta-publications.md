@@ -64,6 +64,8 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 - Protocols and instructions available on the [Spectre Home Page](https://immunedynamics.github.io/spectre).
 - In the [top 5% of all research outputs](https://www.altmetric.com/details/92965811) scored by Altmetric
 
+br />
+
 <div class='row'>
     <div class="image">
         <a href="#">
