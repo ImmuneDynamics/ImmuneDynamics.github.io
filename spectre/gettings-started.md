@@ -219,7 +219,7 @@ permalink: /spectre/getting-started/
           Install a development version of Spectre
         </h2></p>
         <p>
-          If you are interested in testing new features, or contributing your own, you can also install the development version of Spectre from Github. We suggested using in conjunction with our developers guide.
+          If you are interested in testing new features, or contributing your own, you can also install the development version of Spectre from Github. We suggested using in conjunction with our <a href="https://wiki.centenary.org.au/x/lMj3C">developers guide</a>.
         </p>
         <a href="https://wiki.centenary.org.au/x/TKNmCg" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Install development version
