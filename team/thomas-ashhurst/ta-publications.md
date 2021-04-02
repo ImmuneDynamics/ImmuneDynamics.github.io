@@ -74,7 +74,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
     </div>
 </div>
 
-[Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. Cytometry Part A. *Co-lead author*.
+[Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. Cytometry Part A.
 
 - ISAC [webinar](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211) on spectral cytometry
 
