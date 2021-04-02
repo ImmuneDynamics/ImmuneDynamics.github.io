@@ -57,14 +57,14 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
     </div>
 </div>
 
-[Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). 2020. **TM Ashhurst**\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... bioRxiv.
+[Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). 2020. **TM Ashhurst**\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... bioRxiv. *Corresponding author*.
 
 - Presentation at the Oz Single Cell webinar series: [computational biology](https://youtu.be/poEDERGXrQw?t=3148).
 - Code available from our [Github page](https://github.com/ImmuneDynamics/spectre)
 - Protocols and instructions available on the [Spectre Home Page](https://immunedynamics.github.io/spectre).
 - In the [top 5% of all research outputs](https://www.altmetric.com/details/92965811) scored by Altmetric
 
-br />
+<br />
 
 <div class='row'>
     <div class="image">
@@ -106,7 +106,7 @@ br />
     </div>
 </div>
 
-[High‐Dimensional Fluorescence Cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). 2017. **TM Ashhurst**, AL Smith, NJC King. Current Protocols in Immunology 119 (1), 5.8. 1-5.8. 38
+[High‐Dimensional Fluorescence Cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). 2017. **TM Ashhurst**, AL Smith, NJC King. Current Protocols in Immunology 119 (1), 5.8. 1-5.8. 38. *Corresponding author*.
 
 <br />
 <br />
