@@ -167,7 +167,7 @@ permalink: /spectre/getting-started/
           <a href="https://wiki.centenary.org.au/x/4C8MCQ" target="_blank" rel="noopener noreferrer">simple discovery workflow</a>.
           Alternatively, you can check out our 
           <a href="https://wiki.centenary.org.au/x/mYGoBw" target="_blank" rel="noopener noreferrer">guide</a>
-          for replicating Spectre' analysis workflow in 
+          for replicating Spectre's analysis workflow in 
           <a href="https://wiki.centenary.org.au/x/mYGoBw" target="_blank" rel="noopener noreferrer">FlowJo</a>.
         </p>
         <p> </p>
