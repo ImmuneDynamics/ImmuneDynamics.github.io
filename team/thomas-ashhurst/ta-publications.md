@@ -97,8 +97,6 @@ P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. 2020. [Evaluating spectral c
 
 <br />
 <br />
-<br />
-<br />
 
 <div class='row'>
     <div class="image">
