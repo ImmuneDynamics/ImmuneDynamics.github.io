@@ -15,7 +15,7 @@
 
 <br />
 
-## Sydney Cytometry Facility (2017 - present): advanced training and consultation for users of HD cytometry, spatial, and single-cell technologies
+## Sydney Cytometry Facility (2017 - present): high-dimensional cytometry, spatial, and single-cell technologies
 
 - HD flow with LSR-X -- this with analysis strategies applied to range of projects (e.g. Hofer); and WNV/ZIKV
 - Starting up IMC with the facility + analysis
