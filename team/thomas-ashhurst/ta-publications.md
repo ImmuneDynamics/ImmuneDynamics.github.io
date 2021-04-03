@@ -27,7 +27,7 @@ My publications include [1 book](https://immunedynamics.io/thomas-ashhurst/publi
     </div>
 </div>
 
-[Mass Cytometry: Methods and Protocols](https://link.springer.com/book/10.1007/978-1-4939-9454-0). HM McGuire\*, **TM Ashhurst**\* (eds). 2019. Springer New York.
+HM McGuire\*, **TM Ashhurst**\* (eds). 2019. [Mass Cytometry: Methods and Protocols](https://link.springer.com/book/10.1007/978-1-4939-9454-0). Springer New York.
 
 This book details a compilation of up-to-date and cutting-edge protocols in mass cytometry. Chapters guide readers through setting up a facility, panel design and reagent preparation, sample preparation, specific applications, and data analysis. Written in the highly successful Methods in Molecular Biology series format, chapters include introductions to their respective topics, lists of the necessary materials and reagents, step-by-step, readily reproducible laboratory protocols, and tips on troubleshooting and avoiding known pitfalls. Authoritative and cutting-edge, Mass Cytometry: Methods and Protocols aims to ensure successful results in the further study of this vital field.
 
@@ -57,7 +57,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
     </div>
 </div>
 
-[Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). 2020. **TM Ashhurst**\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... bioRxiv. *Corresponding author*.
+**TM Ashhurst**\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... 2020. [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). bioRxiv. *Corresponding author*.
 
 - Presentation at the Oz Single Cell webinar series: [computational biology](https://youtu.be/poEDERGXrQw?t=3148).
 - Code available from our [Github page](https://github.com/ImmuneDynamics/spectre)
@@ -75,7 +75,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
     </div>
 </div>
 
-[Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). 2020. P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. Cytometry Part A.
+P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. 2020. [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). Cytometry Part A.
 
 - ISAC [webinar](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211) on spectral cytometry
 
@@ -90,7 +90,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
     </div>
 </div>
 
-[Analysis of the murine bone marrow hematopoietic system using mass and flow cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). 2019. **TM Ashhurst**, DA Cox, AL Smith, NJC King. Mass Cytometry, 159-192
+**TM Ashhurst**, DA Cox, AL Smith, NJC King. 2019. [Analysis of the murine bone marrow hematopoietic system using mass and flow cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). Mass Cytometry, 159-192
 
 - [>2,300 downloads](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12) since 2019.
 - Protocols dervied from this paper are listed on the [resource](https://immunedynamics.github.io/resources) page
@@ -108,7 +108,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
     </div>
 </div>
 
-[High‐Dimensional Fluorescence Cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). 2017. **TM Ashhurst**, AL Smith, NJC King. Current Protocols in Immunology 119 (1), 5.8. 1-5.8. 38. *Corresponding author*.
+**TM Ashhurst**, AL Smith, NJC King. 2017. [High‐Dimensional Fluorescence Cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). Current Protocols in Immunology 119 (1), 5.8. 1-5.8. 38. *Corresponding author*.
 
 <br />
 <br />
@@ -122,7 +122,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
     </div>
 </div>
 
-[The plasticity of inflammatory monocyte responses to the inflamed central nervous system](https://www.sciencedirect.com/science/article/pii/S0008874914001117). 2014. **TM Ashhurst**\*, C van Vreden\*, P Niewold\*, NJC King. Cellular immunology 291 (1-2), 49-57
+**TM Ashhurst**\*, C van Vreden\*, P Niewold\*, NJC King. 2014. [The plasticity of inflammatory monocyte responses to the inflamed central nervous system](https://www.sciencedirect.com/science/article/pii/S0008874914001117). Cellular immunology 291 (1-2), 49-57
 
 <br />
 <br />
@@ -135,7 +135,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
     </div>
 </div>
 
-[Antiviral macrophage responses in flavivirus encephalitis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3928696/). 2013. **TM Ashhurst**, C Van Vreden, L Munoz-Erazo, P Niewold, K Watabe, ... The Indian journal of medical research 138 (5), 632
+**TM Ashhurst**, C Van Vreden, L Munoz-Erazo, P Niewold, K Watabe, ... 2013. [Antiviral macrophage responses in flavivirus encephalitis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3928696/). The Indian journal of medical research 138 (5), 632
 
 <br />
 <br />
@@ -152,7 +152,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
     </div>
 </div>
 
-[Using single-cell cytometry to illustrate integrated multi-perspective evaluation of clustering algorithms using Pareto fronts](https://doi.org/10.1093/bioinformatics/btab038). 2021. GH Putri, I Koprinska, **TM Ashhurst**, NJC King, MN Read. Bioinformatics. *Supervising role*.
+GH Putri, I Koprinska, **TM Ashhurst**, NJC King, MN Read. 2021. [Using single-cell cytometry to illustrate integrated multi-perspective evaluation of clustering algorithms using Pareto fronts](https://doi.org/10.1093/bioinformatics/btab038). Bioinformatics. *Supervising role*.
 
 - Code available from the [Github repository](https://github.com/ghar1821/ParetoBench).
 
@@ -167,7 +167,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
     </div>
 </div>
 
-[Dimensionality Reduction for Clustering and Cluster Tracking of Cytometry Data](https://link.springer.com/chapter/10.1007/978-3-030-30490-4_50). 2019. GH Putri, MN Read, I Koprinska, **TM Ashhurst**, NJC King. International Conference on Artificial Neural Networks, 624-640
+GH Putri, MN Read, I Koprinska, **TM Ashhurst**, NJC King. 2019. [Dimensionality Reduction for Clustering and Cluster Tracking of Cytometry Data](https://link.springer.com/chapter/10.1007/978-3-030-30490-4_50). International Conference on Artificial Neural Networks, 624-640
 
 <br />
 <br />
@@ -180,7 +180,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
     </div>
 </div>
 
-[ChronoClust: Density-based clustering and cluster tracking in high-dimensional time-series data](https://www.sciencedirect.com/science/article/pii/S0950705119300796). 2019. GH Putri, MN Read, I Koprinska, D Singh, U Röhm, **TM Ashhurst**, NJC King. Knowledge-Based Systems 174, 9-26
+GH Putri, MN Read, I Koprinska, D Singh, U Röhm, **TM Ashhurst**, NJC King. 2019. [ChronoClust: Density-based clustering and cluster tracking in high-dimensional time-series data](https://www.sciencedirect.com/science/article/pii/S0950705119300796). Knowledge-Based Systems 174, 9-26
 
 <br />
 <br />
