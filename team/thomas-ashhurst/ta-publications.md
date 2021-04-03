@@ -199,7 +199,7 @@ GH Putri, MN Read, I Koprinska, D Singh, U Röhm, **TM Ashhurst**, NJC King. 201
     </div>
 </div>
 
-A Mitchell\*, F Marsh-Wakefield\*, S Norton, **TM Ashhurst**, ... HM McGuire, R Kemp. 2021. **Making the most of high dimensional cytometry data**. Immunology and Cellular Biology (accepted for publication).
+A Mitchell\*, F Marsh-Wakefield\*, S Norton, **TM Ashhurst**, ... HM McGuire, R Kemp. 2021. [Making the most of high dimensional cytometry data](https://doi.org/10.1111/imcb.12456). Immunology and Cellular Biology.
 
 <br />
 <br />
