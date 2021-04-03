@@ -1,7 +1,7 @@
 ---
 layout: ta
 title: Thomas Ashhurst - Community
-permalink: /thomas-ashhurst/community
+permalink: /thomas-ashhurst/community/
 ---
 
 **Societies**: I am a current [ISAC Marylou Ingram Scholar](https://isac-net.org/page/Marylou-Ingram-Scholars) with the [International Society for the Advancement of Cytometry (ISAC)](https://isac-net.org/), and serve as the 'Systems Cytometry' & NSW representative of the [Systems Immunology special interest group (SIG)](https://www.immunology.org.au/asi-programs-and-opportunities/special-interest-groups/systems-immunology/) of the [Australian and New Zealand Society of Immunology](https://www.immunology.org.au/). I am actively involved with a number of other societies and communities, including the [Australasian Cytometry Society (ACS)](https://cytometry.org.au/), the [Oz Single Cell (OSC)](https://www.singlecells.org.au/) consoritum, the [Human Cell Atlas (HCA)](https://www.humancellatlas.org/) community, and the [Fluidigm Imaging Mass Cytometry (IMC)](https://www.fluidigm.com/articles/imc-user-group-meeting-2019-recap) users community. I am also a member and grantee of the [Marie Bashir Institute for Infectious Diseases and Biosecurity (MBI)](https://www.sydney.edu.au/marie-bashir-institute/). With the Sydney Cytometry Core Facility, I also run the 'Data Clinic', a weekly analysis co-working and troubleshooting session, and co-lead the 'high-dimensional and spectral' users group meeting.
