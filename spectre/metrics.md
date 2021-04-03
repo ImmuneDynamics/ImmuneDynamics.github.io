@@ -20,6 +20,7 @@ among others; in prestigious journals such as [Cell](https://doi.org/10.1016/j.c
 
 *Select publications*
 
+- Mitchell et al 2021, [Immunology and Cell Biology](https://doi.org/10.1111/imcb.12456)
 - Koutsakos et al 2021, [Cell Reports Medicine](https://www.sciencedirect.com/science/article/pii/S2666379121000197)
 - Ferrell et al 2021, [Mucosal Immunology](https://www.nature.com/articles/s41385-021-00379-6)
 - Putri et al 2021, [Bioinformatics](https://doi.org/10.1093/bioinformatics/btab038)
