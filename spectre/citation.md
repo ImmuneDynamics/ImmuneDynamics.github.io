@@ -20,7 +20,7 @@ Computational analysis of data was performed using the Spectre R package ([Ashhu
 
 **References**
 
-- [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre. 2020. TM Ashhurst*, F Marsh-Wakefield*, GH Putri*, et al., bioRxiv. 2020.10.22.349563](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)
+- [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre. 2020. TM Ashhurst, F Marsh-Wakefield, GH Putri, et al., bioRxiv. 2020.10.22.349563](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)
 - [S Van Gassen, B Gaudilliere, MS Angst, Y Saeys, N Aghaeepour. (2020). CytoNorm: a normalization algorithm for cytometry data. Cytometry Part A 97 (3), 268-278](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23904)
 - [S Van Gassen et al. (2015). FlowSOM: Using self‐organizing maps for visualization and interpretation of cytometry data. Cytometry Part A 87 (7), 636-645](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.22625)
 - [L McInnes, J Healy, J Melville. (2018). UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction. arXiv: 1802.03426.](https://arxiv.org/abs/1802.03426)
