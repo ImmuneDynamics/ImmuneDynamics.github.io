@@ -1,7 +1,7 @@
 ---
 layout: ta
 title: Thomas Ashhurst - Funding
-permalink: /thomas-ashhurst/funding
+permalink: /thomas-ashhurst/funding/
 ---
 
 **Funding**
