@@ -1,13 +1,19 @@
 
 ## King lab (2012 - 2016): Mobilisation of....
 
+**Inflammatory response of the bone marrow during viral encephalitis**
 - BM mobilsation in viral encephalitis, starting with flow
+
+**Stanford University and Australia's first CyTOF**
 - CyTOF (Stanford)
 - CAPX
 - Large flow panels
 - Bone marrow mobilisation
 
+**High-dimensional flow cytometry**
 - PFC roadshow 
+
+<br />
 
 ## Sydney Cytometry Facility (2017 - present): advanced training and consultation for users of HD cytometry, spatial, and single-cell technologies
 
@@ -20,6 +26,8 @@
 - Numerous talks since
 
 - CURRENTLY: HD spectral, IMC, analysis, scRNAseq, multiomics
+
+<br />
 
 ## Immune Dynamics initiative (2017 - present): development of novel single-cell and computational methods for single-cell systems immunology
 
