@@ -108,8 +108,9 @@ P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. 2020. [Evaluating spectral c
 
 **TM Ashhurst**, AL Smith, NJC King. 2017. [High‐Dimensional Fluorescence Cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). Current Protocols in Immunology 119 (1), 5.8. 1-5.8. 38. *Corresponding author*.
 
-<br />
-<br />
+- In this paper we describe panel design strategies for panels up to 25 colours.
+- This is the first publication we are aware of describing a panel above 18 colours, following [Dr. Pratip Chattodpahyay](https://med.nyu.edu/faculty/pratip-chattopadhyay)'s presentation of 25-colour flow at CYTO 2014.
+
 <br />
 
 <div class='row'>
