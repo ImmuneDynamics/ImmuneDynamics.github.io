@@ -1,5 +1,5 @@
 
-## King lab (2012 - 2016): Mobilisation of....
+## King lab (2012 - 2016): inflammatory response of the bone marrow during viral encephalitis
 
 **Inflammatory response of the bone marrow during viral encephalitis**
 - BM mobilsation in viral encephalitis, starting with flow
