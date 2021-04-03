@@ -41,7 +41,7 @@ among others; in prestigious journals such as [Cell](https://doi.org/10.1016/j.c
 - Campbell et al 2018, [Plos Pathogens](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006999)
 - Jung et al 2018, [J Immunol](https://www.jimmunol.org/content/201/7/2176.abstract)
 - Roediger et al 2018, [Cell](https://doi.org/10.1016/j.cell.2018.08.013)
-- Niewold et al 2018, [Communications in Biology](https://www.nature.com/articles/s42003-018-0216-2)
+- Niewold et al 2018, [Communications Biology](https://www.nature.com/articles/s42003-018-0216-2)
 
 From evidence at conferences, online posts, or feedback from users, we  know that these tools are in use in a wide range of contexts, including universities, research institutions, and biotechnology companies. These tools have also been referenced in a number of online forums and posts.
 
