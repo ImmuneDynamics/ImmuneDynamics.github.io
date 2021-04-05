@@ -14,8 +14,6 @@ On this page we provide links to protocols, software, and other resources writte
 
 ---
 
-
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -34,7 +32,6 @@ On this page we provide links to protocols, software, and other resources writte
 
 <br />
 
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -50,8 +47,6 @@ On this page we provide links to protocols, software, and other resources writte
       </tr>
     </tbody>
 </table>
-
-<br />
 
 <br />
 
