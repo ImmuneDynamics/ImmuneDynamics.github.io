@@ -14,8 +14,7 @@ permalink: /spectre/cytometry/
       </td>
       <td style="padding-left:.75em;width:65%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Initial data preparation</b></p>
-        <p>Here we provide instructions for initial data preparation, including compensation, cleanup gating, and data export from programs such as FlowJo.</p>
-        <p>For more cell isolation and staining protocols for flow, spectral, or mass (CyTOF) cytometry, please see our <a href="https://immunedynamics.githubio/resources">resources</a> page.   
+        <p>Here we provide instructions for initial data preparation, including compensation, cleanup gating, and data export from programs such as FlowJo. For cell isolation and staining protocols for flow, spectral, or mass (CyTOF) cytometry, please see our <a href="https://immunedynamics.githubio/resources">resources</a> page.   
         </p>
           <a href="https://wiki.centenary.org.au/x/1eRfCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
