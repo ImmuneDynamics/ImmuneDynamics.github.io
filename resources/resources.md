@@ -58,7 +58,7 @@ On this page we provide links to protocols, software, and other resources writte
       </td>
       <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
           <p><b>Mass cytometry (CyTOF)</b></p>
-          <p>Mass cytometry (CyTOF) protocols, including a lniks to a range of protocols from 'Mass Cytometry: Methods and Protocols (McGuire & Ashhurst).</p>
+          <p>Mass cytometry (CyTOF) protocols, including a links to a range of protocols from 'Mass Cytometry: Methods and Protocols (McGuire & Ashhurst).</p>
           <a href="https://immunedynamics.github.io/resources/mass"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
