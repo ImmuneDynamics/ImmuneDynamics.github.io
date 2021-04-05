@@ -14,10 +14,13 @@ Much of the data generated for the various single-cell and inflammatory atlas pr
 
 ### Interfacing with atlas datasets using Spectre
 
+Challenges
 - Different challenges and requirements in analysis
 - Large cell volumes
 - Differences in QC and pre-processing
+- Differences in # of features, and implications for integration etc
 
+Our approaches
 - Interface with data portals, or download data and do it manually...
 - Find common features
 - Re-render the resolvable populations in the reference dataset
