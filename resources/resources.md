@@ -10,9 +10,30 @@ On this page we provide links to protocols, software, and other resources writte
 
 <br />
 
-## Technology and laboratory
+## Cytometry and single-cell
 
 ---
+
+
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:40%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://s3.amazonaws.com/protocols-files/files/daumz456.webp" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <p><b>Sample preparation</b></p>
+          <p>Protocols and guidelines for cell isolation and sample preparation for cytometry or single-cell assays.</p>
+          <a href="https://immunedynamics.github.io/resources/sample-processing"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<br />
+
 
 <table class="table gmisc_table">
   <tbody>
@@ -29,6 +50,8 @@ On this page we provide links to protocols, software, and other resources writte
       </tr>
     </tbody>
 </table>
+
+<br />
 
 <br />
 
@@ -54,12 +77,12 @@ On this page we provide links to protocols, software, and other resources writte
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:40%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/IMC%20long%203.png" width="3000">
+          <img src="https://wiki.centenary.org.au/download/attachments/146080606/image2020-8-20_14-46-9.png?version=1&modificationDate=1597937846914&api=v2" width="3000">
       </td>
       <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <p><b>Imaging Mass Cytometry (IMC)</b></p>
-          <p>Imaging Mass Cytometry (IMC) protocols.</p>
-          <a href="https://immunedynamics.github.io/resources/imc"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+        <p><b>Computational analysis of single-cell cytometry data</b></p>
+        <p>Here we provide resources to facilitate computational analysis of high-dimensional cytometry data, including Spectre, an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments.</p>
+          <a href="https://immunedynamics.github.io/resources/analysis"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
       </tr>
@@ -69,7 +92,7 @@ On this page we provide links to protocols, software, and other resources writte
 <br />
 <br />
 
-## Analysis
+## Imaging
 
 ---
 
@@ -77,12 +100,12 @@ On this page we provide links to protocols, software, and other resources writte
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:40%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://wiki.centenary.org.au/download/attachments/146080606/image2020-8-20_14-46-9.png?version=1&modificationDate=1597937846914&api=v2" width="3000">
+          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/IMC%20long%203.png" width="3000">
       </td>
       <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>Computational analysis of single-cell cytometry data</b></p>
-        <p>Here we provide resources to facilitate computational analysis of high-dimensional cytometry data, including Spectre, an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments.</p>
-          <a href="https://immunedynamics.github.io/resources/analysis"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <p><b>Imaging Mass Cytometry (IMC)</b></p>
+          <p>Imaging Mass Cytometry (IMC) protocols.</p>
+          <a href="https://immunedynamics.github.io/resources/imc"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
       </tr>
