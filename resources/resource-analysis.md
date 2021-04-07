@@ -39,8 +39,6 @@ permalink: /resources/analysis
 
 <p> </p>
 
----
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
