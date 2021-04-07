@@ -59,12 +59,6 @@ permalink: /resources/analysis
 
 <p> </p>
 
-<br />
-
-## Resources developed by others
-
----
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -84,3 +78,11 @@ permalink: /resources/analysis
 </table>
 
 <p> </p>
+
+<br />
+
+## Resources developed by others
+
+---
+
+Coming soon!
