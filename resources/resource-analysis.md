@@ -14,7 +14,7 @@ permalink: /resources/analysis
 
 <br />
 
-## Single-cell and cytometry analysis
+## Resources developed by our group
 
 ---
 
@@ -61,7 +61,7 @@ permalink: /resources/analysis
 
 <br />
 
-## Imaging analysis
+## Resources developed by others
 
 ---
 
