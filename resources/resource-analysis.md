@@ -14,6 +14,8 @@ permalink: /resources/analysis
 
 <br />
 
+## Single-cell and cytometry analysis
+
 ---
 
 <table class="table gmisc_table">
@@ -51,6 +53,32 @@ permalink: /resources/analysis
          Here we provide a protocol for performing clustering and dimensionality reduction using FlowJo, following Spectre's 'Discovery Analysis' workflow.
     <p> </p>
        <a href="https://wiki.centenary.org.au/x/mYGoBw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+        </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<p> </p>
+
+<br />
+
+## Imaging analysis
+
+---
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+          <img src="https://wiki.centenary.org.au/download/attachments/172228252/SpectreMAP%20wide.png?version=2&modificationDate=1614467478815&api=v2" width="3000" style="padding-top: 30px">
+      </td>
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+        <p><h2>Spatial analysis of IMC data using Spectre & SpectreMAP</h2></p>
+        <p>
+          Along with flow, spectral, or mass cytometry data, Spectre enables spatial analysis of Imaging Mass Cytometry (IMC) data. Here we provide protocols for image visualisation, cell segmentation, and spatial analysis, including with FlowJo.
+    <p> </p>
+       <a href="https://immunedynamics.github.io/spectre/spatial" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
         </p>
       </td>
       </tr>
