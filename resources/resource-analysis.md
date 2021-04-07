@@ -28,7 +28,7 @@ permalink: /resources/analysis
         <p><h2>Spectre R package</h2></p>
         <p>
           Spectre is an R package and computational toolkit that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional cytometry data from different batches or experiments. 
-          Spectre streamlines the analytical stages of raw data pre-processing, batch alignment, data integration, clustering, dimensionality reduction, visualisation and population labelling, as well as quantitative and statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by data and laboratory scientists. You can find out more from the Spectre home page (below) or from our <a href="https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract">pre-print</a>.
+          Spectre streamlines the analytical stages of raw data pre-processing, batch alignment, data integration, clustering, dimensionality reduction, visualisation and population labelling, as well as quantitative and statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by data and laboratory scientists. You can find out more from the Spectre home page (below) or from our pre-print: <a href="https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract">Ashhurst*, Marsh-Wakefield*, Putri* et al. (2021). Cytometry A (accepted)</a>.
     <p> </p>
        <a href="https://immunedynamics.github.io/spectre" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
         </p>
