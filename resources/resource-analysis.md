@@ -135,9 +135,9 @@ permalink: /resources/analysis
         <p><h2>FlowSOM</h2></p>
         <p>
           Using self-organizing maps for visualization and interpretation of cytometry data. Published:
-          <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-3469-y">Van Gassen et al. (2015). Cytometry A</a>
+          <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.22625">Van Gassen et al. (2015). Cytometry A</a>
     <p> </p>
-       <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.22625" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+       <a href="https://github.com/SofieVG/FlowSOM" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
         </p>
       </td>
       </tr>
