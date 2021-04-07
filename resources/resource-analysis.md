@@ -125,4 +125,45 @@ permalink: /resources/analysis
 
 ---
 
-Coming soon!
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+          <img src="https://onlinelibrary.wiley.com/cms/asset/481aa823-a644-4fc8-988c-f9d9f9f4e61a/cytoa22625-fig-0001-m.jpg" width="3000" style="padding-top: 30px">
+      </td>
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+        <p><h2>FlowSOM</h2></p>
+        <p>
+          Using self-organizing maps for visualization and interpretation of cytometry data. Published:
+          <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-3469-y">Van Gassen et al. (2015). Cytometry A</a>
+    <p> </p>
+       <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.22625" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+        </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<p> </p>
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+          <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12859-020-3469-y/MediaObjects/12859_2020_3469_Fig2_HTML.png?as=webp" width="3000" style="padding-top: 30px">
+      </td>
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+        <p><h2>Brick plots</h2></p>
+        <p>
+          BrickPlots - a visualisation tool for clustered high dimensional cytometry data. The Brick plot method generates a two-dimensional barcode that displays the phenotype of each cluster in relation to the entire dataset. Brick plots can be used to visualize complex mass cytometry data, both from fundamental research and clinical trials, as well as flow cytometry data. Published:
+          <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-3469-y">Norton et al. (2020). BMC Bioinformatics</a>
+    <p> </p>
+       <a href="https://github.com/NortonS1/BrickPlots" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+        </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<p> </p>
+
