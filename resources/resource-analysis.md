@@ -6,13 +6,7 @@ permalink: /resources/analysis
 
 ![Clusters](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Clusters%20wide.png)
 
-**COMPUTATIONAL ANALYSIS**: here we provide resources to facilitate computational analysis of high-dimensional cytometry data, including [Spectre](https://wiki.centenary.org.au/display/SPECTRE), an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments.
-
-**Spectre R package**: 
-
-- Pre-print: [Ashhurst\*,  Marsh-Wakefield\*, Putri\* et al. bioRxiv. 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract).
-- Protocols and instructions: [website](https://immunedynamics.github.io/spectre).
-- Presentation on Spectre at Oz Single Cell 2020, 'Computational Biology': [Youtube](https://youtu.be/poEDERGXrQw?t=3151).
+**COMPUTATIONAL ANALYSIS**: here we provide resources to facilitate computational analysis of high-dimensional cytometry data, including [Spectre](https://immunedynamics.github.io/spectre/), an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments.
 
 **Webinars and tutorials**:
 
@@ -20,3 +14,25 @@ permalink: /resources/analysis
 - Clustering and dimensionality reduction approaches in FlowJo: [Tutorial](https://wiki.centenary.org.au/x/mYGoBw)
 
 <br />
+
+---
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+          <img src="https://isac-net.org/graphics/isac-logo.png" width="3000" style="padding-top: 30px">
+      </td>
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+        <p><h2>Spectre R package</h2></p>
+        <p>
+          Overview: Spectre is an R package and computational toolkit that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional cytometry data from different batches or experiments. 
+          Spectre streamlines the analytical stages of raw data pre-processing, batch alignment, data integration, clustering, dimensionality reduction, visualisation and population labelling, as well as quantitative and statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by data and laboratory scientists. You can find out more from the Spectre home page (below) or from our <a href="https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract">pre-print</a>.
+       <a href="https://immunedynamics.github.io/spectre" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+        </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<p> </p>
