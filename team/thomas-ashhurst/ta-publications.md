@@ -97,7 +97,6 @@ R Salomon\*, C Hall\*, **TM Ashhurst**\* (2019). Cytometry in the Era of the Hum
 
 <br />
 <br />
-<br />
 <p> </p>
 
 <div class='row'>
