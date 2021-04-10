@@ -91,14 +91,6 @@ P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. 2020. [Evaluating spectral c
     </div>
 </div>
 
-R Salomon\*, C Hall\*, **TM Ashhurst**\* (2019). Cytometry in the Era of the Human Cell Atlas (WS06). Part of K Czechowsk et al. (2019). [Cyt‐Geist: Current and future challenges in cytometry: Reports of the CYTO 2018 conference workshops](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.23777). Cytometry Part A 95 (6), 598-644
-
-- Published following a workshop at [CYTO 2018](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23350) on the use of cytometry in the era of the [Human Cell Atlas](http://humancellatlas.org/).
-
-<br />
-<br />
-<p> </p>
-
 <div class='row'>
     <div class="image">
         <a href="#">
@@ -113,6 +105,14 @@ R Salomon\*, C Hall\*, **TM Ashhurst**\* (2019). Cytometry in the Era of the Hum
 - Protocols dervied from this paper are listed on the [resource](https://immunedynamics.github.io/resources) page
 
 <br />
+
+R Salomon\*, C Hall\*, **TM Ashhurst**\* (2019). Cytometry in the Era of the Human Cell Atlas (WS06). Part of: K Czechowsk et al. (2019). [Cyt‐Geist: Current and future challenges in cytometry: Reports of the CYTO 2018 conference workshops](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.23777). Cytometry Part A 95 (6), 598-644
+
+- Published following a workshop at [CYTO 2018](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23350) on the use of cytometry in the era of the [Human Cell Atlas](http://humancellatlas.org/).
+
+<br />
+<br />
+<p> </p>
 
 <div class='row'>
     <div class="image">
