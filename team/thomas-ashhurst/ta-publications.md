@@ -51,6 +51,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 - Preprint available [here](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract).
 - Presentation at the Oz Single Cell webinar series: [computational biology](https://youtu.be/poEDERGXrQw?t=3148).
+- Our high-dimensional analysis workshops featured in: [High Dimensional Data Analysis Strategies Homeshow 2020 - in ASI News](https://www.immunology.org.au/files/Newsletter_pdfs/ASI017_Dec_2020.pdf#page=35). 2020. Australia and New Zealand Society for Immunology.
 - Code available from our [Github page](https://github.com/ImmuneDynamics/spectre)
 - Protocols and instructions available on the [Spectre Home Page](https://immunedynamics.github.io/spectre).
 - In the [top 5% of all research outputs](https://www.altmetric.com/details/92965811) scored by Altmetric
@@ -317,7 +318,5 @@ https://dx.doi.org/10.17504/protocols.io.btqgnmtw
 ---
 
 [High-dimensional single cell mass cytometry (CyTOF) comes to Australia with the establishment of the Ramaciotti Facility for Human Systems Biology](https://www.immunology.org.au/files/Newsletter_pdfs/ASI_NL_March_2015.pdf). 2015. T Ashhurst, N King, A Smith, BF de St Groth. ASI Newsletter.
-
-*Featured in [High Dimensional Data Analysis Strategies Homeshow 2020 - in ASI News](https://www.immunology.org.au/files/Newsletter_pdfs/ASI017_Dec_2020.pdf#page=35). 2020. Australia and New Zealand Society for Immunology.*
 
 <br />
