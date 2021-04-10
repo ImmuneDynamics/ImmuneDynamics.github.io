@@ -4,24 +4,14 @@ title: Spectre Home Page
 permalink: /spectre/
 ---
 
-**Overview**: Spectre is an R package and computational toolkit that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional cytometry data from different batches or experiments. Spectre streamlines the analytical stages of raw data pre-processing, batch alignment, data integration, clustering, dimensionality reduction, visualisation and population labelling, as well as quantitative and statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by data and laboratory scientists. 
-
-<p> </p>
-
-![Spectre](https://wiki.centenary.org.au/download/attachments/146080606/sketch-image-1615023265755.png?version=1&modificationDate=1615023277206&api=v2)
-
-<p> </p>
-
-Along with flow, spectral, or mass cytometry data, Spectre enables [spatial analysis](https://immunedynamics.github.io/spectre/spatial/) of Imaging Mass Cytometry (IMC) data. Through our extension package, ‘[SpectreMAP](https://immunedynamics.github.io/spectre/spatial/)’, we can import, manage, and visualise TIFF files using RStudio. Once [cell segmentation](https://immunedynamics.github.io/spectre/spatial/) has been performed (using [our protocols](https://immunedynamics.github.io/spectre/spatial/), or those developed by others), the marker expression data for each cell across multiple images can be calculated and incorporated into a single data.table.
+**Overview**: Spectre is an R package and computational toolkit that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional cytometry data from different batches or experiments. Spectre streamlines the analytical stages of raw data pre-processing, batch alignment, data integration, clustering, dimensionality reduction, visualisation and population labelling, as well as quantitative and statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by data and laboratory scientists. **More info**: for more information on Spectre, check out the '[about Spectre](https://immunedynamics.github.io/spectre/about)' page. If you are interested in testing new 'development' functions in Spectre, or adding your own function, see the
+<a href="https://wiki.centenary.org.au/x/lMj3C"  target="_blank" rel="noopener noreferrer">developers guide</a>.
 
 <p> </p>
 
 ![Spectre3](https://wiki.centenary.org.au/download/attachments/172228252/image2021-2-25_22-32-15.png?version=1&modificationDate=1614252735692&api=v2)
 
 <p> </p>
-
-**More info**: for more information on Spectre, check out the '[about Spectre](https://immunedynamics.github.io/spectre/about)' page. If you are interested in testing new 'development' functions in Spectre, or adding your own function, see the
-<a href="https://wiki.centenary.org.au/x/lMj3C"  target="_blank" rel="noopener noreferrer">developers guide</a>.
 
 **Citation**: if you use Spectre in your work, please consider citing [Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2020). bioRxiv. 2020.10.22.349563](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). To continue providing open-source tools such as Spectre, it helps us if we can demonstrate that our efforts are contributing to analysis efforts in the community. Please also consider citing the authors of the individual packages or tools (e.g. [CytoNorm](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23904), [FlowSOM](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.22625), [tSNE](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf), [UMAP](https://arxiv.org/abs/1802.03426), etc) that are critical elements of your analysis work. We have provided some generic text that you can use for your methods section with each protocol and on the '[citation](https://immunedynamics.github.io/spectre/citation)' page.
 
