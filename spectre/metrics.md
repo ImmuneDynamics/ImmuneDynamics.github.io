@@ -6,7 +6,7 @@ permalink: /spectre/metrics/
 
 ## Works citing Spectre
 
-Spectre ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) or '[CAPX](https://github.com/sydneycytometry/CAPX)', the initial version of Spectre ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)) and associated scripts have been used in a variety of studies, both with our team and independently, including the study of 
+[Spectre](https://immunedynamics.github.io/spectre) ([Ashhurst et al, 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract)) or '[CAPX](https://github.com/sydneycytometry/CAPX)', the initial version of Spectre ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)), and associated scripts have been used in a variety of studies, both with our team and independently, including the study of 
 [COVID-19](https://www.sciencedirect.com/science/article/pii/S2666379121000197), 
 [vaccine](https://www.nature.com/articles/s41385-021-00379-6) responses, 
 [NK cell](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006999) biology, 
