@@ -86,14 +86,6 @@ P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. 2020. [Evaluating spectral c
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/team/thomas-ashhurst/Czechowska%202019.jpg" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
-
-<div class='row'>
-    <div class="image">
-        <a href="#">
             <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/team/thomas-ashhurst/Ashhurst%202019%20leuk.png" alt="icon" width="250" align="right">
         </a>
     </div>
@@ -105,6 +97,14 @@ P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. 2020. [Evaluating spectral c
 - Protocols dervied from this paper are listed on the [resource](https://immunedynamics.github.io/resources) page
 
 <br />
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/team/thomas-ashhurst/Czechowska%202019.jpg" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
 
 R Salomon\*, C Hall\*, **TM Ashhurst**\* (2019). Cytometry in the Era of the Human Cell Atlas (WS06). Part of: K Czechowsk et al. (2019). [Cyt‐Geist: Current and future challenges in cytometry: Reports of the CYTO 2018 conference workshops](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.23777). Cytometry Part A 95 (6), 598-644
 
