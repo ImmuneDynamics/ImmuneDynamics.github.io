@@ -317,7 +317,7 @@ DR Getts, RL Terry, MT Getts, M Müller, S Rana, C Deffrasnes, **TM Ashhurst**..
 
 ---
 
-**TM Ashhurst**, DA Cox, AL Smith, NJC King 2021. p[Cell counting with a haemocytometer (with mouse bone marrow example)](https://dx.doi.org/10.17504/protocols.io.btqgnmtw). protocols.io
+**TM Ashhurst**, DA Cox, AL Smith, NJC King 2021. [Cell counting with a haemocytometer (with mouse bone marrow example)](https://dx.doi.org/10.17504/protocols.io.btqgnmtw). protocols.io
 https://dx.doi.org/10.17504/protocols.io.btqgnmtw
 
 <br />
