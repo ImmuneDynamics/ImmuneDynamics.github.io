@@ -9,7 +9,7 @@ permalink: /spectre/
 
 <p> </p>
 
-![Spectre2](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Clusters%20wide.png)
+![Spectre](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Spectre.png?raw=true)
 
 <p> </p>
 
