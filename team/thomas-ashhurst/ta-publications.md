@@ -86,6 +86,19 @@ P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. 2020. [Evaluating spectral c
 <div class='row'>
     <div class="image">
         <a href="#">
+            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/team/thomas-ashhurst/Czechowska%202019.jpg" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+R Salomon\*, C Hall\*, **TM Ashhurst**\* (2019). Cytometry in the Era of the Human Cell Atlas (WS06). Part of K Czechowsk et al. (2019). [Cyt‐Geist: Current and future challenges in cytometry: Reports of the CYTO 2018 conference workshops](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.23777). Cytometry Part A 95 (6), 598-644
+
+<br />
+<p> </p>
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
             <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/team/thomas-ashhurst/Ashhurst%202019%20leuk.png" alt="icon" width="250" align="right">
         </a>
     </div>
@@ -278,8 +291,6 @@ SR Jung, **TM Ashhurst**, PK West, B Viengkhou, NJC King, IL Campbell, ... 2020.
 <br />
 
 E Hayashida, ZL Ling, **TM Ashhurst**, B Viengkhou, SR Jung, ... 2019. [Zika virus encephalitis in immunocompetent mice is dominated by innate immune cells and does not require T or B cells](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5). Journal of Neuroinflammation 16 (1), 1-15
-
-K Czechowska, J Lannigan, L Wang, J Arcidiacono, **TM Ashhurst**, ... 2019. [Cyt‐Geist: Current and future challenges in cytometry: Reports of the CYTO 2018 conference workshops](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.23777). Cytometry Part A 95 (6), 598-644
 
 D Shinko, **TM Ashhurst**, HM McGuire, KA Charles. 2019. [Staining of phosphorylated signalling markers protocol for mass cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_10). Mass Cytometry, 139-146
 
