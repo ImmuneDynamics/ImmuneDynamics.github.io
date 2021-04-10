@@ -59,8 +59,6 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 <br />
 <p> </p>
 
-https://www.protocols.io/view/cell-counting-with-a-haemocytometer-with-mouse-bon-btqgnmtw
-
 <div class='row'>
     <div class="image">
         <a href="#">
