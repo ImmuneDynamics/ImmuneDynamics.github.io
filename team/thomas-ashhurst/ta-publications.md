@@ -93,7 +93,7 @@ P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. 2020. [Evaluating spectral c
 
 R Salomon\*, C Hall\*, **TM Ashhurst**\* (2019). Cytometry in the Era of the Human Cell Atlas (WS06). Part of K Czechowsk et al. (2019). [Cyt‐Geist: Current and future challenges in cytometry: Reports of the CYTO 2018 conference workshops](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.23777). Cytometry Part A 95 (6), 598-644
 
-- Report from a workshop at CYTO 2018 on the use of cytometry in the era of the [Human Cell Atlas](http://humancellatlas.org/).
+- Published following a workshop at [CYTO 2018](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23350) on the use of cytometry in the era of the [Human Cell Atlas](http://humancellatlas.org/).
 
 <br />
 <br />
@@ -164,6 +164,19 @@ R Salomon\*, C Hall\*, **TM Ashhurst**\* (2019). Cytometry in the Era of the Hum
 <div class='row'>
     <div class="image">
         <a href="#">
+            <img src="https://www.researchsquare.com/static/img/logos/logo-rs.svg" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+AG Spiteri, RL Terry, CL Wishart, **TM Ashhurst**, IL Campbell, MJ Hofer, NJC King. 2021. [High-parameter Cytometry Unmasks Microglial Cell Spatio-temporal Response Kinetics in Severe Neuroinflammatory Disease](https://doi.org/10.21203/rs.3.rs-388801/v1). Research Square (pre-print).
+
+<br />
+<br />
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
             <img src="https://pbs.twimg.com/media/EtRDeQsVgAAyJil?format=jpg&name=medium" alt="icon" width="250" align="right">
         </a>
     </div>
@@ -207,19 +220,6 @@ GH Putri, MN Read, I Koprinska, D Singh, U Röhm, **TM Ashhurst**, NJC King. 201
 ## Co-author
 
 ---
-
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://www.researchsquare.com/static/img/logos/logo-rs.svg" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
-
-AG Spiteri, RL Terry, CL Wishart, **TM Ashhurst**, IL Campbell, MJ Hofer, NJC King. 2021. [High-parameter Cytometry Unmasks Microglial Cell Spatio-temporal Response Kinetics in Severe Neuroinflammatory Disease](https://doi.org/10.21203/rs.3.rs-388801/v1). Research Square (pre-print).
-
-<br />
-<br />
 
 <div class='row'>
     <div class="image">
