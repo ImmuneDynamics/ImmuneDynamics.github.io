@@ -171,7 +171,6 @@ R Salomon\*, C Hall\*, **TM Ashhurst**\* (2019). Cytometry in the Era of the Hum
 AG Spiteri, RL Terry, CL Wishart, **TM Ashhurst**, IL Campbell, MJ Hofer, NJC King. 2021. [High-parameter Cytometry Unmasks Microglial Cell Spatio-temporal Response Kinetics in Severe Neuroinflammatory Disease](https://doi.org/10.21203/rs.3.rs-388801/v1). Research Square (pre-print).
 
 <br />
-<br />
 
 <div class='row'>
     <div class="image">
