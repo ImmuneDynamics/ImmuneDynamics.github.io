@@ -6,7 +6,7 @@ permalink: /thomas-ashhurst/publications/
 
 ![Publications](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Publication%202.png)
 
-My publications include [1 book](https://immunedynamics.io/thomas-ashhurst/publications/#books), [1 pre-print](https://immunedynamics.io/thomas-ashhurst/publications/#co-author), and [23 published articles](https://immunedynamics.io/thomas-ashhurst/publications/#lead-or-co-lead-author), with [505 citations](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) since 2012 and an [h-index of 9](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) (via Google Scholar). Online publication lists can be found on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date),
+My publications include [1 book](https://immunedynamics.io/thomas-ashhurst/publications/#books), [1 pre-print](https://immunedynamics.io/thomas-ashhurst/publications/#co-author-publications), and [23 published articles](https://immunedynamics.io/thomas-ashhurst/publications/#lead-or-co-lead-author), with [505 citations](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) since 2012 and an [h-index of 9](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) (via Google Scholar). These consist of [1 co-lead editor](https://immunedynamics.io/thomas-ashhurst/publications/#books) book, [7 lead or co-lead author](https://immunedynamics.io/thomas-ashhurst/publications/#lead-or-co-lead-author) publications, [4 co-supervising author](https://immunedynamics.io/thomas-ashhurst/publications/#co-supervising) publications, in addition to [1 lead author protocol](https://immunedynamics.io/thomas-ashhurst/publications/#protocols) publications. Online publication lists can be found on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date),
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="15"> [Google Scholar](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en),
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ORCID_iD.svg" alt="Logo" width="15"> [ORCID](https://orcid.org/0000-0001-7269-7773),
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/b5544b7d0236876ce33e51e6c8b5eb3e6ef55e84/custom_SVG/Loop.svg" alt="Logo" width="15"> [Loop](https://loop.frontiersin.org/people/241397),
@@ -67,6 +67,8 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 <br />
 <p> </p>
+
+https://www.protocols.io/view/cell-counting-with-a-haemocytometer-with-mouse-bon-btqgnmtw
 
 <div class='row'>
     <div class="image">
@@ -215,8 +217,7 @@ GH Putri, MN Read, I Koprinska, D Singh, U Röhm, **TM Ashhurst**, NJC King. 201
 <br />
 <br />
 
-
-## Co-author
+## Co-author publications
 
 ---
 
@@ -309,5 +310,14 @@ DR Getts, RL Terry, MT Getts, C Deffrasnes, M Müller, C van Vreden, **TM Ashhur
 - *News items: [ABC News](http://www.abc.net.au/science/articles/2014/01/16/3926376.htm), [The Guardian](http://www.theguardian.com/world/2014/jan/16/heart-attack-damage-can-be-reduced-with-a-simple-injection-say-experts)*.
 
 DR Getts, RL Terry, MT Getts, M Müller, S Rana, C Deffrasnes, **TM Ashhurst**... 2012. [Targeted blockade in lethal West Nile virus encephalitis indicates a crucial role for very late antigen (VLA)-4-dependent recruitment of nitric oxide-producing macrophages](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246). Journal of Neuroinflammation 9 (1), 246.
+
+<br />
+
+## Protocols
+
+---
+
+**TM Ashhurst**, DA Cox, AL Smith, NJC King 2021. p[Cell counting with a haemocytometer (with mouse bone marrow example)](https://dx.doi.org/10.17504/protocols.io.btqgnmtw). protocols.io
+https://dx.doi.org/10.17504/protocols.io.btqgnmtw
 
 <br />
