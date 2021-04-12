@@ -88,7 +88,7 @@ The key step for allowing 'cellular' analysis of spatial/IMC data is cell segmen
 
 Here we provide options for performing spatial analysis of IMC data once cell segmentation has been completed. 
 
-***Data required**: TIFF stacks PLUS mask TIFF file generated in the cell segmentation step (above).
+***Data required**: TIFF stacks PLUS mask TIFF file generated in the cell segmentation step (above).*
 
 <table class="table gmisc_table">
   <tbody>
