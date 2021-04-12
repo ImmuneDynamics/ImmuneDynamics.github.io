@@ -68,7 +68,7 @@ The key step for allowing 'cellular' analysis of spatial/IMC data is cell segmen
       <td style="padding-left:.75em;width:65%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Cell segmentation</b></p>
         <p>
-          Here we provide a number of approaches to cellular (and region) segmentation. They range from simplistic and quick methods to more advanced machine-learning based methods.
+          Here we provide a number of approaches to cellular (and region) segmentation. They range from simplistic and quick methods to more advanced machine-learning based methods. Each workflow will generate a stack of TIFF files (one per channel) from the original MCD file, along with a TIFF file containing the cell 'masks'. These are then used in the spatial analysis workflow options in step 3 below.
         </p>
           <a href="https://wiki.centenary.org.au/x/xJdCCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
