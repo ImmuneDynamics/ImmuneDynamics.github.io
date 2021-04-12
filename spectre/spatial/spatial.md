@@ -22,6 +22,8 @@ Along with flow, spectral, or mass cytometry data, [Spectre](https://immunedynam
 
 # Step 1: image visualisation
 
+The first step in any image analysis workflow is a visual examination of the data. 
+          
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -31,7 +33,6 @@ Along with flow, spectral, or mass cytometry data, [Spectre](https://immunedynam
       <td style="padding-left:.75em;width:65%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Image visualisation</b></p>
         <p>
-          The first step in any image analysis workflow is a visual examination of the data. 
           Here we provide links for common software options for image visualisation. 
           These are not required for cell segmentation, but are helpful for exploration of the raw imaging data.
         </p>
@@ -55,6 +56,8 @@ Along with flow, spectral, or mass cytometry data, [Spectre](https://immunedynam
 
 # Step 2: cell segmentation
 
+The key step for allowing 'cellular' analysis of spatial/IMC data is cell segmentation. Essentially this uses one of a number of methods to create a 'mask' over each of the cells in the image, which allows us to measure all the signal contained within that cell. Once cells have been segmented from an image, we can then perform a number of single-cell analysis approaches.
+ 
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -63,9 +66,6 @@ Along with flow, spectral, or mass cytometry data, [Spectre](https://immunedynam
       </td>
       <td style="padding-left:.75em;width:65%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Cell segmentation</b></p>
-        <p>
-          The key step for allowing 'cellular' analysis of spatial/IMC data is cell segmentation. Essentially this uses one of a number of methods to create a 'mask' over each of the cells in the image, which allows us to measure all the signal contained within that cell. Once cells have been segmented from an image, we can then perform a number of single-cell analysis approaches. Here we provide software links, demo data, and protocols for performing cell segmentation on IMC data.
-        </p>
         <p>
           Here we provide a number of approaches to cellular (and region) segmentation. They range from simplistic and quick methods to more advanced machine-learning based methods. Each workflow will generate a stack of TIFF files (one per channel) from the original MCD file, along with a TIFF file containing the cell 'masks'. These are then used in the spatial analysis workflow options in step 3 below.
         </p>
