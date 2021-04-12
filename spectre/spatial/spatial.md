@@ -4,17 +4,15 @@ title: Spatial analysis of IMC data using Spectre
 permalink: /spectre/spatial/
 ---
 
-![IMC](https://wiki.centenary.org.au/download/attachments/172228252/image2021-2-25_22-32-15.png?version=1&modificationDate=1614252735692&api=v2)
-
-<p> </p>
-
 Along with flow, spectral, or mass cytometry data, [Spectre](https://immunedynamics.io/spectre/) enables spatial analysis of [Imaging Mass Cytometry (IMC)](https://immunedynamics.io/resources/imc) data. The Hyperion from Fluidigm (an Imaging Mass Cytometer, IMC) consists of a CyTOF (Helios) instrument, with an imaging module attached to the front. Within the imaging module, a pulsed laser scans and ablates the tissue section in incremental 1 um shots, which are then rastered together into an image, consisting of 30-40 metal signals representing different cellular or tissue markers. In order to analyse this imaging data in R, we developed an extension of Spectre, termed '[SpectreMAP](https://immunedynamics.io/spectre/spatial/)', to import, manage, and visualise TIFF files using RStudio. Once cell segmentation has been performed (using our protocols, or those developed by others), the marker expression data for each cell across multiple images can be calculated and incorporated into a single data.table. Clustering, gating, or image-based classification can then label cellular populations. Subsequently, the relationship between cell types and their spatial arrangement and environments can be calculated using our spatial analysis functions. For an overview of the spatial analysis components, please see [this page](https://wiki.centenary.org.au/x/_pxCCw).
 
 <p> </p>
 
-**Please note: These spatial workflows are under active development, and have not yet been published or peer reviewed (unless stated otherwise). As such, these are not ready for widespread use, and should be considered as in a 'beta' test phase. However, they are in use for analysis within our team.**
+![IMC](https://wiki.centenary.org.au/download/attachments/172228252/image2021-2-25_22-32-15.png?version=1&modificationDate=1614252735692&api=v2)
 
-If you use Spectre or SpectreMAP in your work, please consider citing Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2020). bioRxiv. 2020.10.22.349563. This paper does not address spatial analysis, but does detail the primary functionality of Spectre. Please also consider citing the authors of the individual packages or tools (e.g. CytoNorm, FlowSOM, tSNE, UMAP, etc) that are critical elements of your analysis work.
+<p> </p>
+
+**Please note: These spatial workflows are under active development, and have not yet been published or peer reviewed (unless stated otherwise). As such, these are not ready for widespread use, and should be considered as in a 'beta' test phase. However, they are in use for analysis within our team.** If you use Spectre or SpectreMAP in your work, please consider citing Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2020). bioRxiv. 2020.10.22.349563. This paper does not address spatial analysis, but does detail the primary functionality of Spectre. Please also consider citing the authors of the individual packages or tools (e.g. CytoNorm, FlowSOM, tSNE, UMAP, etc) that are critical elements of your analysis work.
 
 <p> </p>
 
