@@ -84,7 +84,7 @@ The key step for allowing 'cellular' analysis of spatial/IMC data is cell segmen
 
 # Step 3: spatial analysis protocols
 
-Here we provide workflows using Spectre (& SpectreMAP) to facilitate spatial analysis of IMC data, once cell segmentation has been completed.
+Here we provide options for performing spatial analysis of IMC data once cell segmentation has been completed. 
 
 <table class="table gmisc_table">
   <tbody>
