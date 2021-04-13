@@ -13,7 +13,7 @@ permalink: /spectre/
 
 <p> </p>
 
-**Citation**: if you use Spectre in your work, please consider citing [Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2020). bioRxiv. 2020.10.22.349563](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). To continue providing open-source tools such as Spectre, it helps us if we can demonstrate that our efforts are contributing to analysis efforts in the community. Please also consider citing the authors of the individual packages or tools (e.g. [CytoNorm](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23904), [FlowSOM](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.22625), [tSNE](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf), [UMAP](https://arxiv.org/abs/1802.03426), etc) that are critical elements of your analysis work. We have provided some generic text that you can use for your methods section with each protocol and on the '[citation](https://immunedynamics.github.io/spectre/citation)' page.
+**Citation**: if you use Spectre in your work, please consider citing [Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2021). Cytometry A. DOI: 10.1002/cyto.a.24350](https://doi.org/10.1002/cyto.a.24350). To continue providing open-source tools such as Spectre, it helps us if we can demonstrate that our efforts are contributing to analysis efforts in the community. Please also consider citing the authors of the individual packages or tools (e.g. [CytoNorm](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23904), [FlowSOM](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.22625), [tSNE](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf), [UMAP](https://arxiv.org/abs/1802.03426), etc) that are critical elements of your analysis work. We have provided some generic text that you can use for your methods section with each protocol and on the '[citation](https://immunedynamics.github.io/spectre/citation)' page.
 
 **Current version**: [```v0.4.2```](https://github.com/ImmuneDynamics/Spectre)
 
@@ -25,6 +25,7 @@ permalink: /spectre/
 
 To receive updates, you can join our mailing list [here](https://forms.gle/vrg58485Ri5wagRr7).
 
+- 2021-04-10: Spectre manuscript published online in [Cytometry A](https://doi.org/10.1002/cyto.a.24350)
 - 2021-03-30: Updated list of [papers that have referenced Spectre](https://immunedynamics.io/spectre/metrics/) (and/or CAPX and associated scripts).
 - 2021-03-08: Spectre [v0.4.0 release](https://github.com/ImmuneDynamics/Spectre) – including significant improvements, as well as the addition of new batch alignment functions.
 - 2020-10-23: Spectre pre-print now online: [Ashhurst TM, Marsh-Wakefield F, Putri GH, et al. (2020). bioRxiv](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1).
