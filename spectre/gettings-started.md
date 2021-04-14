@@ -153,8 +153,8 @@ permalink: /spectre/getting-started/
 
 <br />
 
-## Spatial analysis
 
+## SpectreMAP extension for spatial analysis
 
 <table class="table gmisc_table">
   <tbody>
