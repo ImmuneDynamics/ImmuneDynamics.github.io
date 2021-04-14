@@ -141,7 +141,7 @@ Here we provide options for performing spatial analysis of IMC data once cell se
 <!-- FIRST ROW: TITLE --> 
     <tr style="border-top:1px solid grey">
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Protocol: SpectreMAP spatial analysis workflow
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Protocol: spatial analysis workflow with Spectre/SpectreMAP
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
