@@ -33,7 +33,7 @@ Here we provide an overview of the analysis workflow for spatial data.
         <p>
            Cell segmentation can define the boundaries of cells that are present in an imaged area. Once cell segmentation has been performed (using our protocols, or those developed by others), the marker expression data for each cell across multiple images can be calculated and incorporated into a single data.table. Clustering, gating, or image-based classification can then label cellular populations. Subsequently, the relationship between cell types and their spatial arrangement and environments can be calculated using our spatial analysis functions. 
         </p>
-          <a href="https://wiki.centenary.org.au/x/tphCCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <a href="https://wiki.centenary.org.au/x/_pxCCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
       </tr>
