@@ -152,9 +152,7 @@ Here we provide options for performing spatial analysis of IMC data once cell se
     </tbody>
 </table>
 
-<p> </p>
-<p> </p>
-<p> </p>
+<br />
 
 <table class="table gmisc_table">
   <tbody>
