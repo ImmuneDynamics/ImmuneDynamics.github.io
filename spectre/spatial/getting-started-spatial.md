@@ -3,9 +3,8 @@ layout: spectre
 title: Getting started with spatial analysis using SpectreMAP
 permalink: /spectre/spatial/getting-started/
 ---
-<br />
 
-To use **SpectreMAP**, you will also need to install **R**, **RStudio**, and **Spectre** -- please see [this page for installation instructions](https://immunedynamics.github.io/spectre/getting-started/).
+*To use **SpectreMAP**, you will also need to install R, RStudio, and Spectre -- please see [this page for installation instructions](https://immunedynamics.github.io/spectre/getting-started/).*
 
 <br />
 
