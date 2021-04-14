@@ -4,7 +4,7 @@ title: Spatial analysis of IMC data using Spectre
 permalink: /spectre/spatial/
 ---
 
-Along with flow, spectral, or mass cytometry data, [Spectre](https://immunedynamics.io/spectre/) enables spatial analysis of [Imaging Mass Cytometry (IMC)](https://immunedynamics.io/resources/imc) data. The Hyperion from Fluidigm (an Imaging Mass Cytometer, IMC) consists of a CyTOF (Helios) instrument, with an imaging module attached to the front. Within the imaging module, a pulsed laser scans and ablates the tissue section in incremental 1 um shots, which are then rastered together into an image, consisting of 30-40 metal signals representing different cellular or tissue markers. In order to analyse this imaging data in R, we developed an extension of Spectre, termed '[SpectreMAP](https://immunedynamics.io/spectre/spatial/)', to import, manage, and visualise TIFF files using RStudio. Once cell segmentation has been performed (using our protocols, or those developed by others), the marker expression data for each cell across multiple images can be calculated and incorporated into a single data.table. Clustering, gating, or image-based classification can then label cellular populations. Subsequently, the relationship between cell types and their spatial arrangement and environments can be calculated using our spatial analysis functions. For an overview of the spatial analysis components, please see [this page](https://wiki.centenary.org.au/x/_pxCCw).
+Along with flow, spectral, or mass cytometry data, [Spectre](https://immunedynamics.io/spectre/) enables spatial analysis of [Imaging Mass Cytometry (IMC)](https://immunedynamics.io/resources/imc) data. The Hyperion from Fluidigm (an Imaging Mass Cytometer, IMC) consists of a CyTOF (Helios) instrument, with an imaging module attached to the front. Within the imaging module, a pulsed laser scans and ablates the tissue section in incremental 1 um shots, which are then rastered together into an image, consisting of 30-40 metal signals representing different cellular or tissue markers. In order to analyse this imaging data in R, we developed an extension of Spectre, termed '[SpectreMAP](https://immunedynamics.io/spectre/spatial/)', to import, manage, and visualise TIFF files using RStudio. 
 
 <p> </p>
 
@@ -18,7 +18,31 @@ Along with flow, spectral, or mass cytometry data, [Spectre](https://immunedynam
 
 ---
 
+# Overview
+
+Here we provide an overview of the analysis workflow for spatial data.
+          
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Spatial.png?raw=true" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:65%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b>Analysis overview</b></p>
+        <p>
+           Cell segmentation can define the boundaries of cells that are present in an imaged area. Once cell segmentation has been performed (using our protocols, or those developed by others), the marker expression data for each cell across multiple images can be calculated and incorporated into a single data.table. Clustering, gating, or image-based classification can then label cellular populations. Subsequently, the relationship between cell types and their spatial arrangement and environments can be calculated using our spatial analysis functions. 
+        </p>
+          <a href="https://wiki.centenary.org.au/x/tphCCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
 <p> </p>
+
+<br />
 
 # Step 1: image visualisation
 
