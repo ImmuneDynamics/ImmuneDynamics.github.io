@@ -9,7 +9,7 @@ permalink: /resources/imc
 **IMAGING MASS CYTOMETRY (IMC)**: Below is a collection of resources and protocols for Imaging Mass Cytometry (IMC).
 
 **Online resources**:
-- Cell segmentation and spatial analysis of Imaging Mass Cytometry (IMC) data: [Website](https://immunedynamics.github.io/spectre/spatial/)
+- Cell segmentation and spatial analysis of Imaging Mass Cytometry (IMC) data: [link](https://immunedynamics.github.io/spectre/spatial/)
 
 <br />
 <br />
