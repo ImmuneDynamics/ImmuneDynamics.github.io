@@ -72,7 +72,7 @@ Here we provide an overview of the analysis workflow for spatial data.
       </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
             <p> </p>
-            <img src="https://wiki.centenary.org.au/download/attachments/172228252/image2021-2-26_13-20-44.png?version=1&modificationDate=1614306044602&api=v2" width="3000" style="padding-top: 5px; padding-left: 50px; padding-right: 50px">
+            <img src="https://wiki.centenary.org.au/download/attachments/172228252/image2021-2-26_13-20-44.png?version=1&modificationDate=1614306044602&api=v2" width="3000" style="padding-top: 5px">
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
             <img src="https://wiki.centenary.org.au/download/attachments/172228252/image2021-2-26_13-20-44.png?version=1&modificationDate=1614306044602&api=v2" width="3000" style="padding-top: 5px">
