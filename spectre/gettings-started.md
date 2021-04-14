@@ -202,7 +202,7 @@ permalink: /spectre/getting-started/
         <br />
         <br />
         <p>
-          Once you have completed the introductory Spectre tutorial, you can check out our 
+          Once you have completed the introductory SpectreMAP tutorial, you can check out our 
           <a href="https://immunedynamics.github.io/spectre/spatial/" target="_blank" rel="noopener noreferrer">cell segmentation and spatial analyis workflows</a>.
         </p>
         <p> </p>
