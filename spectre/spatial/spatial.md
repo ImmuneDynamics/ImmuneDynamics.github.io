@@ -102,7 +102,7 @@ Here we provide options for performing spatial analysis of IMC data once cell se
         <p>
           Instructions for installing and getting started with Spectre and SpectreMAP in R, including introductory demos.
         </p>
-          <a href="https://immunedynamics.github.io/spectre/spectre/spatial/getting-started/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <a href="https://immunedynamics.github.io/spectre/spatial/getting-started/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
       </tr>
