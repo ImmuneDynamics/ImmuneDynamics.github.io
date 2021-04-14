@@ -12,7 +12,8 @@ Along with flow, spectral, or mass cytometry data, [Spectre](https://immunedynam
 
 <p> </p>
 
-**Please note: These spatial workflows are under active development, and have not yet been published or peer reviewed (unless stated otherwise). As such, these are not ready for widespread use, and should be considered as in a 'beta' test phase. However, they are in use for analysis within our team.** If you use Spectre or SpectreMAP in your work, please consider citing Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2020). bioRxiv. 2020.10.22.349563. This paper does not address spatial analysis, but does detail the primary functionality of Spectre. Please also consider citing the authors of the individual packages or tools (e.g. CytoNorm, FlowSOM, tSNE, UMAP, etc) that are critical elements of your analysis work.
+**Please note: These spatial workflows are under active development, and have not yet been published or peer reviewed (unless stated otherwise). As such, these are not ready for widespread use, and should be considered as in a 'beta' test phase. However, they are in use for analysis within our team.** 
+If you use Spectre in your work, please consider citing [Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2021). Cytometry A. DOI: 10.1002/cyto.a.24350](https://doi.org/10.1002/cyto.a.24350). To continue providing open-source tools such as Spectre, it helps us if we can demonstrate that our efforts are contributing to analysis efforts in the community. Please also consider citing the authors of the individual packages or tools (e.g. CytoNorm, FlowSOM, tSNE, UMAP, etc) that are critical elements of your analysis work. 
 
 <p> </p>
 
