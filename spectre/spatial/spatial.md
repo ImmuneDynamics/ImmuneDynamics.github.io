@@ -88,9 +88,7 @@ The key step for allowing 'cellular' analysis of spatial/IMC data is cell segmen
 
 # Step 3: spatial analysis protocols
 
-Here we provide options for performing spatial analysis of IMC data once cell segmentation has been completed. 
-
-***Data required**: TIFF stacks PLUS mask TIFF file generated in the cell segmentation step (above).*
+Here we provide options for performing spatial analysis of IMC data once cell segmentation has been completed. To get started with Spectre and SpectreMAP specifically, see [these installation instructions](https://immunedynamics.io/spectre/getting-started/). ***Data required**: TIFF stacks PLUS mask TIFF file generated in the cell segmentation step (above).*
 
 <table class="table gmisc_table">
   <tbody>
