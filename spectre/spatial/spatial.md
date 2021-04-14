@@ -191,7 +191,7 @@ Here we provide links to other analysis software and protocols that are useful i
       </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
             <p> </p>
-            <img src="https://github.com/BodenmillerGroup/cytomapper/raw/master/inst/imgs/cytomapper_sticker.png" width="3000" style="padding-top: 5px">
+            <img src="https://github.com/BodenmillerGroup/cytomapper/raw/master/inst/imgs/cytomapper_sticker.png" width="3000" style="padding-top: 5px; padding-left: 20px; padding-right: 20px">
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
             <img src="https://aws1.discourse-cdn.com/business4/uploads/imagej/optimized/3X/4/d/4d6e06e4a30aef82baf85f6b389d1ec7120a7547_2_690x388.png" width="3000" style="padding-top: 5px">
