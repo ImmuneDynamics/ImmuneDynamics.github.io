@@ -131,7 +131,7 @@ Here we provide protocols for image visualisation and cell segmentation. ***Data
 
 
 
-# Spatial analysis protocols using Spectre/SpectreMAP or FlowJo
+# Protocols for spatial analysis in R using Spectre/SpectreMAP
 
 Here we provide options for performing spatial analysis of IMC data once cell segmentation has been completed. ***Data required**: TIFF stacks PLUS mask TIFF file generated in the cell segmentation step (above).*
 
@@ -162,9 +162,105 @@ Here we provide options for performing spatial analysis of IMC data once cell se
 <!-- FIRST ROW: TITLE --> 
     <tr style="border-top:1px solid grey">
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Protocol: spatial analysis workflow with Spectre and SpectreMAP
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Installing Spectre & SpectreMAP
         </div>
       </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Protocol: simple spatial analysis with Spectre
+        </div>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Protocol: comprehensive spatial analysis workflow with Spectre
+        </div>  
+      </td>
+    </tr>
+<!-- THIRD ROW: Image --> 
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <p> </p>
+          <img src="https://wiki.centenary.org.au/download/attachments/172228252/SpectreMAP%20wide.png?version=2&modificationDate=1614467478815&api=v2" width="3000" style="padding-top: 5px">
+      </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Spatial.png?raw=true" width="3000" style="padding-top: 5px; padding-left: 50px; padding-right: 50px">
+        </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/research/Spatial.png" width="3000" style="padding-top: 5px">
+        </td>
+      </tr>
+<!-- FOURTH ROW: Description --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Instructions for installing and getting started with Spectre and SpectreMAP in R, including introductory demos.
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A simple analysis protocol for the spatial analysis of IMC data using Spectre/SpectreMAP in R.
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A full analysis protocol for the spatial analysis of IMC data using Spectre/SpectreMAP in R.
+          </td>
+     </tr>
+<!-- FIFTH ROW: Go to page --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.github.io/spectre/spatial/getting-started/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://wiki.centenary.org.au/x/tv5DCg" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <b><span style="font-size: 18px">IN DEVELOPMENT</span></b>
+                  </p>
+              </div>
+          </td>
+      </tr>
+    </tbody>
+</table>
+<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
+
+<p> </p>
+
+<br />
+
+
+
+
+
+
+
+# Protocols for spatial analysis using FCS files and FlowJo
+
+Here we provide options for creating FCS files from TIFF files, and performing IMC analysis using FlowJo. ***Data required**: TIFF stacks PLUS mask TIFF file generated in the cell segmentation step (above).*
+
+<p> </p>
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b>Installing Spectre/SpectreMAP</b></p>
+        <p>
+          Instructions for installing and getting started with Spectre and SpectreMAP in R, including introductory demos.
+        </p>
+          <a href="https://immunedynamics.github.io/spectre/spatial/getting-started/"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<br />
+
+<table class="table gmisc_table">
+  <tbody>
+<!-- FIRST ROW: TITLE --> 
+    <tr style="border-top:1px solid grey">
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Protocol: converting TIFF files to FCS (and CSV) files
         </div>
@@ -176,10 +272,6 @@ Here we provide options for performing spatial analysis of IMC data once cell se
     </tr>
 <!-- THIRD ROW: Image --> 
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <p> </p>
-          <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/research/Spatial.png" width="3000" style="padding-top: 5px">
-      </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
             <p> </p>
             <img src="https://wiki.centenary.org.au/download/thumbnails/186841491/image2021-2-21_18-49-43.png?version=1&modificationDate=1613894655972&api=v2" width="3000" style="padding-top: 5px; padding-left: 50px; padding-right: 50px">
@@ -192,8 +284,6 @@ Here we provide options for performing spatial analysis of IMC data once cell se
       </tr>
 <!-- FOURTH ROW: Description --> 
       <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A full analysis protocol for the spatial analysis of IMC data using Spectre/SpectreMAP in R.
-          </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A quick script to convert TIFF files into FCS files for further analysis in FlowJo or other programs.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">An analysis protocol to facilitate the analysis of (segmented) IMC data using FlowJo. 
@@ -201,13 +291,6 @@ Here we provide options for performing spatial analysis of IMC data once cell se
      </tr>
 <!-- FIFTH ROW: Go to page --> 
       <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      <b><span style="font-size: 18px">IN DEVELOPMENT</span></b>
-                  </p>
-              </div>
-          </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
@@ -230,6 +313,10 @@ Here we provide options for performing spatial analysis of IMC data once cell se
 <p> </p>
 
 <br />
+
+
+
+
 
 
 
