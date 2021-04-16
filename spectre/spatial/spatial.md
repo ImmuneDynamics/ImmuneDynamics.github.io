@@ -135,28 +135,6 @@ Here we provide protocols for image visualisation and cell segmentation. ***Data
 
 Here we provide options for performing spatial analysis of IMC data once cell segmentation has been completed. ***Data required**: TIFF stacks PLUS mask TIFF file generated in the cell segmentation step (above).*
 
-<p> </p>
-
-<table class="table gmisc_table">
-  <tbody>
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://wiki.centenary.org.au/download/attachments/172228252/SpectreMAP%20wide.png?version=2&modificationDate=1614467478815&api=v2" width="3000">
-      </td>
-      <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>Installing Spectre/SpectreMAP</b></p>
-        <p>
-          Instructions for installing and getting started with Spectre and SpectreMAP in R, including introductory demos.
-        </p>
-          <a href="https://immunedynamics.github.io/spectre/spatial/getting-started/"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
-          <p> </p>
-      </td>
-      </tr>
-    </tbody>
-</table>
-
-<br />
-
 <table class="table gmisc_table">
   <tbody>
 <!-- FIRST ROW: TITLE --> 
