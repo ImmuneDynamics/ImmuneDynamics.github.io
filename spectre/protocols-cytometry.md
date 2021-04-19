@@ -16,7 +16,7 @@ permalink: /spectre/cytometry/
         <p><b>Initial data preparation</b></p>
         <p>Here we provide instructions for initial data preparation, including compensation, cleanup gating, and data export from programs such as <a href="https://www.flowjo.com/">FlowJo</a>. For cell isolation and staining protocols for flow, spectral, or mass (CyTOF) cytometry, please see our <a href="https://immunedynamics.githubio/resources">resources</a> page.   
         </p>
-          <a href="https://wiki.centenary.org.au/x/1eRfCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <a href="https://isac-net.org/page/PaulaNiewoldBio" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">MORE INFO</span></b></a>
           <p> </p>
       </td>
       </tr>
