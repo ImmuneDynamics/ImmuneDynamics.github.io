@@ -47,12 +47,11 @@ However, few comparisons between conventional and spectral systems have been rep
           <img src="https://aecf55713f3f670b47e4-b2b2b6163cafcebf0007134b3b84f7fb.ssl.cf2.rackcdn.com/isac_f518972428dc7b9720382b05b610c6d5.jpg" width="3000" style="padding-top: 30px">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-        <p><h2>Dr. Paula Niewold</h2></p>
+        <p><h3>Dr. Paula Niewold</h3></p>
         <p>
           Paula Niewold, PhD
-          Postdoctoral Researcher
-          Department of Infectious Diseases
-          Leiden University Medical Centre
+          <p> </p>
+          Postdoctoral Researcher, Department of Infectious Diseases, Leiden University Medical Centre
           <br />
           Dr. Paula Niewold is an immunologist currently working as a postdoctoral researcher at the Department of Infectious Diseases at the Leiden University Medical Centre. She is interested in host-pathogen interactions and how they impact the outcome of disease. She has studied these interactions in models of cerebral malaria, West Nile virus encephalitis, psoriasis, and tuberculosis using high-dimensional flow, mass, and imaging mass cytometry. She is an ISAC Marylou Ingram Scholar.
         </p>
@@ -70,12 +69,11 @@ However, few comparisons between conventional and spectral systems have been rep
           <img src="https://aecf55713f3f670b47e4-b2b2b6163cafcebf0007134b3b84f7fb.ssl.cf2.rackcdn.com/isac_98c80430a0eaa5b42f1ee10f94d59230.jpg" width="3000" style="padding-top: 30px">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-        <p><h2>Dr. Thomas Ashhurst</h2></p>
+        <p><h3>Dr. Thomas Ashhurst</h3></p>
         <p>
           Thomas Ashhurst, PhD
-          Immunologist and High-Dimensional Cytometry Specialist
-          Sydney Cytometry Facility
-          University of Sydney
+          <p> </p>
+          Immunologist and High-Dimensional Cytometry Specialist, Sydney Cytometry Facility, University of Sydney
           <br />
           Dr. Thomas Ashhurst is an immunologist and high-dimensional cytometry specialist with the Sydney Cytometry Facility at the University of Sydney. He develops and applies a range of single-cell cytometry technologies and computational analysis tools to map dynamic immune responses over time, space, and disease. In particular, he applies these approaches to the study of immunology and infectious disease, including emerging pathogens such as COVID-19, Zika virus encephalitis, and West Nile virus encephalitis. He is an ISAC Marylou Ingram Scholar.
          </p>
