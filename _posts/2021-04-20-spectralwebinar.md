@@ -4,7 +4,7 @@ title: 2021-04-20 - Webinar - Evaluating Spectral Cytometry for Immune Profiling
 permalink: /spectral-webinar/
 ---
 
-![Image](https://onlinelibrary.wiley.com/cms/asset/21e66566-4603-4cce-bb24-d180a1ec4a92/cytoa24211-fig-0001-m.jpg)
+![Image](https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/Niewold%202020.png?raw=true)
 
 ---
 
@@ -15,6 +15,11 @@ In contrast, spectral cytometry uses a large number of detectors with narrow ban
 The spectral approach shows promise in adding flexibility to panel design and improving the measurement of fluorescent signal. 
 However, few comparisons between conventional and spectral systems have been reported to date. Here we present our findings comparing conventional and spectral approaches to cytometry—including comparisons of compensation and unmixing—and evaluate the use of spectral cytometry for immune profiling in viral diseases.
 
+**Time & date**
+- EDT: Wed 21-Apr 4 pm (New York, etc)
+- CET: Wed 21-Apr 10 pm 
+- AEST: Thur 22-Apr 6 am (Sydney, Melbourne, etc)
+
 **Learning Objectives**
 - Gain an understanding of the essential differences between conventional and spectral approaches to cytometry.
 - Appreciate the differences between compensation and spectral unmixing.
@@ -23,6 +28,13 @@ However, few comparisons between conventional and spectral systems have been rep
 **Who Should Attend**
 
 - Researchers and technical staff who utilize flow, spectral, or mass cytometry in their work.
+
+<br />
+
+## Links
+
+- **Webinar**: https://learning.isac-net.org/products/evaluating-spectral-cytometry-for-immune-profiling-in-viral-disease#tab-product_tab_overview
+- **Manuscript**: https://doi.org/10.1002/cyto.a.24211
 
 <br />
 
