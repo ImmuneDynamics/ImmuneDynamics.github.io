@@ -21,10 +21,13 @@ However, few comparisons between conventional and spectral systems have been rep
 
 ## Details
 
+**Links**
+
 - **[Webinar registration](https://learning.isac-net.org/products/evaluating-spectral-cytometry-for-immune-profiling-in-viral-disease#tab-product_tab_overview)**
 - **[Manuscript (Niewold et al. Cytometry A)](https://doi.org/10.1002/cyto.a.24211)**
 
 **Time & date**
+
 - Seattle: Wed 21-Apr 1 pm
 - New York: Wed 21-Apr 4 pm
 - London: Wed 21-Apr 9 pm
@@ -33,6 +36,7 @@ However, few comparisons between conventional and spectral systems have been rep
 - Sydney: Thur 22-April 6 am
 
 **Learning Objectives**
+
 - Gain an understanding of the essential differences between conventional and spectral approaches to cytometry.
 - Appreciate the differences between compensation and spectral unmixing.
 - Consider applications for spectral cytometry in the context of immunological studies.
