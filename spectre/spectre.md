@@ -13,7 +13,7 @@ permalink: /spectre/
 
 **Citation**: if you use Spectre in your work, please consider citing [Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2021). Cytometry A. DOI: 10.1002/cyto.a.24350](https://doi.org/10.1002/cyto.a.24350). To continue providing open-source tools such as Spectre, it helps us if we can demonstrate that our efforts are contributing to analysis efforts in the community. Please also consider citing the authors of the individual packages or tools (e.g. [CytoNorm](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23904), [FlowSOM](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.22625), [tSNE](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf), [UMAP](https://arxiv.org/abs/1802.03426), etc) that are critical elements of your analysis work. We have provided some generic text that you can use for your methods section with each protocol and on the '[citation](https://immunedynamics.github.io/spectre/citation)' page.
 
-**Current version**: [```v0.4.3```](https://github.com/ImmuneDynamics/Spectre)
+**Current version**: [```v0.4.4```](https://github.com/ImmuneDynamics/Spectre)
 
 <p> </p>
 
