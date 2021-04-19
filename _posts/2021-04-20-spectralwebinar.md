@@ -38,8 +38,8 @@ However, few comparisons between conventional and spectral systems have been rep
 
 ## Links
 
-- **Webinar**: https://learning.isac-net.org/products/evaluating-spectral-cytometry-for-immune-profiling-in-viral-disease#tab-product_tab_overview
-- **Manuscript**: https://doi.org/10.1002/cyto.a.24211
+- **[Webinar](https://learning.isac-net.org/products/evaluating-spectral-cytometry-for-immune-profiling-in-viral-disease#tab-product_tab_overview)**: 
+- **[Manuscript](https://doi.org/10.1002/cyto.a.24211)**: 
 
 <br />
 
