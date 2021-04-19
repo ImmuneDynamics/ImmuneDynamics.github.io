@@ -21,8 +21,8 @@ However, few comparisons between conventional and spectral systems have been rep
 
 ## Details
 
-- **[Webinar](https://learning.isac-net.org/products/evaluating-spectral-cytometry-for-immune-profiling-in-viral-disease#tab-product_tab_overview)**: 
-- **[Manuscript](https://doi.org/10.1002/cyto.a.24211)**: 
+- **[Webinar registration](https://learning.isac-net.org/products/evaluating-spectral-cytometry-for-immune-profiling-in-viral-disease#tab-product_tab_overview)**
+- **[Manuscript (Niewold\*, Ashhurst\*, Smith, King (2020). Cytometry A](https://doi.org/10.1002/cyto.a.24211)**
 
 **Time & date**
 - Seattle: Wed 21-Apr 1 pm
