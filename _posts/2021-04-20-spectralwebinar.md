@@ -17,6 +17,13 @@ However, few comparisons between conventional and spectral systems have been rep
 
 <br />
 
+---
+
+## Details
+
+- **[Webinar](https://learning.isac-net.org/products/evaluating-spectral-cytometry-for-immune-profiling-in-viral-disease#tab-product_tab_overview)**: 
+- **[Manuscript](https://doi.org/10.1002/cyto.a.24211)**: 
+
 **Time & date**
 - Seattle: Wed 21-Apr 1 pm
 - New York: Wed 21-Apr 4 pm
@@ -36,12 +43,7 @@ However, few comparisons between conventional and spectral systems have been rep
 
 <br />
 
-## Links
-
-- **[Webinar](https://learning.isac-net.org/products/evaluating-spectral-cytometry-for-immune-profiling-in-viral-disease#tab-product_tab_overview)**: 
-- **[Manuscript](https://doi.org/10.1002/cyto.a.24211)**: 
-
-<br />
+---
 
 ## About the Presenters
 
@@ -58,6 +60,10 @@ However, few comparisons between conventional and spectral systems have been rep
           <br />
           Dr. Paula Niewold is an immunologist currently working as a postdoctoral researcher at the Department of Infectious Diseases at the Leiden University Medical Centre. She is interested in host-pathogen interactions and how they impact the outcome of disease. She has studied these interactions in models of cerebral malaria, West Nile virus encephalitis, psoriasis, and tuberculosis using high-dimensional flow, mass, and imaging mass cytometry. She is an ISAC Marylou Ingram Scholar.
         </p>
+        <p>
+          <a href="https://immunedynamics.github.io/thomas-ashhurst/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+        </p>
+        <p> </p>
       </td>
       </tr>
     </tbody>
@@ -77,7 +83,11 @@ However, few comparisons between conventional and spectral systems have been rep
           Immunologist and High-Dimensional Cytometry Specialist, Sydney Cytometry Facility, University of Sydney
           <br />
           Dr. Thomas Ashhurst is an immunologist and high-dimensional cytometry specialist with the Sydney Cytometry Facility at the University of Sydney. He develops and applies a range of single-cell cytometry technologies and computational analysis tools to map dynamic immune responses over time, space, and disease. In particular, he applies these approaches to the study of immunology and infectious disease, including emerging pathogens such as COVID-19, Zika virus encephalitis, and West Nile virus encephalitis. He is an ISAC Marylou Ingram Scholar.
-         </p>
+        </p>
+         <p>
+          <a href="https://immunedynamics.github.io/thomas-ashhurst/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+          </p>
+         <p> </p>
       </td>
       </tr>
     </tbody>
