@@ -61,7 +61,7 @@ However, few comparisons between conventional and spectral systems have been rep
           Dr. Paula Niewold is an immunologist currently working as a postdoctoral researcher at the Department of Infectious Diseases at the Leiden University Medical Centre. She is interested in host-pathogen interactions and how they impact the outcome of disease. She has studied these interactions in models of cerebral malaria, West Nile virus encephalitis, psoriasis, and tuberculosis using high-dimensional flow, mass, and imaging mass cytometry. She is an ISAC Marylou Ingram Scholar.
         </p>
         <p>
-          <a href="https://immunedynamics.github.io/thomas-ashhurst/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">MORE INFO</span></b></a>
+          <a href="https://isac-net.org/page/PaulaNiewoldBio" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">MORE INFO</span></b></a>
         </p>
         <p> </p>
       </td>
