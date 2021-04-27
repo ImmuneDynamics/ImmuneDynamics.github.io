@@ -1,7 +1,7 @@
 ---
 layout: resource
 title: Protocol - cell counting with a Sysmex XP-100
-permalink: /resources/protocol-systmex/
+permalink: /resources/protocol-sysmex/
 ---
 
 ***Citation**: if this protocol is useful in your work, please consider citing the paper where it was initially published: Ashhurst T.M., Cox D.A., Smith A.L., King N.J.C. (2019) Analysis of the Murine Bone Marrow Hematopoietic System Using Mass and Flow Cytometry. In: McGuire H., Ashhurst T. (eds) Mass Cytometry. Methods in Molecular Biology, vol 1989.https://doi.org/10.1007/978-1-4939-9454-0_12.*
