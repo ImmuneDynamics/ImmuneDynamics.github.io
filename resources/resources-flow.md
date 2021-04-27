@@ -17,7 +17,7 @@ In flow cytometry, a suspension of single cells is labelled with antibodies agai
 **Panel design**:
 
 - [Paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37): high-dimensional panel design (Ashhurst et al 2017). 
-- [Paper](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract): for basic panel design (Maciorowski et al 2017).
+- [Paper](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract): basic panel design (Maciorowski et al 2017).
 
 **Staining protocols**:
 
