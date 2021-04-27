@@ -10,11 +10,11 @@ In flow cytometry, a suspension of single cells is labelled with antibodies agai
 
 **Spectral vs conventional cytometry**:
 
-- For a comparison of spectral and conventional flow cytometry, see our [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211) ([Niewold\*, Ashhurst\* et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211)).  
+- For a comparison of spectral and conventional flow cytometry, see our [paper (Niewold\*, Ashhurst\* et al. 2020)](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211).  
 
 **Panel design**:
 
-- High-dimensional panel design: [Paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). *Also see [this paper](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract) for basic panel design.*
+- High-dimensional panel design: [Paper (Ashhurst et al 2017)](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). *Also see [this paper](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract) for basic panel design.*
 
 **Instrument optimisation**:
 
@@ -23,7 +23,7 @@ In flow cytometry, a suspension of single cells is labelled with antibodies agai
 
 **Staining protocols**:
 
-- Flow cytometry staining protocol for mouse bone marrow: [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12).
+- Surface and intracellular staining for high-dimensional flow or spectral cytometry (96-well plate): [protocol](https://www.protocols.io/private/d8b9c871903411ebb54e0a58a9feac02), [paper (Ashhurst et al 2019)](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)
 
 <br />
 <br />
