@@ -10,6 +10,10 @@ In flow cytometry, a suspension of single cells is labelled with antibodies agai
 
 <br />
 
+**Spectral vs conventional cytometry**:
+
+- [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211): a comparison of spectral and conventional flow cytometry ([Niewold\*, Ashhurst\* et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211)).
+
 **Panel and experiment design**:
 
 - [Paper](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract): basic panel design (Maciorowski et al 2017).
@@ -26,10 +30,6 @@ In flow cytometry, a suspension of single cells is labelled with antibodies agai
 
 - [Tutorial](https://wiki.centenary.org.au/x/PZBCCw): voltages, compensation, and spreading error (from [Ashhurst et al 2017](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37)).
 - [Protocol](https://wiki.centenary.org.au/x/wZNCCw): ad-hoc voltage optimisation (from [Ashhurst et al 2017](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37)).
-
-**Spectral vs conventional cytometry**:
-
-- [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211): a comparison of spectral and conventional flow cytometry ([Niewold\*, Ashhurst\* et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211)).
 
 <br />
 <br />
