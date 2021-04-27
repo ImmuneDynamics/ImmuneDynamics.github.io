@@ -12,7 +12,7 @@ In flow cytometry, a suspension of single cells is labelled with antibodies agai
 
 **Spectral vs conventional cytometry**:
 
-- [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211): a comparison of spectral and conventional flow cytometry (Niewold\*, Ashhurst\* et al. 2020).  
+- [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211): a comparison of spectral and conventional flow cytometry ([Niewold\*, Ashhurst\* et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211)).
 
 **Panel design**:
 
