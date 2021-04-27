@@ -14,16 +14,22 @@ In flow cytometry, a suspension of single cells is labelled with antibodies agai
 
 - [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211): a comparison of spectral and conventional flow cytometry ([Niewold\*, Ashhurst\* et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211)).
 
-**Panel design**:
+**Panel and experiment design**:
 
 - [Paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37): high-dimensional panel design (Ashhurst et al 2017). 
+- [Paper](https://doi.org/10.1111/imcb.12456): 'making the most of high dimensional cytometry data' (Marsh-Wakefield et al, 2021).
+
+*Recommended protocols from other groups*:
+
 - [Paper](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract): basic panel design (Maciorowski et al 2017).
+- [Paper](https://doi.org/10.1002/cpcy.70): panel design and optimization for high‐dimensional immunophenotyping assays using spectral flow cytometry (Ferrer-Font et al, 2020).
 
 **Staining protocols**:
 
 - [Protocol](https://www.protocols.io/private/d8b9c871903411ebb54e0a58a9feac02): surface and intracellular staining for high-dimensional flow or spectral cytometry (96-well plate) (from [Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)).
+- [Tutorial](https://wiki.centenary.org.au/x/b5dCCw): advice on compensation controls (from [Ashhurst et al, 2017](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37)).
 
-**Instrument optimisation**:
+**Instrument and voltage optimisation**:
 
 - [Tutorial](https://wiki.centenary.org.au/x/PZBCCw): voltages, compensation, and spreading error (from [Ashhurst et al 2017](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37)).
 - [Protocol](https://wiki.centenary.org.au/x/wZNCCw): ad-hoc voltage optimisation (from [Ashhurst et al 2017](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37)).
