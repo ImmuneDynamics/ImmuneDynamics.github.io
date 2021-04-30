@@ -119,7 +119,7 @@ permalink: /spectre/cytometry/
 <!-- THIRD ROW: Image --> 
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <img src="https://wiki.centenary.org.au/download/thumbnails/186841491/image2021-2-21_18-49-43.png?version=1&modificationDate=1613894655972&api=v2" width="3000" style="padding-left: 20px; padding-right: 20px; padding-top: 5px">
+          <img src="https://wiki.centenary.org.au/download/attachments/151793632/Multi%20plot%20-%20plotted%20on%20UMAP_X%20by%20UMAP_Yx.png?version=1&modificationDate=1603392147326&api=v2" width="3000" style="padding-left: 20px; padding-right: 20px; padding-top: 5px">
       </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
           <p> </p>
