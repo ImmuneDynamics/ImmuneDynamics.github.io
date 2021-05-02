@@ -57,7 +57,7 @@ Here...
 <!-- FOURTH ROW: Description --> 
       <tr>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-             Here we provide links for common software options for image visualisation. 
+             Here we provide an overview of the analysis workflow for spatial data.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
               Here we provide instructions for installing various software options for IMC analysis.
