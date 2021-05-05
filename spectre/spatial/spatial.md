@@ -17,6 +17,8 @@ If you use Spectre in your work, please consider citing [Ashhurst TM, Marsh-Wake
 
 ---
 
+<br />
+
 # Getting started Imaging Mass Cytometry (IMC) data analysis
 
 <table class="table gmisc_table">
