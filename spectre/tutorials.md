@@ -22,6 +22,10 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Strategic use of clustering and dimensionality reduction
         </div>
       </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Planning your high-dimensional experiments
+        </div>
+      </td>
     </tr>
 <!-- THIRD ROW: Image --> 
     <tr>
@@ -31,12 +35,17 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
             <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2021-2-26_11-50-14.png?version=1&modificationDate=1614300742629&api=v2" width="3000" style="padding-top: 5px">
         </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/Mitchell2021.png?raw=true" width="3000" style="padding-top: 5px">
+        </td>
       </tr>
 <!-- FOURTH ROW: Description --> 
       <tr>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A brief discussion on the advantages and disadvantages of computational 'discovery' approaches, including clustering and dimensionality reduction.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A tutorial on strategic use of clustering and dimensionality reduction, including which tools to use and why, the number of cells to analyse, how to interact with tSNE/UMAP plots with gates, etc.
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">An open access publication, where we explain the concepts behind designing high‐dimensional cytometry experiments and provide considerations for new and experienced users to design and carry out high‐dimensional experiments to maximize quality data collection..
           </td>
      </tr>
 <!-- FIFTH ROW: Go to page --> 
@@ -55,10 +64,22 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
                   </p>
               </div>
           </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://doi.org/10.1111/imcb.12456" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                  </p>
+              </div>
+          </td>
       </tr>
     </tbody>
 </table>
 <p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
+
+
+
+https://onlinelibrary.wiley.com/doi/10.1111/imcb.12456
+
 
 <br />
 
