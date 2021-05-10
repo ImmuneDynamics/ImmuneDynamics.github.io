@@ -131,3 +131,74 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
 <p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
 <br />
+
+## Tutorials on summary data and heatmaps
+
+<table class="table gmisc_table">
+  <tbody>
+<!-- FIRST ROW: TITLE --> 
+    <tr style="border-top:1px solid grey">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Generating 'summary' data
+        </div>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Creating heatmaps
+        </div>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Creating comparison graphs/violing plots
+        </div>
+      </td>
+    </tr>
+<!-- THIRD ROW: Image --> 
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <img src="https://wiki.centenary.org.au/download/attachments/151792648/Screen%20Shot%202019-10-24%20at%209.46.16%20pm.png?version=1&modificationDate=1591177008888&api=v2" width="3000" style="padding-left: 20px; padding-right: 20px; padding-top: 5px">
+      </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://wiki.centenary.org.au/download/attachments/157276799/image2020-5-17_13-16-54.png?version=1&modificationDate=1589685414267&api=v2" width="3000" style="padding-top: 5px">
+        </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://wiki.centenary.org.au/download/attachments/146080606/image2020-8-20_15-19-56.png?version=1&modificationDate=1597901907031&api=v2" width="3000" style="padding-top: 5px">
+        </td>
+      </tr>
+<!-- FOURTH ROW: Description --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A tutorial on generating 'summary' data from analysed 'cellular' data, to be used for quantitative, differential, and statistical analysis.
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A tutorial the use of expression and z-score/fold-change heatmaps in Spectre.
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A tutorial on the generation of comparison graphs/violing plots in Spectre.
+          </td>
+     </tr>
+<!-- FIFTH ROW: Go to page --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://wiki.centenary.org.au/x/BzSrCg" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <h2>COMING SOON</h2>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <h2>COMING SOON</h2>
+                  </p>
+              </div>
+          </td>
+      </tr>
+    </tbody>
+</table>
+<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
+
+<br />
+
