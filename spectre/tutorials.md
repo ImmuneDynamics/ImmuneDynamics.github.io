@@ -44,7 +44,7 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
       <tr>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A brief discussion on the advantages and disadvantages of computational 'discovery' approaches, including clustering and dimensionality reduction.
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">An open access publication, where we provide considerations for new and experienced users to design and carry out high‐dimensional experiments to maximize quality data collection.
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">An open access publication where we provide considerations for new and experienced users to design and carry out high‐dimensional experiments to maximize quality data collection.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A tutorial on strategic use of clustering and dimensionality reduction, including which tools to use and why, the number of cells to analyse, how to interact with tSNE/UMAP plots with gates, etc.
           </td>
