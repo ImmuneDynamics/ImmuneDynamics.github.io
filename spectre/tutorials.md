@@ -83,7 +83,7 @@ https://onlinelibrary.wiley.com/doi/10.1111/imcb.12456
 
 <br />
 
-## General tutorials
+## General data manipulation and plotting
 
 <table class="table gmisc_table">
   <tbody>
@@ -153,7 +153,7 @@ https://onlinelibrary.wiley.com/doi/10.1111/imcb.12456
 
 <br />
 
-## Tutorials on summary data and heatmaps
+## Quantitative, differential, and statistical analysis including heatmaps
 
 <table class="table gmisc_table">
   <tbody>
