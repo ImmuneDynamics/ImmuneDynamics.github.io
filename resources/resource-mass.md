@@ -9,7 +9,9 @@ permalink: /resources/mass
 **MASS CYTOMETRY (CyTOF)**: Below is a collection of resources and protocols for mass cytometry.
 
 **Our protocols**:
-- Mass cytometry staining protocol for mouse bone marrow: [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12).
+
+- [Paper](https://doi.org/10.1111/imcb.12456): key considerations for generating high-quality data for analysis in high-dimensional cytometry ([Marsh-Wakefield et al, 2021](https://doi.org/10.1111/imcb.12456)).
+- [Paper](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12): Mass cytometry staining protocol for mouse bone marrow ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)).
 
 <br />
 
