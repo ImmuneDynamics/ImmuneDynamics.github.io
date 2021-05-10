@@ -8,9 +8,8 @@ permalink: /resources/analysis
 
 **COMPUTATIONAL ANALYSIS**: here we provide resources to facilitate computational analysis of high-dimensional cytometry data, including [Spectre](https://immunedynamics.github.io/spectre/), an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments.
 
-**Webinars and tutorials**:
-
 - Talk on clustering and dimensionality reduction at the ACS 'homeshow': [Youtube](https://www.youtube.com/embed/MSIDmYhqe5g).
+- Paper on key considerations for generating high-quality data for analysis in high-dimensional cytometry: [Marsh-Wakefield et al, 2021](https://doi.org/10.1111/imcb.12456).
 
 <br />
 
