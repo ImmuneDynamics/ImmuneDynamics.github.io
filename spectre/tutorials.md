@@ -176,7 +176,7 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
             <img src="https://wiki.centenary.org.au/download/attachments/151793632/image2021-1-13_16-46-33.png?version=1&modificationDate=1610556393370&api=v2" width="3000" style="padding-top: 5px">
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/Violin.png?raw=true" width="3000" style="padding-top: 5px">
+            <img src="https://wiki.centenary.org.au/download/attachments/151793632/image2021-1-13_16-42-20.png?version=1&modificationDate=1610556141061&api=v2" width="3000" style="padding-top: 5px">
         </td>
       </tr>
 <!-- FOURTH ROW: Description --> 
