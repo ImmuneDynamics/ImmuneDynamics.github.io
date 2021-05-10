@@ -10,8 +10,9 @@ In flow cytometry, a suspension of single cells is labelled with antibodies agai
 
 <br />
 
-**Spectral vs conventional cytometry**:
+**Planning your approach**:
 
+- [Paper](https://doi.org/10.1111/imcb.12456): key considerations for generating high-quality data for analysis in high-dimensional cytometry ([Marsh-Wakefield et al, 2021](https://doi.org/10.1111/imcb.12456)).
 - [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211): a comparison of spectral and conventional flow cytometry ([Niewold\*, Ashhurst\* et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211)).
 
 **Panel and experiment design**:
@@ -19,7 +20,6 @@ In flow cytometry, a suspension of single cells is labelled with antibodies agai
 - [Paper](http://onlinelibrary.wiley.com/doi/10.1002/cpim.26/abstract): basic panel design (Maciorowski et al 2017).
 - [Paper](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37): high-dimensional panel design (Ashhurst et al 2017). 
 - [Paper](https://doi.org/10.1002/cpcy.70): panel design and optimization for high‐dimensional immunophenotyping assays using spectral flow cytometry (Ferrer-Font et al, 2020).
-- [Paper](https://doi.org/10.1111/imcb.12456): key considerations for generating high-quality data for analysis in high-dimensional cytometry (Marsh-Wakefield et al, 2021).
 
 **Staining protocols**:
 
