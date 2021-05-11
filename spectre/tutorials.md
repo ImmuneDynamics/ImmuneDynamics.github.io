@@ -27,9 +27,8 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
       </tr>
     </tbody>
 </table>
-<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
-<p> </p>
+<br />
 
 ## Analysis strategies
 
@@ -98,7 +97,6 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
       </tr>
     </tbody>
 </table>
-<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
 <br />
 
@@ -221,7 +219,6 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
       </tr>
     </tbody>
 </table>
-<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
 <br />
 
