@@ -21,7 +21,7 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
         <p>
           An open access publication where we provide considerations for new and experienced users to design and carry out high‐dimensional experiments to maximize quality data collection.  
         </p>
-          <a href="https://doi.org/10.1111/imcb.12456" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <a href="https://doi.org/10.1111/imcb.12456" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">SEE PAPER</span></b></a>
           <p> </p>
       </td>
       </tr>
