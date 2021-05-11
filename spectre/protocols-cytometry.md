@@ -23,7 +23,7 @@ permalink: /spectre/cytometry/
     </tbody>
 </table>
 
-<p> </p>
+<br />
 
 ## Core analysis workflows
 
@@ -121,7 +121,8 @@ permalink: /spectre/cytometry/
     </tbody>
 </table>
 
-<p> </p>
+
+<br />
 
 ## Quick analysis scripts
 
@@ -192,7 +193,8 @@ permalink: /spectre/cytometry/
     </tbody>
 </table>
 
-<p> </p>
+
+<br />
 
 ## Specialised analysis areas
 
@@ -267,7 +269,8 @@ permalink: /spectre/cytometry/
 
 These are approaches that are in use within our team, but are still under active development. These are described in our preprint ([Ashhurst\*, Marsh-Wakefield\*, Putri\*, et al. 2021. Cytometry A](https://doi.org/10.1002/cyto.a.24350)). If you are interested in using any of these approaches, please [get in touch](mailto:thomas.ashhurst@sydney.edu.au) with us.
 
-<p> </p>
+
+<br />
 
 <table class="table gmisc_table">
   <tbody>
@@ -335,4 +338,5 @@ These are approaches that are in use within our team, but are still under active
 </table>
 <p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
-<p> </p>
+
+<br />
