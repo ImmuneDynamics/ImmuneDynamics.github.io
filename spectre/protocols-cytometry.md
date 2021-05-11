@@ -263,14 +263,12 @@ permalink: /spectre/cytometry/
     </tbody>
 </table>
 
-<p> </p>
+
+<br />
 
 ## Advanced applications
 
 These are approaches that are in use within our team, but are still under active development. These are described in our preprint ([Ashhurst\*, Marsh-Wakefield\*, Putri\*, et al. 2021. Cytometry A](https://doi.org/10.1002/cyto.a.24350)). If you are interested in using any of these approaches, please [get in touch](mailto:thomas.ashhurst@sydney.edu.au) with us.
-
-
-<br />
 
 <table class="table gmisc_table">
   <tbody>
