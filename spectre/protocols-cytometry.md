@@ -22,7 +22,6 @@ permalink: /spectre/cytometry/
       </tr>
     </tbody>
 </table>
-<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
 <p> </p>
 
@@ -65,7 +64,7 @@ permalink: /spectre/cytometry/
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A analysis workflow for the alignment and analysis of data from multiple batches, using 
             <a href="https://github.com/saeyslab/CytoNorm">CytoNorm</a>
             for batch alignment. If working with very large batch effects, have a look at our 
-            <a href="https://immunedynamics.github.io/spectre/#protocols">data integration</a>
+            <a href="https://immunedynamics.github.io/spectre/cytometry/#advanced-applications">data integration</a>
             workflows.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">FlowJo has incorporated a number of clustering, dimensionality reduction, and batch alignment tools. This allows for fairly easy use by those familiar with FlowJo. Here we provide protocols for performing Spectre's discovery analysis workflows using FlowJo.
@@ -97,7 +96,6 @@ permalink: /spectre/cytometry/
       </tr>
     </tbody>
 </table>
-<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
 <p> </p>
 
@@ -169,7 +167,6 @@ permalink: /spectre/cytometry/
       </tr>
     </tbody>
 </table>
-<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
 <p> </p>
 
@@ -239,7 +236,6 @@ permalink: /spectre/cytometry/
       </tr>
     </tbody>
 </table>
-<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
 <p> </p>
 
