@@ -204,7 +204,7 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
       <tr>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A tutorial on generating 'summary' data from analysed 'cellular' data, to be used for quantitative, differential, and statistical analysis.
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A tutorial the use of expression and z-score/fold-change heatmaps in Spectre.
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A tutorial on the use of expression and z-score/fold-change heatmaps in Spectre.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A tutorial on the generation of comparison graphs/violin plots in Spectre.
           </td>
