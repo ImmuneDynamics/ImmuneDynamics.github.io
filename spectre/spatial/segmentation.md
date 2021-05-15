@@ -1,6 +1,6 @@
 ---
 layout: spectre
-title: Spatial - cell segmentation approaches
+title: Spatial - image visualisation and cell segmentation
 permalink: /spectre/spatial/segmentation/
 ---
 
