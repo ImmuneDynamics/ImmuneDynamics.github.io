@@ -13,7 +13,7 @@ permalink: /thomas-ashhurst/
 </div>
 
 Dr. Thomas Ashhurst is an immunologist and high-dimensional cytometry specialist with the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au)
-<!--<span style="color:red">and an honorary research fellow with the School of Medical Sciences,</span>-->
+<!--, and an honorary Research Fellow with the School of Medical Sciences, Faculty of Medicine and Health, </span>-->
 at the [The University of Sydney](https://www.sydney.edu.au/). 
 In this role he provides advanced training and consultation for users of high-dimensional cytometry, imaging, and single-cell sequencing technologies.
 He also leads a [multi-disciplinary research initiative](https://immunedynamics.github.io) to develop and apply of a range of [high-dimensional single-cell and imaging methods](https://immunedynamics.github.io/thomas-ashhurst/research/#high-dimensional-cytometry-and-imaging-technologies), as well as [advanced computational analysis approaches](https://immunedynamics.github.io/thomas-ashhurst/research/#computational-analysis-approaches), to comprehensively map dynamic immune responses over time and space in a 'systems immunology' approach. His research is particularly focused on the study of inflammation and infectious diseases, including emerging pathogens such as [SARS-CoV-2/COVID-19](https://immunedynamics.github.io/thomas-ashhurst/research/#application-to-disease), [Zika virus encephalitis](https://immunedynamics.github.io/thomas-ashhurst/research/#application-to-disease), and [West Nile virus encephalitis](https://immunedynamics.github.io/thomas-ashhurst/research/#application-to-disease).
