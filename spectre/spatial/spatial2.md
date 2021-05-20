@@ -135,15 +135,15 @@ Here we provide options for performing spatial analysis of IMC data once cell se
 <!-- FIRST ROW: TITLE --> 
     <tr style="border-top:1px solid grey">
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Converting TIFF files to FCS (and CSV) files
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Analysing IMC data in FlowJo
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Analysing IMC data in FlowJo
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Simple spatial analysis in R with Spectre
         </div>  
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Simple spatial analysis demo with Spectre & SpectreMAP
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Advanced spatial analysis in R with Spectre
         </div>
       </td>
     </tr>
@@ -151,12 +151,12 @@ Here we provide options for performing spatial analysis of IMC data once cell se
     <tr>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
             <p> </p>
-            <img src="https://wiki.centenary.org.au/download/thumbnails/186841491/image2021-2-21_18-49-43.png?version=1&modificationDate=1613894655972&api=v2" width="3000" style="padding-top: 5px; padding-left: 50px; padding-right: 50px">
+            <img src="https://flowjowebsiteimages.s3-us-west-2.amazonaws.com/media/Solution%20Logos/flowjo-logo.png" width="3000" style="padding-top: 5px; padding-left: 50px; padding-right: 50px">
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
             <br />
             <br />
-            <img src="https://flowjowebsiteimages.s3-us-west-2.amazonaws.com/media/Solution%20Logos/flowjo-logo.png" width="3000" style="padding-top: 5px">
+            <img src="https://wiki.centenary.org.au/download/thumbnails/186841491/image2021-2-21_18-49-43.png?version=1&modificationDate=1613894655972&api=v2" width="3000" style="padding-top: 5px">
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
           <p> </p>
