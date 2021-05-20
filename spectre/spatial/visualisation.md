@@ -1,6 +1,6 @@
 ---
 layout: spectre
-title: Spatial - image visualisation and cell segmentation
+title: Spatial - image visualisation and TIFF export
 permalink: /spectre/spatial/visualisation/
 ---
 
