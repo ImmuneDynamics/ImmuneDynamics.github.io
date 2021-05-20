@@ -4,8 +4,6 @@ title: Spatial - image visualisation and TIFF export
 permalink: /spectre/spatial/visualisation/
 ---
 
-## MCD Viewer (Windows only)
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
