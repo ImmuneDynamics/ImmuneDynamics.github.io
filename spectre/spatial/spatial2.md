@@ -17,6 +17,8 @@ Along with flow, spectral, or mass cytometry data, Spectre enables spatial analy
 
 ## Overview of cell segmentation and spatial analysis with Spectre
 
+In addition to the two primary segmentation approaches below, we also provide a modified version of the [Bodenmiller lab segmentation approach](https://wiki.centenary.org.au/x/kYBfCQ).
+
 <table class="table gmisc_table">
   <tbody>
     <tr>
