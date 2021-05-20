@@ -86,7 +86,7 @@ If you use Spectre in your work, please consider citing [Ashhurst TM, Marsh-Wake
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <a href="https://wiki.centenary.org.au/x/tphCCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                      <a href="https://immunedynamics.io/spectre/spatial/visualisation/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
                   </p>
               </div>
           </td>
