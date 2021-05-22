@@ -1,6 +1,6 @@
 ---
 layout: spectre
-title: Spatial analysis of IMC data using Spectre
+title: Spatial analysis of high-dimensional imaging data using Spectre
 permalink: /spectre/spatial2/
 ---
 
