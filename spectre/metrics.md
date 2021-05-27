@@ -19,8 +19,10 @@ among others; in prestigious journals such as [Cell](https://doi.org/10.1016/j.c
 
 *Select publications*
 
+- Opzoomer et al, 2021, [eLife](ImmunoCluster provides a computational framework for the nonspecialist to profile high-dimensional cytometry data)
+- Vick et al, 2021, [medRxiv](https://www.medrxiv.org/content/10.1101/2021.03.25.21254376v1) (pre-print)
 - Spiteri et al, 2021, [Research Square](https://www.researchsquare.com/article/rs-388801/v1) (pre-print)
-- Mitchell et al 2021, [Immunology and Cell Biology](https://doi.org/10.1111/imcb.12456)
+- Marsh-Wakefield et al 2021, [Immunology and Cell Biology](https://doi.org/10.1111/imcb.12456)
 - Koutsakos et al 2021, [Cell Reports Medicine](https://www.sciencedirect.com/science/article/pii/S2666379121000197)
 - Ferrell et al 2021, [Mucosal Immunology](https://www.nature.com/articles/s41385-021-00379-6)
 - Putri et al 2021, [Bioinformatics](https://doi.org/10.1093/bioinformatics/btab038)
