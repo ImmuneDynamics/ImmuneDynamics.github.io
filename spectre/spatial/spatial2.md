@@ -10,12 +10,12 @@ Along with flow, spectral, or mass cytometry data, Spectre enables spatial analy
 
 <p> </p>
 
----
-
 <br />
 
 
 ## Overview of cell segmentation and spatial analysis with Spectre
+
+---
 
 <table class="table gmisc_table">
   <tbody>
@@ -38,6 +38,8 @@ Along with flow, spectral, or mass cytometry data, Spectre enables spatial analy
 
 
 ## Initial visualisation, TIFF export, and cell segmentation
+
+---
 
 In addition to the two primary segmentation approaches below, we also provide a modified version of the [Bodenmiller lab segmentation approach](https://wiki.centenary.org.au/x/kYBfCQ).
 
@@ -119,6 +121,8 @@ In addition to the two primary segmentation approaches below, we also provide a 
 
 
 ## Cellular and spatial analysis
+
+---
 
 <table class="table gmisc_table">
   <tbody>
@@ -212,6 +216,8 @@ In addition to the two primary segmentation approaches below, we also provide a 
 
 
 # Other software and protocols
+
+---
 
 Here we provide links to other analysis software and protocols that are useful in the analysis of IMC data.
 
