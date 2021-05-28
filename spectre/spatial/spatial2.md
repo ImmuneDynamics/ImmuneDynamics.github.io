@@ -4,7 +4,7 @@ title: Spatial analysis of high-dimensional imaging data using Spectre
 permalink: /spectre/spatial2/
 ---
 
-Along with flow, spectral, or mass cytometry data, Spectre enables spatial analysis of Imaging Mass Cytometry (IMC) data. The Hyperion from Fluidigm (an Imaging Mass Cytometer, IMC) consists of a CyTOF (Helios) instrument, with an imaging module attached to the front. Within the imaging module, a pulsed laser scans and ablates the tissue section in incremental 1 um shots, which are then rastered together into an image, consisting of 30-40 metal signals representing different cellular or tissue markers. 
+Spectre enables the analysis of high-dimensional imaging data, including data generated using Fluidigm's Hyperion Imaging Mass Cytometer (IMC). Our current workflows support a basic (using CellProfiler) or comprehensive (using Ilastik) cell and region segmentation approach, followed by cellular and spatial analysis performed in R. 
 
 ![IMC](https://wiki.centenary.org.au/download/attachments/172228252/image2021-2-25_22-32-15.png?version=1&modificationDate=1614252735692&api=v2)
 
@@ -37,11 +37,15 @@ Along with flow, spectral, or mass cytometry data, Spectre enables spatial analy
 <br />
 
 
+
+
+
+
 ## Initial visualisation, TIFF export, and cell segmentation
 
 ---
 
-In addition to the two primary segmentation approaches below, we also provide a modified version of the [Bodenmiller lab segmentation approach](https://wiki.centenary.org.au/x/kYBfCQ).
+Below we provide instructions for two key segmentation approaches. The simple nuclear expansion approach is straightforward and involves few moving parts, and the advanced multicut approach is more complex, but extremely versatile, and faciltates regional segmentation as well. In addition to these primary segmentation approaches, we also provide a modified version of the [Bodenmiller lab segmentation approach](https://wiki.centenary.org.au/x/kYBfCQ).
 
 <table class="table gmisc_table">
   <tbody>
@@ -120,9 +124,15 @@ In addition to the two primary segmentation approaches below, we also provide a 
 
 
 
+
+
+
+
 ## Cellular and spatial analysis
 
 ---
+
+Following cell segmentation using one of the above approaches, these workflows facilitate cellular and spatial analysis in R.
 
 <table class="table gmisc_table">
   <tbody>
@@ -219,7 +229,7 @@ In addition to the two primary segmentation approaches below, we also provide a 
 
 ---
 
-Here we provide links to other analysis software and protocols that are useful in the analysis of IMC data.
+Here we provide links to other analysis software and protocols that are useful in the analysis of high-dimensional imaging data.
 
 <table class="table gmisc_table">
   <tbody>
