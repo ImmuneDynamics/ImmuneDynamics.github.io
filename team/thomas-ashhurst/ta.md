@@ -12,7 +12,7 @@ permalink: /thomas-ashhurst/
     </div>
 </div>
 
-Dr. Thomas Ashhurst is an immunologist and high-dimensional cytometry specialist with the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au)
+Dr. Thomas Ashhurst is an immunologist with a focus om understanding the immune response to infectious disease at the single cell level. He is high-dimensional cytometry and single-cell specialist with the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au)
 <!--, and an honorary Research Fellow with the School of Medical Sciences, Faculty of Medicine and Health, </span>-->
 at the [The University of Sydney](https://www.sydney.edu.au/). 
 In this role he provides advanced training and consultation for users of high-dimensional cytometry, imaging, and single-cell sequencing technologies.
