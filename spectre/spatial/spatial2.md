@@ -41,7 +41,7 @@ permalink: /spectre/spatial2/
 
 ---
 
-Below we provide instructions for two key segmentation approaches. The simple nuclear expansion approach is straightforward and involves few moving parts, and the advanced multicut approach is more complex, but extremely versatile, and faciltates regional segmentation as well. In addition to these primary segmentation approaches, we also provide a modified version of the [Bodenmiller lab segmentation approach](https://wiki.centenary.org.au/x/kYBfCQ).
+Below we provide instructions for initial image visualisation and TIFF export using [MCD Viewer](https://immunedynamics.io/spectre/spatial/visualisation/) or [HistoCat++](https://immunedynamics.io/spectre/spatial/visualisation/), as well as two key segmentation approaches. The [simple nuclear expansion segmentation](https://wiki.centenary.org.au/x/GzrDCw) approach using CellProfiler is straightforward and involves few moving parts. The advanced [multicut segmentation](https://wiki.centenary.org.au/x/fCnDCw) approach using Ilastik is more complex, but extremely versatile, and faciltates regional segmentation as well. In addition to these primary segmentation approaches, we also provide a modified version of the original [Bodenmiller lab segmentation approach](https://wiki.centenary.org.au/x/kYBfCQ).
 
 <table class="table gmisc_table">
   <tbody>
