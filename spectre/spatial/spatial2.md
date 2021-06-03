@@ -15,10 +15,10 @@ permalink: /spectre/spatial2/
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+      <td style="padding-left:.75em;padding-right:.75em;width:40%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
           <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/research/Spatial.png" width="3000">
       </td>
-      <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Analysis overview</b></p>
         <p>
           Spectre enables the analysis of high-dimensional imaging data, including data generated using Fluidigm’s Hyperion Imaging Mass Cytometer (IMC). Our current workflows support a basic (using CellProfiler) or comprehensive (using Ilastik) cell and region segmentation approach, followed by cellular and spatial analysis using FlowJo or R. Here we provide background information on methods of analysing IMC data.
