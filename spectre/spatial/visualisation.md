@@ -4,6 +4,12 @@ title: Spatial - image visualisation and TIFF export
 permalink: /spectre/spatial/visualisation/
 ---
 
+<br />
+
+## Imaging Mass Cytometry (IMC) data
+
+---
+
 <table class="table gmisc_table">
   <tbody>
     <tr>
