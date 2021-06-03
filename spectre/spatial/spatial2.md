@@ -31,7 +31,7 @@ permalink: /spectre/spatial2/
 </table>
 
 <br />
-
+<br />
 
 
 
@@ -114,7 +114,7 @@ Below we provide instructions for initial image visualisation and TIFF export us
 <p> </p>
 
 <br />
-
+<br />
 
 
 
@@ -200,7 +200,7 @@ Following cell segmentation using one of the above approaches, these workflows f
 <p> </p>
 
 <br />
-
+<br />
 
 
 
