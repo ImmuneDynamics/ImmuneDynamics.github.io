@@ -66,7 +66,7 @@ Below we provide instructions for initial image visualisation and TIFF export us
 <br />
 
 
-Once TIFF files have been exported using the approaches above, a number of cell segmentation approaches can be applied. The [simple nuclear expansion segmentation](https://wiki.centenary.org.au/x/GzrDCw) approach using CellProfiler is straightforward and involves few moving parts. The advanced [multicut segmentation](https://wiki.centenary.org.au/x/fCnDCw) approach using Ilastik is more complex, but extremely versatile, and faciltates regional segmentation as well. In addition to these primary segmentation approaches, we also provide a modified version of the original [Bodenmiller lab segmentation approach](https://wiki.centenary.org.au/x/kYBfCQ) which uses MCD files directly.
+Once TIFF files have been exported using the approaches above, a number of cell segmentation approaches can be applied. The [simple nuclear expansion segmentation](https://wiki.centenary.org.au/x/GzrDCw) approach using CellProfiler is straightforward and involves few moving parts. The advanced [multicut segmentation](https://wiki.centenary.org.au/x/fCnDCw) approach using Ilastik is more complex, but extremely versatile, and faciltates regional segmentation as well. In addition to these primary segmentation approaches, we also provide a modified version of the original [Bodenmiller lab segmentation approach](https://wiki.centenary.org.au/x/kB-mCw) which uses MCD files directly.
 
 <table class="table gmisc_table">
   <tbody>
@@ -128,7 +128,7 @@ Once TIFF files have been exported using the approaches above, a number of cell 
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <a href="https://wiki.centenary.org.au/x/kYBfCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                      <a href="https://wiki.centenary.org.au/x/kB-mCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
                   </p>
               </div>
           </td>
