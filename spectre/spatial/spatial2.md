@@ -127,7 +127,7 @@ Below we provide instructions for initial image visualisation and TIFF export us
 
 ---
 
-Following cell segmentation using one of the above approaches, these workflows facilitate cellular and spatial analysis in R.
+Following cell segmentation using one of the above approaches, these workflows facilitate cellular and spatial analysis in R or FlowJo.
 
 <table class="table gmisc_table">
   <tbody>
