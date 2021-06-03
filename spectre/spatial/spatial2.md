@@ -95,7 +95,7 @@ Below we provide instructions for initial image visualisation and TIFF export us
           <img src="https://wiki.centenary.org.au/download/attachments/188913604/image2021-2-24_14-38-20.png?version=1&modificationDate=1614305624416&api=v2" width="3000" style="padding-top: 5px">
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img src="https://wiki.centenary.org.au/download/attachments/188913604/image2021-2-24_14-37-49.png?version=1&modificationDate=1614305624346&api=v2" width="3000" style="padding-top: 5px; padding-left: 20px; padding-right: 20px">
+            <img src="https://wiki.centenary.org.au/download/attachments/188913604/image2021-2-24_14-37-49.png?version=1&modificationDate=1614305624346&api=v2" width="3000" style="padding-top: 5px">
         </td>
       </tr>
 <!-- FOURTH ROW: Description --> 
