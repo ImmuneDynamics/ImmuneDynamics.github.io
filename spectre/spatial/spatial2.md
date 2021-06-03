@@ -75,7 +75,7 @@ Below we provide instructions for initial image visualisation and TIFF export us
 <!-- FOURTH ROW: Description --> 
       <tr>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-            Here we provide links for common software options for image visualisation. From here, TIFF files can be exported for use in our segmentation approaches.
+            Here we provide links for common software options for image visualisation, including MCD Viewer and HistoCat++. From here, TIFF files can be exported for use in our segmentation approaches.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
             This is the simplest form of cellular segmentation. The nuclear signal is identified, and the boundary is expanded outwards by a certain number of pixels. This then becomes the boundary of the cell mask. Although a very simplistic approach, only nuclear signal is required.
