@@ -110,7 +110,6 @@ Below we provide instructions for initial image visualisation and TIFF export us
       </tr>
     </tbody>
 </table>
-<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
 <p> </p>
 
@@ -197,7 +196,6 @@ Following cell segmentation using one of the above approaches, these workflows f
       </tr>
     </tbody>
 </table>
-<p style="color:#d3d3d3; text-align:right"><i>Code for the table structure adapted from https://satijalab.org/seurat</i></p>
 
 <p> </p>
 
