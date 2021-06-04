@@ -153,6 +153,9 @@ permalink: /spectre/getting-started/
 
 <br />
 
+Please note: the original functions and workflows from SpectreMAP have now been directly incorporated in Spectre v0.5.0.
+
+<br />
 
 
 ## Other
