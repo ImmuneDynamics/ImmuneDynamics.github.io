@@ -26,6 +26,7 @@ For more information on Spectre, check out the '[about Spectre](https://immunedy
 
 To receive updates, you can join our mailing list [here](https://forms.gle/vrg58485Ri5wagRr7).
 
+- 2021-06-04: Spatial analysis functions and workflows from SpectreMAP now incorporated directly in [Spectre v0.5.0](https://immunedynamics.github.io/spectre/getting-started/).
 - 2021-04-10: Spectre manuscript published online in [Cytometry A](https://doi.org/10.1002/cyto.a.24350)
 - 2021-03-30: Updated list of [papers that have referenced Spectre](https://immunedynamics.io/spectre/metrics/) (and/or CAPX and associated scripts).
 - 2021-03-08: Spectre [v0.4.0 release](https://github.com/ImmuneDynamics/Spectre) – including significant improvements, as well as the addition of new batch alignment functions.
