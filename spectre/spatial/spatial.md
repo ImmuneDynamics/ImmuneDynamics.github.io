@@ -6,6 +6,8 @@ permalink: /spectre/spatial/
 
 ![IMC](https://wiki.centenary.org.au/download/attachments/172228252/image2021-2-25_22-32-15.png?version=1&modificationDate=1614252735692&api=v2)
 
+Please note: the original functions and workflows from **SpectreMAP** have now been directly incorporated in [Spectre v0.5.0](https://immunedynamics.io/spectre/getting-started/).
+
 <br />
 
 ## Overview of cell segmentation and spatial analysis with Spectre
