@@ -23,6 +23,12 @@ Through a collaboration with the [Doherty Institute](https://www.doherty.edu.au/
 - Our mass cytometry protocols have been cited in a number of COVID-19 studies, including [Rodriguez et al. 2020](https://doi.org/10.1016/j.xcrm.2020.100078) and [Koutsakos et al. 2021](https://doi.org/10.1016/j.xcrm.2021.100208).
 - Panel design and analysis protocols that may be helpful in COVID-19 research can be found on the [resources](https://immunedynamics.github.io/resources) page.
 
+**[Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre - applications in viral encephalitis and COVID-19](https://www.youtube.com/watch?v=DamU2mngEg8)**
+
+Seminar, Leiden University Medical Center
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/DamU2mngEg8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
 <br />
 
 ---
