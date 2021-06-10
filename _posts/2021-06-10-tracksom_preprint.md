@@ -4,9 +4,9 @@ title: 2021-06-10 - Preprint - TrackSOM - mapping immune response dynamics throu
 permalink: /tracksom_preprint/
 ---
 
-<br />
-
 ![TrackSOM](https://pbs.twimg.com/media/E3fVnu9VgAo9BYl?format=jpg&name=4096x4096)
+
+<br />
 
 **[TrackSOM: mapping immune response dynamics through sequential clustering of time- and disease-course single-cell cytometry data](https://www.biorxiv.org/content/10.1101/2021.06.08.447468v1)**
 
