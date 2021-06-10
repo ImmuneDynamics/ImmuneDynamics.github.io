@@ -27,7 +27,7 @@ Givanna Haryono Putri, Jonathan Chung, Davis N Edwards,  Felix Marsh-Wakefield, 
 
 **[Integrated immune dynamics define correlates of COVID-19 severity and antibody responses](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7)**
 
-M Koutsakos, LC Rowntree, L Hensen, et al. **Cell Reports Medicine** 2021.
+M Koutsakos, LC Rowntree, L Hensen, BY Chua, CE van de Sandt, JR Habel, W Zhang, X Jia, L Kedzierski, TM Ashhurst, GH Putri, F Marsh-Wakefield, MN Read, DN Edwards, ... THO Nguyen, AC Cheng, K Kedzierska. **Cell Reports Medicine** 2021.
 
 **Abstract**: SARS-CoV-2 causes a spectrum of COVID-19 disease, the immunological basis of which remains ill-defined. We analysed 85 SARS-CoV-2-infected individuals at acute and/or convalescent timepoints, up to 102 days post-symptom onset, quantifying 184 immunological parameters. Acute COVID-19 presented with high levels of IL-6, IL-18 and IL-10 and broad activation marked by upregulation of CD38 on innate and adaptive lymphocytes and myeloid cells. Importantly, activated CXCR3+cTFH1 cells in acute COVID-19 significantly correlate with and predict antibody levels and their avidity at convalescence as well as acute neutralisation activity. Strikingly, intensive care unit (ICU) patients with severe COVID-19 display higher levels of soluble IL-6, IL-6R, IL-18, and hyperactivation of innate, adaptive and myeloid compartments than patients with moderate disease. Our analyses provide a comprehensive map of longitudinal immunological responses in COVID-19 patients and integrate key cellular pathways of complex immune networks underpinning severe COVID-19, providing important insights into potential biomarkers and immunotherapies.
 
