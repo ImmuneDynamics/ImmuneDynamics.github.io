@@ -21,6 +21,35 @@ To address this, we developed [ChronoClust](https://www.sciencedirect.com/scienc
 
 ---
 
+### TrackSOM
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/TrackSOM.png" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
+        </a>
+    </div>
+</div>
+
+
+**TrackSOM** ([paper](https://www.biorxiv.org/content/10.1101/2021.06.08.447468v1), [Github](https://github.com/ghar1821/TrackSOM)).
+
+[TrackSOM worked example](https://wiki.centenary.org.au/display/SPECTRE/TrackSOM+worked+example)
+
+Building on ChronoClust’s success, we sought to determine whether its tracking methodology could be used to enhance an existing algorithm.
+Following our [previous clustering algorithm benchmarking study](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab038/6122691) which found FlowSOM clustering algorithm to be extremely effective in clustering benchmark single time-point cytometry data, we developed **TrackSOM** ([paper](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7), [Github](https://github.com/ghar1821/TrackSOM)), a temporal clustering and tracking algorithm which fuses ChronoClust's tracking methodology with the clustering prowess of FlowSOM. 
+In summary, TrackSOM amalgamates data from all time-point into one dataset, and thereafter cluster them using the Self Organising Map (SOM).
+For each time-point, TrackSOM then isolates the non-empty SOM nodes for that time-point, and perform consensus hierarchical clustering on them.
+Tracking of the resulting meta-clusters then ensues, by virtue of the SOM nodes. 
+
+<p> </p>
+
+TrackSOM offers 2 different tracking operations, namely allowing or disallowing merging of meta-cluster, and 3 different clustering operations, Autonomous Adaptive where the number of meta-clusters per time-point is automatically inferred based on the meta-clusters' variance (akin to FlowSOM's elbow criterion), Prescribed Invariant and Variant where the number of meta-clusters in each time-point are either fixed to a number or varied based on user's specification respectively.
+We used TrackSOM to study the immune profile of [SARS-CoV-2/COVID-19](https://immunedynamics.github.io/research/disease) patients, and found TrackSOM successfully identified the dynamic activation (CD38 and HLA-DR) of both innate and adaptive cells and their subsequent decline.
+Furthermore, we also compared TrackSOM's performance against that of ChronoClust's on the aforementioned WNV-BM dataset, and found TrackSOM to be comparable, if not better than ChronoClust.
+
+---
+
 ### ChronoClust
 
 <div class='row'>
@@ -42,29 +71,3 @@ ChronoClust was able to not only automatically reproduce the clusters and relati
 <br />
 
 ---
-
-### TrackSOM
-
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/TrackSOM.png" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
-        </a>
-    </div>
-</div>
-
-[TrackSOM worked example](https://wiki.centenary.org.au/display/SPECTRE/TrackSOM+worked+example)
-
-Building on ChronoClust’s success, we sought to determine whether its tracking methodology could be used to enhance an existing algorithm.
-Following our [previous clustering algorithm benchmarking study](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab038/6122691) which found FlowSOM clustering algorithm to be extremely effective in clustering benchmark single time-point cytometry data, we developed **TrackSOM** ([paper](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7), [Github](https://github.com/ghar1821/TrackSOM)), a temporal clustering and tracking algorithm which fuses ChronoClust's tracking methodology with the clustering prowess of FlowSOM. 
-In summary, TrackSOM amalgamates data from all time-point into one dataset, and thereafter cluster them using the Self Organising Map (SOM).
-For each time-point, TrackSOM then isolates the non-empty SOM nodes for that time-point, and perform consensus hierarchical clustering on them.
-Tracking of the resulting meta-clusters then ensues, by virtue of the SOM nodes. 
-
-<p> </p>
-
-TrackSOM offers 2 different tracking operations, namely allowing or disallowing merging of meta-cluster, and 3 different clustering operations, Autonomous Adaptive where the number of meta-clusters per time-point is automatically inferred based on the meta-clusters' variance (akin to FlowSOM's elbow criterion), Prescribed Invariant and Variant where the number of meta-clusters in each time-point are either fixed to a number or varied based on user's specification respectively.
-We used TrackSOM to study the immune profile of [SARS-CoV-2/COVID-19](https://immunedynamics.github.io/research/disease) patients, and found TrackSOM successfully identified the dynamic activation (CD38 and HLA-DR) of both innate and adaptive cells and their subsequent decline.
-Furthermore, we also compared TrackSOM's performance against that of ChronoClust's on the aforementioned WNV-BM dataset, and found TrackSOM to be comparable, if not better than ChronoClust.
-
-Stay tuned for the publication describing the TrackSOM algorithm! 
