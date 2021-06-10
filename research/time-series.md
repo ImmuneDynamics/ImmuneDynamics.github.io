@@ -26,7 +26,7 @@ To address this, we developed [ChronoClust](https://www.sciencedirect.com/scienc
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/TrackSOM.png" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
+            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/research/TrackSOM.png" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
         </a>
     </div>
 </div>
