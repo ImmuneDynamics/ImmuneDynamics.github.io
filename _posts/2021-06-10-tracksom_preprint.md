@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Preprint - TrackSOM - mapping immune response dynamics through sequential clustering of time- and disease-course single-cell cytometry data
-permalink: /tracksom/
+title: 2021-06-10 - Preprint - TrackSOM - mapping immune response dynamics through sequential clustering of time- and disease-course single-cell cytometry data
+permalink: /tracksom_preprint/
 ---
 
 ![Screen Shot 2021-06-10 at 1 05 29 pm](https://user-images.githubusercontent.com/11766139/121458375-95587800-c9ec-11eb-8056-c804cad1cd26.png)
-
----
 
 ## TrackSOM pre-print
 
