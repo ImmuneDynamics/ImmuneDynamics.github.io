@@ -115,7 +115,7 @@ Please note: the original functions and workflows for spatial analysis from **Sp
       </td>
       <td style="padding-left:.75em;width:70%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><h2>
-          Install from Docker
+          Install R, RStudio, and Spectre from Docker
         </h2></p>
         <p>
           Install a 'container' version of Spectre using Docker, that contains a pre-built environment with all the required packages necessary to use Spectre.
