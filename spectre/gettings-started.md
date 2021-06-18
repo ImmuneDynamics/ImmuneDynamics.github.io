@@ -4,7 +4,7 @@ title: Getting started
 permalink: /spectre/getting-started/
 ---
 
-## R and RStudio
+## Install Spectre with R and RStudio
 
 <table class="table gmisc_table">
   <tbody>
@@ -66,36 +66,6 @@ permalink: /spectre/getting-started/
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://images.vexels.com/media/users/3/157318/isolated/preview/2782b0b66efa5815b12c9c637322aff3-desktop-computer-icon-computer-by-vexels.png" width="3000">
-      </td>
-      <td style="padding-left:.75em;width:70%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><h2>
-          R & RStudio tutorial
-        </h2></p>
-        <p>
-          To get started with using R/RStudio, check out our brief introductory R tutorial.
-        </p>
-        <a href="https://wiki.centenary.org.au/x/MIBfCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
-            R tutorial
-        </span></b></a>
-        <p> </p>
-      </td>
-      </tr>
-    </tbody>
-</table>
-
-
-<p> </p>
-
-
-<br />
-
-## Spectre
-
-<table class="table gmisc_table">
-  <tbody>
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
           <img src="https://wiki.centenary.org.au/download/attachments/146080606/Spectre%20wide.png?version=1&modificationDate=1614253260985&api=v2" width="3000">
       </td>
       <td style="padding-left:.75em;width:70%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
@@ -114,9 +84,80 @@ permalink: /spectre/getting-started/
     </tbody>
 </table>
 
+<p> </p>
+
+Please note: the original functions and workflows for spatial analysis from **SpectreMAP** have now been directly incorporated in **Spectre v0.5.0**.
+
+<br />
+
+
+
+
+
+
+
+
+## Install Spectre using Docker
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://wiki.centenary.org.au/download/attachments/150442594/docker_facebook_share.png?version=1&modificationDate=1580942055355&api=v2" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:70%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><h2>
+          Install from Docker
+        </h2></p>
+        <p>
+          Install a 'container' version of Spectre using Docker, that contains a pre-built environment with all the required packages necessary to use Spectre.
+        </p>
+        <a href="https://wiki.centenary.org.au/x/F4hfCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+            Install from Docker
+        </span></b></a>
+        <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
 
 <p> </p>
 
+Please note: the original functions and workflows for spatial analysis from **SpectreMAP** have now been directly incorporated in **Spectre v0.5.0**.
+
+<br/>
+
+
+
+
+
+
+
+## Introductory demos
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://images.vexels.com/media/users/3/157318/isolated/preview/2782b0b66efa5815b12c9c637322aff3-desktop-computer-icon-computer-by-vexels.png" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:70%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><h2>
+          R & RStudio tutorial
+        </h2></p>
+        <p>
+          To get started with using R/RStudio, check out our brief introductory R tutorial.
+        </p>
+        <a href="https://wiki.centenary.org.au/x/MIBfCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+            R tutorial
+        </span></b></a>
+        <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<p> </p>
 
 <table class="table gmisc_table">
   <tbody>
@@ -150,41 +191,12 @@ permalink: /spectre/getting-started/
     </tbody>
 </table>
 
-
 <br />
 
-Please note: the original functions and workflows for spatial analysis from **SpectreMAP** have now been directly incorporated in **Spectre v0.5.0**.
 
-<br />
 
 
 ## Other
-
-<table class="table gmisc_table">
-  <tbody>
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://wiki.centenary.org.au/download/attachments/150442594/docker_facebook_share.png?version=1&modificationDate=1580942055355&api=v2" width="3000">
-      </td>
-      <td style="padding-left:.75em;width:70%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><h2>
-          Install from Docker
-        </h2></p>
-        <p>
-          Install a 'container' version of Spectre using Docker, that contains a pre-built environment with all the required packages necessary to use Spectre.
-        </p>
-        <a href="https://wiki.centenary.org.au/x/F4hfCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
-            Install from Docker
-        </span></b></a>
-        <p> </p>
-      </td>
-      </tr>
-    </tbody>
-</table>
-
-<p> </p>
-
-
 
 <table class="table gmisc_table">
   <tbody>
