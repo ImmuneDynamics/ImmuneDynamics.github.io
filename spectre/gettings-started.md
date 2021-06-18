@@ -28,7 +28,7 @@ You can install Spectre directly using R and RStudio, or install a pre-built R e
         <p>
           Once you have installed R and RStudio, you can check out this
           <a href="https://wiki.centenary.org.au/x/MIBfCQ">tutorial</a>
-          .
+          to get familiar with using it.
         </p>
         <a href="https://cran.r-project.org/mirrors.html" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Download R
