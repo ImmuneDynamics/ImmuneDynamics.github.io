@@ -77,7 +77,11 @@ permalink: /spectre/getting-started/
           Install Spectre package in R (from Github)
         </h2></p>
         <p>
-          Instructions for install and updating Spectre from Github (current default choice) is described below on this page.
+          Once you have installed R and RStudio, the instructions for install and updating Spectre from Github (current default choice) is described below on this page. If you are unfamiliar with using R or RStudio, first check out this
+          <a href="https://wiki.centenary.org.au/x/MIBfCQ">
+            tutorial
+          </a>
+          .
         </p>
         <a href="https://wiki.centenary.org.au/x/7-kiCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Install from Github
