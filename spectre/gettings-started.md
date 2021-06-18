@@ -215,7 +215,7 @@ Please note: the original functions and workflows for spatial analysis from **Sp
           A simple workflow (with worked example) using a single R script (or single FlowJo workspace) to run clustering/dimensionality reduction, make plots, and perform some limited quantitative/statistical analysis. No batch alignment steps included.
         </p>
         <a href="https://wiki.centenary.org.au/x/4C8MCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
-            USING Spectre (in R)
+            Simple discovery workflow (in R)
         </span></b></a>
         <p> </p>
       </td>
