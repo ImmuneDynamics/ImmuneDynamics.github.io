@@ -25,11 +25,6 @@ You can install Spectre directly using R and RStudio, or install a pre-built R e
           <a href="https://rstudio.com/">https://rstudio.com/</a> 
           and go to download. 
         </p>
-        <p>
-          Once you have installed R and RStudio, you can check out this
-          <a href="https://wiki.centenary.org.au/x/MIBfCQ">tutorial</a>
-          to get familiar with using it.
-        </p>
         <a href="https://cran.r-project.org/mirrors.html" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Download R
         </span></b></a>
@@ -37,7 +32,11 @@ You can install Spectre directly using R and RStudio, or install a pre-built R e
         <a href="https://rstudio.com/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Download RStudio
         </span></b></a>
-         |
+         <p>
+          Once you have installed R and RStudio, you can check out this
+          <a href="https://wiki.centenary.org.au/x/MIBfCQ">tutorial</a>
+          to get familiar with using it.
+        </p>
         <a href="https://wiki.centenary.org.au/x/MIBfCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             R & RStudio tutorial
         </span></b></a>
