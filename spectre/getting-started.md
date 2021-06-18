@@ -223,6 +223,24 @@ Please note: the original functions and workflows for spatial analysis from **Sp
 <table class="table gmisc_table">
   <tbody>
     <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2021-2-21_18-50-20.png?version=1&modificationDate=1613893820633&api=v2" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:65%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b>Spectre tutorials</b></p>
+        <p>Here we provide tutorials and other worked examples for further education on Spectre and computational analysis more broadly.</p>
+          <a href="https://immunedynamics.github.io/spectre/tutorials/"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<p> </p>
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
           <img src="https://wiki.centenary.org.au/download/attachments/150442594/GitHub-Mark.png?version=1&modificationDate=1580941974093&api=v2" width="3000">
       </td>
