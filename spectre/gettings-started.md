@@ -213,16 +213,12 @@ Please note: the original functions and workflows for spatial analysis from **Sp
           Simple discovery workflow
         </h2></p>
         <p>
-        <br />
-        <br />
-        <p>
           Once you have completed the introductory Spectre tutorial, you can get started with analyis using the 
           <a href="https://wiki.centenary.org.au/x/4C8MCQ" target="_blank" rel="noopener noreferrer">simple discovery workflow</a>.
           Alternatively, you can check out our 
           <a href="https://wiki.centenary.org.au/x/mYGoBw" target="_blank" rel="noopener noreferrer">guide</a>
           for replicating Spectre's analysis workflow in 
           <a href="https://wiki.centenary.org.au/x/mYGoBw" target="_blank" rel="noopener noreferrer">FlowJo</a>.
-        </p>
         </p>
         <a href="https://wiki.centenary.org.au/x/4C8MCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Simple discovery workflow (in R)
