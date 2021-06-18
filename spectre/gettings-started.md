@@ -26,6 +26,10 @@ permalink: /spectre/getting-started/
         <a href="https://rstudio.com/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Download RStudio
         </span></b></a>
+         |
+        <a href="https://wiki.centenary.org.au/x/MIBfCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+            R & RStudio tutorial
+        </span></b></a>
         <p> </p>
       </td>
       </tr>
@@ -70,7 +74,7 @@ permalink: /spectre/getting-started/
       </td>
       <td style="padding-left:.75em;width:70%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><h2>
-          Install Spectre (from Github)
+          Install Spectre package in R (from Github)
         </h2></p>
         <p>
           Instructions for install and updating Spectre from Github (current default choice) is described below on this page.
