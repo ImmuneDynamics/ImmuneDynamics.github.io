@@ -4,7 +4,7 @@ title: Getting started
 permalink: /spectre/getting-started/
 ---
 
-## Install Spectre with R and RStudio
+## Option 1: Install Spectre with R and RStudio
 
 <table class="table gmisc_table">
   <tbody>
@@ -105,7 +105,7 @@ Please note: the original functions and workflows for spatial analysis from **Sp
 
 
 
-## Install Spectre using Docker
+## Option 2: Install Spectre using Docker
 
 <table class="table gmisc_table">
   <tbody>
