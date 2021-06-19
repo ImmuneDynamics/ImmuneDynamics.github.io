@@ -47,6 +47,7 @@ You can install Spectre directly using R and RStudio, or install a pre-built R e
 <p> </p>
 
 
+<!--
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -71,7 +72,7 @@ You can install Spectre directly using R and RStudio, or install a pre-built R e
 
 
 <p> </p>
-
+-->
 
 <table class="table gmisc_table">
   <tbody>
