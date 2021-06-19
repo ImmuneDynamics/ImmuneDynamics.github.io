@@ -85,7 +85,7 @@ You can install Spectre directly using R and RStudio, or install a pre-built R e
       </td>
       <td style="padding-left:.75em;width:70%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><h2>
-          Install Spectre package in R (from Github)
+          Installing and updating Spectre package from Github
         </h2></p>
         <p>
           Once you have installed R and RStudio, the instructions for install and updating Spectre from Github (current default choice) is described below on this page. If you are unfamiliar with using R or RStudio, first check out this
