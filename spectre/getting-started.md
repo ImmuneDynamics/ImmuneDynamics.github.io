@@ -19,17 +19,13 @@ You can install Spectre directly using R and RStudio, or install a pre-built R e
           Install R and RStudio
         </h2></p>
         <p>
-          Spectre is a software package in 'R'. We recommend interacting with Spectre and the R code via RStudio. Download the latest version of R by visiting
-          <a href="https://cran.r-project.org/mirrors.html">https://cran.r-project.org/mirrors.html</a>
-          and selecting a mirror to download R. Download the latest version of R Studio by visiting 
-          <a href="https://rstudio.com/">https://www.rstudio.com/products/rstudio/</a> 
-          and go to download. 
+          Spectre is a software package in 'R'. We recommend interacting with Spectre and the R code via RStudio. Download the latest version of R and R Studio by visiting the links below.
         </p>
         <a href="https://cran.r-project.org/mirrors.html" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
-            Download R
+            Download R (CRAN)
         </span></b></a>
          | 
-        <a href="https://rstudio.com/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+        <a href="https://www.rstudio.com/products/rstudio" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Download RStudio
         </span></b></a>
         <br />
