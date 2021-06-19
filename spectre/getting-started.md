@@ -25,7 +25,7 @@ You can install Spectre directly using R and RStudio, or install a pre-built R e
             Download R (CRAN)
         </span></b></a>
          | 
-        <a href="https://www.rstudio.com/products/rstudio" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+        <a href="https://www.rstudio.com/products/rstudio/download/#download" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Download RStudio
         </span></b></a>
         <br />
