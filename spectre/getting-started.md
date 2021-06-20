@@ -4,7 +4,7 @@ title: Getting started
 permalink: /spectre/getting-started/
 ---
 
-You can install Spectre directly [using R and RStudio](), or install a pre-built R environment containing Spectre [using Docker](). 
+You can install Spectre directly **using R and RStudio**, or install a pre-built R environment containing Spectre **using Docker** (this is a good option if you have trouble installing Spectre directly with R/RStudio. 
 
 ## Option 1 - Install Spectre with R and RStudio
 
