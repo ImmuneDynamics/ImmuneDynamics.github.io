@@ -102,7 +102,7 @@ You can install Spectre directly **using R and RStudio**, or install a pre-built
 
 <p> </p>
 
-Please note: the original functions and workflows for spatial analysis from **SpectreMAP** have now been directly incorporated in **Spectre v0.5.0**.
+Please note: the original functions and workflows for spatial analysis from **SpectreMAP** have now been directly incorporated in **Spectre v0.5.0** and above.
 
 <br />
 
@@ -141,7 +141,7 @@ Please note: the original functions and workflows for spatial analysis from **Sp
 
 <p> </p>
 
-Please note: the original functions and workflows for spatial analysis from **SpectreMAP** have now been directly incorporated in **Spectre v0.5.0**.
+Please note: the original functions and workflows for spatial analysis from **SpectreMAP** have now been directly incorporated in **Spectre v0.5.0** and above.
 
 <br/>
 
