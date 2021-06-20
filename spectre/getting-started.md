@@ -132,6 +132,8 @@ Please note: the original functions and workflows for spatial analysis from **Sp
             Install from Docker
         </span></b></a>
         <p> </p>
+        You can see the list of versions available via Docker <a href="https://hub.docker.com/r/immunedynamics/spectre/tags">at this link</a>.
+        <p> </p>
       </td>
       </tr>
     </tbody>
