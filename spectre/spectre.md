@@ -22,7 +22,7 @@ For more information on Spectre, check out the '[about Spectre](https://immunedy
 
 ---
 
-**Current version**: [```v0.5.4```](https://github.com/ImmuneDynamics/Spectre/releases)
+**[See current version](https://github.com/ImmuneDynamics/Spectre/releases)**
 
 [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/akhvb8wub6d6xhtd?svg=true)](https://ci.appveyor.com/project/tomashhurst/spectre)
 
