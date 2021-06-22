@@ -6,7 +6,7 @@ permalink: /thomas-ashhurst/publications/
 
 ![Publications](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Publication%202.png)
 
-My publications consist of [1 book](https://immunedynamics.io/thomas-ashhurst/publications/#books), [1 pre-print](https://immunedynamics.io/thomas-ashhurst/publications/#co-author-publications), and [23 published articles](https://immunedynamics.io/thomas-ashhurst/publications/#lead-or-co-lead-author), with [505 citations](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) since 2012 and an [h-index of 9](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) (via Google Scholar). These include [1 co-lead editor](https://immunedynamics.io/thomas-ashhurst/publications/#books) book, [7 lead or co-lead author](https://immunedynamics.io/thomas-ashhurst/publications/#lead-or-co-lead-author) publications, and [4 co-supervising author](https://immunedynamics.io/thomas-ashhurst/publications/#co-supervising) publications; with **2 corresponding author publications**. Additionally, I have published [1 protocol](https://immunedynamics.io/thomas-ashhurst/publications/#protocols) with [protocols.io](https://www.protocols.io/) and [1 newsletter](https://immunedynamics.io/thomas-ashhurst/publications/#newsletters) article with the [Australia and New Zealand Society for Immunology](https://www.immunology.org.au/). Online publication lists can be found on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date),
+My publications consist of [1 book](https://immunedynamics.io/thomas-ashhurst/publications/#books), [2 pre-prints](https://immunedynamics.io/thomas-ashhurst/publications/#co-author-publications), and [23 published articles](https://immunedynamics.io/thomas-ashhurst/publications/#lead-or-co-lead-author), with [540 citations](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) since 2012 and an [h-index of 11](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) (via Google Scholar). These include [1 co-lead editor](https://immunedynamics.io/thomas-ashhurst/publications/#books) book, [7 lead or co-lead author](https://immunedynamics.io/thomas-ashhurst/publications/#lead-or-co-lead-author) publications, and [5 co-supervising author](https://immunedynamics.io/thomas-ashhurst/publications/#co-supervising) publications; with **2 corresponding author publications**. Additionally, I have published [1 protocol](https://immunedynamics.io/thomas-ashhurst/publications/#protocols) with [protocols.io](https://www.protocols.io/) and [1 newsletter](https://immunedynamics.io/thomas-ashhurst/publications/#newsletters) article with the [Australia and New Zealand Society for Immunology](https://www.immunology.org.au/). Online publication lists can be found on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date),
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="15"> [Google Scholar](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en),
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ORCID_iD.svg" alt="Logo" width="15"> [ORCID](https://orcid.org/0000-0001-7269-7773),
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/b5544b7d0236876ce33e51e6c8b5eb3e6ef55e84/custom_SVG/Loop.svg" alt="Logo" width="15"> [Loop](https://loop.frontiersin.org/people/241397),
@@ -31,7 +31,7 @@ HM McGuire\*, **TM Ashhurst**\* (eds). 2019. [Mass Cytometry: Methods and Protoc
 
 This book details a compilation of up-to-date and cutting-edge protocols in mass cytometry. Chapters guide readers through setting up a facility, panel design and reagent preparation, sample preparation, specific applications, and data analysis. Written in the highly successful Methods in Molecular Biology series format, chapters include introductions to their respective topics, lists of the necessary materials and reagents, step-by-step, readily reproducible laboratory protocols, and tips on troubleshooting and avoiding known pitfalls. Authoritative and cutting-edge, Mass Cytometry: Methods and Protocols aims to ensure successful results in the further study of this vital field.
 
-'Mass Cytometry: Methods and Protocols' has been downloaded over [45,000 times](https://link.springer.com/book/10.1007/978-1-4939-9454-0). Protocols provided in this book have been cited in a wide variety of applications, including COVID-19 ([Rodriguez et al. 2020](https://doi.org/10.1016/j.xcrm.2020.100078), [Koutsakos et al. 2021](https://doi.org/10.1016/j.xcrm.2021.100208)).
+'Mass Cytometry: Methods and Protocols' has been downloaded over [50,000 times](https://link.springer.com/book/10.1007/978-1-4939-9454-0) and cited [61 times](https://link.springer.com/book/10.1007/978-1-4939-9454-0). Protocols provided in this book have been cited in a wide variety of applications, including COVID-19 ([Rodriguez et al. 2020](https://doi.org/10.1016/j.xcrm.2020.100078), [Koutsakos et al. 2021](https://doi.org/10.1016/j.xcrm.2021.100208)).
 
 <br />
 
@@ -150,6 +150,18 @@ R Salomon\*, C Hall\*, **TM Ashhurst**\* (2019). Cytometry in the Era of the Hum
 ## Co-supervising
 
 ---
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://pbs.twimg.com/media/E3fVnu9VgAo9BYl?format=jpg&name=4096x4096" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+GH Putri, J Chung, DN Edwards, F Marsh-Wakefield, S Dervish, I Koprinska, NJC King, **TM Ashhurst**, MN Read. 2021. [TrackSOM: mapping immune response dynamics through sequential clustering of time- and disease-course single-cell cytometry data](https://www.biorxiv.org/content/10.1101/2021.06.08.447468v1). bioRxiv (pre-print).
+
+<br />
 
 <div class='row'>
     <div class="image">

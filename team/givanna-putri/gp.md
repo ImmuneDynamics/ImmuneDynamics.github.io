@@ -29,6 +29,7 @@ She is extremely interested in inter-disciplinary research, specifically in usin
 **Contact info**
 
 &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/EmailSVG.svg" alt="Email logo" width="20"> Email: [givanna.haryonoputri@sydney.edu.au](mailto:givanna.haryonoputri@sydney.edu.au) <br/>
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/TwitterSVG.svg" alt="Twitter logo" width="20"> Twitter: [@Givanna90](https://twitter.com/Givanna90) <br/>
 
 **Sites and academic profiles**
 
