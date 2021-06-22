@@ -31,6 +31,7 @@ Spectre enables the analysis of high-dimensional imaging data, including data ge
 <br />
 
 Please note: the original functions and workflows from **SpectreMAP** have now been directly incorporated in Spectre [v0.5.0 and above](https://github.com/ImmuneDynamics/Spectre/releases).
+
 <br />
 
 
