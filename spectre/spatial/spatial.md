@@ -40,7 +40,7 @@ Please note: the original functions and workflows from **SpectreMAP** have now b
 
 
 
-## Initial visualisation, TIFF export, and cell segmentation
+## Initial visualisation and TIFF export
 
 ---
 
@@ -65,7 +65,17 @@ Below we provide instructions for initial image visualisation and TIFF export us
     </tbody>
 </table>
 
+<p> </p>
+
 <br />
+
+
+
+
+
+## Cell segmentation
+
+---
 
 Once TIFF files have been exported using the approaches above, a number of cell segmentation approaches can be applied. The [simple nuclear expansion segmentation](https://wiki.centenary.org.au/x/GzrDCw) approach using CellProfiler is straightforward and involves few moving parts. The advanced [multicut segmentation](https://wiki.centenary.org.au/x/fCnDCw) approach using Ilastik is more complex, but extremely versatile, and faciltates regional segmentation as well. In addition to these primary segmentation approaches, we also provide a modified version of the original [Bodenmiller lab segmentation approach](https://wiki.centenary.org.au/x/kB-mCw) which uses MCD files directly.
 
