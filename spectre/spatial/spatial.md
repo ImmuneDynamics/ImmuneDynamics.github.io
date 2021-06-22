@@ -4,6 +4,8 @@ title: Spatial analysis of high-dimensional imaging data using Spectre
 permalink: /spectre/spatial/
 ---
 
+<p> </p>
+
 ## Overview
 
 ---
