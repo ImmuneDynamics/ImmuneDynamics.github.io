@@ -88,13 +88,13 @@ Once TIFF files have been exported using the approaches above, a number of cell 
 <!-- THIRD ROW: Image --> 
     <tr>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img src="https://wiki.centenary.org.au/download/thumbnails/188913604/image2021-2-24_14-38-47.png?version=1&modificationDate=1614305624125&api=v2" width="3000" style="padding-top: 5px; padding-left: 30px; padding-right: 30px">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Segmentation/Basic.png?raw=true" width="3000" style="padding-top: 5px; padding-left: 30px; padding-right: 30px">
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <img src="https://wiki.centenary.org.au/download/attachments/188913604/image2021-2-24_14-38-20.png?version=1&modificationDate=1614305624416&api=v2" width="3000" style="padding-top: 5px">
+          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Segmentation/Multicut.png?raw=true" width="3000" style="padding-top: 5px">
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img src="https://wiki.centenary.org.au/download/attachments/188913604/image2021-2-24_14-37-49.png?version=1&modificationDate=1614305624346&api=v2" width="3000" style="padding-top: 5px">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Segmentation/Modified%20bodenmiller.png?raw=true" width="3000" style="padding-top: 5px">
         </td>
       </tr>
 <!-- FOURTH ROW: Description --> 
