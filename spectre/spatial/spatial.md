@@ -8,8 +8,6 @@ permalink: /spectre/spatial/
 
 ## Overview
 
-Spectre enables the analysis of high-dimensional imaging data, including data generated using Fluidigm’s Hyperion Imaging Mass Cytometer (IMC). Our current workflows support a basic (using CellProfiler) or comprehensive (using Ilastik) cell and region segmentation approach, followed by cellular and spatial analysis using FlowJo or Spectre (in R). **Please note**: the original functions and workflows from **SpectreMAP** have now been directly incorporated in Spectre [v0.5.0 and above](https://github.com/ImmuneDynamics/Spectre/releases).
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -19,7 +17,7 @@ Spectre enables the analysis of high-dimensional imaging data, including data ge
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Overview of cell segmentation and spatial analysis with Spectre</b></p>
         <p>
-          Here we provide background information on methods of analysing IMC data.
+          Spectre enables the analysis of high-dimensional imaging data, including data generated using Fluidigm’s Hyperion Imaging Mass Cytometer (IMC). Our current workflows support a basic (using CellProfiler) or comprehensive (using Ilastik) cell and region segmentation approach, followed by cellular and spatial analysis using FlowJo or Spectre (in R). Here we provide background information on methods of analysing IMC data.
         </p>
           <a href="https://wiki.centenary.org.au/x/_pxCCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
@@ -28,7 +26,10 @@ Spectre enables the analysis of high-dimensional imaging data, including data ge
     </tbody>
 </table>
 
+ **Please note**: the original functions and workflows from **SpectreMAP** have now been directly incorporated in Spectre [v0.5.0 and above](https://github.com/ImmuneDynamics/Spectre/releases).
+
 <br />
+
 
 
 
