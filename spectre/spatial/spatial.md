@@ -4,26 +4,22 @@ title: Spatial analysis of high-dimensional imaging data using Spectre
 permalink: /spectre/spatial/
 ---
 
-![IMC](https://wiki.centenary.org.au/download/attachments/172228252/image2021-2-25_22-32-15.png?version=1&modificationDate=1614252735692&api=v2)
+<p> </p>
 
-Please note: the original functions and workflows from **SpectreMAP** have now been directly incorporated in [Spectre v0.5.0](https://immunedynamics.io/spectre/getting-started/).
-
-<br />
-
-## Overview of cell segmentation and spatial analysis with Spectre
+## Overview
 
 ---
 
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:40%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
           <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/research/Spatial.png" width="3000">
       </td>
-      <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>Analysis overview</b></p>
+      <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b>Overview of cell segmentation and spatial analysis with Spectre</b></p>
         <p>
-          Spectre enables the analysis of high-dimensional imaging data, including data generated using Fluidigm’s Hyperion Imaging Mass Cytometer (IMC). Our current workflows support a basic (using CellProfiler) or comprehensive (using Ilastik) cell and region segmentation approach, followed by cellular and spatial analysis using FlowJo or R. Here we provide background information on methods of analysing IMC data.
+          Spectre enables the analysis of high-dimensional imaging data, including data generated using Fluidigm’s Hyperion Imaging Mass Cytometer (IMC). Our current workflows support a basic (using CellProfiler) or comprehensive (using Ilastik) cell and region segmentation approach, followed by cellular and spatial analysis using FlowJo or Spectre (in R). Here we provide background information on methods of analysing IMC data.
         </p>
           <a href="https://wiki.centenary.org.au/x/_pxCCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
@@ -32,19 +28,19 @@ Please note: the original functions and workflows from **SpectreMAP** have now b
     </tbody>
 </table>
 
+ **Please note**: the original functions and workflows from **SpectreMAP** have now been directly incorporated in Spectre [v0.5.0 and above](https://github.com/ImmuneDynamics/Spectre/releases).
+
 <br />
-<br />
 
 
 
 
 
-## Initial visualisation, TIFF export, and cell segmentation
+
+
+## Initial visualisation and TIFF export
 
 ---
-
-Below we provide instructions for initial image visualisation and TIFF export using [MCD Viewer](https://immunedynamics.io/spectre/spatial/visualisation/) or [HistoCat++](https://immunedynamics.io/spectre/spatial/visualisation/).
-
 
 <table class="table gmisc_table">
   <tbody>
@@ -55,7 +51,11 @@ Below we provide instructions for initial image visualisation and TIFF export us
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Image visualisation and TIFF export</b></p>
         <p>
-          Here we provide links for common software options for image visualisation, including MCD Viewer and HistoCat++. From here, TIFF files can be exported for use in our segmentation approaches.
+          Here we provide instructions for initial image visualisation and TIFF export usiing
+          <a href="https://immunedynamics.io/spectre/spatial/visualisation/">MCD Viewer</a>
+          or 
+          <a href="https://immunedynamics.io/spectre/spatial/visualisation/">HistoCat++</a>. 
+          From here, TIFF files can be exported for use in our segmentation approaches.
         </p>
           <a href="https://immunedynamics.io/spectre/spatial/visualisation/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
@@ -64,7 +64,17 @@ Below we provide instructions for initial image visualisation and TIFF export us
     </tbody>
 </table>
 
+<p> </p>
+
 <br />
+
+
+
+
+
+## Cell segmentation
+
+---
 
 Once TIFF files have been exported using the approaches above, a number of cell segmentation approaches can be applied. The [simple nuclear expansion segmentation](https://wiki.centenary.org.au/x/GzrDCw) approach using CellProfiler is straightforward and involves few moving parts. The advanced [multicut segmentation](https://wiki.centenary.org.au/x/fCnDCw) approach using Ilastik is more complex, but extremely versatile, and faciltates regional segmentation as well. In addition to these primary segmentation approaches, we also provide a modified version of the original [Bodenmiller lab segmentation approach](https://wiki.centenary.org.au/x/kB-mCw) which uses MCD files directly.
 
@@ -88,13 +98,13 @@ Once TIFF files have been exported using the approaches above, a number of cell 
 <!-- THIRD ROW: Image --> 
     <tr>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img src="https://wiki.centenary.org.au/download/thumbnails/188913604/image2021-2-24_14-38-47.png?version=1&modificationDate=1614305624125&api=v2" width="3000" style="padding-top: 5px; padding-left: 30px; padding-right: 30px">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Segmentation/Basic.png?raw=true" width="3000" style="padding-top: 5px; padding-left: 30px; padding-right: 30px">
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <img src="https://wiki.centenary.org.au/download/attachments/188913604/image2021-2-24_14-38-20.png?version=1&modificationDate=1614305624416&api=v2" width="3000" style="padding-top: 5px">
+          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Segmentation/Multicut.png?raw=true" width="3000" style="padding-top: 5px">
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img src="https://wiki.centenary.org.au/download/attachments/188913604/image2021-2-24_14-37-49.png?version=1&modificationDate=1614305624346&api=v2" width="3000" style="padding-top: 5px">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Segmentation/Modified%20bodenmiller.png?raw=true" width="3000" style="padding-top: 5px">
         </td>
       </tr>
 <!-- FOURTH ROW: Description --> 
