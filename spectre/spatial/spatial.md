@@ -6,8 +6,6 @@ permalink: /spectre/spatial/
 
 ## Overview of cell segmentation and spatial analysis with Spectre
 
----
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
