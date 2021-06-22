@@ -14,7 +14,7 @@ permalink: /spectre/spatial/visualisation/
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://wiki.centenary.org.au/download/attachments/188913846/image2020-5-25_13-43-59.png?version=1&modificationDate=1614305824506&api=v2" width="3000">
+          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/IMC%20viz/image2020-5-25_13-43-59.png?raw=true" width="3000">
       </td>
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>MCD Viewer (windows only)</b></p>
@@ -38,7 +38,7 @@ permalink: /spectre/spatial/visualisation/
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://wiki.centenary.org.au/download/attachments/188913846/image2021-2-24_11-15-14.png?version=1&modificationDate=1614305824681&api=v2" width="3000">
+          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/IMC%20viz/image2021-2-24_11-15-14.png?raw=true" width="3000">
       </td>
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>HistoCat++ (mac only)</b></p>
