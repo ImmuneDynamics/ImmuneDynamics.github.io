@@ -8,6 +8,8 @@ permalink: /spectre/spatial/
 
 ## Overview
 
+---
+
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -40,9 +42,6 @@ permalink: /spectre/spatial/
 
 ---
 
-Below we provide instructions for initial image visualisation and TIFF export using [MCD Viewer](https://immunedynamics.io/spectre/spatial/visualisation/) or [HistoCat++](https://immunedynamics.io/spectre/spatial/visualisation/).
-
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -52,7 +51,11 @@ Below we provide instructions for initial image visualisation and TIFF export us
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Image visualisation and TIFF export</b></p>
         <p>
-          Here we provide links for common software options for image visualisation, including MCD Viewer and HistoCat++. From here, TIFF files can be exported for use in our segmentation approaches.
+          Here we provide instructions for initial image visualisation and TIFF export usiing
+          <a href="https://immunedynamics.io/spectre/spatial/visualisation/">MCD Viewer</a>
+          or 
+          <a href="https://immunedynamics.io/spectre/spatial/visualisation/">HistoCat++</a>. 
+          From here, TIFF files can be exported for use in our segmentation approaches.
         </p>
           <a href="https://immunedynamics.io/spectre/spatial/visualisation/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
