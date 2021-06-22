@@ -19,7 +19,7 @@ Spectre enables the analysis of high-dimensional imaging data, including data ge
           <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/research/Spatial.png" width="3000">
       </td>
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>Overview of cell segmentation and spatial analysis/b></p>
+        <p><b>Overview of cell segmentation and spatial analysis</b></p>
         <p>
           Here we provide background information on methods of analysing IMC data.
         </p>
