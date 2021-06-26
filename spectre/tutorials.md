@@ -19,7 +19,7 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Cytometry in the high-dimensional era
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Analysing your high-dimensional data
         </div>
       </td>
     </tr>
