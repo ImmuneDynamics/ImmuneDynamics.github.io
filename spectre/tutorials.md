@@ -34,9 +34,9 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
       </tr>
 <!-- FOURTH ROW: Description --> 
       <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Our recent editorial in <a>Nature Immunology</a> where we discuss frequently encountered caveats during high-dimensional cytometry data analysis and aim to provide a basic framework and recommendations for reporting and analyzing these data sets. 
+          <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Our recent editorial in <a href="">Nature Immunology</a> where we discuss frequently encountered caveats during high-dimensional cytometry data analysis and aim to provide a basic framework and recommendations for reporting and analyzing these data sets. 
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Our open access publication in <a>Immunology and Cell Biology</a> where we provide considerations for new and experienced users to design and carry out high‐dimensional experiments to maximize quality data collection.
+          <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Our open access publication in <a href="">Immunology and Cell Biology</a> where we provide considerations for new and experienced users to design and carry out high‐dimensional experiments to maximize quality data collection.
           </td>
      </tr>
 <!-- FIFTH ROW: Go to page --> 
