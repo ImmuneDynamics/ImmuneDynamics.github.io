@@ -19,6 +19,7 @@ among others; in prestigious journals such as [Cell](https://doi.org/10.1016/j.c
 
 *Select publications*
 
+- Putri et al, 2021, [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.08.447468v1)
 - Opzoomer et al, 2021, [eLife](https://elifesciences.org/articles/62915)
 - Vick et al, 2021, [medRxiv](https://www.medrxiv.org/content/10.1101/2021.03.25.21254376v1) (pre-print)
 - Spiteri et al, 2021, [Research Square](https://www.researchsquare.com/article/rs-388801/v1) (pre-print)
