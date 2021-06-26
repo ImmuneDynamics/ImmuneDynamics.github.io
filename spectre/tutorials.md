@@ -26,9 +26,11 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
 <!-- THIRD ROW: Image --> 
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <img src="https://media.springernature.com/full/nature-cms/uploads/product/ni/header-ce329d5b570f961b651db20c364a103a.svg" width="3000" style="padding-left: 20px; padding-right: 20px; padding-top: 5px">  
           <img src="" width="3000" style="padding-left: 20px; padding-right: 20px; padding-top: 5px">
       </td>
        <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://onlinelibrary.wiley.com/pb-assets/journal-banners/14401711-1591846820847.jpg" width="3000" style="padding-top: 5px">
             <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/Mitchell2021.png?raw=true" width="3000" style="padding-top: 5px">
         </td>
       </tr>
