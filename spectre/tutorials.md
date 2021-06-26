@@ -15,30 +15,30 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
 <!-- FIRST ROW: TITLE --> 
     <tr style="border-top:1px solid grey">
       <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Cytometry in the high-dimensional era
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Planning your high-dimensional experiments
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Planning your high-dimensional experiments
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Cytometry in the high-dimensional era
         </div>
       </td>
     </tr>
 <!-- THIRD ROW: Image --> 
     <tr>
+       <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://onlinelibrary.wiley.com/pb-assets/journal-banners/14401711-1591846820847.jpg" width="3000" style="padding-top: 5px">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/Mitchell2021.png?raw=true" width="3000" style="padding-top: 5px">
+       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
           <img src="https://media.springernature.com/full/nature-cms/uploads/product/ni/header-ce329d5b570f961b651db20c364a103a.svg" width="3000" style="padding-left: 20px; padding-right: 20px; padding-top: 5px">  
           <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/development/spectre/Screen%20Shot%202021-06-26%20at%2012.48.26%20pm.png?raw=true" width="3000" style="padding-left: 20px; padding-right: 20px; padding-top: 5px">
       </td>
-       <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img src="https://onlinelibrary.wiley.com/pb-assets/journal-banners/14401711-1591846820847.jpg" width="3000" style="padding-top: 5px">
-            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/Mitchell2021.png?raw=true" width="3000" style="padding-top: 5px">
-        </td>
       </tr>
 <!-- FOURTH ROW: Description --> 
       <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Our recent editorial in <a href="">Nature Immunology</a> where we discuss frequently encountered caveats during high-dimensional cytometry data analysis and aim to provide a basic framework and recommendations for reporting and analyzing these data sets. 
-          </td>
           <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Our open access publication in <a href="">Immunology and Cell Biology</a> where we provide considerations for new and experienced users to design and carry out high‐dimensional experiments to maximize quality data collection.
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Our recent editorial in <a href="">Nature Immunology</a> where we discuss frequently encountered caveats during high-dimensional cytometry data analysis and aim to provide a basic framework and recommendations for reporting and analyzing these data sets. 
           </td>
      </tr>
 <!-- FIFTH ROW: Go to page --> 
@@ -46,14 +46,14 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
           <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <a href="" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">SEE PAPER</span></b></a>
+                      <a href="https://doi.org/10.1111/imcb.12456" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">SEE PAPER</span></b></a>
                   </p>
               </div>
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <a href="https://doi.org/10.1111/imcb.12456" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">SEE PAPER</span></b></a>
+                      <a href="" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">SEE PAPER</span></b></a>
                   </p>
               </div>
           </td>
