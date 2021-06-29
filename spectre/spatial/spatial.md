@@ -128,7 +128,7 @@ Once TIFF files have been exported using the approaches above, a number of cell 
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Simple spatial analysis with Spectre</b></p>
         <p>
-          This is the simplest form of cellular segmentation. The nuclear signal is identified, and the boundary is expanded outwards by a certain number of pixels. This then becomes the boundary of the cell mask. Although a very simplistic approach, only nuclear signal is required.
+          A simple analysis workflow in Spectre, using simple cell masks.
         </p>
           <a href="https://wiki.centenary.org.au/x/QHbDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
@@ -148,7 +148,7 @@ Once TIFF files have been exported using the approaches above, a number of cell 
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>FCS conversion and analysis in FlowJo</b></p>
         <p>
-          This is the simplest form of cellular segmentation. The nuclear signal is identified, and the boundary is expanded outwards by a certain number of pixels. This then becomes the boundary of the cell mask. Although a very simplistic approach, only nuclear signal is required.
+          An analysis protocol to facilitate the creation of FCS files from IMC data and subsequent analysis using FlowJo.
         </p>
           <a href="https://wiki.centenary.org.au/x/RHbDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
@@ -182,7 +182,7 @@ A number of advanced cell segmentation and spatial analysis approaches can be to
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Advanced multicut boundary segmentation with Ilastik</b></p>
         <p>
-          ome IMC images contain extremely dense collections of cells, where cytoplasmic (and sometimes) nuclear signal from one cell is difficult to distinguish from another. In this protocol we describe boundary-based segmentation using the 'multi-cut' workflow in Ilastik.
+          Some IMC images contain extremely dense collections of cells, where cytoplasmic (and sometimes) nuclear signal from one cell is difficult to distinguish from another. In this protocol we describe boundary-based segmentation using the 'multi-cut' workflow in Ilastik.
         </p>
           <a href="https://wiki.centenary.org.au/x/fCnDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
