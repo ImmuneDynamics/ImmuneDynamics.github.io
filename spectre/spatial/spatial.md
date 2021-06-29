@@ -128,7 +128,7 @@ Once TIFF files have been exported using the approaches above, a number of cell 
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Simple spatial analysis with Spectre</b></p>
         <p>
-          A simple analysis workflow in Spectre, using simple cell masks.
+          A simple analysis workflow in R using Spectre, with simple cell masks.
         </p>
           <a href="https://wiki.centenary.org.au/x/QHbDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
@@ -222,7 +222,7 @@ A number of advanced cell segmentation and spatial analysis approaches can be to
           <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/spatial/Advanced.png?raw=true" width="3000">
       </td>
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>Advanced spatial analysis with Spectre (including region masks)</b></p>
+        <p><b>Advanced spatial analysis in R using Spectre (including region masks)</b></p>
         <p>
           A more advanced workflow in Spectre, incorporating cell type and region masks for enhanced spatial analysis.
         </p>
