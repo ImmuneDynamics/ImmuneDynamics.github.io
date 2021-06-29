@@ -12,7 +12,7 @@ Spectre enables the analysis of high-dimensional imaging data, including data ge
 
 ---
 
-Here we provide some helpful resources and protocols for getting started. **Please note**: the original functions and workflows from **SpectreMAP** have now been directly incorporated in Spectre [v0.5.0 and above](https://github.com/ImmuneDynamics/Spectre/releases).
+Here we provide some helpful resources and protocols for getting started. *Please note: the original functions and workflows from SpectreMAP have now been directly incorporated in Spectre [v0.5.0 and above](https://github.com/ImmuneDynamics/Spectre/releases).*
 
 <table class="table gmisc_table">
   <tbody>
