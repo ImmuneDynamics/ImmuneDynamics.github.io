@@ -4,15 +4,15 @@ title: Spatial analysis of high-dimensional imaging data using Spectre
 permalink: /spectre/spatial/
 ---
 
-Spectre enables the analysis of high-dimensional imaging data, including data generated using Fluidigm’s Hyperion Imaging Mass Cytometer (IMC). Our current workflows support a basic (using CellProfiler) or comprehensive (using Ilastik) cell and region segmentation approach, followed by cellular and spatial analysis using FlowJo or Spectre (in R). To get started, see our [installation instructions](https://immunedynamics.github.io/spectre/getting-started/), and then check out the protocols and workflows [below](https://immunedynamics.io/spectre/spatial/). **Please note**: the original functions and workflows from **SpectreMAP** have now been directly incorporated in Spectre [v0.5.0 and above](https://github.com/ImmuneDynamics/Spectre/releases).
+Spectre enables the analysis of high-dimensional imaging data, including data generated using Fluidigm’s Hyperion Imaging Mass Cytometer (IMC). Our current workflows support a basic (using CellProfiler) or comprehensive (using Ilastik) cell and region segmentation approach, followed by cellular and spatial analysis using FlowJo or Spectre (in R). 
 
 <br/>
 
-
-
 ## Getting started with high-dimensional spatial analysis
 
-Hre we provide some helpful resources and protocols for getting started.
+---
+
+Here we provide some helpful resources and protocols for getting started. **Please note**: the original functions and workflows from **SpectreMAP** have now been directly incorporated in Spectre [v0.5.0 and above](https://github.com/ImmuneDynamics/Spectre/releases).
 
 <table class="table gmisc_table">
   <tbody>
