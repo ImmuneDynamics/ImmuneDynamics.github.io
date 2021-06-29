@@ -8,7 +8,7 @@ Spectre enables the analysis of high-dimensional imaging data, including data ge
 
 <br/>
 
-## Getting started with high-dimensional spatial analysis
+## Getting started
 
 ---
 
