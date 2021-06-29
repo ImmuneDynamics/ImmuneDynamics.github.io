@@ -17,3 +17,7 @@ permalink: /spectre/new-protocol/
   ...
 </div>
 
+```
+dat <- run.flowsom()
+```
+
