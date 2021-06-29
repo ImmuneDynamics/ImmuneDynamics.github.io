@@ -4,6 +4,8 @@ title: High-dimensional (HD) analysis workshops
 permalink: /hdworkshops/
 ---
 
+---
+
 ![Analysis](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Clusters%20wide.png)
 
 <br/>
