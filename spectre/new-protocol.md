@@ -13,7 +13,7 @@ permalink: /spectre/new-protocol/
 </div>
 
 <!-- Page content -->
-<div class="main">
+<div class="protocolmain">
   ...
 </div>
 
