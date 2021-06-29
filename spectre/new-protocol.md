@@ -5,8 +5,12 @@ permalink: /spectre/new-protocol/
 ---
 
 <div id="content">
-  <div id="leftNEW"></div>
-  <div id="rightNEW"></div>
+  <div id="leftNEW">
+  Hi left
+  </div>
+  <div id="rightNEW">
+  Hi right
+  </div>
 </div>
 
 <!--<div class="flex">
