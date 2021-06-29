@@ -523,6 +523,25 @@ footer {
 }
 
 
+#content, html, body {
+    height: 98%;
+}
+#leftNEW {
+    float: left;
+    width: 50%;
+    background: red;
+    height: 100%;
+    overflow: scroll;
+}
+#rightNEW {
+    float: left;
+    width: 50%;
+    background: blue;
+    height: 100%;
+    overflow: scroll;
+}
+
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
