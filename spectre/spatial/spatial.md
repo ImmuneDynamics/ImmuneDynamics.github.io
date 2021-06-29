@@ -182,7 +182,7 @@ A number of advanced cell segmentation and spatial analysis approaches can be to
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Advanced multicut boundary segmentation with Ilastik</b></p>
         <p>
-          Some IMC images contain extremely dense collections of cells, where cytoplasmic (and sometimes) nuclear signal from one cell is difficult to distinguish from another. In this protocol we describe boundary-based segmentation using the 'multi-cut' workflow in Ilastik.
+          Some IMC images contain extremely dense collections of cells, where cytoplasmic (and sometimes) nuclear signal from one cell is difficult to distinguish from another. In this protocol we describe boundary-based segmentation using the 'multi-cut' workflow in Ilastik. Additional cell type and region masks can be included, which dramatically enhances analysis.
         </p>
           <a href="https://wiki.centenary.org.au/x/fCnDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
@@ -202,7 +202,7 @@ A number of advanced cell segmentation and spatial analysis approaches can be to
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Modified Bodenmiller segmentation protocol with Ilastik</b></p>
         <p>
-          In this approach, the user trains a classifier to identify and predict 'nuclear', 'cytoplasmic', or 'background' pixels. This can be used to create more comprehensive cell masks than can be achieved using simple pixel expansion methods. This is based on the Bodenmiller lab workflow described here.
+          In this approach, the user trains a classifier to identify and predict 'nuclear', 'cytoplasmic', or 'background' pixels. This can be used to create more comprehensive cell masks than can be achieved using simple pixel expansion methods. This is based on the Bodenmiller lab workflow described here. Additional cell type and region masks can be included, which dramatically enhances analysis.
         </p>
           <a href="https://wiki.centenary.org.au/x/kB-mCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
