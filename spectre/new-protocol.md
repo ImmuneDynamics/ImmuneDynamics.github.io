@@ -37,9 +37,9 @@ permalink: /spectre/new-protocol/
 </div>
 -->
 
-Run FlowSOM
+<!--Run FlowSOM
 
 ```
 dat <- run.flowsom()
 ```
-
+-->
