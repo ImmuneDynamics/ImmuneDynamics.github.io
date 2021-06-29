@@ -82,9 +82,6 @@ Spectre enables the analysis of high-dimensional imaging data, including data ge
 
 Once TIFF files have been exported using the approaches above, a number of cell segmentation and spatial analysis approaches can be applied. Here we detail our 'simple' segmentation and analysis approach, utilising a simple 'nuclear pixel expansion' approach to create a cell mask. Following segmentation, data can be analysed in Spectre (R) or exported as FCS for analysis in programs like FlowJo.
 
-
-#### Cell segmentation
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -103,10 +100,7 @@ Once TIFF files have been exported using the approaches above, a number of cell 
     </tbody>
 </table>
 
-<p> </p>
 <br />
-
-#### Spatial analysis
 
 Following cell segmentation, these workflows facilitate cellular and spatial analysis in R or FlowJo.
 
@@ -175,9 +169,7 @@ Following cell segmentation, these workflows facilitate cellular and spatial ana
 
 ---
 
-Once TIFF files have been exported using the approaches above, a number of cell segmentation and spatial analysis approaches can be applied. Here we detail our 'advanced' segmentation and analysis approach, utilising machine learning approaches to segmentation with Ilastik. Our primary segmentation approaches utilises Ilastik's 'multicut' module to facilitate boundary-based segmentation. We also include a modification of the original Bodenmiller lab segmentation approach. In both, additional segmentation steps can be incorporated, such as cell type classification and region segmentation. Subsequently, a more advanced spatial analysis workflow in Spectre can be performed.
-
-#### Cell segmentation
+Once TIFF files have been exported using the approaches above, a number of cell segmentation and spatial analysis approaches can be applied. Here we detail our 'advanced' segmentation and analysis approach, utilising machine learning approaches to segmentation with Ilastik. Our primary segmentation approaches utilises Ilastik's 'multicut' module to facilitate boundary-based segmentation. We also include a modification of the original Bodenmiller lab segmentation approach. In both, additional segmentation steps can be incorporated, such as cell type classification and region segmentation. 
 
 <table class="table gmisc_table">
   <tbody>
@@ -230,12 +222,13 @@ Once TIFF files have been exported using the approaches above, a number of cell 
     </tbody>
 </table>
 
-<p> </p>
+<br />
+
+#### Spatial analysis
 
 <br />
 
-
-#### Spatial analysis
+Following cell segmentation, a more advanced spatial analysis workflow in Spectre can be performed.
 
 <table class="table gmisc_table">
   <tbody>
