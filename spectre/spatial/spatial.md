@@ -10,8 +10,6 @@ Spectre enables the analysis of high-dimensional imaging data, including data ge
 
 ## Overview
 
----
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -41,8 +39,6 @@ Spectre enables the analysis of high-dimensional imaging data, including data ge
 
 
 ## Initial visualisation and TIFF export
-
----
 
 <table class="table gmisc_table">
   <tbody>
@@ -84,7 +80,7 @@ Once TIFF files have been exported using the approaches above, a number of cell 
 
 <br/>
 
-#### Cell segmentation
+### Cell segmentation
 
 <table class="table gmisc_table">
   <tbody>
@@ -106,7 +102,7 @@ Once TIFF files have been exported using the approaches above, a number of cell 
 
 <br />
 
-#### Spatial analysis
+### Spatial analysis
 
 Following cell segmentation, these workflows facilitate cellular and spatial analysis in R or FlowJo.
 
@@ -127,6 +123,8 @@ Following cell segmentation, these workflows facilitate cellular and spatial ana
       </tr>
     </tbody>
 </table>
+
+<p> </p>
 
 <table class="table gmisc_table">
   <tbody>
@@ -160,7 +158,7 @@ Once TIFF files have been exported using the approaches above, a number of cell 
 
 <br/>
 
-#### Cell segmentation
+### Cell segmentation
 
 <table class="table gmisc_table">
   <tbody>
@@ -179,6 +177,8 @@ Once TIFF files have been exported using the approaches above, a number of cell 
       </tr>
     </tbody>
 </table>
+
+<p> </p>
 
 <table class="table gmisc_table">
   <tbody>
@@ -200,7 +200,7 @@ Once TIFF files have been exported using the approaches above, a number of cell 
 
 <br/>
 
-#### Spatial analysis
+### Spatial analysis
 
 Following cell segmentation, a more advanced spatial analysis workflow in Spectre can be performed.
 
