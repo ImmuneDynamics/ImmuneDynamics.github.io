@@ -4,7 +4,12 @@ title: New protocol test
 permalink: /spectre/new-protocol/
 ---
 
-<div class="flex">
+<div id="content">
+  <div id="leftNEW"></div>
+  <div id="rightNEW"></div>
+</div>
+
+<!--<div class="flex">
   <nav>
 
     Hi
@@ -15,7 +20,7 @@ permalink: /spectre/new-protocol/
     Hi
     
   </div>
-</div>
+</div>-->
 
 
 <!-- Side navigation -->
