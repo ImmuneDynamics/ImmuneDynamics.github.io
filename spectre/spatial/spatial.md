@@ -154,7 +154,7 @@ Following cell segmentation, these workflows facilitate cellular and spatial ana
 
 ---
 
-Once TIFF files have been exported using the approaches above, a number of cell segmentation and spatial analysis approaches can be applied. Here we detail our 'advanced' segmentation and analysis approach, utilising machine learning approaches to segmentation with Ilastik. Our primary segmentation approaches utilises Ilastik's 'multicut' module to facilitate boundary-based segmentation. We also include a modification of the original Bodenmiller lab segmentation approach. In both, additional segmentation steps can be incorporated, such as cell type classification and region segmentation. 
+A number of advanced cell segmentation and spatial analysis approaches can be to high-dimensional imaging data. Here we detail our 'advanced' segmentation and analysis approach, utilising machine learning approaches to segmentation with Ilastik. Our primary segmentation approaches utilises Ilastik's 'multicut' module to facilitate boundary-based segmentation. We also include a modification of the original Bodenmiller lab segmentation approach. In both, additional segmentation steps can be incorporated, such as cell type classification and region segmentation. 
 
 <br/>
 
