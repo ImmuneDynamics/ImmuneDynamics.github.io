@@ -30,9 +30,10 @@ Spectre enables the analysis of high-dimensional imaging data, including data ge
     </tbody>
 </table>
 
+<p> </p>
 
 <br />
-
+<br />
 
 
 
@@ -68,25 +69,120 @@ Spectre enables the analysis of high-dimensional imaging data, including data ge
 <p> </p>
 
 <br />
+<br />
 
 
 
 
 
-## Cell segmentation
+
+## Simple segmentation and spatial analysis
 
 ---
 
-Once TIFF files have been exported using the approaches above, a number of cell segmentation approaches can be applied. The [simple nuclear expansion segmentation](https://wiki.centenary.org.au/x/GzrDCw) approach using CellProfiler is straightforward and involves few moving parts. The advanced [multicut segmentation](https://wiki.centenary.org.au/x/fCnDCw) approach using Ilastik is more complex, but extremely versatile, and faciltates regional segmentation as well. In addition to these primary segmentation approaches, we also provide a modified version of the original [Bodenmiller lab segmentation approach](https://wiki.centenary.org.au/x/kB-mCw) which uses MCD files directly.
+Once TIFF files have been exported using the approaches above, a number of cell segmentation and spatial analysis approaches can be applied. Here we detail our 'simple' segmentation and analysis approach, utilising a simple 'nuclear pixel expansion' approach to create a cell mask. Following segmentation, data can be analysed in Spectre (R) or exported as FCS for analysis in programs like FlowJo.
+
+
+#### Cell segmentation
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Segmentation/Basic.png?raw=true" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b>Simple segmentation using nuclear expansion with CellProfiler</b></p>
+        <p>
+          This is the simplest form of cellular segmentation. The nuclear signal is identified, and the boundary is expanded outwards by a certain number of pixels. This then becomes the boundary of the cell mask. Although a very simplistic approach, only nuclear signal is required.
+        </p>
+          <a href="https://wiki.centenary.org.au/x/GzrDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<p> </p>
+<br />
+
+#### Spatial analysis
+
+Following cell segmentation, these workflows facilitate cellular and spatial analysis in R or FlowJo.
 
 <table class="table gmisc_table">
   <tbody>
 <!-- FIRST ROW: TITLE --> 
     <tr style="border-top:1px solid grey">
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Segmentation option 1: simple nuclear expansion with CellProfiler
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">FCS conversion and analysis in FlowJo
+        </div>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Simple spatial analysis with Spectre
         </div>  
       </td>
+    </tr>
+<!-- THIRD ROW: Image --> 
+    <tr>
+        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://flowjowebsiteimages.s3-us-west-2.amazonaws.com/media/Solution%20Logos/flowjo-logo.png" width="3000" style="padding-top: 20px">
+        </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/spatial/Simple.png?raw=true" width="3000" style="padding-top: 5px">
+        </td>
+      </tr>
+<!-- FOURTH ROW: Description --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+            An analysis protocol to facilitate the creation of FCS files from IMC data and subsequent analysis using FlowJo.
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+            A simple analysis workflow in Spectre, using simple cell masks. 
+          </td>
+     </tr>
+<!-- FIFTH ROW: Go to page --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://wiki.centenary.org.au/x/RHbDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://wiki.centenary.org.au/x/QHbDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                  </p>
+              </div>
+          </td>
+      </tr>
+    </tbody>
+</table>
+
+<p> </p>
+
+<br />
+<br />
+
+
+
+
+
+
+## Advanced segmentation and spatial analysis
+
+---
+
+Once TIFF files have been exported using the approaches above, a number of cell segmentation and spatial analysis approaches can be applied. Here we detail our 'advanced' segmentation and analysis approach, utilising machine learning approaches to segmentation with Ilastik. Our primary segmentation approaches utilises Ilastik's 'multicut' module to facilitate boundary-based segmentation. We also include a modification of the original Bodenmiller lab segmentation approach. In both, additional segmentation steps can be incorporated, such as cell type classification and region segmentation. Subsequently, a more advanced spatial analysis workflow in Spectre can be performed.
+
+#### Cell segmentation
+
+<table class="table gmisc_table">
+  <tbody>
+<!-- FIRST ROW: TITLE --> 
+    <tr style="border-top:1px solid grey">
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Segmentation option 2: advanced multicut boundary segmentation with Ilastik
         </div>
@@ -99,9 +195,6 @@ Once TIFF files have been exported using the approaches above, a number of cell 
 <!-- THIRD ROW: Image --> 
     <tr>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Segmentation/Basic.png?raw=true" width="3000" style="padding-top: 5px; padding-left: 30px; padding-right: 30px">
-        </td>
-        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
           <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Segmentation/Multicut.png?raw=true" width="3000" style="padding-top: 5px">
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
@@ -111,9 +204,6 @@ Once TIFF files have been exported using the approaches above, a number of cell 
 <!-- FOURTH ROW: Description --> 
       <tr>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-            This is the simplest form of cellular segmentation. The nuclear signal is identified, and the boundary is expanded outwards by a certain number of pixels. This then becomes the boundary of the cell mask. Although a very simplistic approach, only nuclear signal is required.
-          </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
             Some IMC images contain extremely dense collections of cells, where cytoplasmic (and sometimes) nuclear signal from one cell is difficult to distinguish from another. In this protocol we describe boundary-based segmentation using the 'multi-cut' workflow in Ilastik.
           </td>
            <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
@@ -122,13 +212,6 @@ Once TIFF files have been exported using the approaches above, a number of cell 
      </tr>
 <!-- FIFTH ROW: Go to page --> 
       <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      <a href="https://wiki.centenary.org.au/x/GzrDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
-                  </p>
-              </div>
-          </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
@@ -150,85 +233,24 @@ Once TIFF files have been exported using the approaches above, a number of cell 
 <p> </p>
 
 <br />
-<br />
 
 
-
-
-
-
-
-
-## Cellular and spatial analysis
-
----
-
-Following cell segmentation using one of the above approaches, these workflows facilitate cellular and spatial analysis in R or FlowJo.
+#### Spatial analysis
 
 <table class="table gmisc_table">
   <tbody>
-<!-- FIRST ROW: TITLE --> 
-    <tr style="border-top:1px solid grey">
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">FCS conversion and analysis in FlowJo
-        </div>
-      </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Simple spatial analysis with Spectre
-        </div>  
-      </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Advanced spatial analysis with Spectre (including region masks)
-        </div>
-      </td>
-    </tr>
-<!-- THIRD ROW: Image --> 
     <tr>
-        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img src="https://flowjowebsiteimages.s3-us-west-2.amazonaws.com/media/Solution%20Logos/flowjo-logo.png" width="3000" style="padding-top: 20px">
-        </td>
-        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/spatial/Simple.png?raw=true" width="3000" style="padding-top: 5px">
-        </td>
-        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/spatial/Advanced.png?raw=true" width="3000" style="padding-top: 5px">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/spatial/Advanced.png?raw=true" width="3000">
       </td>
-      </tr>
-<!-- FOURTH ROW: Description --> 
-      <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-            An analysis protocol to facilitate the creation of FCS files from IMC data and subsequent analysis using FlowJo.
-          </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-            A simple analysis workflow in Spectre, using simple cell masks. 
-          </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-            A more advanced workflow in Spectre, incorporating cell type and region masks for enhanced spatial analysis.
-          </td>
-     </tr>
-<!-- FIFTH ROW: Go to page --> 
-      <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      <a href="https://wiki.centenary.org.au/x/RHbDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
-                  </p>
-              </div>
-          </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      <a href="https://wiki.centenary.org.au/x/QHbDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
-                  </p>
-              </div>
-          </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      <b><span style="font-size: 18px">COMING SOON</span></b>
-                  </p>
-              </div>
-          </td>
+      <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b>Advanced spatial analysis with Spectre (including region masks)</b></p>
+        <p>
+          A more advanced workflow in Spectre, incorporating cell type and region masks for enhanced spatial analysis.
+        </p>
+          <b><span style="font-size: 18px">COMING SOON</span></b>
+          <p> </p>
+      </td>
       </tr>
     </tbody>
 </table>
@@ -237,16 +259,6 @@ Following cell segmentation using one of the above approaches, these workflows f
 
 <br />
 <br />
-
-
-
-
-
-
-
-
-
-
 
 
 
