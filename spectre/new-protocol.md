@@ -13,9 +13,12 @@ permalink: /spectre/new-protocol/
 </div>
 
 <!-- Page content -->
-<div class="protocolmain">
+<!--<div class="protocolmain">
   ...
 </div>
+-->
+
+Run FlowSOM
 
 ```
 dat <- run.flowsom()
