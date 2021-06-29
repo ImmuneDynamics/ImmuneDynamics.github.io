@@ -76,7 +76,7 @@ Spectre enables the analysis of high-dimensional imaging data, including data ge
 
 
 
-## Simple segmentation and spatial analysis
+## Option 1: Simple segmentation and spatial analysis
 
 ---
 
@@ -171,7 +171,7 @@ Following cell segmentation, these workflows facilitate cellular and spatial ana
 
 
 
-## Advanced segmentation and spatial analysis
+## Option 2: Advanced segmentation and spatial analysis
 
 ---
 
@@ -267,7 +267,7 @@ Once TIFF files have been exported using the approaches above, a number of cell 
 
 
 
-# Other software and protocols
+## Other software and protocols
 
 ---
 
