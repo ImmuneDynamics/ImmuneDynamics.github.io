@@ -6,10 +6,18 @@ permalink: /spectre/new-protocol/
 
 <div id="content">
   <div id="leftNEW">
-  Hi left
+  One
+  Two
+  Three
+  Four
   </div>
   <div id="rightNEW">
-  Hi right
+  <b1> Protocol
+    
+    This is a protocol.
+    
+    A very good protocol.
+    
   </div>
 </div>
 
