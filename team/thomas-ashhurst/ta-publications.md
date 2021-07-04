@@ -284,7 +284,25 @@ GH Putri, MN Read, I Koprinska, D Singh, U Röhm, **TM Ashhurst**, NJC King. 201
 
 
 
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/Screen%20Shot%202021-07-04%20at%205.51.56%20pm.png?raw=true" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
 E Hayashida, ZL Ling, **TM Ashhurst**, B Viengkhou, SR Jung, ... 2019. [Zika virus encephalitis in immunocompetent mice is dominated by innate immune cells and does not require T or B cells](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5). Journal of Neuroinflammation 16 (1), 1-15
+
+<br />
+<br />
+<br />
+
+
+
+
 
 
 
