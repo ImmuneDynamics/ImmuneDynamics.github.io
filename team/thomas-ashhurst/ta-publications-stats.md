@@ -4,9 +4,9 @@ title: Thomas Ashhurst - Publication Stats
 permalink: /thomas-ashhurst/publications/stats/
 ---
 
-## Lead author
+<br/>
 
----
+## Lead author
 
 **TM Ashhurst**\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... 2021. [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). Cytometry A (accepted). *Corresponding author*.
 
@@ -77,15 +77,24 @@ DR Getts, RL Terry, MT Getts, C Deffrasnes, M Müller, C van Vreden, **TM Ashhur
 
 DR Getts, RL Terry, MT Getts, M Müller, S Rana, C Deffrasnes, **TM Ashhurst**... 2012. [Targeted blockade in lethal West Nile virus encephalitis indicates a crucial role for very late antigen (VLA)-4-dependent recruitment of nitric oxide-producing macrophages](https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-9-246). Journal of Neuroinflammation 9 (1), 246.
 
+<br/>
+<br/>
 
-## Protocols
+
+
+
+
+## Protocols at protocols.io
 
 ---
 
 **TM Ashhurst**, DA Cox, AL Smith, NJC King 2021. [Cell counting with a haemocytometer (with mouse bone marrow example)](https://dx.doi.org/10.17504/protocols.io.btqgnmtw). protocols.io
 https://dx.doi.org/10.17504/protocols.io.btqgnmtw
 
-<br />
+<br/>
+<br/>
+
+
 
 ## Newsletters
 
@@ -93,4 +102,6 @@ https://dx.doi.org/10.17504/protocols.io.btqgnmtw
 
 [High-dimensional single cell mass cytometry (CyTOF) comes to Australia with the establishment of the Ramaciotti Facility for Human Systems Biology](https://www.immunology.org.au/files/Newsletter_pdfs/ASI_NL_March_2015.pdf). 2015. T Ashhurst, N King, A Smith, BF de St Groth. ASI Newsletter.
 
-<br />
+<br/>
+<br/>
+
