@@ -6,9 +6,18 @@ permalink: /thomas-ashhurst/publications/stats/
 
 <br/>
 
+## Corresponding author
+
+**TM Ashhurst**\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... 2021. [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). Cytometry A. *Corresponding author*.
+
+**TM Ashhurst**, AL Smith, NJC King. 2017. [High‐Dimensional Fluorescence Cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). Current Protocols in Immunology 119 (1), 5.8. 1-5.8. 38. *Corresponding author*.
+
+
+<br/>
+
 ## Lead author
 
-**TM Ashhurst**\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... 2021. [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). Cytometry A (accepted). *Corresponding author*.
+**TM Ashhurst**\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... 2021. [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). Cytometry A. *Corresponding author*.
 
 P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. 2020. [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). Cytometry Part A.
 
