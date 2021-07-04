@@ -6,14 +6,25 @@ permalink: /thomas-ashhurst/publications/stats/
 
 <br/>
 
+
+## Editor
+
+HM McGuire\*, **TM Ashhurst**\* (eds). 2019. [Mass Cytometry: Methods and Protocols](https://link.springer.com/book/10.1007/978-1-4939-9454-0). Springer New York.
+
+<br/>
+
+
+
+
 ## Corresponding author
 
 **TM Ashhurst**\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... 2021. [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). Cytometry A. *Corresponding author*.
 
 **TM Ashhurst**, AL Smith, NJC King. 2017. [High‐Dimensional Fluorescence Cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). Current Protocols in Immunology 119 (1), 5.8. 1-5.8. 38. *Corresponding author*.
 
-
 <br/>
+
+
 
 ## Lead or co-lead author
 
