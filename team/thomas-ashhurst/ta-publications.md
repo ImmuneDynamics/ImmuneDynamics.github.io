@@ -192,12 +192,6 @@ GH Putri, I Koprinska, **TM Ashhurst**, NJC King, MN Read. 2021. [Using single-c
 
 
 
-
-
-
-
-
-
 <div class='row'>
     <div class="image">
         <a href="#">
@@ -280,6 +274,7 @@ GH Putri, MN Read, I Koprinska, D Singh, U Röhm, **TM Ashhurst**, NJC King. 201
 <br />
 <br />
 <br />
+<br />
 
 
 
@@ -296,6 +291,8 @@ GH Putri, MN Read, I Koprinska, D Singh, U Röhm, **TM Ashhurst**, NJC King. 201
 
 E Hayashida, ZL Ling, **TM Ashhurst**, B Viengkhou, SR Jung, ... 2019. [Zika virus encephalitis in immunocompetent mice is dominated by innate immune cells and does not require T or B cells](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-019-1566-5). Journal of Neuroinflammation 16 (1), 1-15
 
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -320,7 +317,6 @@ R Salomon\*, C Hall\*, **TM Ashhurst**\* (2019). Cytometry in the Era of the Hum
 
 <br />
 <br />
-<p> </p>
 
 
 
@@ -357,7 +353,7 @@ SR Jung, T Suprunenko, **TM Ashhurst**, NJC King, MJ Hofer. 2018. [Collateral Da
 
 TM Campbell, BP McSharry, M Steain, **TM Ashhurst**, B Slobedman, ... 2018. [Varicella zoster virus productively infects human natural killer cells and manipulates phenotype](https://journals.plos.org/plospathogens/article?rev=1&id=10.1371/journal.ppat.1006999). PLoS pathogens 14 (4), e1006999
 
-
+<br/>
 
 <div class='row'>
     <div class="image">
@@ -415,7 +411,6 @@ DR Getts, RL Terry, MT Getts, C Deffrasnes, M Müller, C van Vreden, **TM Ashhur
 
 **TM Ashhurst**, C Van Vreden, L Munoz-Erazo, P Niewold, K Watabe, ... 2013. [Antiviral macrophage responses in flavivirus encephalitis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3928696/). The Indian journal of medical research 138 (5), 632
 
-<br />
 <br />
 
 
