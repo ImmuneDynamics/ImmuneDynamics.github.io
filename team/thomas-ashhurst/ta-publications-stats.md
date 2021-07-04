@@ -15,7 +15,7 @@ permalink: /thomas-ashhurst/publications/stats/
 
 <br/>
 
-## Lead author
+## Lead or co-lead author
 
 **TM Ashhurst**\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... 2021. [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). Cytometry A. *Corresponding author*.
 
@@ -38,7 +38,7 @@ R Salomon\*, C Hall\*, **TM Ashhurst**\* (2019). Cytometry in the Era of the Hum
 
 
 
-## Senior/co-senior author
+## Senior/co-supervising author
 
 GH Putri, J Chung, DN Edwards, F Marsh-Wakefield, S Dervish, I Koprinska, NJC King, **TM Ashhurst**, MN Read. 2021. [TrackSOM: mapping immune response dynamics through sequential clustering of time- and disease-course single-cell cytometry data](https://www.biorxiv.org/content/10.1101/2021.06.08.447468v1). bioRxiv (pre-print).
 
