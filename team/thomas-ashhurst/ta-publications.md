@@ -6,7 +6,7 @@ permalink: /thomas-ashhurst/publications/
 
 ![Publications](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Publication%202.png)
 
-My publications consist of [1 book](https://immunedynamics.io/thomas-ashhurst/publications/#books), [2 pre-prints](https://immunedynamics.io/thomas-ashhurst/publications/#co-author-publications), and [23 published articles](https://immunedynamics.io/thomas-ashhurst/publications/#lead-or-co-lead-author), with [540 citations](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) since 2012 and an [h-index of 11](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) (via Google Scholar). These include [1 co-lead editor](https://immunedynamics.io/thomas-ashhurst/publications/#books) book, [7 lead or co-lead author](https://immunedynamics.io/thomas-ashhurst/publications/#lead-or-co-lead-author) publications, and [5 co-supervising author](https://immunedynamics.io/thomas-ashhurst/publications/#co-supervising) publications; with **2 corresponding author publications**. Additionally, I have published [1 protocol](https://immunedynamics.io/thomas-ashhurst/publications/#protocols) with [protocols.io](https://www.protocols.io/) and [1 newsletter](https://immunedynamics.io/thomas-ashhurst/publications/#newsletters) article with the [Australia and New Zealand Society for Immunology](https://www.immunology.org.au/). Online publication lists can be found on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date),
+My publications consist of [1 book](https://immunedynamics.io/thomas-ashhurst/publications/#books), [2 pre-prints](https://immunedynamics.io/thomas-ashhurst/publications/#co-author-publications), and [23 published articles](https://immunedynamics.io/thomas-ashhurst/publications/#lead-or-co-lead-author), with [556 citations](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) since 2012 and an [h-index of 11](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) (via Google Scholar). These include [1 co-lead editor](https://immunedynamics.io/thomas-ashhurst/publications/#books) book, [7 lead or co-lead author](https://immunedynamics.io/thomas-ashhurst/publications/#lead-or-co-lead-author) publications, and [5 co-supervising author](https://immunedynamics.io/thomas-ashhurst/publications/#co-supervising) publications; with **2 corresponding author publications**. Additionally, I have published [1 protocol](https://immunedynamics.io/thomas-ashhurst/publications/#protocols) with [protocols.io](https://www.protocols.io/) and [1 newsletter](https://immunedynamics.io/thomas-ashhurst/publications/#newsletters) article with the [Australia and New Zealand Society for Immunology](https://www.immunology.org.au/). Online publication lists can be found on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date),
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="15"> [Google Scholar](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en),
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ORCID_iD.svg" alt="Logo" width="15"> [ORCID](https://orcid.org/0000-0001-7269-7773),
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/b5544b7d0236876ce33e51e6c8b5eb3e6ef55e84/custom_SVG/Loop.svg" alt="Logo" width="15"> [Loop](https://loop.frontiersin.org/people/241397),
@@ -35,9 +35,29 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 <br />
 
-## Lead or co-lead author
+## Publications
 
 ---
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://pbs.twimg.com/media/E3fVnu9VgAo9BYl?format=jpg&name=4096x4096" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+GH Putri, J Chung, DN Edwards, F Marsh-Wakefield, S Dervish, I Koprinska, NJC King, **TM Ashhurst**, MN Read. 2021. [TrackSOM: mapping immune response dynamics through sequential clustering of time- and disease-course single-cell cytometry data](https://www.biorxiv.org/content/10.1101/2021.06.08.447468v1). bioRxiv (pre-print).
+
+<br />
+
+
+
+
+
+
+
 
 <div class='row'>
     <div class="image">
@@ -58,6 +78,64 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 <br />
 <p> </p>
+
+
+
+
+
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://www.researchsquare.com/static/img/logos/logo-rs.svg" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+AG Spiteri, RL Terry, CL Wishart, **TM Ashhurst**, IL Campbell, MJ Hofer, NJC King. 2021. [High-parameter Cytometry Unmasks Microglial Cell Spatio-temporal Response Kinetics in Severe Neuroinflammatory Disease](https://doi.org/10.21203/rs.3.rs-388801/v1). Research Square (pre-print).
+
+<br />
+
+
+
+
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/Mitchell2021.png?raw=true" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+F Marsh-Wakefield\*, A Mitchell\*, S Norton, **TM Ashhurst**, ... HM McGuire, R Kemp. 2021. [Making the most of high dimensional cytometry data](https://doi.org/10.1111/imcb.12456). Immunology and Cellular Biology.
+
+- Publication resulting from a joint venture between the [Australia and New Zealand Society for Immunology](https://www.immunology.org.au/) and the [Australasian Cytometry Society](https://cytometry.org.au/).
+
+<br />
+<br />
+
+
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Koutsakos%202021.png" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+M Koutsakos, LC Rowntree, L Hensen, BY Chua, CE van de Sandt, JR Habel, W Zhang, X Jia, L Kedzierski, **TM Ashhurst**, ... K Kedzierska. 2021. [Integrated immune dynamics define correlates of COVID-19 severity and antibody responses](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7). Cell Reports Medicine. *Lead the computational analysis of COVID-19 blood samples, and supervised the development of TrackSOM for time-series tracking*.
+
+- [Summary](https://immunedynamics.io/koutsakos2021/)
+- Media: [Doherty Institute News](https://www.doherty.edu.au/news-events/news/mapping-an-effective-immune-response-to-covid-19), [Medical Xpress](https://medicalxpress.com/news/2021-02-effective-immune-response-covid-.html), [Herald Sun](https://www.heraldsun.com.au/coronavirus/melbourne-experts-uncover-why-covid-affects-people-differently/news-story/ed5ffb9604c1b4db776503562e494f71), [Ticker](https://twitter.com/tickerNEWSau/status/1359991653243572224?s=20).
+
+<br />
+
+
 
 <div class='row'>
     <div class="image">
@@ -147,33 +225,7 @@ R Salomon\*, C Hall\*, **TM Ashhurst**\* (2019). Cytometry in the Era of the Hum
 <br />
 <br />
 
-## Co-supervising
 
----
-
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://pbs.twimg.com/media/E3fVnu9VgAo9BYl?format=jpg&name=4096x4096" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
-
-GH Putri, J Chung, DN Edwards, F Marsh-Wakefield, S Dervish, I Koprinska, NJC King, **TM Ashhurst**, MN Read. 2021. [TrackSOM: mapping immune response dynamics through sequential clustering of time- and disease-course single-cell cytometry data](https://www.biorxiv.org/content/10.1101/2021.06.08.447468v1). bioRxiv (pre-print).
-
-<br />
-
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://www.researchsquare.com/static/img/logos/logo-rs.svg" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
-
-AG Spiteri, RL Terry, CL Wishart, **TM Ashhurst**, IL Campbell, MJ Hofer, NJC King. 2021. [High-parameter Cytometry Unmasks Microglial Cell Spatio-temporal Response Kinetics in Severe Neuroinflammatory Disease](https://doi.org/10.21203/rs.3.rs-388801/v1). Research Square (pre-print).
-
-<br />
 
 <div class='row'>
     <div class="image">
@@ -218,39 +270,6 @@ GH Putri, MN Read, I Koprinska, D Singh, U Röhm, **TM Ashhurst**, NJC King. 201
 <br />
 <br />
 
-## Co-author publications
-
----
-
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/Mitchell2021.png?raw=true" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
-
-F Marsh-Wakefield\*, A Mitchell\*, S Norton, **TM Ashhurst**, ... HM McGuire, R Kemp. 2021. [Making the most of high dimensional cytometry data](https://doi.org/10.1111/imcb.12456). Immunology and Cellular Biology.
-
-- Publication resulting from a joint venture between the [Australia and New Zealand Society for Immunology](https://www.immunology.org.au/) and the [Australasian Cytometry Society](https://cytometry.org.au/).
-
-<br />
-<br />
-
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Koutsakos%202021.png" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
-
-M Koutsakos, LC Rowntree, L Hensen, BY Chua, CE van de Sandt, JR Habel, W Zhang, X Jia, L Kedzierski, **TM Ashhurst**, ... K Kedzierska. 2021. [Integrated immune dynamics define correlates of COVID-19 severity and antibody responses](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7). Cell Reports Medicine. *Lead the computational analysis of COVID-19 blood samples, and supervised the development of TrackSOM for time-series tracking*.
-
-- [Summary](https://immunedynamics.io/koutsakos2021/)
-- Media: [Doherty Institute News](https://www.doherty.edu.au/news-events/news/mapping-an-effective-immune-response-to-covid-19), [Medical Xpress](https://medicalxpress.com/news/2021-02-effective-immune-response-covid-.html), [Herald Sun](https://www.heraldsun.com.au/coronavirus/melbourne-experts-uncover-why-covid-affects-people-differently/news-story/ed5ffb9604c1b4db776503562e494f71), [Ticker](https://twitter.com/tickerNEWSau/status/1359991653243572224?s=20).
-
-<br />
 
 <div class='row'>
     <div class="image">
@@ -276,7 +295,7 @@ KC Ferrell, EL Stewart, C Counoupas, **TM Ashhurst**, WJ Britton, N Petrovsky, J
     </div>
 </div>
 
- F Marsh‐Wakefield, **T Ashhurst**, S Trend, HM McGuire, P Juillard, A Zinger, ... 202. [IgG3+ B cells are associated with the development of multiple sclerosis](https://onlinelibrary.wiley.com/doi/abs/10.1002/cti2.1133). Clinical & Translational Immunology 9 (5), e01133
+F Marsh‐Wakefield, **T Ashhurst**, S Trend, HM McGuire, P Juillard, A Zinger, ... 202. [IgG3+ B cells are associated with the development of multiple sclerosis](https://onlinelibrary.wiley.com/doi/abs/10.1002/cti2.1133). Clinical & Translational Immunology 9 (5), e01133
 
 <br />
 <br />
