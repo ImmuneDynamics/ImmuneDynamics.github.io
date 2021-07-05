@@ -54,6 +54,4 @@ You can then find the 'simple discovery workflow' script here:
 Create a folder for your experiment, and place the script in that folder.
 
 
-`
-Code Code Code
-`
+```Code Code Code```
