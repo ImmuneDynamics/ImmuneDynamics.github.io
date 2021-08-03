@@ -24,6 +24,10 @@ He is also actively involved in the [Australasian Cytometry Society](https://imm
 
 ---
 
+**Position**
+- High-dimensional cytometry specialist: Sydney Cytometry Core Research Facility, The University of Sydney
+- Honorary Research Fellow: Infection, Immunity and Inflammation Theme, School of Medical Sciences, Faculty of Medicine and Health, The University of Sydney
+
 **Contact info**
 
 &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/EmailSVG.svg" alt="Email logo" width="20"> Email: [thomas.ashhurst@sydney.edu.au](mailto:thomas.ashhurst@sydney.edu.au) <br/>
