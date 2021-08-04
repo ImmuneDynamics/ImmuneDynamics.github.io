@@ -15,7 +15,7 @@ permalink: /spectre/metrics/
 [multiple sclerosis](https://onlinelibrary.wiley.com/doi/full/10.1002/cti2.1133), 
 [bone marrow](https://www.frontiersin.org/articles/10.3389/fimmu.2018.01672/full) transplantation, and 
 [cerebral malaria](https://www.nature.com/articles/s42003-018-0216-2), 
-among others; in prestigious journals such as [Cell](https://doi.org/10.1016/j.cell.2018.08.013) and [Nature Immunology](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation).
+among others; in prestigious journals such as [Cell](https://doi.org/10.1016/j.cell.2018.08.013) and [Nature Immunology](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation). It is also a featured analysis package for the [Human Cell Atlas](https://data.humancellatlas.org/analyze/methods/spectre) project.
 
 *Select publications*
 
