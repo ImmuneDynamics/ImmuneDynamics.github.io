@@ -6,7 +6,7 @@ permalink: /hdworkshops/
 
 ---
 
-In the second half of 2021 we will be running or contributing to a number of workshops on the computational analysis of high-dimensional cytometry and single-cell data. Stay tuned for more information.
+In the second half of 2021 we will be running or contributing to a number of workshops on the computational analysis of high-dimensional cytometry and single-cell data. 
 
 <br />
 
