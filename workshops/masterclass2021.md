@@ -10,7 +10,7 @@ As part of the Australia and New Zealand Society for Immunology (ASI) IgV Master
 
 <br />
 
-<h2>1. Introduction to high-dimensional cytometry analysis (0930 - 1100)</h2>
+<h2>Part 1. Introduction to high-dimensional cytometry analysis (9:30 am - 11:00 am)</h2>
 
 ---
 
@@ -19,7 +19,7 @@ In this session, we will work through a tutorial designed to introduce users to 
 <br />
 <br />
 
-<h2>2. Analysis of blood-borne immune responses to COVID-19 (1130 - 1330)</h2>
+<h2>Part 2. Analysis of blood-borne immune responses to COVID-19 (11:30 am - 1:30 pm)</h2>
 
 ---
 
@@ -28,7 +28,7 @@ In this session we will investigate immune response to COVID-19 in the blood, in
 <br />
 <br />
 
-<h2>3. Analysis of respiratory immune responses to COVID-19 (1430 - 1600)</h2>
+<h2>Part 3. Analysis of respiratory immune responses to COVID-19 (2:30 pm - 4:00 pm)</h2>
 
 ---
 
