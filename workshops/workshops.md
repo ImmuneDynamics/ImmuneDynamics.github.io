@@ -63,6 +63,7 @@ In the second half of 2021 we will be running or contributing to a number of wor
           <a href="https://cytometryconference.org.au/">conference website</a> 
           for more information.
           <br />
+        <p> </p>
           <b>Online workshops (Sun 7-Nov)</b>:
           <ul>
             <li>Compensation and spectral unmixing</li>
