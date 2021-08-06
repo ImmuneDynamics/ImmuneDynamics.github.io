@@ -18,7 +18,7 @@ In the second half of 2021 we will be running or contributing to a number of wor
           <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Koutsakos%202021.png">
       </td>
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b><span style="font-size: 18px">ASI IgV Masterclass 2021 (25-26 Oct)</span></b></p>
+        <p><b><span style="font-size: 17px">ASI IgV Masterclass 2021 (25-26 Oct)</span></b></p>
         <p>
           As part of the 
           <a href="https://www.immunology.org.au/">Australia and New Zealand Society for Immunology</a>
@@ -54,7 +54,7 @@ In the second half of 2021 we will be running or contributing to a number of wor
           <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-46-9.png?version=1&modificationDate=1613891282510&api=v2">
       </td>
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b><span style = "font-size: 18px">ACS Annual Meeting 2021 (7-10 Nov)</span></b></p>
+        <p><b><span style = "font-size: 17px">ACS Annual Meeting 2021 (7-10 Nov)</span></b></p>
         <p>
           We will be running a series of workshops on computational techniques in high-dimensional cytometry data analysis for 
           <i>in person</i> participants of the 
@@ -96,7 +96,7 @@ In the second half of 2021 we will be running or contributing to a number of wor
           <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/OSC.png" width="3000">
       </td>
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b><span style = "font-size: 18px">Oz Single Cell (Sydney) - November 2021</span></b></p>
+        <p><b><span style = "font-size: 17px">Oz Single Cell - Sydney (Nov 2021)</span></b></p>
         <p>
           We will be hosting the Sydney meeting of the 
           <a href="https://www.singlecells.org.au/">Oz Single Cell</a> 
