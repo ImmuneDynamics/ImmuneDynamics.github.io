@@ -60,9 +60,11 @@ In the second half of 2021 we will be running or contributing to a number of wor
           <a href="https://cytometryconference.org.au/">Australasian Cytometry Society (ACS)</a> 
           annual meeting (7-10 November 2021, Sydney Australia/Hybrid). 
           <b>Workshops</b>:
-          - Introduction to R for cytometry analysis
-          - Introductory high-dimensional analysis
-          - Advanced high-dimensional analysis
+          <ul>
+            <li>Introduction to R for cytometry analysis</li>
+            <li>Introductory high-dimensional analysis</li>
+            <li>Advanced high-dimensional analysis</li>
+          </ul>
           Keep an eye on the 
           <a href="https://cytometryconference.org.au/">conference website</a> 
           for more information.
