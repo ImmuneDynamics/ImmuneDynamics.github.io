@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshops and talks - 2021
+title: Workshops and events - 2021
 permalink: /workshops/
 ---
 
