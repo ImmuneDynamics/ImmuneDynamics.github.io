@@ -22,8 +22,10 @@ As part of the Australia and New Zealand Society for Immunology (ASI) IgV Master
     </div>
 </div>
 
-In this session we will introduce attendees to computational approaches to the analysis of cytometry data. 
+In this session, we will work through a tutorial designed to introduce users to the concepts of high-dimensional analysis for cytometry data, including clustering (e.g. FlowSOM) and dimensionality reduction (e.g. tSNE, UMAP), as well as various plotting and statistical analysis functions.
 
+<br />
+<br />
 <br />
 <br />
 
@@ -43,6 +45,8 @@ In this session we will investigate immune response to COVID-19 in the blood, in
 
 <br />
 <br />
+<br />
+<br />
 
 <h2>Part 3. Analysis of respiratory immune responses to COVID-19 (2:30 pm - 4:00 pm)</h2>
 
@@ -58,5 +62,7 @@ In this session we will investigate immune response to COVID-19 in the blood, in
 
 In this session we will investigate immune response to COVID-19 in the respiratory tract, analysing cells isolated from patients intubated with a endotracheal tube in treatment of severe COVID-19.
 
+<br />
+<br />
 <br />
 <br />
