@@ -60,6 +60,7 @@ In the second half of 2021 we will be running or contributing to a number of wor
           <a href="https://cytometryconference.org.au/">Australasian Cytometry Society (ACS)</a> 
           annual meeting (7-10 November 2021, Sydney Australia/Hybrid). 
           <br />
+          <br />
           <b>Workshops</b>:
           <ul>
             <li>Introduction to R for cytometry analysis</li>
