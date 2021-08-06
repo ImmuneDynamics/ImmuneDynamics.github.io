@@ -10,23 +10,23 @@ As part of the Australia and New Zealand Society for Immunology (ASI) IgV Master
 
 <br />
 
----
-
 <h2>Introduction to high-dimensional cytometry analysis</h2>
 
-<br />
-<br />
-
 ---
+
+<br />
+<br />
 
 <h2>Analysis of blood-borne immune responses to COVID-19</h2>
 
-<br />
-<br />
-
 ---
 
+<br />
+<br />
+
 <h2>Analysis of respiratory immune responses to COVID-19</h2>
+
+---
 
 <br />
 <br />
