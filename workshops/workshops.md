@@ -67,7 +67,6 @@ In the second half of 2021 we will be running or contributing to a number of wor
             <li>Compensation and spectral unmixing</li>
           </ul>
           <br />
-          <br />
           <b>In-person workshops (Mon 8-Nov to Wed 10-Nov)</b>:
           <ul>
             <li>Introduction to R for cytometry analysis</li>
