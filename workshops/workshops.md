@@ -59,9 +59,15 @@ In the second half of 2021 we will be running or contributing to a number of wor
           <i>in person</i> participants of the 
           <a href="https://cytometryconference.org.au/">Australasian Cytometry Society (ACS)</a> 
           annual meeting (7-10 November 2021, Sydney Australia/Hybrid). 
+           <br />
+          <br />
+          <b>Online workshops (Sun 7-Nov)</b>:
+          <ul>
+            <li>Compensation and spectral unmixing</li>
+          </ul>
           <br />
           <br />
-          <b>Workshops</b>:
+          <b>In-person workshops (Mon 8-Nov to Wed 10-Nov)</b>:
           <ul>
             <li>Introduction to R for cytometry analysis</li>
             <li>Introductory high-dimensional analysis</li>
