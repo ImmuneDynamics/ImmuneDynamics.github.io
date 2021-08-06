@@ -1,7 +1,7 @@
 ---
 layout: page
 title: High-dimensional (HD) analysis workshops
-permalink: /hdworkshops/
+permalink: /workshops/
 ---
 
 ---
