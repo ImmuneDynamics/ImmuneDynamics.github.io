@@ -6,16 +6,7 @@ permalink: /hdworkshops/
 
 ---
 
-![Analysis](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Clusters%20wide.png)
-
-<br/>
-
-## Workshops - 2021
-
----
-
 In the second half of 2021 we will be running or contributing to a number of workshops on the computational analysis of high-dimensional cytometry and single-cell data. Stay tuned for more information.
-
 
 <br />
 
