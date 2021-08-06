@@ -55,7 +55,8 @@ In the second half of 2021 we will be running or contributing to a number of wor
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>ACS Annual Meeting 2021</b></p>
         <p>
-          We will be running a series of workshops on computational techniques for high-dimensional cytometry data analysis for participants of the 
+          We will be running a series of workshops on computational techniques for high-dimensional cytometry data analysis for 
+          <i>in person</i> participants of the 
           <a href="https://cytometryconference.org.au/">Australasian Cytometry Society (ACS)</a> 
           annual meeting (7-10 November 2021, Sydney Australia/Hybrid). Keep an eye on the 
           <a href="https://cytometryconference.org.au/">conference website</a> 
