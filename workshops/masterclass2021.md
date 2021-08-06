@@ -19,7 +19,7 @@ In this session, we will work through a tutorial designed to introduce users to 
 <br />
 <br />
 
-<h2>2. Analysis of blood-borne immune responses to COVID-19 (1130 - 1300)</h2>
+<h2>2. Analysis of blood-borne immune responses to COVID-19 (1130 - 1330)</h2>
 
 ---
 
@@ -28,7 +28,7 @@ In this session we will investigate immune response to COVID-19 in the blood, in
 <br />
 <br />
 
-<h2>3. Analysis of respiratory immune responses to COVID-19 (1400 - 1530)</h2>
+<h2>3. Analysis of respiratory immune responses to COVID-19 (1430 - 1600)</h2>
 
 ---
 
