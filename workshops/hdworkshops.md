@@ -36,6 +36,31 @@ In the second half of 2021 we will be running or contributing to a number of wor
     </tbody>
 </table>
 
+<br />
+<br />
+
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://cytometry.org.au/wp-content/uploads/2018/05/cropped-169572_medium.jpg" width="3000">
+      </td>
+      <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b>ACS Annual Meeting 2021</b></p>
+        <p>
+          We will be running a series of workshops on computational techniques for high-dimensional cytometry data analysis for participants of the Australasian Cytometry Society (ACS) Annual Conference (7-10 November 2021, Sydney Australia/Hybrid). Keep an eye on the 
+          <a href="https://cytometryconference.org.au/">conference website</a> 
+          for more information.
+        </p>
+          <a href="https://cytometryconference.org.au/" target="_blank" rel="noopener noreferrer">
+            <b><span style="font-size: 18px">MORE INFO</span></b>
+          </a>
+          <p> </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
 
 <br />
 <br />
