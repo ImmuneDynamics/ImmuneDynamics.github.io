@@ -21,8 +21,10 @@ In the second half of 2021 we will be running or contributing to a number of wor
         <p><b>ASI IgV Masterclass 2021</b></p>
         <p>
           As part of the 
-          <a href="https://www.immunology.org.au/">Australia and New Zealand Society for Immunology (ASI)</a>
-          IgV Masterclass (25-26 October 2021), we will be running an online hands-on workshop on 
+          <a href="https://www.immunology.org.au/">Australia and New Zealand Society for Immunology</a>
+          (ASI) IgV 
+          <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass/">Masterclass</a> 
+          (25-26 October 2021), we will be running an online hands-on workshop on 
           <a href="https://immunedynamics.io/research/analysis/">high-dimensional analysis approaches</a> 
           to investigate the immune response to 
           <a href="https://immunedynamics.io/research/disease/#sars-cov-2-and-covid-19">COVID-19</a>
