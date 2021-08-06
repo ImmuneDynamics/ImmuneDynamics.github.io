@@ -39,7 +39,8 @@ In the second half of 2021 we will be running or contributing to a number of wor
 
 <br />
 <br />
-
+<br />
+<br />
 
 ## Previous workshops
 
