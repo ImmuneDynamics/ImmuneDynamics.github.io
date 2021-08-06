@@ -18,7 +18,6 @@ In the second half of 2021 we will be running or contributing to a number of wor
 
 
 <br />
-<br />
 
 <table class="table gmisc_table">
   <tbody>
