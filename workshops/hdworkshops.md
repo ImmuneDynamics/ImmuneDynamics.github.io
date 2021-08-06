@@ -22,8 +22,10 @@ In the second half of 2021 we will be running or contributing to a number of wor
         <p>
           As part of the ASI IgV Masterclass (25-26 October 2021), we will be running an online hands-on workshop on 
           <a href="https://immunedynamics.io/research/analysis/">high-dimensional analysis approaches</a> 
-          to investigate the 
-          <a href="https://immunedynamics.io/research/disease/#sars-cov-2-and-covid-19">immune respones to COVID-19</a>. Registrations open to both ASI members and non-members. Keep an eye on the 
+          to investigate the immune response to 
+          <a href="https://immunedynamics.io/research/disease/#sars-cov-2-and-covid-19">COVID-19</a>
+          in blood and respiratory tract. 
+          Registrations open to both ASI members and non-members. Keep an eye on the 
           <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass/">ASI IgV Masterclass page</a> 
           for more information.
         </p>
