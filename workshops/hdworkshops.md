@@ -32,8 +32,8 @@ In the second half of 2021 we will be running or contributing to a number of wor
           <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass/" target="_blank" rel="noopener noreferrer">
             <b><span style="font-size: 18px">MORE INFO</span></b>
           </a>
-            <b><span style="font-size: 18px">  |  </span></
-            <b><span style="font-size: 18px">REGISTRATION (coming soon)</span></
+        <b><span style="font-size: 18px">  |  </span></b>
+        <b><span style="font-size: 18px">REGISTRATION (coming soon)</span></b>
           <p> </p>
       </td>
       </tr>
@@ -60,8 +60,8 @@ In the second half of 2021 we will be running or contributing to a number of wor
           <a href="https://cytometryconference.org.au/" target="_blank" rel="noopener noreferrer">
             <b><span style="font-size: 18px">CONFERENCE INFO</span></b>
           </a>
-            <b><span style="font-size: 18px">  |  </span></
-            <b><span style="font-size: 18px">WORKSHOP INFO (coming soon)</span></
+        <b><span style="font-size: 18px">  |  </span></b>
+        <b><span style="font-size: 18px">WORKSHOP INFO (coming soon)</span></b>
           <p> </p>
       </td>
       </tr>
