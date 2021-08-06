@@ -28,6 +28,10 @@ In this session, we will work through a tutorial designed to introduce users to 
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
 
 <h2>Part 2. Analysis of blood-borne immune responses to COVID-19 (11:30 am - 1:30 pm)</h2>
 
@@ -47,6 +51,10 @@ In this session we will investigate immune response to COVID-19 in the blood, in
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
 
 <h2>Part 3. Analysis of respiratory immune responses to COVID-19 (2:30 pm - 4:00 pm)</h2>
 
@@ -61,6 +69,11 @@ In this session we will investigate immune response to COVID-19 in the blood, in
 </div>
 
 In this session we will investigate immune response to COVID-19 in the respiratory tract, analysing cells isolated from patients intubated with a endotracheal tube in treatment of severe COVID-19.
+
+<br />
+<br />
+<br />
+<br />
 
 <br />
 <br />
