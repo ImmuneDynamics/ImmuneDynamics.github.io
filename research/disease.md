@@ -79,7 +79,7 @@ Collectively, our central interest is in the comprehensive mapping of the immune
         </p>
         <p>
           <b><a href="https://www.youtube.com/watch?v=DamU2mngEg8">Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre - applications in viral encephalitis and COVID-19</a></b>
-          Seminar, Leiden University Medical Center
+        <p>Seminar, Leiden University Medical Center</p>
         <p align="center"><iframe width="442.5" height="250" src="https://www.youtube.com/embed/DamU2mngEg8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
         </p>
       </td>
@@ -87,7 +87,6 @@ Collectively, our central interest is in the comprehensive mapping of the immune
     </tbody>
 </table>
 
-<br />
 <br />
 
 ## Viral encephalitis
