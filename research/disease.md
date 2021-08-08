@@ -58,6 +58,7 @@ Collectively, our central interest is in the comprehensive mapping of the immune
               <a href="https://medicalxpress.com/news/2021-02-effective-immune-response-covid-.html">Medical Xpress</a>, the 
               <a href="https://www.heraldsun.com.au/coronavirus/melbourne-experts-uncover-why-covid-affects-people-differently/news-story/ed5ffb9604c1b4db776503562e494f71">Herald Sun</a>, and 
               <a href="https://twitter.com/tickerNEWSau/status/1359991653243572224?s=20">Ticker</a>.</li>
+            <li> Metrics: <a href="https://plu.mx/plum/a/?doi=10.1016/j.xcrm.2021.100208&theme=plum-jbs-theme&hideUsage=true">PlumX</a></li>
           </ul>
         </p>
       </td>
