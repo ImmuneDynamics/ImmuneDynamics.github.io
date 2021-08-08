@@ -149,6 +149,7 @@ M Koutsakos, LC Rowntree, L Hensen, BY Chua, CE van de Sandt, JR Habel, W Zhang,
 
 - [Summary](https://immunedynamics.io/koutsakos2021/)
 - Media: [Doherty Institute News](https://www.doherty.edu.au/news-events/news/mapping-an-effective-immune-response-to-covid-19), [Medical Xpress](https://medicalxpress.com/news/2021-02-effective-immune-response-covid-.html), [Herald Sun](https://www.heraldsun.com.au/coronavirus/melbourne-experts-uncover-why-covid-affects-people-differently/news-story/ed5ffb9604c1b4db776503562e494f71), [Ticker](https://twitter.com/tickerNEWSau/status/1359991653243572224?s=20).
+- Metrics: [PlumX](https://plu.mx/plum/a/?doi=10.1016/j.xcrm.2021.100208&theme=plum-jbs-theme&hideUsage=true)
 
 <br />
 
