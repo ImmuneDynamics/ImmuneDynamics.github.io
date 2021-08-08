@@ -10,7 +10,7 @@ Collectively, our central interest is in the comprehensive mapping of the immune
 
 ---
 
-### SARS-CoV-2 and COVID-19
+## SARS-CoV-2 and COVID-19
 
 <table class="table gmisc_table">
   <tbody>
@@ -19,7 +19,7 @@ Collectively, our central interest is in the comprehensive mapping of the immune
           <img src="https://www.apsf.org/wp-content/uploads/newsletters/2020/3502/coronavirus-covid-19.png" width="3000" style="padding-top: 30px">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-        <p><h2>SARS-CoV-2 and COVID-19 research</h2></p>
+        <p><h3>SARS-CoV-2 and COVID-19 research</h3></p>
         <p>
           The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has caused >101 million infections and 2.18 million deaths worldwide (as of January 28, 2021). Infection with SARS-CoV-2 results in a spectrum of clinical presentations, called coronavirus disease 2019 (COVID-19), ranging from asymptomatic to fatal disease. Our team began investigating the immune response to COVID-19 in March 2020, in collaboration with researchers at the <a href="https://www.doherty.edu.au/">Doherty Institute</a> and the <a href="https://www.unimelb.edu.au/">University of Melbourne</a>.
         </p>
@@ -91,7 +91,7 @@ Seminar, Leiden University Medical Center
 
 ---
 
-### Viral encephalitis
+## Viral encephalitis
 
 ![Viral](https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/Clusters.png?raw=true)
 
@@ -101,7 +101,7 @@ In mouse models of viral encephalitis, inflammatory monocyte-derived macrophages
 
 ---
 
-### Viral and general immunology
+## Viral and general immunology
 
 ![Immu](https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/research/VZV.png)
 
