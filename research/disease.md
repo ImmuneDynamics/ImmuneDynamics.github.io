@@ -73,6 +73,11 @@ Collectively, our central interest is in the comprehensive mapping of the immune
         <p>
           Our ongoing work in COVID-19 is interested in developing a more comprehensive understanding of how the immune response to SARS-CoV-2 leads to protection or immunopathology, with a particular focus on the role of the myeloid and innate immune system.
         </p>
+        <p>
+          <b><a href="https://www.youtube.com/watch?v=DamU2mngEg8">Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre - applications in viral encephalitis and COVID-19</b></a>
+          Seminar, Leiden University Medical Center
+        <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/DamU2mngEg8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+        </p>
       </td>
       </tr>
     </tbody>
@@ -81,11 +86,7 @@ Collectively, our central interest is in the comprehensive mapping of the immune
 <br />
 <br />
 
-**[Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre - applications in viral encephalitis and COVID-19](https://www.youtube.com/watch?v=DamU2mngEg8)**
 
-Seminar, Leiden University Medical Center
-
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/DamU2mngEg8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <br />
 <br />
