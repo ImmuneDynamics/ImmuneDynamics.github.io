@@ -39,7 +39,6 @@ Collectively, our central interest is in the comprehensive mapping of the immune
     </tbody>
 </table>
 
-<p> </p>
 
 <table class="table gmisc_table">
   <tbody>
@@ -66,7 +65,6 @@ Collectively, our central interest is in the comprehensive mapping of the immune
     </tbody>
 </table>
 
-<p> </p>
 
 <table class="table gmisc_table">
   <tbody>
