@@ -12,17 +12,73 @@ Collectively, our central interest is in the comprehensive mapping of the immune
 
 ### SARS-CoV-2 and COVID-19
 
-![COVID](https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/research/COVID%20wide.png)
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+          <img src="https://www.apsf.org/wp-content/uploads/newsletters/2020/3502/coronavirus-covid-19.png" width="3000" style="padding-top: 30px">
+      </td>
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+        <p><h2>SARS-CoV-2 and COVID-19 research</h2></p>
+        <p>
+          The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has caused >101 million infections and 2.18 million deaths worldwide (as of January 28, 2021). Infection with SARS-CoV-2 results in a spectrum of clinical presentations, called coronavirus disease 2019 (COVID-19), ranging from asymptomatic to fatal disease. Our team began investigating the immune response to COVID-19 in March 2020, in collaboration with researchers at the <a href="https://www.doherty.edu.au/">Doherty Institute</a> and the <a href="https://www.unimelb.edu.au/">University of Melbourne</a>.
+        </p>
+        <p>
+          <li>Our webinar from 2020 (<a href="(https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics">Mapping Immunity Across Time, Space and Disease State</a>) is featured on the Fluidigim <a href="https://www.fluidigm.com/singlearticles/covid-19-resources">‘COVID-19 resources’</a> page.</li>
+            <li>Our mass cytometry protocols have been cited in a number of COVID-19 studies, including <a href="https://doi.org/10.1016/j.xcrm.2020.100078">Rodriguez et al. 2020</a> and <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7">Koutsakos et al. 2021</a>.</li>
+            <li>Panel design and analysis protocols that may be helpful in COVID-19 research can be found on the <a href="https://immunedynamics.github.io/resources">resources page</a>.</li>
+        </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
 
-The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has caused >101 million infections and 2.18 million deaths worldwide (as of January 28, 2021). Infection with SARS-CoV-2 results in a spectrum of clinical presentations, called coronavirus disease 2019 (COVID-19), ranging from asymptomatic to fatal disease. 
+<br />
 
-Through a collaboration with the [Doherty Institute](https://www.doherty.edu.au/) and the [University of Melbourne](https://www.unimelb.edu.au/), we comprehensively profiled the immune response to [SARS-CoV-2](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) in a cohort of [COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) patients. Our work demonstrated that patients with severe disease exhibited an excessive and hyper-activated immune response ([Koutsakos et al. 2021](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7)). To study the kinetics of this immune response, we also developed and applied a novel time-series analysis approach called [TrackSOM](https://github.com/ghar1821/TrackSOM). 
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Koutsakos%202021.png" width="3000" style="padding-top: 30px">
+      </td>
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+        <p><h2>Mapping the immune dynamics of COVID-19</h2></p>
+        <p>
+          Our team played a key role in one of Australia's large COVID-19 studies, led by the Kedzierska laboratory at the Doherty Institute (<a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7">Koutsakos et al.</a> Pre-print: Oct 2020, published in <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7">Cell Reports Medicine</a>: Feb 2021). We developed and applyied <a href="https://immunedynamics.io/spectre/">high-dimensional analysis tools</a> to help comprehensively map the immune response to COVID-19, including a novel time-series analysis approach called <a href="https://immunedynamics.io/research/time-series/#tracksom">TrackSOM</a>. This study demonstrated that patients with severe disease exhibited an excessive and hyper-activated immune response, and was the first to show that T follicular helper cell responses could predict subsequent antibody levels, including neutralising activity of the antibody, a critical feature important for virus clearance and protection from infection. 
+        </p>
+        <p>
+          <ul>
+            <li>This study has been featured on 
+              <a href="https://www.doherty.edu.au/news-events/news/mapping-an-effective-immune-response-to-covid-19">Doherty Instite News</a>, 
+              <a href="https://medicalxpress.com/news/2021-02-effective-immune-response-covid-.html">Medical Xpress</a>, the 
+              <a href="https://www.heraldsun.com.au/coronavirus/melbourne-experts-uncover-why-covid-affects-people-differently/news-story/ed5ffb9604c1b4db776503562e494f71">Herald Sun</a>, and 
+              <a href="https://twitter.com/tickerNEWSau/status/1359991653243572224?s=20">Ticker</a>.</li>
+          </ul>
+        </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
 
-- This study has been featured on [Doherty Instite News](https://www.doherty.edu.au/news-events/news/mapping-an-effective-immune-response-to-covid-19), [Medical Xpress](https://medicalxpress.com/news/2021-02-effective-immune-response-covid-.html), the [Herald Sun](https://www.heraldsun.com.au/coronavirus/melbourne-experts-uncover-why-covid-affects-people-differently/news-story/ed5ffb9604c1b4db776503562e494f71), and [Ticker](https://twitter.com/tickerNEWSau/status/1359991653243572224?s=20).
-- Our [webinar](https://www.fluidigm.com/articles/presentation---mapping-dynamic-immunity-across-time-space-and-disease-state-using-high%E2%80%90dimensional-cytometry-technologies-and-analytics) from 2020 (Mapping Immunity Across Time, Space and Disease State) is featured on the Fluidigim ‘[COVID-19 resources](https://www.fluidigm.com/singlearticles/covid-19-resources)’ page.
-- Our mass cytometry protocols have been cited in a number of COVID-19 studies, including [Rodriguez et al. 2020](https://doi.org/10.1016/j.xcrm.2020.100078) and [Koutsakos et al. 2021](https://doi.org/10.1016/j.xcrm.2021.100208).
-- Panel design and analysis protocols that may be helpful in COVID-19 research can be found on the [resources](https://immunedynamics.github.io/resources) page.
+<br />
 
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+          <img src="https://pbs.twimg.com/media/E3fVnu9VgAo9BYl?format=jpg&name=4096x4096" width="3000" style="padding-top: 30px">
+      </td>
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+        <p><h2>Ongoing COVID-19 research</h2></p>
+        <p>
+          Our ongoing work in COVID-19 is interested in developing a more comprehensive understanding of how the immune response to SARS-CoV-2 leads to protection or immunopathology, with a particular focus on the role of the myeloid and innate immune system.
+        </p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<br />
 <br />
 
 **[Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre - applications in viral encephalitis and COVID-19](https://www.youtube.com/watch?v=DamU2mngEg8)**
