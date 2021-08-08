@@ -121,7 +121,7 @@ You can contact us via [email](mailto:thomas.ashhurst@sydney.edu.au) or on [Twit
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
         <a href="https://sydneycytometry.org.au/" target="_blank" rel="noopener noreferrer">
-                    <img height = "200px" src="https://images.squarespace-cdn.com/content/v1/4f5013cf24ac3afbd1aa0384/1449533180720-Q8AMXEWY5ZQNJRS5LB8K/Sydney+Cytometry+No+White+Space.png?format=1500w" style="padding-top: 5px">
+                    <img src="https://images.squarespace-cdn.com/content/v1/4f5013cf24ac3afbd1aa0384/1449533180720-Q8AMXEWY5ZQNJRS5LB8K/Sydney+Cytometry+No+White+Space.png?format=1500w" style="padding-top: 5px">
         </a>
       </td>
     </tr>
