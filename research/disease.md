@@ -19,7 +19,7 @@ Collectively, our central interest is in the comprehensive mapping of the immune
           <img src="https://www.apsf.org/wp-content/uploads/newsletters/2020/3502/coronavirus-covid-19.png" width="3000" style="padding-top: 30px">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-        <p><h3>SARS-CoV-2 and COVID-19 research</h3></p>
+        <p><b>SARS-CoV-2 and COVID-19 research</b></p>
         <p>
           The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has caused >101 million infections and 2.18 million deaths worldwide (as of January 28, 2021). Infection with SARS-CoV-2 results in a spectrum of clinical presentations, called coronavirus disease 2019 (COVID-19), ranging from asymptomatic to fatal disease. Our team began investigating the immune response to COVID-19 in March 2020, in collaboration with researchers at the <a href="https://www.doherty.edu.au/">Doherty Institute</a> and the <a href="https://www.unimelb.edu.au/">University of Melbourne</a>.
         </p>
@@ -42,7 +42,7 @@ Collectively, our central interest is in the comprehensive mapping of the immune
           <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Koutsakos%202021.png" width="3000" style="padding-top: 30px">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-        <p><h2>Mapping the immune dynamics of COVID-19</h2></p>
+        <p><b>Mapping the immune dynamics of COVID-19</b></p>
         <p>
           Our team played a key role in one of Australia's large COVID-19 studies, led by the Kedzierska laboratory at the Doherty Institute (<a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7">Koutsakos et al.</a> Pre-print: Oct 2020, published in <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7">Cell Reports Medicine</a>: Feb 2021). We developed and applyied <a href="https://immunedynamics.io/spectre/">high-dimensional analysis tools</a> to help comprehensively map the immune response to COVID-19, including a novel time-series analysis approach called <a href="https://immunedynamics.io/research/time-series/#tracksom">TrackSOM</a>. This study demonstrated that patients with severe disease exhibited an excessive and hyper-activated immune response, and was the first to show that T follicular helper cell responses could predict subsequent antibody levels, including neutralising activity of the antibody, a critical feature important for virus clearance and protection from infection. 
         </p>
@@ -69,7 +69,7 @@ Collectively, our central interest is in the comprehensive mapping of the immune
           <img src="https://pbs.twimg.com/media/E3fVnu9VgAo9BYl?format=jpg&name=4096x4096" width="3000" style="padding-top: 30px">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-        <p><h2>Ongoing COVID-19 research</h2></p>
+        <p><b>Ongoing COVID-19 research</b></p>
         <p>
           Our ongoing work in COVID-19 is interested in developing a more comprehensive understanding of how the immune response to SARS-CoV-2 leads to protection or immunopathology, with a particular focus on the role of the myeloid and innate immune system.
         </p>
