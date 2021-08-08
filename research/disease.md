@@ -6,6 +6,12 @@ permalink: /research/disease/
 
 Collectively, our central interest is in the comprehensive mapping of the immune response to inflammation and infectious disease at the single-cell level. We seek to apply multiple high-dimensional cytometry, single-cell, analysis approaches to facilitate a 'systems immunology' approach to our investigation. A particular focus of our group has been the study of immunopathology, where the immune response to infection may be a significant driver of disease.
 
+**Featured research areas:**
+
+1. [SARS-CoV-2 and COVID-19](https://immunedynamics.io/research/disease/#sars-cov-2-and-covid-19)
+2. [Viral encephalitis](https://immunedynamics.io/research/disease/#viral-encephalitis)
+3. [Viral and general immunology](https://immunedynamics.io/research/disease/#viral-and-general-immunology)
+
 <br />
 
 ## SARS-CoV-2 and COVID-19
