@@ -1,13 +1,27 @@
 ---
 layout: page
-title: ASI IgV Masterclass 2021
+title: ASI IgV Masterclass 2021 - workshops (Tuesday 26 October 2021)
 permalink: /workshops/masterclass2021
 ---
 
 ---
 
-As part of the Australia and New Zealand Society for Immunology (ASI) IgV Masterclass (25-26 October 2021), we will be running an online hands-on workshop on high-dimensional analysis approaches to investigate the immune response to COVID-19 in the blood and respiratory tract. Registrations will be open to both ASI members and non-members. Keep an eye on the ASI IgV Masterclass page for more information.
+As part of the Australia and New Zealand Society for Immunology (ASI) IgV Masterclass (25-26 October 2021), we will be running an online hands-on workshop on [high-dimensional analysis approaches]() to investigate the [immune response to COVID-19]() in the blood and respiratory tract. Specifically, we will be applying these approaches to profile these responses in peripheral blood and the respiratory tract, reproducing the types of analysis used in [Koustakous et al. 2021]() and [Zhang et al. 2021]().
 
+Two attendace formats are available:
+
+- <b>Interactive</b> (limited to 60 attendees): attendees will join a communal zoom session, and will follow the instructors in applying our pre-designed analysis workflows. Regular breaks will provide opportunities for attendees and instructors to discuss the analysis process and immunological findings resulting from the analysis. Interactive attendees will be given access to a 'virtual' computer with the required software pre-installed, or can use their own computers if preferred.
+
+- <b>Watching only</b> (unlimited attendees): attendess are able to watch a live-stream of the workshop.
+
+All attendee types will have access to the session recordings after the workshop has concluded.
+
+<br />
+
+<b>[MORE INFORMATION]()</b>  |  <b>[REGISTRATION]()</b>  |  <b>[CONTACT]()</b>
+
+<br />
+<br />
 <br />
 
 <h2>Workshop program (Tuesday 26-October)</h2>
