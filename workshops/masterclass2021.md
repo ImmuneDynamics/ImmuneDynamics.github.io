@@ -10,7 +10,7 @@ As part of the Australia and New Zealand Society for Immunology (ASI) IgV Master
 
 <br />
 
-<h2>Part 1. Introduction to high-dimensional cytometry analysis (9:30 am - 11:00 am)</h2>
+<h2>Workshop program (Tuesday 26-October)</h2>
 
 ---
 
