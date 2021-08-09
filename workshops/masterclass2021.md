@@ -17,7 +17,7 @@ As part of the Australia and New Zealand Society for Immunology (ASI) IgV Master
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/151793632/Factor%20plot%20-%20Population%20-%20plotted%20on%20UMAP_X%20by%20UMAP_Y.png?version=1&modificationDate=1603392211461&api=v2" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
+            <img src="https://camo.githubusercontent.com/6e6307d8b5e39295e37b4b68392a67b4e781593a3279ebfc917587be157681c3/68747470733a2f2f7777772e722d70726f6a6563742e6f72672f526c6f676f2e706e67" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
         </a>
     </div>
 </div>
@@ -40,7 +40,7 @@ In this session, we will work through a tutorial designed to introduce users to 
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/151793632/Factor%20plot%20-%20Population%20-%20plotted%20on%20UMAP_X%20by%20UMAP_Y.png?version=1&modificationDate=1603392211461&api=v2" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
+            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Koutsakos%202021.png" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
         </a>
     </div>
 </div>
@@ -65,7 +65,7 @@ In this session we will investigate immune response to COVID-19 in the blood, in
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/151793632/Factor%20plot%20-%20Population%20-%20plotted%20on%20UMAP_X%20by%20UMAP_Y.png?version=1&modificationDate=1603392211461&api=v2" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
+            <img src="https://camo.githubusercontent.com/8a7d11f29281b6940faf00480e7ca84065a7b8915af525c23b2f9cafe492ba54/68747470733a2f2f77696b692e63656e74656e6172792e6f72672e61752f646f776e6c6f61642f6174746163686d656e74732f3138363834313439312f696d616765323032302d382d32305f31342d34362d392e706e673f76657273696f6e3d31266d6f64696669636174696f6e446174653d31363133383931323832353130266170693d7632" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
         </a>
     </div>
 </div>
