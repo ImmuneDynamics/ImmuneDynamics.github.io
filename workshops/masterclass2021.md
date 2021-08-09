@@ -33,7 +33,7 @@ All attendee types will have access to the session recordings after the workshop
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-          <img src="https://www.apsf.org/wp-content/uploads/newsletters/2020/3502/coronavirus-covid-19.png" width="300">
+          <img src="https://www.apsf.org/wp-content/uploads/newsletters/2020/3502/coronavirus-covid-19.png" width="300" style="padding-top: 30px>
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b><span style="font-size: 17px">
@@ -62,7 +62,7 @@ All attendee types will have access to the session recordings after the workshop
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-          <img src="https://www.r-project.org/Rlogo.png" width="300">
+          <img src="https://www.r-project.org/Rlogo.png" width="300" style="padding-top: 30px>
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b><span style="font-size: 17px">
@@ -96,7 +96,7 @@ All attendee types will have access to the session recordings after the workshop
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Koutsakos%202021.png" width="300">
+          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Koutsakos%202021.png" width="300" style="padding-top: 30px>
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b><span style="font-size: 17px">
@@ -131,7 +131,7 @@ All attendee types will have access to the session recordings after the workshop
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-          <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-46-9.png?version=1&modificationDate=1613891282510&api=v2" width="300">
+          <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-46-9.png?version=1&modificationDate=1613891282510&api=v2" width="300" style="padding-top: 30px>
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #000;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b><span style="font-size: 17px">
