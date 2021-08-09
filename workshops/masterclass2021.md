@@ -18,10 +18,10 @@ As part of the Australia and New Zealand Society for Immunology (ASI) IgV Master
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:middle">
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:middle">
           <img src="https://www.apsf.org/wp-content/uploads/newsletters/2020/3502/coronavirus-covid-19.png" width="300">
       </td>
-      <td style="padding-left:.75em;width:66%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b><span style="font-size: 17px">
           Introduction
          </span></b></p>
@@ -45,10 +45,10 @@ As part of the Australia and New Zealand Society for Immunology (ASI) IgV Master
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:middle">
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:middle">
           <img src="https://www.r-project.org/Rlogo.png" width="300">
       </td>
-      <td style="padding-left:.75em;width:66%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b><span style="font-size: 17px">
           Session #1: Getting started with cytometry analysis using Spectre and R
          </span></b></p>
@@ -79,10 +79,10 @@ As part of the Australia and New Zealand Society for Immunology (ASI) IgV Master
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:middle">
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:middle">
           <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Koutsakos%202021.png" width="300">
       </td>
-      <td style="padding-left:.75em;width:66%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b><span style="font-size: 17px">
           Session #2: High-dimensional analysis of immune responses to COVID-19 in <i>perhiperhal blood</i>
          </span></b></p>
@@ -114,10 +114,10 @@ As part of the Australia and New Zealand Society for Immunology (ASI) IgV Master
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:middle">
+      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:middle">
           <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-46-9.png?version=1&modificationDate=1613891282510&api=v2" width="300">
       </td>
-      <td style="padding-left:.75em;width:66%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #000;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #000;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
         <p><b><span style="font-size: 17px">
           Session #3: High-dimensional analysis of immune responses to COVID-19 in the <i>respiratory tract</i>
          </span></b></p>
