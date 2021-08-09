@@ -14,70 +14,130 @@ As part of the Australia and New Zealand Society for Immunology (ASI) IgV Master
 
 ---
 
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://camo.githubusercontent.com/6e6307d8b5e39295e37b4b68392a67b4e781593a3279ebfc917587be157681c3/68747470733a2f2f7777772e722d70726f6a6563742e6f72672f526c6f676f2e706e67" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
-        </a>
-    </div>
-</div>
 
-In this session, we will work through a tutorial designed to introduce users to the concepts of high-dimensional analysis for cytometry data, including clustering (e.g. FlowSOM) and dimensionality reduction (e.g. tSNE, UMAP), as well as various plotting and statistical analysis functions.
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://www.apsf.org/wp-content/uploads/newsletters/2020/3502/coronavirus-covid-19.png" width="300">
+      </td>
+      <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b><span style="font-size: 17px">
+          Introduction
+         </span></b></p>
+         <p>
+          Time: 9:30 am - 9:45 am (15 min, Zoom)
+        </p>
+        <p>
+          This day will start-off with some opening remarks on COVID-19 and respiratory immunology from Thomas Ashhurst, Oanh Nguyen, and Katherine Kedzierska.
+        </p>
+          <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass/" target="_blank" rel="noopener noreferrer">
+            <b><span style="font-size: 16px">
+              MORE INFO
+             </span></b>
+          </a>
+      </td>
+      </tr>
+    </tbody>
+</table>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
-<h2>Part 2. Analysis of blood-borne immune responses to COVID-19 (11:30 am - 1:30 pm)</h2>
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://www.r-project.org/Rlogo.png" width="300">
+      </td>
+      <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b><span style="font-size: 17px">
+          Session #1: Getting started with cytometry analysis using Spectre and R
+         </span></b></p>
+         <p>
+          Time: 9:45 am - 11:15 am (1 hr 30 min, Zoom)
+        </p>
+         <p>
+          Lead instructors: Givanna Putri, Felix Marsh-Wakefield
+        </p>
+        <p>
+          In this session, instructors will introduce attendees to methods of high-dimensional analysis <a href="https://immunedynamics.io/spectre/getting-started/">with R/RStudio</a>. Specifically we will use the R package <a href="https://immunedynamics.io/spectre/">Spectre</a>, and will explore computational approaches such as clustering (e.g. using FlowSOM) and dimensionality reduction (e.g. using tSNE or UMAP).
+        </p>
+          <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass/" target="_blank" rel="noopener noreferrer">
+            <b><span style="font-size: 16px">
+              MORE INFO
+             </span></b>
+          </a>
+      </td>
+      </tr>
+    </tbody>
+</table>
 
----
 
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Koutsakos%202021.png" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
-        </a>
-    </div>
-</div>
 
-In this session we will investigate immune response to COVID-19 in the blood, in patient samples from healthy controls, mild COVID-19, and severe COVID-19.
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
-<h2>Part 3. Analysis of respiratory immune responses to COVID-19 (2:30 pm - 4:00 pm)</h2>
 
----
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Koutsakos%202021.png" width="300">
+      </td>
+      <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b><span style="font-size: 17px">
+          Session #2: High-dimensional analysis of immune responses to COVID-19 in <i>perhiperhal blood</i>
+         </span></b></p>
+         </span></b></p>
+         <p>
+          Time: 11:45 pm - 1:30 pm (1 hr 45 min, Zoom)
+        </p>
+        <p>
+          Lead instructors: Felix Marsh-Wakefield, Jennifer Habel
+        </p>
+        <p>
+          In this session we will be investigating the immune response to COVID-19 in perihperal blood. We will compare immune responses in healthy controls, convalescent patients, and patients with mild COVID-19 or severe COVID-19. 
+        </p>
+          <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass/" target="_blank" rel="noopener noreferrer">
+            <b><span style="font-size: 16px">
+              MORE INFO
+             </span></b>
+          </a>
+      </td>
+      </tr>
+    </tbody>
+</table>
 
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://camo.githubusercontent.com/8a7d11f29281b6940faf00480e7ca84065a7b8915af525c23b2f9cafe492ba54/68747470733a2f2f77696b692e63656e74656e6172792e6f72672e61752f646f776e6c6f61642f6174746163686d656e74732f3138363834313439312f696d616765323032302d382d32305f31342d34362d392e706e673f76657273696f6e3d31266d6f64696669636174696f6e446174653d31363133383931323832353130266170693d7632" alt="icon" width="300" align="left" style="padding-left: 0px; padding-right: 10px; padding-top: 5px; padding-bottom: 10px">
-        </a>
-    </div>
-</div>
 
-In this session we will investigate immune response to COVID-19 in the respiratory tract, analysing cells isolated from patients intubated with a endotracheal tube in treatment of severe COVID-19.
 
-<br />
-<br />
-<br />
-<br />
 
-<br />
-<br />
-<br />
-<br />
+
+
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-46-9.png?version=1&modificationDate=1613891282510&api=v2" width="300">
+      </td>
+      <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b><span style="font-size: 17px">
+          Session #3: High-dimensional analysis of immune responses to COVID-19 in the <i>respiratory tract</i>
+         </span></b></p>
+        <p>
+          Time: 2:30 pm - 4:15 pm (1 hr 45 min, Zoom)
+        </p>
+        <p>
+          Lead instructors: Thomas Ashhurst, Wuji Zhang
+        </p>
+        <p>
+          In this session we will be investigating the immune response to COVID-19 in the respiratory tract, from samples acquired via an endotracheal tube. In particular we will explore a variety of myeloid cells that infiltrate the respiratory tract via the blood, including macrophages and neutrophils, and how they compare to similar cells in the blood.
+        </p>
+          <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass/" target="_blank" rel="noopener noreferrer">
+            <b><span style="font-size: 16px">
+              MORE INFO
+             </span></b>
+          </a>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
