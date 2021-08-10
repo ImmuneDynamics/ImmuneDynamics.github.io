@@ -14,7 +14,6 @@ My publications consist of [1 book](https://immunedynamics.io/thomas-ashhurst/pu
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/cd9d6c3a93fa1dfe723622955b19be00b3729893/custom_SVG/Publons.svg" alt="Logo" width="15"> [Publons](https://publons.com/researcher/3719456/thomas-m-ashhurst/). I have published [1 protocol](https://immunedynamics.io/thomas-ashhurst/publications/#protocols) with [protocols.io](https://www.protocols.io/) and [1 newsletter](https://immunedynamics.io/thomas-ashhurst/publications/#newsletters) article with the [Australia and New Zealand Society for Immunology](https://www.immunology.org.au/). My software toolkit, [Spectre](https://immunedynamics.io/spectre/), has been cited in [26 publications](https://immunedynamics.io/spectre/metrics/) in prestigious journals such as [Cell](https://immunedynamics.io/spectre/metrics/) and [Nature Immunology](https://immunedynamics.io/spectre/metrics/), and is a featured analysis package for the [Human Cell Atlas](https://data.humancellatlas.org/analyze/methods/spectre) project.
 
 <br />
-<br />
 
 ## Books
 
