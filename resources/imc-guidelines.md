@@ -4,7 +4,7 @@ Here we provide some guidelines for getting started with Imaging Mass Cytometry.
 
 ---
 
-Imaging mass cytometry (IMC) using the ‘Hyperion’ system from Fluidigm allows for very high-dimensional analysis of tissue sections, by combining laser-ablation and mass cytometry. Slides are labelled with metal-conjugated antibodies against a variety of targets, and an ablation laser vaporises spots on the tissue section, 1 um at a time. The plume of material vaporised spot is drawn into the CyTOF, where the relative abundance of each distinct metal tag is measured. As the desired region is progressively ablated, an image comprised of the metal abundance is stitched together, resulting in >30 parameter ‘images’. The Hyperion acquires data at approximately 0.75 mm2 per hour.
+Imaging mass cytometry (IMC) using the ‘Hyperion’ system from Fluidigm allows for very high-dimensional analysis of tissue sections, by combining laser-ablation and mass cytometry. Slides are labelled with metal-conjugated antibodies against a variety of targets, and an ablation laser vaporises spots on the tissue section, 1 um at a time. The plume of material vaporised spot is drawn into the CyTOF, where the relative abundance of each distinct metal tag is measured. As the desired region is progressively ablated, an image comprised of the metal abundance is stitched together, resulting in >30 parameter ‘images’. The Hyperion acquires data at approximately 0.75 mm^2 per hour.
 
 <br />
 
