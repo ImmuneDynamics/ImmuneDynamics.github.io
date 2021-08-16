@@ -42,7 +42,7 @@ permalink: /workshops/test
   <tbody>
 <!-- FIRST ROW: TITLE --> 
     <tr style="border-top:1px solid grey">
-      <td style="padding-left:.75em;padding-right:.75em;width:100%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+      <td style="padding-left:.75em;padding-right:.75em;width:100%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#96C3EB">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">
           Title
         </div>
