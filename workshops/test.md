@@ -49,6 +49,12 @@ permalink: /workshops/test
       </td>
     </tr>
 <!-- FOURTH ROW: Description --> 
+        <tr style="border-top:1px solid grey">
+      <td style="padding-left:.75em;padding-right:.75em;width:100%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#96C3EB">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">
+        </div>
+      </td>
+    </tr>
     </tbody>
 </table>
 
@@ -63,6 +69,14 @@ permalink: /workshops/test
             <p><b>Talk title</b></p>
             <p><i>Speaker name</i></p>
             <p>Details</p>
+          </td>
+     </tr>
+<!-- FOURTH ROW: Description --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+            Time block
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
           </td>
      </tr>
     </tbody>
