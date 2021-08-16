@@ -23,7 +23,7 @@ permalink: /workshops/test
       </td>
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <b>Talk topic</b>
-        <i>Speaker</>
+        <i>Speaker</i>
           Text text text
       </td>
       </tr>
