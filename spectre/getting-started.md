@@ -4,6 +4,10 @@ title: Getting started
 permalink: /spectre/getting-started/
 ---
 
+To receive updates, you can join our mailing list [here](https://forms.gle/vrg58485Ri5wagRr7).
+
+<br />
+
 You can install Spectre directly **using R and RStudio**, or install a pre-built R environment containing Spectre **using Docker** (this is a good option if you have trouble installing Spectre directly with R/RStudio). 
 
 <br/>
