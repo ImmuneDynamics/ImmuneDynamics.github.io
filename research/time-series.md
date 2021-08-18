@@ -34,7 +34,7 @@ To address this, we developed [ChronoClust](https://www.sciencedirect.com/scienc
 
 **TrackSOM** ([paper](https://www.biorxiv.org/content/10.1101/2021.06.08.447468v1), [Github](https://github.com/ghar1821/TrackSOM)).
 
-[TrackSOM worked example](https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/research/time-series_workflow/TrackSOM-workflow.html)
+[TrackSOM worked example](https://immunedynamics.github.io/research/time-series_workflow/TrackSOM-workflow.html)
 
 Building on ChronoClust’s success, we sought to determine whether its tracking methodology could be used to enhance an existing algorithm.
 Following our [previous clustering algorithm benchmarking study](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab038/6122691) which found FlowSOM clustering algorithm to be extremely effective in clustering benchmark single time-point cytometry data, we developed **TrackSOM** ([paper](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7), [Github](https://github.com/ghar1821/TrackSOM)), a temporal clustering and tracking algorithm which fuses ChronoClust's tracking methodology with the clustering prowess of FlowSOM.
