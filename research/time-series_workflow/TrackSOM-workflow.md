@@ -7,19 +7,14 @@ output:
     toc_float:
       collapsed: false
       smooth_scroll: false
+  github_document:
+    toc: yes
 author: Givanna Putri
 vignette: >
   %\VignetteIndexEntry{TrackSOM-workflow}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
-
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>"
-)
-```
 
 In this tutorial, we outline a step by step instruction on how to use TrackSOM to cluster and track time-series data.
 For simplicity, we will use the synthetic dataset outlined in our manuscript uploaded to [bioArxiv](https://www.biorxiv.org/content/10.1101/2021.06.08.447468v1).
