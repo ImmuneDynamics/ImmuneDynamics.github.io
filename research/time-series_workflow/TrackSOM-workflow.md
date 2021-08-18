@@ -342,25 +342,35 @@ Double check the data is read in properly:
 head(dat)
 ```
 
-    ##            x         y         z timepoint
-    ## 1:  9.598217 11.728198 11.382064      Mock
-    ## 2:  8.937549  8.653750 11.107314      Mock
-    ## 3:  9.632932  9.657278  9.115804      Mock
-    ## 4:  9.770393 12.478038 11.451082      Mock
-    ## 5: 30.426699 31.290929 28.901204      Mock
-    ## 6: 30.789497 30.069909 30.767145      Mock
+<div class="kable-table">
+
+|         x |         y |         z | timepoint |
+|----------:|----------:|----------:|:----------|
+|  9.598217 | 11.728198 | 11.382064 | Mock      |
+|  8.937549 |  8.653750 | 11.107314 | Mock      |
+|  9.632932 |  9.657278 |  9.115804 | Mock      |
+|  9.770393 | 12.478038 | 11.451082 | Mock      |
+| 30.426699 | 31.290929 | 28.901204 | Mock      |
+| 30.789497 | 30.069909 | 30.767145 | Mock      |
+
+</div>
 
 ``` r
 tail(dat)
 ```
 
-    ##            x         y         z timepoint
-    ## 1:  7.954781  9.241713  9.429919     SYN-4
-    ## 2: 21.234807 30.522073 30.590687     SYN-4
-    ## 3:  9.703690  8.319128  9.579323     SYN-4
-    ## 4: 17.654003 30.891041 29.390515     SYN-4
-    ## 5:  9.089960  9.744563 12.483508     SYN-4
-    ## 6: 36.910728 29.551236 29.926378     SYN-4
+<div class="kable-table">
+
+|         x |         y |         z | timepoint |
+|----------:|----------:|----------:|:----------|
+|  7.954781 |  9.241713 |  9.429919 | SYN-4     |
+| 21.234807 | 30.522073 | 30.590687 | SYN-4     |
+|  9.703689 |  8.319128 |  9.579323 | SYN-4     |
+| 17.654003 | 30.891041 | 29.390515 | SYN-4     |
+|  9.089960 |  9.744563 | 12.483508 | SYN-4     |
+| 36.910728 | 29.551236 | 29.926378 | SYN-4     |
+
+</div>
 
 To run `ConcatenateClusteringDetails`, you need to pass the following
 parameters:
@@ -386,20 +396,18 @@ Inspect the content:
 head(dat.clust)
 ```
 
-    ##            x         y         z timepoint TrackSOM_cluster
-    ## 1:  9.598217 11.728198 11.382064      Mock               62
-    ## 2:  8.937549  8.653750 11.107314      Mock               53
-    ## 3:  9.632932  9.657278  9.115804      Mock               86
-    ## 4:  9.770393 12.478038 11.451082      Mock               61
-    ## 5: 30.426699 31.290929 28.901204      Mock               16
-    ## 6: 30.789497 30.069909 30.767145      Mock                6
-    ##    TrackSOM_metacluster TrackSOM_metacluster_lineage_tracking
-    ## 1:                    2                                     B
-    ## 2:                    2                                     B
-    ## 3:                    2                                     B
-    ## 4:                    2                                     B
-    ## 5:                    1                                     A
-    ## 6:                    1                                     A
+<div class="kable-table">
+
+|         x |         y |         z | timepoint | TrackSOM_cluster | TrackSOM_metacluster | TrackSOM_metacluster_lineage_tracking |
+|----------:|----------:|----------:|:----------|-----------------:|:---------------------|:--------------------------------------|
+|  9.598217 | 11.728198 | 11.382064 | Mock      |               62 | 2                    | B                                     |
+|  8.937549 |  8.653750 | 11.107314 | Mock      |               53 | 2                    | B                                     |
+|  9.632932 |  9.657278 |  9.115804 | Mock      |               86 | 2                    | B                                     |
+|  9.770393 | 12.478038 | 11.451082 | Mock      |               61 | 2                    | B                                     |
+| 30.426699 | 31.290929 | 28.901204 | Mock      |               16 | 1                    | A                                     |
+| 30.789497 | 30.069909 | 30.767145 | Mock      |                6 | 1                    | A                                     |
+
+</div>
 
 The function attaches extra 3 columns:
 
@@ -481,7 +489,8 @@ list.files()
     ## [10] "Timeseries_heatmap_by_z.pdf"         
     ## [11] "timeseries_heatmap_edges_details.csv"
     ## [12] "timeseries_heatmap_node_details.csv" 
-    ## [13] "TrackSOM-workflow.Rmd"
+    ## [13] "TrackSOM-workflow.R"                 
+    ## [14] "TrackSOM-workflow.Rmd"
 
 In this example, the plots are saved as PDF files. This can be changed,
 e.g. to save the plots as PNG files, by specifying the desired file
@@ -539,7 +548,8 @@ list.files()
     ## [10] "Timeseries_heatmap_by_z.pdf"         
     ## [11] "timeseries_heatmap_edges_details.csv"
     ## [12] "timeseries_heatmap_node_details.csv" 
-    ## [13] "TrackSOM-workflow.Rmd"
+    ## [13] "TrackSOM-workflow.R"                 
+    ## [14] "TrackSOM-workflow.Rmd"
 
 In this example, the plots are saved as PDF files. This can be changed,
 e.g. to save the plots as PNG files, by specifying the desired file
