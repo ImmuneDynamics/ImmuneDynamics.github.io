@@ -4,6 +4,10 @@ title: Spectre object
 permalink: /spectre/object/
 ---
 
+Notes on the design of the 'Spectre' object.
+
+<br />
+
 ## Spectre v1
 
 ---
