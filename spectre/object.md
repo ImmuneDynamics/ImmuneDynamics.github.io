@@ -149,15 +149,10 @@ For a dataset 'dat':
 
 <br />
 
-```dat@analysis```: is a list containing any kind of derived analysis. E.g. Clusters, dimensionality reduction coordinates, cluster annotations, etc.
+```dat@analysis```: is a list containing any kind of derived analysis. E.g. Clusters, dimensionality reduction coordinates, cluster annotations, etc. In the image below they are all stored in one table, but in the updated version they are stored in a similar maner to the data above (e.g. ```dat@analysis$FlowSOM```, ```dat@analysis$UMAP```)
 
 ![image](https://user-images.githubusercontent.com/11766139/129833493-e901c3d7-4231-40cb-98cb-6dc3835d7d9b.png)
 
-<br />
-
-
-
-...
 
 <br />
 <br />
