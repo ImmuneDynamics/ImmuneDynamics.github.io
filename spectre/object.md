@@ -135,7 +135,13 @@ The simple data structure in Spectre v1 is one of the most valued features of ou
 
 In Spectre v2, we are introducing the 'Spectre object'. The objective is to prioritise simplicity, staying true to the intent of the simple data.table structure used in v1, but incorporating a low level of organisation to facilitate the management of any type of single-cell data. We attempt to stay true to the simple table-oriented design from Spectre v1. To implement this, we have created a simple list structure, which essentially splits up the table into different groups based on columns.
 
-For a dataset 'dat':
+For a dataset 'dat':, running ```dat``` would return the following:
+
+![image](https://user-images.githubusercontent.com/11766139/129833472-44b6c4f6-d23c-436f-bc3d-a6d8e8199ae4.png)
+![image](https://user-images.githubusercontent.com/11766139/129833484-14a8048d-7312-4c9c-b509-07da0d0bbf78.png)
+![image](https://user-images.githubusercontent.com/11766139/129833493-e901c3d7-4231-40cb-98cb-6dc3835d7d9b.png)
+
+This is a simple list with three slots: ```meta```, ```data```, and ```analysis```.
 
 ```dat@meta```: contains row metadata. E.g. sample names, group names, batch names, etc.
 
