@@ -159,6 +159,9 @@ This is a simple list with three slots: ```meta```, ```data```, and ```analysis`
 
 ![image](https://user-images.githubusercontent.com/11766139/129833493-e901c3d7-4231-40cb-98cb-6dc3835d7d9b.png)
 
+<br />
+
+As a result, the functions work in largely the same way, but they can now be directed to a specific dataset (e.g. ```run.umap(cell.dat, 'asinh', cols)``` etc).
 
 <br />
 <br />
