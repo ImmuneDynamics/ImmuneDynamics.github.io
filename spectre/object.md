@@ -6,6 +6,13 @@ permalink: /spectre/object/
 
 Notes on the design of the 'Spectre' object.
 
+<pre>
+  <code>
+    p { color: red; }
+    body { background-color: #eee; }
+  </code>
+</pre>
+
 <br />
 
 ## Spectre v1
