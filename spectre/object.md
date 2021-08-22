@@ -8,8 +8,8 @@ Notes on the design of the 'Spectre' object.
 
 <pre>
   <code>
-    p { color: red; }
-    body { background-color: #eee; }
+    # Comment
+    code
   </code>
 </pre>
 
