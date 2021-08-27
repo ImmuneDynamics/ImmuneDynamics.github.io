@@ -541,11 +541,8 @@ footer {
     overflow: scroll;
 }
 
-pre {
-  overflow-x: scroll;
-}
-
 pre code {
+  overflow-x: scroll;
   background-color: #eee;
   border: 1px solid #999;
   display: block;
