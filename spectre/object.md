@@ -6,13 +6,6 @@ permalink: /spectre/object/
 
 Notes on the design of the 'Spectre' object.
 
-<pre>
-  <code>
-    # Comment
-    code
-  </code>
-</pre>
-
 <br />
 
 ## Spectre v1
