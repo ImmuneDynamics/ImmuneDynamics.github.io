@@ -6,13 +6,6 @@ permalink: /spectre/object/
 
 Notes on the design of the 'Spectre' object.
 
-<pre>
-  <code>
-    # Comment
-    code
-  </code>
-</pre>
-
 <br />
 
 ## Spectre v1
@@ -23,12 +16,15 @@ Spectre v1 uses a simple table structure to store data, based on the data.table 
 
 For example, this demo dataset consists of 169004 cells, with 9 cellular markers, from 12 samples:
 
-```
+<pre>
+  <code>
 cell.dat <- Spectre::demo.start
 cell.dat
-```
+  </code>
+</pre>
 
-```
+<pre>
+  <code>
                  FileName      NK11        CD3     CD45       Ly6G    CD11b      B220      CD8a       Ly6C       CD4
      1:   CNS_Mock_01.csv   42.3719  40.098700  6885.08  -344.7830 14787.30  -40.2399   83.7175   958.7000  711.0720
      2:   CNS_Mock_01.csv   42.9586 119.014000  1780.29  -429.6650  5665.73   86.6673   34.7219   448.2590  307.2720
@@ -41,18 +37,24 @@ cell.dat
 169002: CNS_WNV_D7_06.csv -184.2910  -9.445650 11842.60   -97.9383 17237.00  123.4760 -219.9320  8923.4000 -453.4640
 169003: CNS_WNV_D7_06.csv  248.3860 229.986000 32288.20  -681.1630 19255.80 -656.0540 -201.5880 10365.7000   61.6765
 169004: CNS_WNV_D7_06.csv  738.9810  95.470300 46185.10 -1004.6000 22957.80 -661.6280   72.3356  9704.4700  -31.8532
-```
+  </code>
+</pre>
+
+
 
 When data processing (e.g. asinh transformation) or analysis (r.g. clustering, dimensionality reduction) is performed, new columns are simply added to the table. 
 
 For example, to asinh transform the cellular columns:
 
-```
+<pre>
+  <code>
 cols <- names(cell.dat)[c(2:10)]
 cell.dat <- do.asinh(cell.dat, cols)
-```
+  </code>
+</pre>
 
-```
+<pre>
+  <code>
                  FileName      NK11        CD3     CD45       Ly6G    CD11b      B220      CD8a       Ly6C       CD4
      1:   CNS_Mock_01.csv   42.3719  40.098700  6885.08  -344.7830 14787.30  -40.2399   83.7175   958.7000  711.0720
      2:   CNS_Mock_01.csv   42.9586 119.014000  1780.29  -429.6650  5665.73   86.6673   34.7219   448.2590  307.2720
@@ -78,11 +80,13 @@ cell.dat <- do.asinh(cell.dat, cols)
 169002: -0.18326344 -0.009445510   3.166628 -0.09778240    3.541046  0.123164374 -0.21819650  2.8849492 -0.43920651
 169003:  0.24590035  0.228005328   4.168089 -0.63716643    3.651633 -0.616293228 -0.20024703  3.0339681  0.06163746
 169004:  0.68430866  0.095325863   4.525922 -0.88462254    3.827279 -0.620947819  0.07227267  2.9683779 -0.03184782
-```
+  </code>
+</pre>
 
 Then to add samples annotations, clusters, and dimensionality reduciton coordinates:
 
-```
+<pre>
+  <code>
                  FileName      NK11        CD3     CD45       Ly6G    CD11b      B220      CD8a       Ly6C       CD4
      1:   CNS_Mock_01.csv   42.3719  40.098700  6885.08  -344.7830 14787.30  -40.2399   83.7175   958.7000  711.0720
      2:   CNS_Mock_01.csv   42.9586 119.014000  1780.29  -429.6650  5665.73   86.6673   34.7219   448.2590  307.2720
@@ -121,13 +125,16 @@ Then to add samples annotations, clusters, and dimensionality reduciton coordina
 169002:  12_WNV_06   WNV     A             133                   3 Infil Macrophages -2.3592682 -2.429467
 169003:  12_WNV_06   WNV     A             133                   3 Infil Macrophages -1.9531062 -4.049705
 169004:  12_WNV_06   WNV     A             103                   3 Infil Macrophages -0.7404098 -4.686928
-```
+  </code>
+</pre>
 
 This simple structure is very easy to interact with and manage for high-dimensional cytometry data. It means that various plotting functions are also easy to apply. For example, to make a dimensionality reduction plot:
 
-```
+<pre>
+  <code>
 make.colour.plot(cell.dat, 'UMAP_X', 'UMAP_Y', 'FlowSOM_metacluster'
-```
+</code>
+</pre>
 
 ![image](https://user-images.githubusercontent.com/11766139/130011484-d80e9a5b-c958-4002-9f85-66122d9b8d4a.png)
 

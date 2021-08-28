@@ -542,10 +542,11 @@ footer {
 }
 
 pre code {
+  overflow-x: scroll;
   background-color: #eee;
   border: 1px solid #999;
   display: block;
-  padding: 20px;
+  padding: 10px;
 }
 
 
