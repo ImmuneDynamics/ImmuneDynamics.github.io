@@ -1,0 +1,148 @@
+---
+title: "Spectre v2 object"
+author: "Thomas Ashhurst"
+date: "28/08/2021"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
+
+[<- Back to Spectre home page](https://immunedynamics.io/spectre)
+
+<br />
+<br />
+
+
+
+
+## Introduction
+
+---
+
+[Spectre](https://immunedynamics.io/spectre/) is an R package and computational toolkit that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional cytometry or imaging data from different batches or experiments. Spectre streamlines the analytical stages of raw data pre-processing, batch alignment, data integration, clustering, dimensionality reduction, visualisation and population labelling, as well as quantitative and statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by data and laboratory scientists. 
+
+<br />
+<br />
+
+
+
+
+## Spectre v1: data.table
+
+---
+
+Spectre v1 uses a simple table structure to store data, based on the `data.table` framework. Here cells = rows, and markers/genes = columns (as is the convention for cytometry data). For example, this demo dataset consists of 169004 cells, with 9 cellular markers, from 12 samples:
+
+```{r s1, results = 'hide', message=FALSE}
+library('Spectre')
+```
+
+```{r s2, results = 'hide', message=FALSE}
+cell.dat <- Spectre::demo.start
+cell.dat
+```
+
+```{r s3, echo=FALSE}
+cell.dat
+```
+
+When data processing (e.g. asinh transformation) or analysis (r.g. clustering, dimensionality reduction) is performed, new columns are simply added to the table.
+
+For example, to asinh transform the cellular columns:
+
+```{r s4, message=FALSE}
+cols <- names(cell.dat)[c(2:10)]
+cols
+```
+
+<!-- ```{r sec4.5, echo=FALSE} -->
+<!-- cols -->
+<!-- ``` -->
+
+```{r s5, message=FALSE}
+cell.dat <- do.asinh(cell.dat, cols)
+cell.dat
+```
+
+Then to add samples annotations, clusters, and dimensionality reduciton coordinates:
+
+```{r 6, echo=FALSE}
+Spectre::demo.clustered
+```
+
+This simple structure is very easy to interact with and manage for high-dimensional cytometry data. It means that various plotting functions are also easy to apply. For example, to make a dimensionality reduction plot:
+
+```{r 7, results = 'hide', message=FALSE, echo = FALSE}
+cell.dat <- Spectre::demo.clustered
+cell.dat
+```
+
+```{r s9, results = 'hide', message=FALSE}
+make.colour.plot(Spectre::demo.clustered, 'UMAP_X', 'UMAP_Y', 'FlowSOM_metacluster', add.label = TRUE)
+```
+
+
+
+
+
+<br />
+<br />
+
+## Spectre v2: 'Spectre' object
+
+---
+
+The simple data structure in Spectre v1 is one of the most valued features of our users, as the simplicity makes interaction straightforward. While this works for datasets where the feature columns (i.e. 'markers' etc) are in the 10s-100s. However, when managing single-cell sequencing data, the number of cellular features will reach into the 1000's or 10,000's. Additionally, storing RNA sequencing data as a sparse matrix is important to save on memory consumption, which is not currently possible with data.table. Moreover, multi-omic data will include columns/features of different data types, adding to the complexity. The objects in popular single-cell analysis tools (such as Seurat or the SinglCellExperiment objects) provide more structure, but at the cost of added complexity.
+
+In Spectre v2, we are introducing the 'Spectre object'. The objective is to prioritise simplicity, staying true to the intent of the simple data.table structure used in v1, but incorporating a low level of organisation to facilitate the management of any type of single-cell data. We attempt to stay true to the simple table-oriented design from Spectre v1. To implement this, we have created a simple list structure, which essentially splits up the table into different groups based on columns.
+
+```{r s10, results = 'hide', message=FALSE, echo=FALSE}
+spectre <- setClass(Class = 'spectre', 
+                    slots = c(meta = 'data.table',
+                              data = 'list', 
+                              analysis = 'list',
+                              info = 'list'
+                    ))
+
+create.spectre <- function(){
+  dat <- spectre()
+  return(dat)
+}
+
+cell.dat <- create.spectre()
+
+cell.dat@meta <- Spectre::demo.clustered[,c(1,20:22)]
+
+cell.dat@data$cyto <- Spectre::demo.clustered[,c(2:10)]
+cell.dat@data$asinh <- Spectre::demo.clustered[,c(11:19)]
+names(cell.dat@data$asinh) <- gsub('_asinh', '', names(cell.dat@data$asinh))
+
+cell.dat@analysis$FlowSOM <- Spectre::demo.clustered[,c(23:24)]
+cell.dat@analysis$UMAP <- Spectre::demo.clustered[,c(26:27)]
+cell.dat@analysis$Annotations <- Spectre::demo.clustered[,c(25)]
+
+```
+
+For a dataset 'cell.dat':, running dat would return the following:
+
+`dat@meta`: is a `data.table` containing row (cell) metadata. E.g. sample names, group names, batch names, etc.
+
+![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/protocols/Screen%20Shot%202021-08-28%20at%202.09.53%20pm.png?raw=true)
+
+`dat@data`: is a list containing cellular data. E.g. raw data, transformed/scaled data. This can be any form of single-cell data, including cytometry or single-cell sequencing. Sequencing data is stored as a sparse matrix, rather than a data.table.
+
+![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/protocols/Screen%20Shot%202021-08-28%20at%202.09.58%20pm.png?raw=true)
+
+`dat@analysis`: is a list containing any kind of derived analysis. E.g. Clusters, dimensionality reduction coordinates, cluster annotations, etc.
+
+![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/protocols/Screen%20Shot%202021-08-28%20at%202.10.05%20pm.png?raw=true)
+
+As a result, the functions work in largely the same way, but they can now be directed to a specific dataset (e.g. `run.umap(cell.dat, 'asinh', cols)` etc).

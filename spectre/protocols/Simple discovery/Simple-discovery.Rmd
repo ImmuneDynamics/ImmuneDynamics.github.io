@@ -1,0 +1,274 @@
+---
+title: "Spectre - simple discovery workflow"
+author: "Thomas Ashhurst, Felix Marsh-Wakefield, Givanna Putri"
+date: "14/03/2021"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
+
+[<- Back to Spectre home page](https://immunedynamics.io/spectre)
+
+<br />
+<br />
+
+
+
+
+
+
+## Introduction
+
+---
+
+#### Overview
+
+Here we provide a worked example of a 'simple' discovery analysis workflow, where the entire process (data prep, clustering, dimensionality reduction, cluster annotation, plotting, summary data, and statistical analysis) is contained within a single script. The analytical workflow is described in our pre-print ([Ashhurst TM, Marsh-Wakefield F, Putri GH et al., 2020](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1)).
+
+The 'simple' workflow is most suitable for fast analysis of small datasets. For larger or more complex datasets, or datasets with multiple batches, we recommend the general discovery workflow, where the data preparation, batch alignment, clustering/dimensionality reduction, and quantitative analysis are separated into separate scripts. The demo dataset used for this worked example are cells extracted from mock- or virally-infected mouse brains, measured by flow cytometry. 
+
+<br/>
+
+#### Strategy
+
+The 'simple' and 'general' discovery workflows are designed to facilitate the analysis of large and complex cytometry datasets using the Spectre R package. We've tested up to 30 million cells in a single analysis session so far. The workflow is designed to get around the cell number limitations of tSNE/UMAP. The analysis starts with clustering with FlowSOM – which is fast and scales well to large datasets. The clustered data is then downsampled, and dimensionality reduction is performed with tSNE/UMAP. This allows for visualisation of the data, and the clusters present in the dataset. Once the possible cell types in the datasets have been explored, the clusters can be labelled with the appropriate cellular identities. 
+
+<br />
+
+![](https://wiki.centenary.org.au/download/attachments/151793632/image2021-2-28_11-47-29.png?version=1&modificationDate=1614473249369&api=v2)
+
+<br />
+
+Finally, we can use the clusters/populations to generate summary statistics (expression levels, frequencies, total counts etc), which allows us to create graphs and heatmaps, facilitating statistical analysis.
+
+<br />
+
+![](https://wiki.centenary.org.au/download/attachments/151793632/image2021-2-28_11-49-51.png?version=1&modificationDate=1614473391780&api=v2)
+
+<br />
+
+#### Batch alignment
+
+The 'simple' discovery workflow does not include any batch alignment steps. If batch correction needs to be applied, we recommend using the general discovery workflow.
+
+<br/>
+
+#### Citation
+
+If you use Spectre in your work, please consider citing Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2020). bioRxiv. 2020.10.22.349563. To continue providing open-source tools such as Spectre, it helps us if we can demonstrate that our efforts are contributing to analysis efforts in the community. Please also consider citing the authors of the individual packages or tools (e.g. CytoNorm, FlowSOM, tSNE, UMAP, etc) that are critical elements of your analysis work. We have provided some generic text that you can use for your methods section with each protocol and on the 'about' page.
+
+<br/>
+
+#### Sample methods blurb
+
+Here is a sample methods blurb for this workflow. You may need to adapt this text to reflect any changes made in your analysis.
+
+*Computational analysis of data was performed using the Spectre R package (Ashhurst et al., 2020), with instructions and source code provided at https://github.com/ImmuneDynamics/spectre. Samples were initially prepared in FlowJo, and the population of interest was exported as raw value CSV files. Arcsinh transformation was performed on the data in R using a co-factor of 15 to redistribute the data on a linear scale and compress low end values near zero. The dataset was then merged into a single data.table, with keywords denoting the sample, group, and other factors added to each row (cell). The FlowSOM algorithm (Van Gassen et al., 2015) was then run on the merged dataset to cluster the data, where every cell is assigned to a specific cluster and metacluster. Subsequently, the data was downsampled and analysed by the dimensionality reduction algorithm Uniform Manifold Approximation and Projection (UMAP) (McInnes, Healy, Melville, 2018) for cellular visualisation.*
+
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Setup
+
+---
+
+Software: for instructions downloading R, RStudio, and Spectre, please see this section on the home page.
+
+Analysis script: Please visit https://github.com/ImmuneDynamics/Spectre, and download the repository:
+
+![](https://wiki.centenary.org.au/download/attachments/151793632/image2020-8-20_12-52-9.png?version=3&modificationDate=1614164958478&api=v2)
+
+<br/>
+
+<img src="https://wiki.centenary.org.au/download/attachments/151793632/image2020-8-20_12-52-9.png?version=3&modificationDate=1614164958478&api=v2" width="672" border="5">
+
+<br/>
+
+You can then find the 'simple discovery workflow' script here: 
+
+![](https://wiki.centenary.org.au/download/attachments/151793632/image2020-8-20_12-52-55.png?version=1&modificationDate=1597927975901&api=v2)
+
+<br/>
+
+Create a folder for your experiment, and place the script in that folder.
+
+Data folder
+
+Create a folder within your experiment folder called 'data', and place the exported files there.
+
+![](https://wiki.centenary.org.au/download/attachments/151793632/image2020-3-9_15-58-43.png?version=2&modificationDate=1587121313836&api=v2)
+
+<br/>
+
+Setup some sample metadata and place it in a folder called 'metadata' or similar
+
+Create a CSV file (using Microsoft Excel or similar) – we have called the file 'sample.details' here. The first column should be called 'Filename' or similar, and should contain the name of one file per row. On a Mac, you can copy the files and 'paste' them into excel – it will copy the name of the file, including extensions (".csv", ".fcs", etc). You can then add as many additional columns as you like, and these can be called whatever you like (e.g. "Sample" could be "SampleName", or "Sample_Name" etc).
+
+- "Sample" is a recommended column, as this can be a more simplified name for each sample
+- "Group" is extremely useful for most analyses
+- "Batch" is helpful if you have prepared, stained, or run samples in multiple batches. If only a single batch is used, we still recommend entering a 'Batch' column with all rows containing '1'.
+- "Cells per sample" is a useful column to add if you intend to generate absolute counts of each population per sample during the generation of summary data, but is not required otherwise.
+
+![](https://wiki.centenary.org.au/download/attachments/151793632/image2020-3-9_15-59-4.png?version=2&modificationDate=1587121388840&api=v2)
+
+<br/>
+
+![](https://wiki.centenary.org.au/download/attachments/151793632/image2020-3-9_15-59-51.png?version=1&modificationDate=1583769591604&api=v2)
+
+
+<br />
+<br />
+
+
+
+
+
+## 1. Load packages and set directories
+
+---
+
+Open the analysis script in RStudio and open the simple discovery workflow script.
+
+```{r sec1, results = 'hide', message=FALSE}
+############################################################################
+#### 1. Load packages, and set working directory
+############################################################################
+```
+
+#### Load the Spectre and other required libraries
+
+Running library(Spectre) will load the Spectre package. We can then use package.check() to see if the standard dependency packages are installed, and package.load() to load those packages.
+
+```{r librariespre, results = 'hide', message=FALSE}
+### Load libraries
+ 
+    library(Spectre)
+    Spectre::package.check()    # Check that all required packages are installed
+    Spectre::package.load()     # Load required packages
+```
+
+#### Set 'PrimaryDirectory'
+
+Initially, we will set the location of the script as 'PrimaryDirectory'. We'll use this as a sort of 'home page' for where our analysis is going to be performed – including where to find our input data, metadata, and where our output data will go.
+
+```{r dir1, eval=FALSE, results = 'hide', error=FALSE, warning=FALSE, message=FALSE}
+### Set PrimaryDirectory
+    dirname(rstudioapi::getActiveDocumentContext()$path)            # Finds the directory where this script is located
+    setwd(dirname(rstudioapi::getActiveDocumentContext()$path))     # Sets the working directory to where the script is located
+    getwd()
+    PrimaryDirectory <- getwd()
+```
+
+```{r dir2, echo = FALSE, results = 'hide', error=FALSE, warning=FALSE, message=FALSE}
+setwd("/Users/thomasa/OneDrive - The University of Sydney (Staff)/Library/Github (public)/Spectre/workflows/Classic workflows/")
+PrimaryDirectory <- getwd()
+```
+
+#### Set 'InputDirectory'
+
+Next we need to set the location of the 'data' folder – where our samples for analysis are stored. In this example they are stored in a sub-folder called 'data'.
+
+```{r dir3}
+### Set 'input' directory
+    setwd(PrimaryDirectory)
+    setwd("data/")
+    InputDirectory <- getwd()
+    setwd(PrimaryDirectory)
+```
+
+#### Set 'MetaDirectory'
+
+We need to set the location of the 'metadata' folder. This is where we can store a CSV file that contains any relevant metadata that we want to embed in our samples. In this example, it is located in a sub-folder called 'metadata'.
+
+```{r dir4}
+### Set 'metadata' directory
+    setwd(PrimaryDirectory)
+    setwd("metadata/")
+    MetaDirectory <- getwd()
+    setwd(PrimaryDirectory)
+```
+
+#### Create 'OutputDirectory'
+
+We need to create a folder where our output data can go once our analysis is finished. In this example we will call this 'Output_Spectre'.
+
+```{r dir5}
+### Create output directory
+    dir.create("Output_Spectre", showWarnings = FALSE)
+    setwd("Output_Spectre")
+    OutputDirectory <- getwd()
+    setwd(PrimaryDirectory)
+```
+
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+## Data preparation
+
+---
+
+```{r cars}
+summary(cars)
+```
+
+```{r prep}
+dat <- Spectre::demo.clustered
+dat
+```
+
+```{r plots, echo=FALSE}
+Spectre::make.colour.plot(dat, 'UMAP_X', 'UMAP_Y', 'FlowSOM_metacluster', save.to.disk = FALSE)
+```
+
+```{r multip, echo=FALSE}
+Spectre::make.multi.plot(dat, 'UMAP_X', 'UMAP_Y', c('CD4_asinh', 'CD11b_asinh'))
+```
+
+<br />
+<br />
+
+
+
+
+
+
+
+## Including Plots
+
+---
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
