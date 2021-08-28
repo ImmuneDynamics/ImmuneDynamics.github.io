@@ -1,7 +1,7 @@
 ---
 layout: spectre
 title: Spectre object
-permalink: /spectre/object/
+permalink: /spectre/object2/
 ---
 
 Notes on the design of the 'Spectre' object.
