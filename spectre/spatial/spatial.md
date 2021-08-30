@@ -89,7 +89,7 @@ Here we provide some helpful resources and protocols for getting started. *Pleas
 
 
 
-## Segmentation and analysis workflow
+## Segmentation and analysis workflows
 
 ---
 
