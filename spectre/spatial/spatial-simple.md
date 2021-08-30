@@ -4,7 +4,7 @@ title: Simple segementation and analysis of spatial data using CellProfiler and 
 permalink: /spectre/spatial/simple
 ---
 
-### Cell segmentation
+### 1. Cell segmentation
 
 <table class="table gmisc_table">
   <tbody>
@@ -28,7 +28,7 @@ permalink: /spectre/spatial/simple
 
 
 
-### Spatial analysis
+### 2. Spatial analysis
 
 <table class="table gmisc_table">
   <tbody>
