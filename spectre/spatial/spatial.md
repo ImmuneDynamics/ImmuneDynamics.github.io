@@ -112,7 +112,7 @@ Here we provide two main approaches to segmentation and spatial analysis.
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">
-          Advanced segmentation and analysis with CellProfiler and Spectre
+          Advanced segmentation and analysis with Ilastik and Spectre
         </div>
       </td>
     </tr>
