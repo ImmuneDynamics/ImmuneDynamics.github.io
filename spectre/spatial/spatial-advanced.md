@@ -24,7 +24,8 @@ permalink: /spectre/spatial/advanced
     </tbody>
 </table>
 
-<p> </p>
+
+<br />
 
 ### Spatial analysis
 
