@@ -24,7 +24,9 @@ permalink: /spectre/spatial/simple
     </tbody>
 </table>
 
-<p> </p>
+<br />
+
+
 
 ### Spatial analysis
 
