@@ -98,40 +98,22 @@ Here we provide some helpful resources and protocols for getting started.
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
           <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Segmentation/Basic.png?raw=true" width="3000">
+        <img src="https://flowjowebsiteimages.s3-us-west-2.amazonaws.com/media/Solution%20Logos/flowjo-logo.png" width="3000">
       </td>
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>
-          Simple cell segmentation and analysis with CellProfiler and Spectre
-        </b></p>
         <p>
-          This is the simplest form of cellular segmentation and analysis. The nuclear signal is identified, and the boundary is expanded outwards by a certain number of pixels. This then becomes the boundary of the cell mask. Although a very simplistic approach, only nuclear signal is required.
+          This is the simplest form of cellular segmentation and analysis. The nuclear signal is identified, and the boundary is expanded outwards by a certain number of pixels. This then becomes the boundary of the cell mask. Although a very simplistic approach, only nuclear signal is required. Following cell segmentation, the data can be analysed in R using Spectre, or in FlowJo. 
         </p>
         <p>
-          <a href="https://wiki.centenary.org.au/x/GzrDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 14px">1. SEGMENTATION (Cellprofiler) </span></b></a>
+          <b><span style="font-size: 16px">1. Segmentation: <a href="https://wiki.centenary.org.au/x/GzrDCw" target="_blank" rel="noopener noreferrer">CellProfiler</a></span></b>
         </p>
         <p>
-          <a href="https://wiki.centenary.org.au/x/QHbDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 14px">2. ANALYSIS (Spectre) </span></b></a>
+          <b><span style="font-size: 16px">2. Analysis: 
+            <a href="https://wiki.centenary.org.au/x/QHbDCw" target="_blank" rel="noopener noreferrer">Spectre (R)</a>
+            or
+            <a href="https://wiki.centenary.org.au/x/RHbDCw" target="_blank" rel="noopener noreferrer">FlowJo</a>
+          </span></b>
         </p>
-          <p> </p>
-      </td>
-      </tr>
-    </tbody>
-</table>
-
-<p> </p>
-
-<table class="table gmisc_table">
-  <tbody>
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://flowjowebsiteimages.s3-us-west-2.amazonaws.com/media/Solution%20Logos/flowjo-logo.png" width="3000">
-      </td>
-      <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>FCS conversion and analysis in FlowJo</b></p>
-        <p>
-          Following cell segmentation, here is a simple protocol to facilitate the creation of FCS files from IMC data and subsequent analysis using FlowJo.
-        </p>
-          <a href="https://wiki.centenary.org.au/x/RHbDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 14px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
       </tr>
@@ -156,21 +138,19 @@ Here we provide some helpful resources and protocols for getting started.
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+        <p> </p>
           <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Segmentation/Multicut.png?raw=true" width="3000">
           <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/raw/master/spectre/spatial/Advanced.png?raw=true" width="3000">
       </td>
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>
-          Advanced cell segmentation and analysis with Ilastik and Spectre
-        </b></p>
         <p>
           Some IMC images contain extremely dense collections of cells, where cytoplasmic (and sometimes) nuclear signal from one cell is difficult to distinguish from another. In this protocol we describe boundary-based segmentation using the 'multi-cut' workflow in Ilastik. Additional cell type and region masks can be included, which dramatically enhances analysis.
         </p>
         <p>
-          <a href="https://wiki.centenary.org.au/x/fCnDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 14px">1. SEGMENTATION (Ilastik) </span></b></a>
+          <b><span style="font-size: 16px">1. Segmentation: <a href="https://wiki.centenary.org.au/x/fCnDCw" target="_blank" rel="noopener noreferrer">Ilastik</a></span></b>
         </p>
         <p>
-            <b><span style="font-size: 14px">2. ANALYSIS (coming soon) </span></b>
+            <b><span style="font-size: 16px">2. Analysis (coming soon) </span></b>
         </p>
           <p> </p>
       </td>
