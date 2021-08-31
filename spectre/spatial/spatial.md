@@ -170,7 +170,7 @@ Here we provide some helpful resources and protocols for getting started.
           <a href="https://wiki.centenary.org.au/x/fCnDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">1. SEGMENTATION (Ilastik) </span></b></a>
         </p>
         <p>
-          <a href="" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">2. ANALYSIS (coming soon) </span></b></a>
+            <b><span style="font-size: 18px">2. ANALYSIS (coming soon) </span></b>
         </p>
           <p> </p>
       </td>
