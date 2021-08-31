@@ -52,7 +52,7 @@ permalink: /spectre/cytometry/
 
 <table class="table gmisc_table">
   <tbody>
-<!-- FIRST ROW: TITLE --> 
+<!-- FIRST ROW: TITLE -->
     <tr style="border-top:1px solid grey">
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Simple discovery workflow
@@ -67,7 +67,7 @@ permalink: /spectre/cytometry/
         </div>
       </td>
     </tr>
-<!-- THIRD ROW: Image --> 
+<!-- THIRD ROW: Image -->
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
           <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-46-9.png?version=1&modificationDate=1613891282510&api=v2" width="3000" style="padding-top: 5px">
@@ -80,20 +80,20 @@ permalink: /spectre/cytometry/
             <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/Multi%20level.png?raw=true" width="3000" style="padding-top: 5px">
         </td>
       </tr>
-<!-- FOURTH ROW: Description --> 
+<!-- FOURTH ROW: Description -->
       <tr>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A simple workflow (with worked example) using a single R script (or single FlowJo workspace) to run clustering/dimensionality reduction, make plots, and perform some limited quantitative/statistical analysis. No batch alignment steps included.
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A analysis workflow for the alignment and analysis of data from multiple batches, using 
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A analysis workflow for the alignment and analysis of data from multiple batches, using
             <a href="https://github.com/saeyslab/CytoNorm">CytoNorm</a>
-            for batch alignment. If working with very large batch effects, have a look at our 
+            for batch alignment. If working with very large batch effects, have a look at our
             <a href="https://immunedynamics.github.io/spectre/cytometry/#advanced-applications">data integration</a>
             workflows.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top"> Here we provide an analysis workflow where upon clustering the complete dataset, clusters representing rare or novel populations can be isolated and re-clustered independent of other populations and thereafter annotated in greater detail.
           </td>
      </tr>
-<!-- FIFTH ROW: R links --> 
+<!-- FIFTH ROW: R links -->
       <tr>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
@@ -136,7 +136,7 @@ permalink: /spectre/cytometry/
 
 <table class="table gmisc_table">
   <tbody>
-<!-- FIRST ROW: TITLE --> 
+<!-- FIRST ROW: TITLE -->
     <tr style="border-top:1px solid grey">
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Rapidly generate tSNE or UMAP plots from CSV or FCS files
@@ -151,7 +151,7 @@ permalink: /spectre/cytometry/
         </div>
       </td>
     </tr>
-<!-- THIRD ROW: Image --> 
+<!-- THIRD ROW: Image -->
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
           <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/tSNEplots.png?raw=true" width="3000" style="padding-top: 5px">
@@ -165,7 +165,7 @@ permalink: /spectre/cytometry/
           <img src="https://wiki.centenary.org.au/download/attachments/151793632/image2021-2-28_11-49-51.png?version=1&modificationDate=1614473391780&api=v2" width="3000" style="padding-left: 20px; padding-right: 20px; padding-top: 5px">
       </td>
       </tr>
-<!-- FOURTH ROW: Description --> 
+<!-- FOURTH ROW: Description -->
       <tr>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">An R script to automatically generate tSNE or UMAP plots, after tSNE or UMAP has run in programs such as FlowJo.
           </td>
@@ -174,7 +174,7 @@ permalink: /spectre/cytometry/
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Here we present a quick workflow script to rapidly generate graphs and heatmaps for quantitative, differential, and statistical analysis. Note, this can be used on summary data generated by any program, including FlowJo.
           </td>
      </tr>
-<!-- FIFTH ROW: Go to page --> 
+<!-- FIFTH ROW: Go to page -->
       <tr>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
@@ -208,7 +208,7 @@ permalink: /spectre/cytometry/
 
 <table class="table gmisc_table">
   <tbody>
-<!-- FIRST ROW: TITLE --> 
+<!-- FIRST ROW: TITLE -->
     <tr style="border-top:1px solid grey">
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Time-series analysis
@@ -223,7 +223,7 @@ permalink: /spectre/cytometry/
         </div>
       </td>
     </tr>
-<!-- THIRD ROW: Image --> 
+<!-- THIRD ROW: Image -->
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
           <img src="https://wiki.centenary.org.au/download/thumbnails/186841491/TS.png?version=1&modificationDate=1613891308205&api=v2" width="3000" style="padding-left: 20px; padding-right: 20px; padding-top: 5px">
@@ -235,21 +235,21 @@ permalink: /spectre/cytometry/
             <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-45-0.png?version=1&modificationDate=1613891282558&api=v2" width="3000" style="padding-top: 5px">
         </td>
       </tr>
-<!-- FOURTH ROW: Description --> 
+<!-- FOURTH ROW: Description -->
       <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Here we provide a time-series clustering workflow using ChronoClust.
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Here we provide a time-series clustering workflow using TrackSOM.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Here we provide analysis options and tools to support scRNAseq analysis, in conjunction with existing tools such as Seurat and SingleCellExperiment.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A workflow to rapidly generate graphs and heatmaps from summary data to perform quantitative and statistical analysis.
           </td>
      </tr>
-<!-- FIFTH ROW: Go to page --> 
+<!-- FIFTH ROW: Go to page -->
       <tr>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <a href="https://wiki.centenary.org.au/x/Fdb3C" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                      <a href="https://immunedynamics.io/research/time-series_workflow/TrackSOM-workflow.html" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
                   </p>
               </div>
           </td>
@@ -280,7 +280,7 @@ These are approaches that are in use within our team, but are still under active
 
 <table class="table gmisc_table">
   <tbody>
-<!-- FIRST ROW: TITLE --> 
+<!-- FIRST ROW: TITLE -->
     <tr style="border-top:1px solid grey">
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Integrating data derived from different experiments or technologies
@@ -295,7 +295,7 @@ These are approaches that are in use within our team, but are still under active
         </div>
       </td>
     </tr>
-<!-- THIRD ROW: Image --> 
+<!-- THIRD ROW: Image -->
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
           <img src="https://wiki.centenary.org.au/download/attachments/157272386/image2021-1-22_18-5-23.png?version=1&modificationDate=1611299123953&api=v2" width="3000" style="padding-top: 5px">
@@ -307,7 +307,7 @@ These are approaches that are in use within our team, but are still under active
             <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_15-17-53.png?version=1&modificationDate=1613891307741&api=v2" width="3000" style="padding-top: 5px">
         </td>
       </tr>
-<!-- FOURTH ROW: Description --> 
+<!-- FOURTH ROW: Description -->
       <tr>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Strategies to integrate data from separate experiments or technologies.
           </td>
@@ -316,7 +316,7 @@ These are approaches that are in use within our team, but are still under active
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Strategies for the analysis of very large datasets, that are larger than the memory capacity of the computer being used.
           </td>
      </tr>
-<!-- FIFTH ROW: Go to page --> 
+<!-- FIFTH ROW: Go to page -->
       <tr>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
@@ -328,7 +328,7 @@ These are approaches that are in use within our team, but are still under active
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <b><span style="font-size: 16px">IN DEVELOPMENT</span></b>
+                      <b><span style="font-size: 16px">https://immunedynamics.io/spectre/Automated-classification.html</span></b>
                   </p>
               </div>
           </td>
