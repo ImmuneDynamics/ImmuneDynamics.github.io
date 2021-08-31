@@ -107,10 +107,10 @@ Here we provide some helpful resources and protocols for getting started.
           This is the simplest form of cellular segmentation and analysis. The nuclear signal is identified, and the boundary is expanded outwards by a certain number of pixels. This then becomes the boundary of the cell mask. Although a very simplistic approach, only nuclear signal is required.
         </p>
         <p>
-          <a href="https://wiki.centenary.org.au/x/GzrDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">1. SEGMENTATION (Cellprofiler) </span></b></a>
+          <a href="https://wiki.centenary.org.au/x/GzrDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 14px">1. SEGMENTATION (Cellprofiler) </span></b></a>
         </p>
         <p>
-          <a href="https://wiki.centenary.org.au/x/QHbDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">2. ANALYSIS (Spectre) </span></b></a>
+          <a href="https://wiki.centenary.org.au/x/QHbDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 14px">2. ANALYSIS (Spectre) </span></b></a>
         </p>
           <p> </p>
       </td>
@@ -131,7 +131,7 @@ Here we provide some helpful resources and protocols for getting started.
         <p>
           Following cell segmentation, here is a simple protocol to facilitate the creation of FCS files from IMC data and subsequent analysis using FlowJo.
         </p>
-          <a href="https://wiki.centenary.org.au/x/RHbDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <a href="https://wiki.centenary.org.au/x/RHbDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 14px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
       </tr>
@@ -167,10 +167,10 @@ Here we provide some helpful resources and protocols for getting started.
           Some IMC images contain extremely dense collections of cells, where cytoplasmic (and sometimes) nuclear signal from one cell is difficult to distinguish from another. In this protocol we describe boundary-based segmentation using the 'multi-cut' workflow in Ilastik. Additional cell type and region masks can be included, which dramatically enhances analysis.
         </p>
         <p>
-          <a href="https://wiki.centenary.org.au/x/fCnDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">1. SEGMENTATION (Ilastik) </span></b></a>
+          <a href="https://wiki.centenary.org.au/x/fCnDCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 14px">1. SEGMENTATION (Ilastik) </span></b></a>
         </p>
         <p>
-            <b><span style="font-size: 18px">2. ANALYSIS (coming soon) </span></b>
+            <b><span style="font-size: 14px">2. ANALYSIS (coming soon) </span></b>
         </p>
           <p> </p>
       </td>
