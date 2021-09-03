@@ -150,7 +150,7 @@ Here we provide some helpful resources and protocols for getting started.
           <b><span style="font-size: 16px">1. Segmentation: <a href="https://wiki.centenary.org.au/x/fCnDCw" target="_blank" rel="noopener noreferrer">Ilastik</a></span></b>
         </p>
         <p>
-            <b><span style="font-size: 16px">2. Analysis (coming soon): 
+            <b><span style="font-size: 16px">2. Analysis: 
               <a href="https://immunedynamics.io/spectre/spatial-advanced" target="_blank" rel="noopener noreferrer">Spectre (R)</a>
               </span></b>
         </p>
