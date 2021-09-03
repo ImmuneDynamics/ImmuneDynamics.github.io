@@ -1,0 +1,75 @@
+---
+title: "Advanced segementation using Ilastik's multicut module"
+author: "Thomas Ashhurst"
+date: "03/09/2021"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = '/Users/thomasa/OneDrive - The University of Sydney (Staff)/Library/Github (public)/Spectre/workflows/Spatial - FlowJo/Spectre TIFF to FCS/')
+```
+
+---
+
+**[<- Back to Spectre home page](https://immunedynamics.io/spectre)**
+
+<br />
+<br />
+
+
+
+
+
+## Introduction
+
+---
+
+In the original Bodenmiller or our modified Bodenmiller segmentation pipeline, nuclei and cytoplasmic markers are used to determine probabilities for the a) nucleus, b) cytoplasm, and c) background using Ilastik. When it comes to the actual segmentation in CellProfiler, the Primary Objects are identified (i.e. nuclei) and then the cell border is expanded out through the cytoplasm (secondary objects) until they conflict with neighbouring cell borders. This approach has limitations, as it a) often does not accurately segment based on the edge of the cell, and b) is difficult to visually assess until the data is examined in HistoCat. An alternative approach is to use cytoplasmic markers to define cell boundaries in Ilastik, which can then be used to create cell masks. These masks can then be filtered/refined based on size or other features. This approach is potentially advantageous where nuclear staining is sub-optimal, or in cases where the density of cells in the image is extremely high. 
+
+![](https://wiki.centenary.org.au/download/attachments/197339516/Banner.png?version=1&modificationDate=1621301794436&api=v2)
+
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+## Setip
+
+---
+
+### Software
+
+To use this workflow, you will need to install [R/RStudio](https://immunedynamics.github.io/spectre/getting-started/), [Spectre](https://immunedynamics.github.io/spectre/getting-started/), as well as [Ilastik](https://wiki.centenary.org.au/x/c4hCCw).
+
+<br />
+
+### Data and directories
+
+...
+
+<br />
+
+<br />
+<br />
+
+
+
+
+### Run script in R
+
+```{r, message=FALSE, warning=FALSE}
+###################################################################################
+### Spectre: TIFF to FCS
+###################################################################################
+```
