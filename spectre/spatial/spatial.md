@@ -111,7 +111,7 @@ Here we provide some helpful resources and protocols for getting started.
           <b><span style="font-size: 16px">2. Analysis: 
             <a href="https://immunedynamics.io/spectre/spatial-simple" target="_blank" rel="noopener noreferrer">Simple spatial in Spectre (R)</a>
             or
-            <a href="https://wiki.centenary.org.au/x/RHbDCw" target="_blank" rel="noopener noreferrer">In FlowJo</a>
+            <a href="https://wiki.centenary.org.au/x/RHbDCw" target="_blank" rel="noopener noreferrer">in FlowJo</a>
           </span></b>
         </p>
           <p> </p>
@@ -153,7 +153,7 @@ Here we provide some helpful resources and protocols for getting started.
             <b><span style="font-size: 16px">2. Analysis: 
             <a href="https://immunedynamics.io/spectre/spatial-advanced" target="_blank" rel="noopener noreferrer">Advanced spatial in Spectre (R)</a>
             or
-            <a href="https://wiki.centenary.org.au/x/RHbDCw" target="_blank" rel="noopener noreferrer">In FlowJo</a>
+            <a href="https://wiki.centenary.org.au/x/RHbDCw" target="_blank" rel="noopener noreferrer">in FlowJo</a>
               </span></b>
         </p>
           <p> </p>
