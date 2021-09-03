@@ -99,8 +99,8 @@ Here we provide some helpful resources and protocols for getting started.
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Segmentation/Basic.png?raw=true" width="3000">
-        <img src="https://flowjowebsiteimages.s3-us-west-2.amazonaws.com/media/Solution%20Logos/flowjo-logo.png" width="3000">
+          <img src="https://cellprofiler.org/files/files/cellprofiler/files/2017_11_21-cp_logo_black_tm_4.png" width="3000">
+        <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/Spectre%20logo%20wide.png" width="3000">
       </td>
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p>
@@ -144,7 +144,7 @@ Here we provide some helpful resources and protocols for getting started.
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
         <p> </p>
           <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Segmentation/Multicut.png?raw=true" width="3000">
-          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/raw/master/spectre/spatial/Advanced.png?raw=true" width="3000">
+          <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/Spectre%20logo%20wide.png" width="3000">
       </td>
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p>
