@@ -29,10 +29,11 @@ For more information on Spectre, check out the '[about Spectre](https://immunedy
 
 To receive updates, you can join our mailing list [here](https://forms.gle/vrg58485Ri5wagRr7).
 
-- 2021-06-04: Spatial [v0.5.0 release](https://github.com/ImmuneDynamics/Spectre) - analysis functions and workflows from SpectreMAP now incorporated directly in Spectre.
+- 2021-09-03: [v1.0.0 release](https://github.com/ImmuneDynamics/Spectre/releases) include major updates to our [spatial functions and workflows](https://github.com/ImmuneDynamics/Spectre/spatial).
+- 2021-06-04: Spatial [v0.5.0 release](https://github.com/ImmuneDynamics/Spectre/releases) - analysis functions and workflows from SpectreMAP now incorporated directly in Spectre.
 - 2021-04-10: Spectre manuscript published online in [Cytometry A](https://doi.org/10.1002/cyto.a.24350)
 - 2021-03-30: Updated list of [papers that have referenced Spectre](https://immunedynamics.io/spectre/metrics/) (and/or CAPX and associated scripts).
-- 2021-03-08: Spectre [v0.4.0 release](https://github.com/ImmuneDynamics/Spectre) – including significant improvements, as well as the addition of new batch alignment functions.
+- 2021-03-08: Spectre [v0.4.0 release](https://github.com/ImmuneDynamics/Spectre/releases) – including significant improvements, as well as the addition of new batch alignment functions.
 - 2020-10-23: Spectre pre-print now online: [Ashhurst TM, Marsh-Wakefield F, Putri GH, et al. (2020). bioRxiv](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1).
 - 2019-07-31: Spectre Github repository established.
 - 2019-05-11: The 'CAPX' workflow (the initial version of Spectre) published as part of a methods chapter of ['Mass Cytometry: Methods and Protocols'](https://link.springer.com/book/10.1007/978-1-4939-9454-0) book: [Ashhurst TM et al. (2019)](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12).
