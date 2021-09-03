@@ -109,7 +109,7 @@ Here we provide some helpful resources and protocols for getting started.
         </p>
         <p>
           <b><span style="font-size: 16px">2. Analysis: 
-            <a href="https://wiki.centenary.org.au/x/QHbDCw" target="_blank" rel="noopener noreferrer">Spectre (R)</a>
+            <a href="https://immunedynamics.io/spectre/spatial-simple" target="_blank" rel="noopener noreferrer">Spectre (R)</a>
             or
             <a href="https://wiki.centenary.org.au/x/RHbDCw" target="_blank" rel="noopener noreferrer">FlowJo</a>
           </span></b>
@@ -150,7 +150,9 @@ Here we provide some helpful resources and protocols for getting started.
           <b><span style="font-size: 16px">1. Segmentation: <a href="https://wiki.centenary.org.au/x/fCnDCw" target="_blank" rel="noopener noreferrer">Ilastik</a></span></b>
         </p>
         <p>
-            <b><span style="font-size: 16px">2. Analysis (coming soon) </span></b>
+            <b><span style="font-size: 16px">2. Analysis (coming soon): 
+              <a href="https://immunedynamics.io/spectre/spatial-advanced" target="_blank" rel="noopener noreferrer">Spectre (R)</a>
+              </span></b>
         </p>
           <p> </p>
       </td>
