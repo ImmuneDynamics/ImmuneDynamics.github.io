@@ -93,6 +93,8 @@ Here we provide some helpful resources and protocols for getting started.
 
 ## Approach 1. Simple cell segmentation and analysis with CellProfiler and Spectre
 
+---
+
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -133,6 +135,8 @@ Here we provide some helpful resources and protocols for getting started.
 
 
 ## Approach 2. Advanced cell segmentation and analysis with Ilastik and Spectre
+
+---
 
 <table class="table gmisc_table">
   <tbody>
