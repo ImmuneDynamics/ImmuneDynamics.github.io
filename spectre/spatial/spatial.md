@@ -151,7 +151,9 @@ Here we provide some helpful resources and protocols for getting started.
         </p>
         <p>
             <b><span style="font-size: 16px">2. Analysis: 
-              <a href="https://immunedynamics.io/spectre/spatial-advanced" target="_blank" rel="noopener noreferrer">Spectre (R)</a>
+            <a href="https://immunedynamics.io/spectre/spatial-advanced" target="_blank" rel="noopener noreferrer">Spectre (R)</a>
+            or
+            <a href="https://wiki.centenary.org.au/x/RHbDCw" target="_blank" rel="noopener noreferrer">FlowJo</a>
               </span></b>
         </p>
           <p> </p>
