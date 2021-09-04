@@ -151,7 +151,7 @@ Here we provide some helpful resources and protocols for getting started.
       </td>
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p>
-          Some IMC images contain extremely dense collections of cells, where cytoplasmic (and sometimes) nuclear signal from one cell is difficult to distinguish from another. In this protocol we describe boundary-based segmentation using the 'multi-cut' workflow in Ilastik. Additional cell type and region masks can be included, which dramatically enhances analysis.
+          Some IMC images contain extremely dense collections of cells, where cytoplasmic (and sometimes) nuclear signal from one cell is difficult to distinguish from another. In this protocol we describe boundary-based segmentation using the 'multi-cut' workflow in Ilastik. Additional cell type and region masks can be included, which dramatically enhances analysis. Following cell segmentation, the data can be analysed in R using Spectre, or in FlowJo.
         </p>
         <p>
           <b><span style="font-size: 16px">1. Segmentation: <a href="https://wiki.centenary.org.au/x/fCnDCw" target="_blank" rel="noopener noreferrer">Ilastik multicut</a></span></b>
