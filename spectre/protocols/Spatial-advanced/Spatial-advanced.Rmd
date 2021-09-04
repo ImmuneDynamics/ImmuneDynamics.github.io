@@ -54,14 +54,14 @@ You can find the advanced spatial analysis workflow scripts in this folder.
 
 You will need a folder called 'data' containing a folder called 'ROIs'. Each ROI should be a folder with a unique name, and the TIFF files for that ROI should be in the corresponding folder.
 
-![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/protocols/Spatial%20-%20advanced/image2021-8-30_16-43-40.png?raw=true)
+![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/protocols/Spatial-advanced/Dirs/1.png?raw=true)
 
 Within the 'data' folder, you will need a folder called 'masks'. Each of your mask types should be stored here – with the ROI name, and then some pattern that can separate which type of mask it is.
-![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/protocols/Spatial%20-%20advanced/image2021-8-30_16-43-59.png?raw=true)
+![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/protocols/Spatial-advanced/Dirs/2.png?raw=true)
 
 You will also need a 'metadata' folder containing a CSV file called 'sample.metadata'. In this file you should include a column called 'ROI' with the name of each ROI, and then as many other columns as you like containing metadata for each ROI. We recommend including 'Sample' (e.g. if multiple ROIs are taken from one sample, you can note this here), 'Group' (the experiment group each ROI belongs to), and 'Batch' (the sample preparation/acquisition batch for the ROI – this could be some kind of reference, or a date).
 
-![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/protocols/Spatial%20-%20advanced/image2021-8-30_16-48-49.png?raw=true)
+![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/protocols/Spatial-advanced/Dirs/4.png?raw=true)
 
 <br />
 <br />
@@ -99,7 +99,7 @@ First, load the Spectre package and associated packages.
 
 Next, set directories.
 
-```{r, results = 'hide', message=FALSE}
+```{r, results = 'hide', message=FALSE, eval=FALSE}
     ### Set PrimaryDirectory
     
     dirname(rstudioapi::getActiveDocumentContext()$path)
@@ -109,11 +109,15 @@ Next, set directories.
     PrimaryDirectory
 ```
 
+```{r, echo=FALSE}
+    PrimaryDirectory <- '/Users/thomasa/OneDrive - The University of Sydney (Staff)/Library/Github (public)/Spectre/workflows/Spatial - advanced/Spectre advanced spatial/'
+```
+
 ```{r, results = 'hide', message=FALSE}
     ### Set InputDirectory (ROI TIFFs)
     
     setwd(PrimaryDirectory)
-    setwd("data/ROIs/")
+    setwd("../data/ROIs/")
     InputDirectory <- getwd()
     InputDirectory
 ```
@@ -122,7 +126,7 @@ Next, set directories.
     ### Set MaskDirectory (ROI mask TIFFs)
     
     setwd(PrimaryDirectory)
-    setwd("data/masks")
+    setwd("../data/masks")
     MaskDirectory <- getwd()
     MaskDirectory
 ```
@@ -137,8 +141,16 @@ Next, set directories.
     OutputDirectory
 ```
 
-<br />
+```{r, echo=FALSE}
+    x <- '/Users/thomasa/OneDrive - The University of Sydney (Staff)/Library/Github (public)/ImmuneDynamics.github.io/spectre/protocols/Spatial-advanced/Results/'
+    setwd(x)
+    dir.create("Output 1 - add masks")
+    setwd("Output 1 - add masks")
+    OutputDirectory <- getwd()
+    OutputDirectory
+```
 
+<br />
 
 ### Check ROIs and TIFFs
 
@@ -637,7 +649,7 @@ You will see plots that look like this for each ROI, allowing you to assess the 
 
 ---
 
-Coming soon!
+Script 2 (cellular analysis) contains code and comments that will allow you to proceed with cellular analysis.
 
 <br />
 <br />
@@ -650,7 +662,7 @@ Coming soon!
 
 ---
 
-Coming soon!
+Script 3 (quantitative analysis) contains code and comments that will allow you to proceed with quantitative and spatial analysis
 
 <br />
 <br />

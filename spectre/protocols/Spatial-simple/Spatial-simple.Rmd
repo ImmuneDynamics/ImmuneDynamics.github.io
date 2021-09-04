@@ -608,7 +608,7 @@ You will see plots that look like this for each ROI, allowing you to assess the 
 
 ---
 
-Coming soon!
+Script 2 (cellular analysis) contains code and comments that will allow you to proceed with cellular analysis.
 
 <br />
 <br />
@@ -621,7 +621,7 @@ Coming soon!
 
 ---
 
-Coming soon!
+Script 3 (quantitative analysis) contains code and comments that will allow you to proceed with quantitative and spatial analysis
 
 <br />
 <br />
