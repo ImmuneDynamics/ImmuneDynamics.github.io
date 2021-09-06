@@ -70,6 +70,10 @@ permalink: /thomas-ashhurst/publications/stats/
 
 ## Co-author
 
+- T Liechti, L Weber, **TM Ashhurst**, N Stanley, M Prlic, S Van Gassen, F Mair. (2021). [An updated guide for the perplexed: cytometry in the high-dimensional era](https://doi.org/10.1038/s41590-021-01006-z). Nature Immunology.
+
+- W Zhang, B Chua, K Selva, L Kedzierski, **T Ashhurst**, E Haycroft, ... Thi Nguyen, Katherine Kedzierska. 2021. [Immune responses in COVID-19 respiratory tract and blood reveal mechanisms of disease severity](https://www.researchsquare.com/article/rs-802084/v1). Research Square (pre-print).
+
 - F Marsh-Wakefield\*, A Mitchell\*, S Norton, **TM Ashhurst**, ... HM McGuire, R Kemp. 2021. [Making the most of high dimensional cytometry data](https://doi.org/10.1111/imcb.12456). Immunology and Cellular Biology.
 
 - M Koutsakos, LC Rowntree, L Hensen, BY Chua, CE van de Sandt, JR Habel, W Zhang, X Jia, L Kedzierski, **TM Ashhurst**, ... K Kedzierska. 2021. [Integrated immune dynamics define correlates of COVID-19 severity and antibody responses](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7). Cell Reports Medicine. *Lead the computational analysis of COVID-19 blood samples, and supervised the development of TrackSOM for time-series tracking*.
