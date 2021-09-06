@@ -86,6 +86,31 @@ GH Putri, J Chung, DN Edwards, F Marsh-Wakefield, S Dervish, I Koprinska, NJC Ki
 <div class='row'>
     <div class="image">
         <a href="#">
+            <img src="https://user-images.githubusercontent.com/11766139/132227057-93345bef-efd2-45af-b6bf-4f1cec8399e2.png" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+2021. T Liechti, L Weber, **TM Ashhurst**, N Stanley, M Prlic, S Van Gassen, F Mair. (2021). [An updated guide for the perplexed: cytometry in the high-dimensional era](https://doi.org/10.1038/s41590-021-01006-z). Nature Immunology.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
             <img src="https://pbs.twimg.com/media/E7RadduVoAIrsvu?format=jpg&name=large" alt="icon" width="250" align="right">
         </a>
     </div>
