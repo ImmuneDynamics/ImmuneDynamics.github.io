@@ -34,6 +34,7 @@ permalink: /spectre/cytometry/
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">An open access publication where we provide considerations for new and experienced users to design and carry out high‐dimensional experiments to maximize quality data collection.  
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A paper discussing common caveats and best practices in the analysis of high-dimensional cytometry data
+            </td>
      </tr>
 <!-- FIFTH ROW: Go to page --> 
       <tr>
