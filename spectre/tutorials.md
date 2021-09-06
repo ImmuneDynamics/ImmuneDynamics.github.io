@@ -52,7 +52,6 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
 <!-- THIRD ROW: Image --> 
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <img src="https://onlinelibrary.wiley.com/pb-assets/journal-banners/14401711-1591846820847.jpg" width="3000" style="padding-top: 5px">
           <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_15-17-53.png?version=1&modificationDate=1613891307741&api=v2" width="3000" style="padding-left: 20px; padding-right: 20px; padding-top: 5px">
       </td>
        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
