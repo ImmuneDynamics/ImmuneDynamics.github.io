@@ -6,7 +6,7 @@ permalink: /thomas-ashhurst/publications/
 
 ![Publications](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Publication%202.png)
 
-My publications consist of [1 book](https://immunedynamics.io/thomas-ashhurst/publications/#books), [2 pre-prints](https://immunedynamics.io/thomas-ashhurst/publications/#pre-prints), and [24 published articles](https://immunedynamics.io/thomas-ashhurst/publications/#publications), with [588 citations](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) since 2012 and an [h-index of 12](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) (via Google Scholar). These publications include [1 as co-lead editor](https://immunedynamics.io/thomas-ashhurst/publications/stats), [7 as lead or co-lead author](https://immunedynamics.io/thomas-ashhurst/publications/stats), and [5 as senior or co-supervising author](https://immunedynamics.io/thomas-ashhurst/publications/stats); with [2 as corresponding author](https://immunedynamics.io/thomas-ashhurst/publications/stats). Online publication lists can be found on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date),
+My publications consist of [1 book](https://immunedynamics.io/thomas-ashhurst/publications/#books), [2 pre-prints](https://immunedynamics.io/thomas-ashhurst/publications/#pre-prints), and [25 published articles](https://immunedynamics.io/thomas-ashhurst/publications/#publications), with [588 citations](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) since 2012 and an [h-index of 12](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) (via Google Scholar). These publications include [1 as co-lead editor](https://immunedynamics.io/thomas-ashhurst/publications/stats), [7 as lead or co-lead author](https://immunedynamics.io/thomas-ashhurst/publications/stats), and [5 as senior or co-supervising author](https://immunedynamics.io/thomas-ashhurst/publications/stats); with [2 as corresponding author](https://immunedynamics.io/thomas-ashhurst/publications/stats). Online publication lists can be found on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date),
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="15"> [Google Scholar](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en),
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ORCID_iD.svg" alt="Logo" width="15"> [ORCID](https://orcid.org/0000-0001-7269-7773),
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/b5544b7d0236876ce33e51e6c8b5eb3e6ef55e84/custom_SVG/Loop.svg" alt="Logo" width="15"> [Loop](https://loop.frontiersin.org/people/241397),
@@ -82,6 +82,33 @@ GH Putri, J Chung, DN Edwards, F Marsh-Wakefield, S Dervish, I Koprinska, NJC Ki
 ## Publications
 
 ---
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://user-images.githubusercontent.com/11766139/132227057-93345bef-efd2-45af-b6bf-4f1cec8399e2.png" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+T Liechti, L Weber, **TM Ashhurst**, N Stanley, M Prlic, S Van Gassen, F Mair. (2021). [An updated guide for the perplexed: cytometry in the high-dimensional era](https://www.nature.com/articles/s41590-021-01006-z). Nature Immunology.
+
+- Featured on the Nature's [Immunology](https://www.nature.com/subjects/immunology) subject page.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+
+
+
+
+
 
 <div class='row'>
     <div class="image">
