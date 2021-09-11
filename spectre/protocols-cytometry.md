@@ -4,7 +4,7 @@ title: Spectre - Cytometry Protocols
 permalink: /spectre/cytometry/
 ---
 
-This protocol pages contain reproducible workflows for different types of analysis using Spectre. For those gettings started with analysis, you can also check out these two commentary papers where we provide considerations for new and experienced users in the design and analysis of high-dimensional experiments: [Marsh-Wakefield et al 2021 (ICB)](https://onlinelibrary.wiley.com/doi/10.1111/imcb.12456), [Liechti et al 2021 (Nature Immunology)](https://www.nature.com/articles/s41590-021-01006-z). For more educational content you can check out the [tutorials](https://immunedynamics.io/spectre/tutorials/) page.
+This protocol page contains reproducible workflows for different types of analysis using Spectre. For those gettings started with analysis, you can also check out these two commentary papers where we provide considerations for new and experienced users in the design and analysis of high-dimensional experiments: [Marsh-Wakefield et al 2021 (ICB)](https://onlinelibrary.wiley.com/doi/10.1111/imcb.12456), [Liechti et al 2021 (Nature Immunology)](https://www.nature.com/articles/s41590-021-01006-z). For more educational content you can check out the [tutorials](https://immunedynamics.io/spectre/tutorials/) page.
 
 <br />
 
