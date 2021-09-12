@@ -95,7 +95,7 @@ Here we provide some helpful resources and protocols for getting started.
 
 ---
 
-Here we provide some helpful resources and protocols for getting started. 
+Here we provide protocols for performing initial cell segmentation.
 
 <table class="table gmisc_table">
   <tbody>
@@ -179,10 +179,9 @@ Here we provide some helpful resources and protocols for getting started.
 
 ## Analysis
 
-
 ---
 
-Here we provide some helpful resources and protocols for getting started. 
+Here we provide workflows for analysing HD imaging data following cell segmentation.
 
 <table class="table gmisc_table">
   <tbody>
