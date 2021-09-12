@@ -35,7 +35,7 @@ In the second half of 2021 we will be running or contributing to a number of wor
           <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass/">ASI IgV Masterclass page</a> 
           for more information.
         </p>
-          <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer">
             <b><span style="font-size: 16px">MORE INFO</span></b>
           </a>
         <b><span style="font-size: 16px">  |  </span></b>
