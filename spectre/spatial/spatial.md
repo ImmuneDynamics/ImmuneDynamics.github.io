@@ -126,7 +126,7 @@ Here we provide protocols for performing initial cell segmentation.
           <img src="https://cellprofiler.org/files/files/cellprofiler/files/2017_11_21-cp_logo_black_tm_4.png" width="3000" style="padding-top: 5px">
       </td>
             <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <img src="https://pbs.twimg.com/profile_images/1347150875815518208/4L4SoXNK_400x400.jpg" width="3000" style="padding-top: 5px">
+          <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" width="3000" style="padding-top: 5px">
       </td>
       </tr>
 <!-- FOURTH ROW: Description --> 
