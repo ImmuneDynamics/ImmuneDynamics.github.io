@@ -123,6 +123,7 @@ Here we provide protocols for performing initial cell segmentation.
             <img src="https://lw-static-files.s3.amazonaws.com/public/logos/4382.png" width="3000" style="padding-top: 5px">
        </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <br />
           <img src="https://cellprofiler.org/files/files/cellprofiler/files/2017_11_21-cp_logo_black_tm_4.png" width="3000" style="padding-top: 5px">
       </td>
             <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
