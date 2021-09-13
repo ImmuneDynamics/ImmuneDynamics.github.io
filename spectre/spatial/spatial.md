@@ -276,7 +276,7 @@ Here we provide links to other analysis software and protocols that are useful i
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
           <p> </p>
           <p> </p>
-          <img src="https://wiki.centenary.org.au/download/attachments/172228252/image2021-2-21_21-41-21.png?version=1&modificationDate=1613904081230&api=v2" width="3000" style="padding-top: 5px">
+          <img src="https://bodenmillergroup.github.io/histoCAT/histoCAT.png" width="3000" style="padding-top: 5px">
       </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
             <img src="https://github.com/BodenmillerGroup/cytomapper/raw/master/inst/imgs/cytomapper_sticker.png" width="3000" style="padding-top: 5px; padding-left: 50px; padding-right: 50px">
