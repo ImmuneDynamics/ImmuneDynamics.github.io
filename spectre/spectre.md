@@ -10,7 +10,7 @@ permalink: /spectre/
 
 Along with [flow](https://immunedynamics.io/resources/flow), [spectral](https://immunedynamics.io/resources/flow), or [mass cytometry (CyTOF)](https://immunedynamics.io/resources/mass) data, [Spectre](https://immunedynamics.io/spectre/) enables adaptable [cell segmentation](https://immunedynamics.github.io/spectre/spatial/) and [spatial analysis](https://immunedynamics.github.io/spectre/spatial/) of high-dimensional imaging data, such as [Imaging Mass Cytometry (IMC)](https://immunedynamics.io/resources/imc). 
 
-![IMC](https://wiki.centenary.org.au/download/attachments/172228252/image2021-2-25_22-32-15.png?version=1&modificationDate=1614252735692&api=v2)
+![IMC](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/image2021-2-25_22-32-15.png?raw=true)
 
 For more information on Spectre, check out the '[about Spectre](https://immunedynamics.github.io/spectre/about)' page, or for more information on computational approaches to cytometry analysis, check out our [tutorials](https://immunedynamics.github.io/spectre/tutorials/) page. If you are interested in testing new 'development' functions in Spectre, or adding your own function, see the
 <a href="https://wiki.centenary.org.au/x/lMj3C"  target="_blank" rel="noopener noreferrer">developers guide</a>.
