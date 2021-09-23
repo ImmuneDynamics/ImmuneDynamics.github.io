@@ -40,7 +40,7 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
     </tbody>
 </table>
 
-<br />
+<p> <p/>
 
 
 
@@ -67,7 +67,7 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
     </tbody>
 </table>
 
-<br />
+<p> <p/>
 
 
 
@@ -95,7 +95,7 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
     </tbody>
 </table>
 
-<br />
+<p> <p/>
 
 
 
@@ -125,7 +125,7 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
     </tbody>
 </table>
 
-<br />
+<p> <p/>
 <br />
 
 
