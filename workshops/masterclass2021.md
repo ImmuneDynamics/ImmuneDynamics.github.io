@@ -216,7 +216,6 @@ The workshop will be run by researchers from the [University of Sydney]() and [D
         <p><b><span style="font-size: 17px">
           Session #2: High-dimensional analysis of immune responses to COVID-19 in <i>perhiperhal blood</i>
          </span></b></p>
-         </span></b></p>
          <p>
           Time: 11:45 pm - 1:30 pm (1 hr 45 min, Zoom)
         </p>
