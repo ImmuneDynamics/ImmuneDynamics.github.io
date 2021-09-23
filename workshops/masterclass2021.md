@@ -35,7 +35,7 @@ permalink: /workshops/masterclass2021
 <p> </p>
 
 
-## Masterclass workshop (Tue 26-Oct)
+## Masterclass workshop (Day 2, Tue 26-Oct)
 
 ---
 
