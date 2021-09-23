@@ -6,6 +6,8 @@ permalink: /workshops/masterclass2021
 
 ---
 
+![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/CVD%20banner%202.png?raw=true)
+
 <!--
 <p> </p>
 <table class="table gmisc_table">
