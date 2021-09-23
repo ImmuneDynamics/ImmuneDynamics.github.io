@@ -8,9 +8,10 @@ permalink: /workshops/masterclass2021
 
 This years ASI IgV Masterclass (Mon 25-Oct to Tue 26-Oct) will be on quantitative immunology, featuring talks and workshops on quantitative immunology, covering topics including imaging, single-cell analysis, and COVID-19/respiratory immunology.
 
-[**More info**]() | [**Registration**]()
+[**More info**]() 
+| 
+[**Registration**]()
 
-<br />
 <br />
 
 ## Day 1 (talks)
@@ -22,123 +23,30 @@ Day one (Mon 25-Oct) will feature talks on **Imaging** from Prof. Tri Phan (Garv
 <!--![](https://www.immunology.org.au/files/branch_meetings/202110_IgV_Mastger_Class_flyer_V3_Page_3.jpg)-->
 
 <br />
-<br />
 
 ## Day 2 (workshop)
 
 Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dimensional analysis]() approaches for cytometry data. Specifically, we will be applying these approaches to profile the [immune responses to COVID-19]() in the blood and respiratory tract, reproducing the types of analysis used in [Koustakous et al. 2021]() and [Zhang et al. 2021]().
 
-<br />
-<br />
-
-
-
-## Instructors
-
----
-
-The workshop will be run by researchers from the [University of Sydney]() and [Doherty Institute]().
+**Workshop instructors:
 
 <table class="table gmisc_table">
   <tbody>
-<!-- FIRST ROW: Image --> 
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+      <td style="padding-left:.75em;padding-right:.75em;width:15%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
         <a href="https://immunedynamics.github.io/thomas-ashhurst/">
           <img width = "200px" height = "200px" src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" style="padding-top: 20px; padding-bottom: 20px">
         </a>
       </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-        <a href="https://immunedynamics.github.io/mark-read/">
-            <img width = "200px" height = "200px" src="https://avatars.githubusercontent.com/u/5366317?s=460&u=ac0322d285310461de6ad2a4b938252b6ea2d948&v=4" style="padding-top: 20px; padding-bottom: 20px">
-        </a>
-      </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-        <a href="https://immunedynamics.github.io/felix-marsh-wakefield/">
-            <img width = "200px" height = "200px" src="https://ca.slack-edge.com/TLYFBANH2-UM1JA0BC5-69f86dacaa11-512" style="padding-top: 20px; padding-bottom: 20px">
-        </a>
-      </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-        <a href="https://immunedynamics.github.io/givanna-putri/">
-            <img width = "200px" height = "200px" src="https://avatars.githubusercontent.com/u/5366317?s=460&u=ac0322d285310461de6ad2a4b938252b6ea2d948&v=4" style="padding-top: 20px; padding-bottom: 20px">
-        </a>
-      </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-        <a href="https://immunedynamics.github.io/givanna-putri/">
-            <img width = "200px" height = "200px" src="https://avatars.githubusercontent.com/u/5366317?s=460&u=ac0322d285310461de6ad2a4b938252b6ea2d948&v=4" style="padding-top: 20px; padding-bottom: 20px">
-        </a>
-      </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-        <a href="https://immunedynamics.github.io/givanna-putri/">
-            <img width = "200px" height = "200px" src="https://avatars.githubusercontent.com/u/5366317?s=460&u=ac0322d285310461de6ad2a4b938252b6ea2d948&v=4" style="padding-top: 20px; padding-bottom: 20px">
-        </a>
+      <td style="padding-left:.75em;padding-right:.75em;width:85%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+          Thomas Ashhurst is...
       </td>
     </tr>
-<!-- FIFTH ROW: Go to page --> 
-      <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      <a href="https://immunedynamics.github.io/thomas-ashhurst/">
-                          <b><span style="font-size: 18px">
-                            Thomas Ashhurst
-                         </span></b>
-                    </a>
-                  </p>
-              </div>
-          </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      <a href="https://immunedynamics.github.io/mark-read/">
-                        <b><span style="font-size: 18px">
-                            Givanna Putri
-                         </span></b>
-                    </a>
-                  </p>
-              </div>
-          </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      <a href="https://immunedynamics.github.io/felix-marsh-wakefield/">
-                        <b><span style="font-size: 18px">
-                          Felix Marsh-Wakefield
-                        </span></b>
-                      </a>
-                  </p>
-              </div>
-          </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      <a href="https://immunedynamics.github.io/givanna-putri/">
-                        <b><span style="font-size: 18px">
-                          Wuji Zhang
-                         </span></b>
-                      </a>
-                  </p>
-              </div>
-          </td>
-           <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      <a href="https://immunedynamics.github.io/givanna-putri/">
-                        <b><span style="font-size: 18px">
-                          Jennifer Habel
-                         </span></b>
-                      </a>
-                  </p>
-              </div>
-        </td>
-      </tr>
-    </tbody>
+  </tbody>
 </table>
-
+  
 <br />
 <br />
-
-
 
 ## Workshop sessions
 
