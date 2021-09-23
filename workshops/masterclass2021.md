@@ -18,8 +18,6 @@ You can find out more about the talks, speakers, and registration information on
 
 Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dimensional analysis](https://immunedynamics.io/spectre/) approaches for cytometry data. Specifically, we will be applying these approaches to profile the [immune responses to COVID-19](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7) in the blood and respiratory tract, reproducing the types of analysis used in [Koustakous et al. 2021](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7) and [Zhang et al. 2021](https://www.medrxiv.org/content/10.1101/2021.09.01.21262715v1). The workshop will be led by Thomas Ashhurst, Givanna Putri, Felix Marsh-Wakefield, Wuji Zhang, and Jennifer Habel.
 
-<br />
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
