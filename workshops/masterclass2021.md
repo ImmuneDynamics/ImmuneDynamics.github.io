@@ -23,8 +23,8 @@ permalink: /workshops/masterclass2021
   </tbody>
 </table>
 
+<p> </p>
 
-<br />
 
 # Masterclass workshop (Tue 26-Oct)
 
