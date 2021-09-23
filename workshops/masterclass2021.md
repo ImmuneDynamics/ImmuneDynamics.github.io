@@ -84,10 +84,9 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop where we will
     </tr>
   </tbody>
 </table>
-
-<br />
 -->
 
+<br />
 
 ### Sessions
 
