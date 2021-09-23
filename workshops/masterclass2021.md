@@ -18,87 +18,10 @@ This years ASI IgV Masterclass (Mon 25-Oct to Tue 26-Oct) will be on quantitativ
 
 Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dimensional analysis]() approaches for cytometry data. Specifically, we will be applying these approaches to profile the [immune responses to COVID-19]() in the blood and respiratory tract, reproducing the types of analysis used in [Koustakous et al. 2021]() and [Zhang et al. 2021]().
 
-**Workshop instructors**:
-
-<table class="table gmisc_table">
-  <tbody>
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:15%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-        <a href="https://immunedynamics.github.io/thomas-ashhurst/">
-          <img width = "100%" src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" style="padding-top: 0px; padding-bottom: 20px">
-        </a>
-      </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:85%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-          Dr. Thomas Ashhurst is a high-dimensional cytometry and single-cell specialist with the Sydney Cytometry Core Research Facility, and an Honorary Research Fellow with the Infection, Immunity, and Inflammation Theme, School of Medical Sciences, at The University of Sydney. His work is focused on the development and application of high-dimensional single-cell and imaging methods, as well as advanced computational approaches, to comprehensively map the dynamic immune responses to inflammation and infectious diseases.
-      </td>
-    </tr>
-  </tbody>
-</table>
+<br />
 
 
-<table class="table gmisc_table">
-  <tbody>
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:15%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-        <a href="https://immunedynamics.github.io/thomas-ashhurst/">
-          <img width = "100%" src="https://avatars.githubusercontent.com/u/5366317?s=460&u=ac0322d285310461de6ad2a4b938252b6ea2d948&v=4" style="padding-top: 0px; padding-bottom: 20px">
-        </a>
-      </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:85%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-          Givanna Putri is a postdoctoral research fellow at the Lowy Cancer Research Centre. Her research focuses on developing and applying computational approaches to analyse high dimensional single-cell data.
-      </td>
-    </tr>
-  </tbody>
-</table>
 
-
-<table class="table gmisc_table">
-  <tbody>
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:15%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-        <a href="https://immunedynamics.github.io/thomas-ashhurst/">
-          <img width = "100%" src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/FMW.jpeg?raw=true" style="padding-top: 0px; padding-bottom: 20px">
-        </a>
-      </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:85%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-          Felix Marsh-Wakefield is a post-doctoral researcher interrogating the immune landscape in hepatocellular carcinoma. He uses bioinformatics to assist in the analysis of high dimensional data, including cytometry, transcriptomic and spatial data.
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-  
-<table class="table gmisc_table">
-  <tbody>
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:15%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-        <a href="https://immunedynamics.github.io/thomas-ashhurst/">
-          <img width = "100%" src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/WZ.png?raw=true" style="padding-top: 0px; padding-bottom: 20px">
-        </a>
-      </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:85%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-          Wuji Zhang is a PhD candidate from the Kedzierska lab at the Peter Doherty Institute. Wuji's PhD project involves investigating immune responses towards influenza and SARS-CoV-2 infections and vaccinations.
-      </td>
-    </tr>
-  </tbody>
-</table>
-  
-  
-<table class="table gmisc_table">
-  <tbody>
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:15%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-        <a href="https://immunedynamics.github.io/thomas-ashhurst/">
-          <img width = "100%" src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/JH.jpg?raw=true" style="padding-top: 0px; padding-bottom: 20px">
-        </a>
-      </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:85%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-          Jennifer Habel is a PhD candidate in the Kedzierska Laboratory at the University of Melbourne/Peter Doherty Institute for Infection and Immunity. Her work focuses on defining immune responses to respiratory viral infections in pregnant women to better understand how immunomodulation during pregnancy can affect disease severity.
-      </td>
-    </tr>
-  </tbody>
-</table>
-  
 
 ## Workshop sessions
 
@@ -231,6 +154,90 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
 
 <br />
 <br />
+
+
+## Workshop instructors
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:15%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+        <a href="https://immunedynamics.github.io/thomas-ashhurst/">
+          <img width = "100%" src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" style="padding-top: 0px; padding-bottom: 20px">
+        </a>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:85%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+          Dr. Thomas Ashhurst is a high-dimensional cytometry and single-cell specialist with the Sydney Cytometry Core Research Facility, and an Honorary Research Fellow with the Infection, Immunity, and Inflammation Theme, School of Medical Sciences, at The University of Sydney. His work is focused on the development and application of high-dimensional single-cell and imaging methods, as well as advanced computational approaches, to comprehensively map the dynamic immune responses to inflammation and infectious diseases.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:15%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+        <a href="https://immunedynamics.github.io/thomas-ashhurst/">
+          <img width = "100%" src="https://avatars.githubusercontent.com/u/5366317?s=460&u=ac0322d285310461de6ad2a4b938252b6ea2d948&v=4" style="padding-top: 0px; padding-bottom: 20px">
+        </a>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:85%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+          Givanna Putri is a postdoctoral research fellow at the Lowy Cancer Research Centre. Her research focuses on developing and applying computational approaches to analyse high dimensional single-cell data.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:15%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+        <a href="https://immunedynamics.github.io/thomas-ashhurst/">
+          <img width = "100%" src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/FMW.jpeg?raw=true" style="padding-top: 0px; padding-bottom: 20px">
+        </a>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:85%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+          Felix Marsh-Wakefield is a post-doctoral researcher interrogating the immune landscape in hepatocellular carcinoma. He uses bioinformatics to assist in the analysis of high dimensional data, including cytometry, transcriptomic and spatial data.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+  
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:15%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+        <a href="https://immunedynamics.github.io/thomas-ashhurst/">
+          <img width = "100%" src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/WZ.png?raw=true" style="padding-top: 0px; padding-bottom: 20px">
+        </a>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:85%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+          Wuji Zhang is a PhD candidate from the Kedzierska lab at the Peter Doherty Institute. Wuji's PhD project involves investigating immune responses towards influenza and SARS-CoV-2 infections and vaccinations.
+      </td>
+    </tr>
+  </tbody>
+</table>
+  
+  
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:15%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+        <a href="https://immunedynamics.github.io/thomas-ashhurst/">
+          <img width = "100%" src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/JH.jpg?raw=true" style="padding-top: 0px; padding-bottom: 20px">
+        </a>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:85%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+          Jennifer Habel is a PhD candidate in the Kedzierska Laboratory at the University of Melbourne/Peter Doherty Institute for Infection and Immunity. Her work focuses on defining immune responses to respiratory viral infections in pregnant women to better understand how immunomodulation during pregnancy can affect disease severity.
+      </td>
+    </tr>
+  </tbody>
+</table>
+  
+
 
 
 
