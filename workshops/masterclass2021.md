@@ -4,10 +4,9 @@ title: ASI IgV Masterclass 2021
 permalink: /workshops/masterclass2021
 ---
 
+<!--
 ---
-
 <p> </p>
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -31,17 +30,18 @@ permalink: /workshops/masterclass2021
     </tr>
   </tbody>
 </table>
-
 <br />
-
-
 ## Masterclass workshop (Day 2, Tue 26-Oct)
-
 ---
+-->
 
 ![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/CVD%20banner.png?raw=true)
 
-Day two (Tue 26-Oct) of the masterclass will be an online workshop where we will apply [high-dimensional analysis](https://immunedynamics.io/spectre/) approaches to profile the [immune responses to COVID-19](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7) in the blood and respiratory tract, reproducing the types of analysis used in [Koustakous et al. 2021](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7) and [Zhang et al. 2021](https://www.medrxiv.org/content/10.1101/2021.09.01.21262715v1). The workshop will be led by researchers from the University of Sydney, The University of NSW, and the Dohert Institute; including Thomas Ashhurst, Givanna Putri, Felix Marsh-Wakefield, Wuji Zhang, and Jennifer Habel.
+As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer">2021 ASI IgV Masterclass</a> (Mon 25-Oct to Tue 26-Oct), we will be offering an online workshop where we will apply [high-dimensional analysis](https://immunedynamics.io/spectre/) approaches to profile the [immune responses to COVID-19](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7) in the blood and respiratory tract, reproducing the types of analysis used in [Koustakous et al. 2021](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7) and [Zhang et al. 2021](https://www.medrxiv.org/content/10.1101/2021.09.01.21262715v1). The workshop will be held on **day 2 (26-Tue)**, and be led by researchers from the University of Sydney, The University of NSW, and the Dohert Institute; including Thomas Ashhurst, Givanna Putri, Felix Marsh-Wakefield, Wuji Zhang, and Jennifer Habel.
+
+<a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer"><b>MORE INFO</b></a>
+<b> | </b>
+<a href="https://www.immunology.org.au/events/register/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer"><b>REGISTRATION</b></a>
 
 <!--
 ## Instructors
@@ -88,7 +88,7 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop where we will
 
 <br />
 
-### Sessions
+### Workshop sessions (Tue 26-OCt)
 
 <table class="table gmisc_table">
   <tbody>
