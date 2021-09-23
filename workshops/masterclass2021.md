@@ -6,14 +6,16 @@ permalink: /workshops/masterclass2021
 
 ---
 
+<p> </p>
+
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+      <td style="padding-left:.75em;padding-right:.75em;width:40%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
           <img width = "100%" src="https://www.immunology.org.au/files/branch_meetings/202110_IgV_Mastger_Class_flyer_V3_Page_1.jpg" style="padding-top: 0px; padding-bottom: 20px">
       </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:65%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-        The <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/">2021 ASI IgV Masterclass</a> (Mon 25-Oct to Tue 26-Oct) will be on quantitative immunology, feature talks on **imaging** from Prof. Tri Phan (Garvan Institute) and Dr. Joanna Groom (WEHI), **single-cell analysis** from A/Prof. Fabio Luciani (UNSW) and Prof. Wei Shi (ONJCRI), and **COVID-19/respiratory immunology** from Prof. Stephanie Gras (La Trobe University) and Prof. Katherine Kedzierska. 
+      <td style="padding-left:.75em;padding-right:.75em;width:60%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+        The <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/">2021 ASI IgV Masterclass</a> (Mon 25-Oct to Tue 26-Oct) will be on quantitative immunology, feature talks on <b>imaging</b> from Prof. Tri Phan (Garvan Institute) and Dr. Joanna Groom (WEHI), <b>single-cell analysis</b> from A/Prof. Fabio Luciani (UNSW) and Prof. Wei Shi (ONJCRI), and <b>COVID-19/respiratory immunology</b> from Prof. Stephanie Gras (La Trobe University) and Prof. Katherine Kedzierska. 
         <p> </p>
         You can find out more about the talks, speakers, and registration information on <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/">this page</a>.
       </td>
@@ -86,7 +88,7 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Koutsakos%202021.png" width="300">
+          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/blood.png?raw=true" width="300">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b><span style="font-size: 17px">
@@ -116,7 +118,7 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-46-9.png?version=1&modificationDate=1613891282510&api=v2" width="300">
+          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/resp.png?raw=true" width="300">
       </td>
       <td style="padding-left:.75em;width:75%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b><span style="font-size: 17px">
