@@ -4,11 +4,13 @@ title: ASI IgV Masterclass 2021 - workshops (Tuesday 26 October 2021)
 permalink: /workshops/masterclass2021
 ---
 
+---
+
 As part of the [ASI Masterclass 2021](), we will be running an online workshop on high-dimensional analysis approaches for cytometry data on [Tuesday 26 October 2021](). Specifically, we will be applying these approaches to profile the blood-borne and respiratory [immune responses to COVID-19](), reproducing the types of analysis used in [Koustakous et al. 2021]() and [Zhang et al. 2021](). 
 
 <br />
 
-<b>[MORE INFORMATION](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/)</b>  |  <b>[REGISTRATION](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/)</b>  |  <b>[CONTACT](mailto:thomas.ashhurst@sydney.edu.au)</b>
+**[MORE INFORMATION](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/)**  |  **[REGISTRATION](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/)**  |  **[CONTACT](mailto:thomas.ashhurst@sydney.edu.au)**
 
 <br />
 <br />
