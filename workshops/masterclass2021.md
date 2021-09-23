@@ -6,7 +6,7 @@ permalink: /workshops/masterclass2021
 
 ---
 
-This years ASI IgV Masterclass (Mon 25-Oct to Tue 26-Oct) will be on quantitative immunology, feature talks on **Imaging** from Prof. Tri Phan (Garvan Institute) and Dr. Joanna Groom (WEHI), **single-cell analysis** from A/Prof. Fabio Luciani (UNSW) and Prof. Wei Shi (ONJCRI), and **COVID-19/respiratory immunology** from Prof. Stephanie Gras (La Trobe University) and Prof. Katherine Kedzierska. 
+The 2021 ASI IgV Masterclass (Mon 25-Oct to Tue 26-Oct) will be on quantitative immunology, feature talks on **imaging** from Prof. Tri Phan (Garvan Institute) and Dr. Joanna Groom (WEHI), **single-cell analysis** from A/Prof. Fabio Luciani (UNSW) and Prof. Wei Shi (ONJCRI), and **COVID-19/respiratory immunology** from Prof. Stephanie Gras (La Trobe University) and Prof. Katherine Kedzierska. 
 
 You can find out more about the talks, speakers, and registration information on **[this page](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/)**.
 
@@ -16,7 +16,7 @@ You can find out more about the talks, speakers, and registration information on
 
 ---
 
-Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dimensional analysis]() approaches for cytometry data. Specifically, we will be applying these approaches to profile the [immune responses to COVID-19]() in the blood and respiratory tract, reproducing the types of analysis used in [Koustakous et al. 2021]() and [Zhang et al. 2021](). The workshop will be led by Thomas Ashhurst, Givanna Putri, Felix Marsh-Wakefield, Wuji Zhang, and Jennifer Habel.
+Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dimensional analysis](https://immunedynamics.io/spectre/) approaches for cytometry data. Specifically, we will be applying these approaches to profile the [immune responses to COVID-19](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7) in the blood and respiratory tract, reproducing the types of analysis used in [Koustakous et al. 2021](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7) and [Zhang et al. 2021](https://www.medrxiv.org/content/10.1101/2021.09.01.21262715v1). The workshop will be led by Thomas Ashhurst, Givanna Putri, Felix Marsh-Wakefield, Wuji Zhang, and Jennifer Habel.
 
 <br />
 
@@ -40,7 +40,7 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
     </tbody>
 </table>
 
-<p> <p/>
+<p> </p>
 
 
 
@@ -67,7 +67,7 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
     </tbody>
 </table>
 
-<p> <p/>
+<p> </p>
 
 
 
@@ -95,7 +95,7 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
     </tbody>
 </table>
 
-<p> <p/>
+<p> </p>
 
 
 
@@ -125,7 +125,7 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
     </tbody>
 </table>
 
-<p> <p/>
+<p> </p>
 <br />
 
 
