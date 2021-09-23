@@ -149,10 +149,7 @@ The workshop will be run by researchers from the [University of Sydney]() and [D
 
 
 
-
-
-
-## Program (Tuesday 26-Oct)
+## Workshop sessions
 
 ---
 
@@ -167,7 +164,7 @@ The workshop will be run by researchers from the [University of Sydney]() and [D
           Introduction
          </span></b></p>
          <p>
-          Time: 9:30 am - 9:45 am (15 min, Zoom)
+          <!--Time: 9:30 am - 9:45 am (15 min, Zoom)-->
         </p>
         <p>
           This day will start-off with some opening remarks on COVID-19 and respiratory immunology from Thomas Ashhurst, Oanh Nguyen, and Katherine Kedzierska.
