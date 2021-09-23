@@ -8,6 +8,8 @@ permalink: /workshops/masterclass2021
 
 This years ASI IgV Masterclass (Mon 25-Oct to Tue 26-Oct) will be on quantitative immunology, featuring talks and workshops on quantitative immunology, covering topics including imaging, single-cell analysis, and COVID-19/respiratory immunology.
 
+[**More info**]() | [**Registration**]()
+
 <br />
 <br />
 
@@ -153,7 +155,6 @@ The workshop will be run by researchers from the [University of Sydney]() and [D
           Introduction
          </span></b></p>
          <p>
-          Time: 9:30 am - 9:45 am (15 min, Zoom)
         </p>
         <p>
           This day will start-off with some opening remarks on COVID-19 and respiratory immunology from Thomas Ashhurst, Oanh Nguyen, and Katherine Kedzierska.
@@ -180,7 +181,6 @@ The workshop will be run by researchers from the [University of Sydney]() and [D
           Session #1: Getting started with cytometry analysis using Spectre and R
          </span></b></p>
          <p>
-          Time: 9:45 am - 11:15 am (1 hr 30 min, Zoom)
         </p>
          <p>
           Lead instructors: Givanna Putri, Felix Marsh-Wakefield
@@ -214,7 +214,6 @@ The workshop will be run by researchers from the [University of Sydney]() and [D
           Session #2: High-dimensional analysis of immune responses to COVID-19 in <i>perhiperhal blood</i>
          </span></b></p>
          <p>
-          Time: 11:45 pm - 1:30 pm (1 hr 45 min, Zoom)
         </p>
         <p>
           Lead instructors: Felix Marsh-Wakefield, Jennifer Habel
@@ -249,7 +248,6 @@ The workshop will be run by researchers from the [University of Sydney]() and [D
           Session #3: High-dimensional analysis of immune responses to COVID-19 in the <i>respiratory tract</i>
          </span></b></p>
         <p>
-          Time: 2:30 pm - 4:15 pm (1 hr 45 min, Zoom)
         </p>
         <p>
           Lead instructors: Thomas Ashhurst, Wuji Zhang
