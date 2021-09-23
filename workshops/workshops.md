@@ -39,7 +39,9 @@ In the second half of 2021 we will be running or contributing to a number of wor
             <b><span style="font-size: 16px">MORE INFO</span></b>
           </a>
         <b><span style="font-size: 16px">  |  </span></b>
-        <b><span style="font-size: 16px">REGISTRATION (coming soon)</span></b>
+        <a href="https://www.immunology.org.au/events/register/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer">
+        <b><span style="font-size: 16px">REGISTRATION</span></b>
+        </a>
           <p> </p>
       </td>
       </tr>
