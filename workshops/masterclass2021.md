@@ -14,7 +14,7 @@ This years ASI IgV Masterclass (Mon 25-Oct to Tue 26-Oct) will be on quantitativ
 
 <br />
 
-## Workshop (day 2)
+## Masterclass workshop (day 2)
 
 Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dimensional analysis]() approaches for cytometry data. Specifically, we will be applying these approaches to profile the [immune responses to COVID-19]() in the blood and respiratory tract, reproducing the types of analysis used in [Koustakous et al. 2021]() and [Zhang et al. 2021]().
 
@@ -29,14 +29,45 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
         </a>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:85%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-          Felix Marsh-Wakefield is...
+          Thomas Ashhurst is...
       </td>
     </tr>
   </tbody>
 </table>
-<br />
 
 
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:15%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+        <a href="https://immunedynamics.github.io/thomas-ashhurst/">
+          <img width = "100%" src="https://avatars.githubusercontent.com/u/5366317?s=460&u=ac0322d285310461de6ad2a4b938252b6ea2d948&v=4" style="padding-top: 0px; padding-bottom: 20px">
+        </a>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:85%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+          Givanna Putri is a postdoctoral research fellow at the Lowy Cancer Research Centre. Her research focuses on developing and applying computational approaches to analyse high dimensional single-cell data.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:15%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+        <a href="https://immunedynamics.github.io/thomas-ashhurst/">
+          <img width = "100%" src="https://ca.slack-edge.com/TLYFBANH2-UM1JA0BC5-69f86dacaa11-512" style="padding-top: 0px; padding-bottom: 20px">
+        </a>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:85%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+          Felix Marsh-Wakefield is a post-doctoral researcher interrogating the immune landscape in hepatocellular carcinoma. He uses bioinformatics to assist in the analysis of high dimensional data, including cytometry, transcriptomic and spatial data.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+  
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -46,14 +77,13 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
         </a>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:85%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-          Felix Marsh-Wakefield is...
+          Wuji Zhang is a PhD candidate from the Kedzierska lab at the Peter Doherty Institute. Wuji's PhD project involves investigating immune responses towards influenza and SARS-CoV-2 infections and vaccinations.
       </td>
     </tr>
   </tbody>
 </table>
-<br />
-
-
+  
+  
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -63,12 +93,11 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
         </a>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:85%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-          Felix Marsh-Wakefield is...
+          Jennifer Habel is a PhD candidate in the Kedzierska Laboratory at the University of Melbourne/Peter Doherty Institute for Infection and Immunity. Her work focuses on defining immune responses to respiratory viral infections in pregnant women to better understand how immunomodulation during pregnancy can affect disease severity.
       </td>
     </tr>
   </tbody>
 </table>
-<br />
   
 
 ## Workshop sessions
