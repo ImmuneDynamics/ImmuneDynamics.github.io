@@ -1,35 +1,23 @@
 ---
 layout: page
-title: ASI IgV Masterclass 2021 (Tuesday 26 October 2021)
+title: ASI IgV Masterclass 2021 (Tue 26-Oct 2021)
 permalink: /workshops/masterclass2021
 ---
 
 ---
 
-This years ASI IgV Masterclass will be on quantitative immunology, featuring talks on imaging, single-cell analysis, and COVID-19/respiratory immunology. We will also be running a workshop on using high-dimensional cytometry analysis of the immune response to COVID-19 in the blood and respiratory tract.
+## ASI IgV Masterclass - workshops
+
+This years ASI IgV Masterclass (Mon 25-Oct to Tue 26-Oct) will be on quantitative immunology, featuring talks on imaging, single-cell analysis, and COVID-19/respiratory immunology from Prof. Tri Phan (Garvan Institute), Dr. Joanna Groom (WEHI), A/Prof. Fabio Luciani (UNSW), Prof. Wei Shi (ONJCRI), Prof. Stephanie Gras (La Trobe University), and Prof. Katherine Kedzierska (Doherty Institute). You can find out more about the talks, speakers, and registration information on **[this page](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/)**.
+
+![](https://www.immunology.org.au/files/branch_meetings/202110_IgV_Mastger_Class_flyer_V3_Page_1.jpg)
+![](https://www.immunology.org.au/files/branch_meetings/202110_IgV_Mastger_Class_flyer_V3_Page_2.jpg)
+![](https://www.immunology.org.au/files/branch_meetings/202110_IgV_Mastger_Class_flyer_V3_Page_3.jpg)
+
+Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dimensional analysis]() approaches for cytometry data. Specifically, we will be applying these approaches to profile the [immune responses to COVID-19]() in the blood and respiratory tract, reproducing the types of analysis used in [Koustakous et al. 2021]() and [Zhang et al. 2021]().
 
 <br />
-
-
-
-# Talks (Mon 25-Oct)
-
-Day one of the masterclass will feature talks on imaging, single-cell analysis, and COVID-19/respiratory immunology from Prof. Tri Phan (Garvan Institute), Dr. Joanna Groom (WEHI), A/Prof. Fabio Luciani (UNSW), Prof. Wei Shi (ONJCRI), Prof. Stephanie Gras (La Trobe University), and Prof. Katherine Kedzierska (Doherty Institute).
-
-**[MORE INFORMATION & REGISTRATION](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/)**
-
 <br />
-
-
-# Workshop (Tue 26-Oct)
-
-Day two of the masterclass will be an online workshop on high-dimensional analysis approaches for cytometry data. Specifically, we will be applying these approaches to profile the [immune responses to COVID-19]() in the blood and respiratory tract, reproducing the types of analysis used in [Koustakous et al. 2021]() and [Zhang et al. 2021]().
-
-<br />
-
-
-
-
 
 ## Instructors
 
