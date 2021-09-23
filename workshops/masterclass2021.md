@@ -28,7 +28,7 @@ Day one (Mon 25-Oct) will feature talks on **Imaging** from Prof. Tri Phan (Garv
 
 Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dimensional analysis]() approaches for cytometry data. Specifically, we will be applying these approaches to profile the [immune responses to COVID-19]() in the blood and respiratory tract, reproducing the types of analysis used in [Koustakous et al. 2021]() and [Zhang et al. 2021]().
 
-**Workshop instructors:
+**Workshop instructors**:
 
 <table class="table gmisc_table">
   <tbody>
