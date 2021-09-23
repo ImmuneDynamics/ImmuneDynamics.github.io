@@ -19,8 +19,8 @@ permalink: /workshops/masterclass2021
       <td style="padding-left:.75em;padding-right:.75em;width:60%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
         The <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer">2021 ASI IgV Masterclass</a> (Mon 25-Oct to Tue 26-Oct) will be on quantitative immunology, feature talks on:
         <ul>
-          <li><b>imaging</b> from Prof. Tri Phan (Garvan Institute) and Dr. Joanna Groom (WEHI),</li>
-          <li><b>single-cell analysis</b> from A/Prof. Fabio Luciani (UNSW) and Prof. Wei Shi (ONJCRI), and</li>
+          <li><b>Imaging</b> from Prof. Tri Phan (Garvan Institute) and Dr. Joanna Groom (WEHI),</li>
+          <li><b>Single-cell analysis</b> from A/Prof. Fabio Luciani (UNSW) and Prof. Wei Shi (ONJCRI), and</li>
           <li><b>COVID-19/respiratory immunology</b> from Prof. Stephanie Gras (La Trobe University) and Prof. Katherine Kedzierska</li>
         </ul>  
         <p> </p>
