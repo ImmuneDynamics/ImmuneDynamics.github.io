@@ -158,6 +158,7 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
 <br />
 
 
+
 ## Workshop instructors
 
 <table class="table gmisc_table">
@@ -169,7 +170,7 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
         </a>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:85%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-          Dr. Thomas Ashhurst is a high-dimensional cytometry and single-cell specialist with the Sydney Cytometry Core Research Facility, and an Honorary Research Fellow with the Infection, Immunity, and Inflammation Theme, School of Medical Sciences, at The University of Sydney. His work is focused on the development and application of high-dimensional single-cell and imaging methods, as well as advanced computational approaches, to comprehensively map the dynamic immune responses to inflammation and infectious diseases.
+          Dr. Thomas Ashhurst is a high-dimensional cytometry specialist with the Sydney Cytometry Core Research Facility, and an Honorary Research Fellow with the School of Medical Sciences at The University of Sydney. His work is focused on the development and application of high-dimensional single-cell and imaging methods, as well as advanced computational approaches, to comprehensively map the dynamic immune responses to inflammation and infectious diseases.
       </td>
     </tr>
   </tbody>
