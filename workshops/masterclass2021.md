@@ -24,7 +24,9 @@ permalink: /workshops/masterclass2021
           <li><b>COVID-19/respiratory immunology</b> from Prof. Stephanie Gras (La Trobe University) and Prof. Katherine Kedzierska</li>
         </ul>  
         <p> </p>
-        You can find out more about the talks, speakers, and registration information on <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer">this page</a>.
+        <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer"><b>MORE INFO</b></a>
+        <b> | </b>
+        <a href="https://www.immunology.org.au/events/register/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer"><b>REGISTRATION</b></a>
       </td>
     </tr>
   </tbody>
