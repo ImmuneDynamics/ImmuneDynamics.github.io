@@ -37,6 +37,8 @@ permalink: /workshops/masterclass2021
 
 ---
 
+![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/CVD%20banner.png?raw=true)
+
 Day two (Tue 26-Oct) of the masterclass will be an online workshop where we will apply [high-dimensional analysis](https://immunedynamics.io/spectre/) approaches to profile the [immune responses to COVID-19](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7) in the blood and respiratory tract, reproducing the types of analysis used in [Koustakous et al. 2021](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7) and [Zhang et al. 2021](https://www.medrxiv.org/content/10.1101/2021.09.01.21262715v1). The workshop will be led by researchers from the University of Sydney, The University of NSW, and the Dohert Institute; including Thomas Ashhurst, Givanna Putri, Felix Marsh-Wakefield, Wuji Zhang, and Jennifer Habel.
 
 <!--
