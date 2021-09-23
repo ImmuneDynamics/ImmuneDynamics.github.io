@@ -101,6 +101,8 @@ Monday will consist of talks from feature talks on <b>Imaging</b> from Prof. Tri
 
 ---
 
+Tuesday will consist of a series of online hands-on workshop sessions.
+
 <table class="table gmisc_table">
   <tbody>
     <tr>
