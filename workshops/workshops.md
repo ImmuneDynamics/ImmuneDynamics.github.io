@@ -86,7 +86,7 @@ In the second half of 2021 we will be running or contributing to a number of wor
           </a>
         <b><span style="font-size: 16px">  |  </span></b>
         <a href="https://cytometryconference.org.au/workshops/" target="_blank" rel="noopener noreferrer">
-        <b><span style="font-size: 16px">WORKSHOP INFO (coming soon)</span></b>
+        <b><span style="font-size: 16px">WORKSHOP INFO</span></b>
         </a>
           <p> </p>
       </td>
