@@ -34,8 +34,7 @@ permalink: /workshops/masterclass2021
 
 Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dimensional analysis](https://immunedynamics.io/spectre/) approaches for cytometry data. Specifically, we will be applying these approaches to profile the [immune responses to COVID-19](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7) in the blood and respiratory tract, reproducing the types of analysis used in [Koustakous et al. 2021](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7) and [Zhang et al. 2021](https://www.medrxiv.org/content/10.1101/2021.09.01.21262715v1). The workshop will be led by Thomas Ashhurst, Givanna Putri, Felix Marsh-Wakefield, Wuji Zhang, and Jennifer Habel.
 
-**Instructors**:
-<p> </p>
+## Instructors
 
 <table class="table gmisc_table">
   <tbody>
@@ -58,7 +57,7 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
     </tr>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:20%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-        <b>Thomas Ashhurst</b> is a high-dimensional cytometry specialist with the Sydney Cytometry Core Research Facility, and an Honorary Research Fellow with the School of Medical Sciences at The University of Sydney. His work is focused on the development and application of high-dimensional single-cell and imaging methods, as well as advanced computational approaches, to comprehensively map the dynamic immune responses to inflammation and infectious diseases.
+        <b>Thomas Ashhurst</b> is a high-dimensional cytometry specialist with the Sydney Cytometry Core Research Facility, and an Honorary Research Fellow with the School of Medical Sciences at The University of Sydney. His work is focused on the development and application of high-dimensional methods comprehensively map the dynamic immune responses to inflammation and infectious diseases.
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:20%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
         <b>Givanna Putri</b> is a postdoctoral research fellow at the Lowy Cancer Research Centre. Her research focuses on developing and applying computational approaches to analyse high dimensional single-cell data.
@@ -76,8 +75,11 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
   </tbody>
 </table>
 
-**Sessions**:
-<p> </p>
+<br />
+
+
+
+### Sessions
 
 <table class="table gmisc_table">
   <tbody>
