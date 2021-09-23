@@ -57,7 +57,7 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:15%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
         <a href="https://immunedynamics.github.io/thomas-ashhurst/">
-          <img width = "100%" src="https://ca.slack-edge.com/TLYFBANH2-UM1JA0BC5-69f86dacaa11-512" style="padding-top: 0px; padding-bottom: 20px">
+          <img width = "100%" src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/FMW.jpeg?raw=true" style="padding-top: 0px; padding-bottom: 20px">
         </a>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:85%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
@@ -73,7 +73,7 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:15%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
         <a href="https://immunedynamics.github.io/thomas-ashhurst/">
-          <img width = "100%" src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" style="padding-top: 0px; padding-bottom: 20px">
+          <img width = "100%" src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/WZ.png?raw=true" style="padding-top: 0px; padding-bottom: 20px">
         </a>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:85%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
@@ -89,7 +89,7 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:15%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
         <a href="https://immunedynamics.github.io/thomas-ashhurst/">
-          <img width = "100%" src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" style="padding-top: 0px; padding-bottom: 20px">
+          <img width = "100%" src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/JH.jpg?raw=true" style="padding-top: 0px; padding-bottom: 20px">
         </a>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:85%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
