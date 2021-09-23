@@ -6,11 +6,21 @@ permalink: /workshops/masterclass2021
 
 ---
 
-![](https://www.immunology.org.au/_assets/img/asi-logo.png)
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+          <img width = "100%" src="https://www.immunology.org.au/files/branch_meetings/202110_IgV_Mastger_Class_flyer_V3_Page_1.jpg" style="padding-top: 0px; padding-bottom: 20px">
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:65%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+        The <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/">2021 ASI IgV Masterclass</a> (Mon 25-Oct to Tue 26-Oct) will be on quantitative immunology, feature talks on **imaging** from Prof. Tri Phan (Garvan Institute) and Dr. Joanna Groom (WEHI), **single-cell analysis** from A/Prof. Fabio Luciani (UNSW) and Prof. Wei Shi (ONJCRI), and **COVID-19/respiratory immunology** from Prof. Stephanie Gras (La Trobe University) and Prof. Katherine Kedzierska. 
+        <p> </p>
+        You can find out more about the talks, speakers, and registration information on <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/">this page</a>.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-The [2021 ASI IgV Masterclass](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/) (Mon 25-Oct to Tue 26-Oct) will be on quantitative immunology, feature talks on **imaging** from Prof. Tri Phan (Garvan Institute) and Dr. Joanna Groom (WEHI), **single-cell analysis** from A/Prof. Fabio Luciani (UNSW) and Prof. Wei Shi (ONJCRI), and **COVID-19/respiratory immunology** from Prof. Stephanie Gras (La Trobe University) and Prof. Katherine Kedzierska. 
-
-You can find out more about the talks, speakers, and registration information on **[this page](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/)**.
 
 <br />
 
