@@ -35,13 +35,8 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
          <p>
         </p>
         <p>
-          This day will start-off with some opening remarks on COVID-19 and respiratory immunology from Thomas Ashhurst, Oanh Nguyen, and Katherine Kedzierska.
+          The workshop day (Tue 26-Oct) will start off with some opening remarks on COVID-19 and respiratory immunology from Thomas Ashhurst, Oanh Nguyen, and Katherine Kedzierska.
         </p>
-          <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass/" target="_blank" rel="noopener noreferrer">
-            <b><span style="font-size: 16px">
-              MORE INFO
-             </span></b>
-          </a>
       </td>
       </tr>
     </tbody>
@@ -69,11 +64,6 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
         <p>
           In this session, instructors will introduce attendees to methods of high-dimensional analysis <a href="https://immunedynamics.io/spectre/getting-started/">with R/RStudio</a>. Specifically we will use the R package <a href="https://immunedynamics.io/spectre/">Spectre</a>, and will explore computational approaches such as clustering (e.g. using FlowSOM) and dimensionality reduction (e.g. using tSNE or UMAP).
         </p>
-          <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass/" target="_blank" rel="noopener noreferrer">
-            <b><span style="font-size: 16px">
-              MORE INFO
-             </span></b>
-          </a>
       </td>
       </tr>
     </tbody>
@@ -102,11 +92,6 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
         <p>
           In this session we will be investigating the immune response to COVID-19 in perihperal blood. We will compare immune responses in healthy controls, convalescent patients, and patients with mild COVID-19 or severe COVID-19. 
         </p>
-          <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass/" target="_blank" rel="noopener noreferrer">
-            <b><span style="font-size: 16px">
-              MORE INFO
-             </span></b>
-          </a>
       </td>
       </tr>
     </tbody>
@@ -137,11 +122,6 @@ Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dime
         <p>
           In this session we will be investigating the immune response to COVID-19 in the respiratory tract, from samples acquired via an endotracheal tube. In particular we will explore a variety of myeloid cells that infiltrate the respiratory tract via the blood, including macrophages and neutrophils, and how they compare to similar cells in the blood.
         </p>
-          <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass/" target="_blank" rel="noopener noreferrer">
-            <b><span style="font-size: 16px">
-              MORE INFO
-             </span></b>
-          </a>
       </td>
       </tr>
     </tbody>
