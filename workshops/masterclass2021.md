@@ -6,17 +6,9 @@ permalink: /workshops/masterclass2021
 
 As part of the [ASI Masterclass 2021](), we will be running an online workshop on high-dimensional analysis approaches for cytometry data on [Tuesday 26 October 2021](). Specifically, we will be applying these approaches to profile the blood-borne and respiratory [immune responses to COVID-19](), reproducing the types of analysis used in [Koustakous et al. 2021]() and [Zhang et al. 2021](). 
 
-Two attendace formats are available:
-
-- <b>Interactive</b> (limited to 60 attendees): attendees will join a communal zoom session, and will follow the instructors in applying our pre-designed analysis workflows. Regular breaks will provide opportunities for attendees and instructors to discuss the analysis process and immunological findings resulting from the analysis. Interactive attendees will be given access to a 'virtual' computer with the required software pre-installed, or can use their own computers if preferred.
-
-- <b>Watching only</b> (unlimited attendees): attendess are able to watch a live-stream of the workshop.
-
-All attendee types will have access to the session recordings after the workshop has concluded.
-
 <br />
 
-<b>[MORE INFORMATION]()</b>  |  <b>[REGISTRATION]()</b>  |  <b>[CONTACT]()</b>
+<b>[MORE INFORMATION](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/)</b>  |  <b>[REGISTRATION](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/)</b>  |  <b>[CONTACT](mailto:thomas.ashhurst@sydney.edu.au)</b>
 
 <br />
 <br />
