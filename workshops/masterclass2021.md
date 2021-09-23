@@ -4,8 +4,9 @@ title: ASI IgV Masterclass 2021
 permalink: /workshops/masterclass2021
 ---
 
-<!--
 ---
+
+<!--
 <p> </p>
 <table class="table gmisc_table">
   <tbody>
