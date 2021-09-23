@@ -6,13 +6,18 @@ permalink: /workshops/masterclass2021
 
 ---
 
+This years ASI IgV Masterclass (Mon 25-Oct to Tue 26-Oct) will be on quantitative immunology, featuring talks and workshops on quantitative immunology, covering topics including imaging, single-cell analysis, and COVID-19/respiratory immunology.
+
+<br />
+<br />
+
 ## Day 1 (talks)
 
-This years ASI IgV Masterclass (Mon 25-Oct to Tue 26-Oct) will be on quantitative immunology, featuring talks on imaging, single-cell analysis, and COVID-19/respiratory immunology from Prof. Tri Phan (Garvan Institute), Dr. Joanna Groom (WEHI), A/Prof. Fabio Luciani (UNSW), Prof. Wei Shi (ONJCRI), Prof. Stephanie Gras (La Trobe University), and Prof. Katherine Kedzierska (Doherty Institute). You can find out more about the talks, speakers, and registration information on **[this page](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/)**.
+Day one (Mon 25-Oct) will feature talks on **Imaging** from Prof. Tri Phan (Garvan Institute) and Dr. Joanna Groom (WEHI), **single-cell analysis** from A/Prof. Fabio Luciani (UNSW) and Prof. Wei Shi (ONJCRI), and **COVID-19/respiratory immunology** from Prof. Stephanie Gras (La Trobe University) and Prof. Katherine Kedzierska. You can find out more about the talks, speakers, and registration information on **[this page](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/)**.
 
-![](https://www.immunology.org.au/files/branch_meetings/202110_IgV_Mastger_Class_flyer_V3_Page_1.jpg)
-![](https://www.immunology.org.au/files/branch_meetings/202110_IgV_Mastger_Class_flyer_V3_Page_2.jpg)
-![](https://www.immunology.org.au/files/branch_meetings/202110_IgV_Mastger_Class_flyer_V3_Page_3.jpg)
+<!--![](https://www.immunology.org.au/files/branch_meetings/202110_IgV_Mastger_Class_flyer_V3_Page_1.jpg)-->
+<!--![](https://www.immunology.org.au/files/branch_meetings/202110_IgV_Mastger_Class_flyer_V3_Page_2.jpg)-->
+<!--![](https://www.immunology.org.au/files/branch_meetings/202110_IgV_Mastger_Class_flyer_V3_Page_3.jpg)-->
 
 <br />
 <br />
@@ -123,18 +128,7 @@ The workshop will be run by researchers from the [University of Sydney]() and [D
                       </a>
                   </p>
               </div>
-          </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:center; vertical-align:middle">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      <a href="https://immunedynamics.github.io/givanna-putri/">
-                        <b><span style="font-size: 18px">
-                          Oanh Nguyen
-                         </span></b>
-                      </a>
-                  </p>
-              </div>
-          </td>
+        </td>
       </tr>
     </tbody>
 </table>
