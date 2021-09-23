@@ -14,20 +14,13 @@ This years ASI IgV Masterclass (Mon 25-Oct to Tue 26-Oct) will be on quantitativ
 
 <br />
 
-# Masterclass workshop (day 2)
+# Masterclass workshop (Tue 26-Oct)
 
---
+---
 
 Day two (Tue 26-Oct) of the masterclass will be an online workshop on [high-dimensional analysis]() approaches for cytometry data. Specifically, we will be applying these approaches to profile the [immune responses to COVID-19]() in the blood and respiratory tract, reproducing the types of analysis used in [Koustakous et al. 2021]() and [Zhang et al. 2021]().
 
 <br />
-
-
-
-
-## Workshop sessions
-
----
 
 <table class="table gmisc_table">
   <tbody>
