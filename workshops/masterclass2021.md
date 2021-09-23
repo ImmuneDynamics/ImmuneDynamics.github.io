@@ -11,11 +11,6 @@ permalink: /workshops/masterclass2021
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:40%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
-        <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/"  target="_blank" rel="noopener noreferrer">
-          <img width = "100%" src="https://www.immunology.org.au/files/branch_meetings/202110_IgV_Mastger_Class_flyer_V3_Page_1.jpg" style="padding-top: 0px; padding-bottom: 20px">
-        </a>
-      </td>
       <td style="padding-left:.75em;padding-right:.75em;width:60%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
         The <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer">2021 ASI IgV Masterclass</a> (Mon 25-Oct to Tue 26-Oct) will be on quantitative immunology, feature talks on:
         <ul>
@@ -27,6 +22,11 @@ permalink: /workshops/masterclass2021
         <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer"><b>MORE INFO</b></a>
         <b> | </b>
         <a href="https://www.immunology.org.au/events/register/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer"><b>REGISTRATION</b></a>
+      </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:40%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
+        <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/"  target="_blank" rel="noopener noreferrer">
+          <img width = "100%" src="https://www.immunology.org.au/files/branch_meetings/202110_IgV_Mastger_Class_flyer_V3_Page_1.jpg" style="padding-top: 0px; padding-bottom: 0px; padding-left: 20px">
+        </a>
       </td>
     </tr>
   </tbody>
