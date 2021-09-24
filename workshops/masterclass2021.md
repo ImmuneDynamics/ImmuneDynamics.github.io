@@ -38,7 +38,9 @@ permalink: /workshops/masterclass2021
 ---
 -->
 
-As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer">2021 ASI IgV Masterclass</a> (Mon 25-Oct to Tue 26-Oct), we will be offering an online workshop where we will apply [high-dimensional analysis](https://immunedynamics.io/spectre/) approaches to profile the [immune responses to COVID-19](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7) in the blood and respiratory tract, reproducing the types of analysis used in [Koustakous et al. 2021](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7) and [Zhang et al. 2021](https://www.medrxiv.org/content/10.1101/2021.09.01.21262715v1). The workshop will be held on **day 2 (26-Tue)**, and be led by researchers from the University of Sydney, The University of NSW, The Dohert Institute, and The University of Melbourne; including 
+As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer">2021 ASI IgV Masterclass</a> (Mon 25-Oct to Tue 26-Oct), we will be offering an online workshop where we will apply [high-dimensional analysis](https://immunedynamics.io/spectre/) approaches to profile the [immune responses to COVID-19](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7) in the blood and respiratory tract, reproducing the types of analysis used in [Koustakous et al. 2021](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7) and [Zhang et al. 2021](https://www.medrxiv.org/content/10.1101/2021.09.01.21262715v1). 
+
+The workshop will be held on **day 2 (26-Tue)**, and be led by researchers from the University of Sydney, The University of NSW, The Dohert Institute, and The University of Melbourne; including 
 [Thomas Ashhurst](https://immunedynamics.io/thomas-ashhurst/), 
 [Givanna Putri](https://immunedynamics.io/givanna-putri/), 
 [Felix Marsh-Wakefield](https://immunedynamics.io/felix-marsh-wakefield/), 
