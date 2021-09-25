@@ -20,7 +20,7 @@ permalink: /research/humancellatlas/
     </tbody>
 </table>
 
-<br />
+<p> </p>
 
 ### Multi-modal single-cell technologies
 
