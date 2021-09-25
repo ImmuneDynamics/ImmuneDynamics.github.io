@@ -6,7 +6,21 @@ permalink: /research/humancellatlas/
 
 ### What is the Human Cell Atlas project
 
-The [Human Cell Atlas (HCA)](https://www.humancellatlas.org/) project is international endeavour to create comprehensive reference maps of all cells in the human body. This collection of molecular single-cell maps will provide enormous insight into cellular biology, as well as providing a reference database from which automated cellular classification can be achieved. These efforts are partnered by other atlas-level projects, including the [LifeTime initiative](https://lifetime-initiative.eu/) and the NIH [Human BioMolecular Atlas Program (HubMAP) consortium](https://hubmapconsortium.org/).
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+        <img src="https://galaxyproject.org/images/logos/human-cell-atlas-logo.png" width="3000" style="padding-top: 30px"> 
+      </td>
+      <td style="padding-left:.75em;width:70%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
+         The <a href="https://www.humancellatlas.org/">Human Cell Atlas</a> (HCA) project is international endeavour to create comprehensive reference maps of all cells in the human body. This collection of molecular single-cell maps will provide enormous insight into cellular biology, as well as providing a reference database from which automated cellular classification can be achieved. These efforts are partnered by other atlas-level projects, including the <a href="https://lifetime-initiative.eu/">LifeTime initiative</a> and the NIH <a href="https://hubmapconsortium.org/">Human BioMolecular Atlas Program (HubMAP) consortium</a>.
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<br />
 
 ### Multi-modal single-cell technologies
 
