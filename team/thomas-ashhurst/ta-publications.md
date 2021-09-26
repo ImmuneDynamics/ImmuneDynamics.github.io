@@ -127,9 +127,6 @@ AG Spiteri, RL Terry, CL Wishart, **TM Ashhurst**, IL Campbell, MJ Hofer, NJC Ki
         <a href="#">
             <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/Spectre%20logo%20wide.png" alt="icon" width="250" align="right">
         </a>
-        <a href="#">
-            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-46-9.png?version=1&modificationDate=1613891282510&api=v2" alt="icon" width="250" align="right">
-        </a>
     </div>
 </div>
 
