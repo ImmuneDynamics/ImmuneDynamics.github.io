@@ -47,15 +47,13 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/Zhang%202021.png?raw=true" alt="icon" width="250" align="right">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/COVID%20resp.png?raw=true" alt="icon" width="250" align="right">
         </a>
     </div>
 </div>
 
 W Zhang, B Chua, K Selva, L Kedzierski, **T Ashhurst**, E Haycroft, ... Thi Nguyen, Katherine Kedzierska. 2021. [Immune responses in COVID-19 respiratory tract and blood reveal mechanisms of disease severity](https://www.medrxiv.org/content/10.1101/2021.09.01.21262715v1). medRxiv (pre-print).
 
-<br />
-<br />
 <br />
 <br />
 <br />
