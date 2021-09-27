@@ -50,10 +50,7 @@ The workshop will be held on **day 2 (26-Tue)**, and be led by researchers from 
 <br />
 
 <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer">
-  <b><span style="font-size: 17px">MORE INFO</span></b></a>
-<b> | </b>
-<a href="https://www.immunology.org.au/events/register/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer">
-  <b><span style="font-size: 17px">REGISTRATION</span></b></a>
+  <b><span style="font-size: 17px">MORE INFO & REGISTRATION</span></b></a>
 
 <!--
 ## Instructors
