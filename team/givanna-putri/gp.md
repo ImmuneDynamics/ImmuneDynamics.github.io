@@ -24,8 +24,6 @@ In 2019, she was awarded The Student Travel Award from the International Society
 Additionally, she also developed a novel benchmarking methodology [ParetoBench](https://github.com/ghar1821/ParetoBench) which uses the Pareto Front framework to fairly compare the performances of clustering algorithms using several performance metrics.
 Her PhD research was funded by The Australian Government Research Training Program Scholarship and The University of Sydney Alumni Scholarship.
 
-Outside work, I love mountain biking, painting, travelling, and listening to blues and jazz music.
-I also enjoy rock climbing and snow boarding.
 
 **Contact info**
 
