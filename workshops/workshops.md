@@ -32,7 +32,7 @@ In the second half of 2021 we will be running or contributing to a number of wor
           <a href="https://immunedynamics.io/research/disease/#sars-cov-2-and-covid-19">COVID-19</a>
           in the blood and respiratory tract. 
           Registrations will be open to both ASI members and non-members. Keep an eye on the 
-          <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass/">ASI IgV Masterclass page</a> 
+          <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/">ASI IgV Masterclass page</a> 
           for more information.
         </p>
           <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer">
