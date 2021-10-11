@@ -36,11 +36,11 @@ In the second half of 2021 we will be running or contributing to a number of wor
           for more information.
         </p>
           <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer">
-            <b><span style="font-size: 16px">MORE INFO</span></b>
+            <b><span style="font-size: 16px">MASTERCLASS INFO</span></b>
           </a>
         <b><span style="font-size: 16px">  |  </span></b>
-        <a href="https://www.immunology.org.au/events/register/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer">
-        <b><span style="font-size: 16px">REGISTRATION</span></b>
+        <a href="https://immunedynamics.io/workshops/masterclass2021" target="_blank" rel="noopener noreferrer">
+        <b><span style="font-size: 16px">WORKSHOP INFO</span></b>
         </a>
           <p> </p>
       </td>
