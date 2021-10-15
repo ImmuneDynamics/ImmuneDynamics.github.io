@@ -10,9 +10,9 @@ permalink: /workshops/masterclass2021
 
 In 2021, the [Immunology Group of Victoria](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/) (IgV) of the [Australia and New Zealand Society for Immunology](https://www.immunology.org.au/) (ASI) are running a masterclass on '[Quantitative Immunology](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/)'. 
 
-**Day 1 (Mon 25-Oct)** will feature talks on <b>Imaging</b> from [Prof. Tri Phan](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/) (Garvan Institute) and [Dr. Joanna Groom](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/) (WEHI), <b>Single-cell analysis</b> from [A/Prof. Fabio Luciani](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/) (UNSW) and [Prof. Wei Shi](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/) (ONJCRI), and <b>COVID-19/respiratory immunology</b> from [Prof. Stephanie Gras](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/) (La Trobe University) and [Prof. Katherine Kedzierska](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/). 
+- **Day 1** (Mon 25-Oct) will feature talks on <b>Imaging</b> from [Prof. Tri Phan](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/) (Garvan Institute) and [Dr. Joanna Groom](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/) (WEHI), <b>Single-cell analysis</b> from [A/Prof. Fabio Luciani](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/) (UNSW) and [Prof. Wei Shi](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/) (ONJCRI), and <b>COVID-19/respiratory immunology</b> from [Prof. Stephanie Gras](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/) (La Trobe University) and [Prof. Katherine Kedzierska](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/). 
 
-**Day 2 (Tue 26-Oct)** will consist of an online workshop where we will apply [high-dimensional analysis](https://immunedynamics.io/spectre/) approaches to profile the [immune responses to COVID-19](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7) in the blood and respiratory tract, reproducing the types of analysis used in [Koustakous et al. 2021](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7) and [Zhang et al. 2021](https://www.medrxiv.org/content/10.1101/2021.09.01.21262715v1). This workshop will be led by researchers from the University of Sydney, The University of NSW, The Dohert Institute, and The University of Melbourne; including 
+- **Day 2** (Tue 26-Oct) will consist of an online workshop where we will apply [high-dimensional analysis](https://immunedynamics.io/spectre/) approaches to profile the [immune responses to COVID-19](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7) in the blood and respiratory tract, reproducing the types of analysis used in [Koustakous et al. 2021](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7) and [Zhang et al. 2021](https://www.medrxiv.org/content/10.1101/2021.09.01.21262715v1). This workshop will be led by researchers from the University of Sydney, The University of NSW, The Dohert Institute, and The University of Melbourne; including 
 [Thomas Ashhurst](https://immunedynamics.io/thomas-ashhurst/), 
 [Givanna Putri](https://immunedynamics.io/givanna-putri/), 
 [Felix Marsh-Wakefield](https://immunedynamics.io/felix-marsh-wakefield/), 
@@ -21,7 +21,9 @@ In 2021, the [Immunology Group of Victoria](https://www.immunology.org.au/events
 
 <br />
 
-**[MORE INFORMATION AND REGISTRATION](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/)**
+<p><b><span style="font-size: 14px"><a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer">
+    MORE INFORMATION AND REGISTRATION
+  </a></span></b></p>
 
 <br />
 
