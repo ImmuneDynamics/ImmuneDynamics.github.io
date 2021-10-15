@@ -54,7 +54,7 @@ Tuesday will consist of a series of online hands-on workshop sessions.
     </tbody>
 </table>
 
-<p> </p>
+<br />
 
 
 
@@ -84,7 +84,8 @@ Tuesday will consist of a series of online hands-on workshop sessions.
     </tbody>
 </table>
 
-<p> </p>
+
+<br />
 
 
 
@@ -114,7 +115,8 @@ Tuesday will consist of a series of online hands-on workshop sessions.
     </tbody>
 </table>
 
-<p> </p>
+
+<br />
 
 
 
