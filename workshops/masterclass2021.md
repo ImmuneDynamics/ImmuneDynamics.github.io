@@ -143,6 +143,7 @@ Tuesday will consist of a series of online hands-on workshop sessions.
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
           <img src="https://blog.desdelinux.net/wp-content/uploads/2019/02/rstudio-og.png.webp" width="300">
+          <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/Spectre%20logo%20wide.png" width="300">
       </td>
       <td style="padding-left:.75em;width:65%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b><span style="font-size: 17px">
