@@ -19,7 +19,7 @@ In 2021, the [Immunology Group of Victoria](https://www.immunology.org.au/events
 [Wuji Zhang](https://www.researchgate.net/scientific-contributions/Wuji-Zhang-2179446174), and 
 [Jennifer Habel](https://www.researchgate.net/profile/Jennifer-Habel).
 
-<p><b><span style="font-size: 14px"><a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer">
+<p><b><span style="font-size: 16px"><a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer">
     MORE INFORMATION AND REGISTRATION
   </a></span></b></p>
 
