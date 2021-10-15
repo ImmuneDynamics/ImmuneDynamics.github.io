@@ -27,7 +27,7 @@ In 2021, the [Immunology Group of Victoria](https://www.immunology.org.au/events
 
 <br />
 
-### Workshop (Tue 26-Oct) sessions
+## Workshop (Tue 26-Oct) sessions
 
 ---
 
@@ -155,7 +155,9 @@ Tuesday will consist of a series of online hands-on workshop sessions.
 
 
 
-### Workshop instructor profiles
+## Workshop instructor profiles
+
+---
 
 <table class="table gmisc_table">
   <tbody>
