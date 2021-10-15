@@ -17,7 +17,7 @@ In the second half of 2021 we will be running or contributing to a number of wor
           <img src="https://www.immunology.org.au/_assets/img/asi-logo.png" width="3000">
         <br />
         <br />
-          <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Koutsakos%202021.png">
+          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/Respiratory.png?raw=true">
       </td>
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b><span style="font-size: 17px">ASI IgV Masterclass 2021 (25-26 Oct)</span></b></p>
