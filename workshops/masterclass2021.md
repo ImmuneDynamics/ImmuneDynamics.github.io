@@ -114,7 +114,7 @@ Tuesday will consist of a series of online hands-on workshop sessions.
 <table class="table gmisc_table">
   <tbody>
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+      <td style="padding-left:3em;padding-right:3em;width:35%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
           <img src="https://www.apsf.org/wp-content/uploads/newsletters/2020/3502/coronavirus-covid-19.png" width="300">
       </td>
       <td style="padding-left:.75em;width:65%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
@@ -142,7 +142,7 @@ Tuesday will consist of a series of online hands-on workshop sessions.
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://www.r-project.org/Rlogo.png" width="300">
+          <img src="https://blog.desdelinux.net/wp-content/uploads/2019/02/rstudio-og.png.webp" width="300">
       </td>
       <td style="padding-left:.75em;width:65%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b><span style="font-size: 17px">
