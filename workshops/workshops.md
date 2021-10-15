@@ -16,7 +16,6 @@ In the second half of 2021 we will be running or contributing to a number of wor
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
           <img src="https://www.immunology.org.au/_assets/img/asi-logo.png" width="3000">
         <br />
-        <br />
           <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/COVID-19%20all%202.png?raw=true">
       </td>
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
