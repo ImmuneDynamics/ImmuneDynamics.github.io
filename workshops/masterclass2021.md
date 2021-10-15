@@ -139,7 +139,7 @@ Tuesday will consist of a series of online hands-on workshop sessions.
         </p>
         <p>
           Lead instructors: 
-          <a href="https://immunedynamics.io/thomas-ashhurst/" target="_blank" rel="noopener noreferrer">Thomas Ashhurst</a>, 
+          <a href="https://immunedynamics.io/givanna-putri/" target="_blank" rel="noopener noreferrer">Givanna Putri</a>, 
           <a href="hhttps://www.researchgate.net/scientific-contributions/Wuji-Zhang-2179446174" target="_blank" rel="noopener noreferrer">Wuji Zhang</a>
         </p>
         <p>
