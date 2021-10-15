@@ -19,8 +19,6 @@ In 2021, the [Immunology Group of Victoria](https://www.immunology.org.au/events
 [Wuji Zhang](https://www.researchgate.net/scientific-contributions/Wuji-Zhang-2179446174), and 
 [Jennifer Habel](https://www.researchgate.net/profile/Jennifer-Habel).
 
-<br />
-
 <p><b><span style="font-size: 14px"><a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/" target="_blank" rel="noopener noreferrer">
     MORE INFORMATION AND REGISTRATION
   </a></span></b></p>
@@ -140,7 +138,7 @@ Tuesday will consist of a series of online hands-on workshop sessions.
         <p>
           Lead instructors: 
           <a href="https://immunedynamics.io/givanna-putri/" target="_blank" rel="noopener noreferrer">Givanna Putri</a>, 
-          <a href="hhttps://www.researchgate.net/scientific-contributions/Wuji-Zhang-2179446174" target="_blank" rel="noopener noreferrer">Wuji Zhang</a>
+          <a href="https://www.researchgate.net/scientific-contributions/Wuji-Zhang-2179446174" target="_blank" rel="noopener noreferrer">Wuji Zhang</a>
         </p>
         <p>
           In this session we will be investigating the immune response to COVID-19 in the respiratory tract, from samples acquired via an endotracheal tube. In particular we will explore a variety of myeloid cells that infiltrate the respiratory tract via the blood, including macrophages and neutrophils, and how they compare to similar cells in the blood.
