@@ -204,7 +204,7 @@ Tuesday will consist of a series of online hands-on workshop sessions.
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:40%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/Respiratory.png?raw=true" width="300">
+          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/Respiratory%202.png?raw=true" width="300">
       </td>
       <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b><span style="font-size: 17px">
