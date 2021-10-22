@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Masterclass workshop - Home Page
-permalink: /workshops/masterclass2021/home/
+permalink: /masterclass/
 ---
 
 ---
