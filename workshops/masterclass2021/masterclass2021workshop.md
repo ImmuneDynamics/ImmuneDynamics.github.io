@@ -141,9 +141,9 @@ permalink: /masterclass2021-workshop/
         </p>
         <br />
         <p><b><span style="font-size: 16px">
-          <a href="" target="_blank" rel="noopener noreferrer">ZOOM<a/> |
-          <a href="" target="_blank" rel="noopener noreferrer">DOWNLOAD<a/> |
-          <a href="" target="_blank" rel="noopener noreferrer">WORKFLOW<a/>
+          <a href="" target="_blank" rel="noopener noreferrer">ZOOM</a> |
+          <a href="" target="_blank" rel="noopener noreferrer">DOWNLOAD</a> |
+          <a href="" target="_blank" rel="noopener noreferrer">WORKFLOW</a>
         </span></b></p>
       </td>
       </tr>
