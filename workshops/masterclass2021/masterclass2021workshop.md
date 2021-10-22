@@ -17,6 +17,7 @@ permalink: /workshops/masterclass2021/home/
           Introduction
          </span></b></p>
          <p>
+           10:00 am - 10:30 am AEDT
         </p>
         <p>
           The workshop day (Tue 26-Oct) will start off with some opening remarks on COVID-19 and respiratory immunology from 
@@ -50,6 +51,7 @@ permalink: /workshops/masterclass2021/home/
           Session #1: Getting started with cytometry analysis using Spectre and R
          </span></b></p>
          <p>
+           10:30 am – 12:00 pm AEDT
         </p>
          <p>
           Lead instructors: 
@@ -87,6 +89,7 @@ permalink: /workshops/masterclass2021/home/
           Session #2: High-dimensional analysis of immune responses to COVID-19 in <i>perhiperhal blood</i>
          </span></b></p>
          <p>
+           1:00 pm – 2:30 pm AEDT
         </p>
         <p>
           Lead instructors: 
@@ -126,6 +129,7 @@ permalink: /workshops/masterclass2021/home/
           Session #3: High-dimensional analysis of immune responses to COVID-19 in the <i>respiratory tract</i>
          </span></b></p>
         <p>
+          3:00 pm – 4:30 pm
         </p>
         <p>
           Lead instructors: 
