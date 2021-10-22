@@ -4,6 +4,21 @@ title: Masterclass workshop - Home Page
 permalink: /masterclass2021-workshop/
 ---
 
+<br />
+
+## Preperatory material:
+
+---
+
+- Download [Spectre](https://immunedynamics.io/spectre/getting-started/)
+- Try out the [introductory R tutorial](https://wiki.centenary.org.au/x/MIBfCQ)
+- Try out the '[simple discovery](https://immunedynamics.io/spectre/simple-discovery)' workflow
+
+<br />
+
+
+## Masterclass workshop (Tue 26-Oct) schedule:
+
 ---
 
 <table class="table gmisc_table">
@@ -25,7 +40,7 @@ permalink: /masterclass2021-workshop/
           <a href="https://www.doherty.edu.au/people/dr-oanh-nguyen">Oanh Nguyen</a>, and 
           <a href="https://www.doherty.edu.au/people/professor-katherine-kedzierska">Katherine Kedzierska</a>.
         </p>
-        <br />
+        <p> </p>
         <p><b><span style="font-size: 16px">
           <a href="" target="_blank" rel="noopener noreferrer">ZOOM</a>
         </span></b></p>
@@ -61,7 +76,7 @@ permalink: /masterclass2021-workshop/
         <p>
           In this session, instructors will introduce attendees to methods of high-dimensional analysis <a href="https://immunedynamics.io/spectre/getting-started/">with R/RStudio</a>. Specifically we will use the R package <a href="https://immunedynamics.io/spectre/">Spectre</a>, and will explore computational approaches such as clustering (e.g. using FlowSOM) and dimensionality reduction (e.g. using tSNE or UMAP).
         </p>
-        <br />
+        <p> </p>
         <p><b><span style="font-size: 16px">
           <a href="" target="_blank" rel="noopener noreferrer">ZOOM</a> |
           <a href="" target="_blank" rel="noopener noreferrer">DOWNLOAD</a> |
@@ -99,7 +114,7 @@ permalink: /masterclass2021-workshop/
         <p>
           In this session we will be investigating the immune response to COVID-19 in perihperal blood. We will compare immune responses in healthy controls, convalescent patients, and patients with mild COVID-19 or severe COVID-19. 
         </p>
-        <br />
+        <p> </p>
         <p><b><span style="font-size: 16px">
           <a href="" target="_blank" rel="noopener noreferrer">ZOOM</a> |
           <a href="" target="_blank" rel="noopener noreferrer">DOWNLOAD</a> |
@@ -139,7 +154,7 @@ permalink: /masterclass2021-workshop/
         <p>
           In this session we will be investigating the immune response to COVID-19 in the respiratory tract, from samples acquired via an endotracheal tube. In particular we will explore a variety of myeloid cells that infiltrate the respiratory tract via the blood, including macrophages and neutrophils, and how they compare to similar cells in the blood.
         </p>
-        <br />
+        <p> </p>
         <p><b><span style="font-size: 16px">
           <a href="" target="_blank" rel="noopener noreferrer">ZOOM</a> |
           <a href="" target="_blank" rel="noopener noreferrer">DOWNLOAD</a> |
