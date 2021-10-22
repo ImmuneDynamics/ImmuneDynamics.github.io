@@ -6,7 +6,9 @@ permalink: /masterclass2021-workshop/
 
 ---
 
-## Preperatory material:
+Welcome to the home page for the ASI Masterclass workshop on high-dimensional analysis of COVID-19. If you are looking for the main masterclass page, click [this link](https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/).
+
+## Workshop preperatory material:
 
 - Download [Spectre](https://immunedynamics.io/spectre/getting-started/)
 - Try out the [introductory R tutorial](https://wiki.centenary.org.au/x/MIBfCQ)
