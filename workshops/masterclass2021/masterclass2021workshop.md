@@ -4,11 +4,9 @@ title: Masterclass workshop - Home Page
 permalink: /masterclass2021-workshop/
 ---
 
-<br />
+---
 
 ## Preperatory material:
-
----
 
 - Download [Spectre](https://immunedynamics.io/spectre/getting-started/)
 - Try out the [introductory R tutorial](https://wiki.centenary.org.au/x/MIBfCQ)
@@ -18,8 +16,6 @@ permalink: /masterclass2021-workshop/
 
 
 ## Masterclass workshop (Tue 26-Oct) schedule:
-
----
 
 <table class="table gmisc_table">
   <tbody>
