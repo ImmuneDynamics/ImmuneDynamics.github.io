@@ -27,7 +27,7 @@ permalink: /masterclass2021home/
         </p>
         <br />
         <p><b><span style="font-size: 16px">
-          <a href="" target="_blank" rel="noopener noreferrer">ZOOM<a/>
+          <a href="" target="_blank" rel="noopener noreferrer">ZOOM</a>
         </span></b></p>
       </td>
       </tr>
@@ -63,9 +63,9 @@ permalink: /masterclass2021home/
         </p>
         <br />
         <p><b><span style="font-size: 16px">
-          <a href="" target="_blank" rel="noopener noreferrer">ZOOM<a/> |
-          <a href="" target="_blank" rel="noopener noreferrer">DOWNLOAD<a/> |
-          <a href="" target="_blank" rel="noopener noreferrer">WORKFLOW<a/>
+          <a href="" target="_blank" rel="noopener noreferrer">ZOOM</a> |
+          <a href="" target="_blank" rel="noopener noreferrer">DOWNLOAD</a> |
+          <a href="" target="_blank" rel="noopener noreferrer">WORKFLOW</a>
         </span></b></p>
       </td>
       </tr>
@@ -101,9 +101,9 @@ permalink: /masterclass2021home/
         </p>
         <br />
         <p><b><span style="font-size: 16px">
-          <a href="" target="_blank" rel="noopener noreferrer">ZOOM<a/> |
-          <a href="" target="_blank" rel="noopener noreferrer">DOWNLOAD<a/> |
-          <a href="" target="_blank" rel="noopener noreferrer">WORKFLOW<a/>
+          <a href="" target="_blank" rel="noopener noreferrer">ZOOM</a> |
+          <a href="" target="_blank" rel="noopener noreferrer">DOWNLOAD</a> |
+          <a href="" target="_blank" rel="noopener noreferrer">WORKFLOW</a>
         </span></b></p>
       </td>
       </tr>
