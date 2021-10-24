@@ -1,6 +1,3 @@
----
-permalink: /masterclass2021/workshop-mainpage/session3
----
 <!DOCTYPE html>
 
 <html>
@@ -251,6 +248,8 @@ div.tocify {
 
 
 <hr />
+<p><a href="https://immunedynamics.io/masterclass2021/workshop-mainpage/"><b>&lt;- back to main page</b></a></p>
+<p><br /></p>
 <div id="session-3---respiratory-300-pm" class="section level2">
 <h2>SESSION 3 - respiratory (3:00 pm)</h2>
 <hr />
@@ -283,13 +282,312 @@ In this session we will be investigating the immune response to COVID-19 in the 
 </tbody>
 </table>
 <p><br /></p>
-<div id="open-r-script" class="section level3">
-<h3>Open R script</h3>
-<pre class="r"><code>#######################################################################################################
-#### Coming soon
-#######################################################################################################</code></pre>
-<p><br /> <br /></p>
 </div>
+<div id="open-r-script" class="section level2">
+<h2>Open R script</h2>
+<pre class="r"><code>#######################################################################################################
+#### 1. Load packages, and set working directory
+#######################################################################################################</code></pre>
+<pre class="r"><code>    ### Load libraries
+
+        library(Spectre)
+        Spectre::package.check()    # Check that all required packages are installed
+        Spectre::package.load()     # Load required packages</code></pre>
+<pre class="r"><code>    ### Set PrimaryDirectory
+        
+        dirname(rstudioapi::getActiveDocumentContext()$path)            # Finds the directory where this script is located
+        setwd(dirname(rstudioapi::getActiveDocumentContext()$path))     # Sets the working directory to where the script is located
+        getwd()
+        PrimaryDirectory &lt;- getwd()
+        PrimaryDirectory</code></pre>
+<pre class="r"><code>    ### Set &#39;input&#39; directory
+        
+        setwd(PrimaryDirectory)
+        setwd(&quot;data/&quot;)
+        InputDirectory &lt;- getwd()
+        setwd(PrimaryDirectory)</code></pre>
+<pre class="r"><code>    ### Set &#39;metadata&#39; directory
+        
+        setwd(PrimaryDirectory)
+        setwd(&quot;metadata/&quot;)
+        MetaDirectory &lt;- getwd()
+        setwd(PrimaryDirectory)</code></pre>
+<pre class="r"><code>    ### Create output directory
+        
+        dir.create(&quot;Output_Spectre&quot;, showWarnings = FALSE)
+        setwd(&quot;Output_Spectre&quot;)
+        OutputDirectory &lt;- getwd()
+        setwd(PrimaryDirectory)</code></pre>
+<pre class="r"><code>#######################################################################################################
+#### 2. Import and prep data
+#######################################################################################################</code></pre>
+<pre class="r"><code>    ### Import data
+
+        setwd(InputDirectory)
+        list.files(InputDirectory, &quot;.csv&quot;)
+
+        data.list &lt;- Spectre::read.files(file.loc = InputDirectory,
+                                         file.type = &quot;.csv&quot;,
+                                         do.embed.file.names = TRUE)</code></pre>
+<pre class="r"><code>    ### Check the data
+
+        check &lt;- do.list.summary(data.list)
+
+        check$name.table # Review column names and their subsequent values
+        check$ncol.check # Review number of columns (features, markers) in each sample
+        check$nrow.check # Review number of rows (cells) in each sample
+
+        data.list[[1]]</code></pre>
+<pre class="r"><code>    ### Merge data
+
+        cell.dat &lt;- Spectre::do.merge.files(dat = data.list)
+        cell.dat</code></pre>
+<pre class="r"><code>    ### Read in metadata  
+       
+        setwd(MetaDirectory)
+        
+        meta.dat &lt;- fread(&quot;sample.details.csv&quot;)
+        meta.dat</code></pre>
+<pre class="r"><code>#######################################################################################################
+#### 3. Data transformation
+#######################################################################################################</code></pre>
+<pre class="r"><code>    setwd(OutputDirectory)
+    dir.create(&quot;Output 1 - transformed plots&quot;)
+    setwd(&quot;Output 1 - transformed plots&quot;)</code></pre>
+<pre class="r"><code>    ### Arcsinh transformation
+
+        as.matrix(names(cell.dat))
+        
+        low.asinh &lt;- names(cell.dat)[c(3:19)]
+        low.asinh
+
+        high.cofactor &lt;- 5000
+        low.cofactor &lt;- 1000</code></pre>
+<pre class="r"><code>        plot.against &lt;- &quot;CD66b_asinh&quot;
+
+        cell.dat &lt;- do.asinh(cell.dat, low.asinh, cofactor = low.cofactor)
+
+        transformed.cols &lt;- c(paste0(low.asinh, &quot;_asinh&quot;))
+        transformed.cols
+                
+        sub &lt;- do.subsample(cell.dat, 20000)</code></pre>
+<pre class="r"><code>        for(i in transformed.cols){
+          make.colour.plot(sub, i, plot.against)
+        }</code></pre>
+<pre class="r"><code>    ### Re-scale FSC SSC
+        
+        cell.dat &lt;- do.rescale(cell.dat, c(&#39;FSC-A&#39;, &#39;SSC-A&#39;), new.min = 0, new.max = 4)
+        cell.dat</code></pre>
+<pre class="r"><code>#######################################################################################################
+#### 4. Add metadata and set some preferences
+#######################################################################################################</code></pre>
+<pre class="r"><code>    ### Add metadata to data.table
+
+        meta.dat
+        sample.info &lt;- meta.dat[,c(1:3)]
+        sample.info
+        
+        cell.dat &lt;- do.add.cols(cell.dat, &quot;FileName&quot;, sample.info, &quot;FileName&quot;, rmv.ext = TRUE)
+        cell.dat</code></pre>
+<pre class="r"><code>    ### Columns
+
+        as.matrix(names(cell.dat))
+
+        cellular.cols &lt;- names(cell.dat)[c(22:40)]
+        as.matrix(cellular.cols)
+
+        as.matrix(names(cell.dat))
+        
+        cluster.cols &lt;- names(cell.dat)[c(22:40)]
+        as.matrix(cluster.cols)
+
+        exp.name &lt;- &quot;COVID19 respiratory&quot;
+        sample.col &lt;- &quot;Sample&quot;
+        group.col &lt;- &quot;Group&quot;</code></pre>
+<pre class="r"><code>    ### Re-order data
+        
+        as.matrix(unique(cell.dat[[group.col]]))
+        
+        cell.dat &lt;- do.reorder(cell.dat, sample.col, c(&#39;Respiratory_1&#39;, &#39;Respiratory_2&#39;, &#39;Respiratory_3&#39;))
+        cell.dat</code></pre>
+<pre class="r"><code>#######################################################################################################
+#### 5. Clustering and dimensionality reduction
+#######################################################################################################</code></pre>
+<pre class="r"><code>    setwd(OutputDirectory)
+    dir.create(&quot;Output 2 - clustering&quot;)
+    setwd(&quot;Output 2 - clustering&quot;)</code></pre>
+<pre class="r"><code>    ### Clustering
+    
+        cell.dat &lt;- run.flowsom(cell.dat, cluster.cols, meta.k = 40)
+        cell.dat</code></pre>
+<pre class="r"><code>    ### Dimensionality reduction
+
+        cell.sub &lt;- do.subsample(cell.dat, c(2000, 10000, 20000), sample.col)
+        cell.sub
+                
+        cell.sub &lt;- run.fitsne(cell.sub, cluster.cols, perplexity = 200)
+        cell.sub</code></pre>
+<pre class="r"><code>    ### DR plots
+
+        make.colour.plot(cell.sub, &quot;FItSNE_X&quot;, &quot;FItSNE_Y&quot;, &quot;FlowSOM_metacluster&quot;, col.type = &#39;factor&#39;, add.label = TRUE)</code></pre>
+<pre class="r"><code>        make.multi.plot(cell.sub, &quot;FItSNE_X&quot;, &quot;FItSNE_Y&quot;, cellular.cols, figure.title = &#39;Cellular cols&#39;)</code></pre>
+<pre class="r"><code>        make.multi.plot(cell.sub, &quot;FItSNE_X&quot;, &quot;FItSNE_Y&quot;, cluster.cols, figure.title = &#39;Cluster cols&#39;)</code></pre>
+<pre class="r"><code>        make.multi.plot(cell.sub, &quot;FItSNE_X&quot;, &quot;FItSNE_Y&quot;, &quot;FlowSOM_metacluster&quot;, sample.col, col.type = &#39;factor&#39;)</code></pre>
+<pre class="r"><code>        make.multi.plot(cell.sub, &quot;CD16_asinh&quot;, &quot;CD66b_asinh&quot;, &quot;FlowSOM_metacluster&quot;, sample.col, col.type = &#39;factor&#39;, figure.title = &#39;CD66b x CD16&#39;)</code></pre>
+<pre class="r"><code>    ### Expression heatmap
+
+        exp &lt;- do.aggregate(cell.sub, cellular.cols, by = &quot;FlowSOM_metacluster&quot;)
+        make.pheatmap(exp, &quot;FlowSOM_metacluster&quot;, cellular.cols)</code></pre>
+<pre class="r"><code>#######################################################################################################
+#### 6. Annotate clusters
+#######################################################################################################</code></pre>
+<pre class="r"><code>    setwd(OutputDirectory)
+    dir.create(&quot;Output 3 - annotation&quot;)
+    setwd(&quot;Output 3 - annotation&quot;)</code></pre>
+<pre class="r"><code>    ### Annotate
+
+        annots &lt;- list(&quot;PD1+&quot; = c(40,35,19),
+                       &quot;HLADR+&quot; = c(34,39),
+                       &quot;CD8&quot; = c(15),
+                       &#39;Macrophage&#39; = c(38,33,27,16,21),
+                       &#39;Neutrophil CD66b+CD16-&#39; = c(11,7,13,18,4,26),
+                       &#39;Neutrophil CD66b+CD16+&#39; = c(10,9,14),
+                       &#39;Neutrophil CD66b(int)CD16+&#39; = c(12,3,20,6,2,1,8,5,17),
+                       &#39;Neutrophil dead&#39; = c(32,22,29,37,30,31,24,23,28)
+        )
+
+        annots &lt;- do.list.switch(annots)
+        names(annots) &lt;- c(&quot;Values&quot;, &quot;Population&quot;)
+        setorderv(annots, &#39;Values&#39;)
+        annots
+        
+        any(duplicated(annots$Values))</code></pre>
+<pre class="r"><code>    ### Add annotations
+
+        cell.dat &lt;- do.add.cols(cell.dat, &quot;FlowSOM_metacluster&quot;, annots, &quot;Values&quot;)
+        cell.dat
+        
+        cell.dat[is.na(cell.dat[[&#39;Population&#39;]]),&#39;Population&#39;] &lt;- &#39;Other&#39;
+        cell.dat
+        
+        cell.sub &lt;- do.add.cols(cell.sub, &quot;FlowSOM_metacluster&quot;, annots, &quot;Values&quot;)
+        cell.sub
+        
+        cell.sub[is.na(cell.sub[[&#39;Population&#39;]]),&#39;Population&#39;] &lt;- &#39;Other&#39;
+        cell.sub</code></pre>
+<pre class="r"><code>    ### Plots
+        
+        make.colour.plot(cell.sub, &quot;FItSNE_X&quot;, &quot;FItSNE_Y&quot;, &quot;Population&quot;, col.type = &#39;factor&#39;, add.label = TRUE)</code></pre>
+<pre class="r"><code>        make.multi.plot(cell.sub, &quot;FItSNE_X&quot;, &quot;FItSNE_Y&quot;, &quot;Population&quot;, sample.col, col.type = &#39;factor&#39;)</code></pre>
+<pre class="r"><code>        make.multi.plot(cell.sub, &quot;CD16_asinh&quot;, &quot;CD66b_asinh&quot;, &quot;Population&quot;, sample.col, col.type = &#39;factor&#39;, figure.title = &#39;CD66b x CD16&#39;)</code></pre>
+<pre class="r"><code>    ### Expression heatmap
+
+        rm(exp)
+        exp &lt;- do.aggregate(cell.dat, cellular.cols, by = &quot;Population&quot;)
+        make.pheatmap(exp, &quot;Population&quot;, cellular.cols)</code></pre>
+<pre class="r"><code>#######################################################################################################
+#### Summary data and statistical analysis
+#######################################################################################################</code></pre>
+<pre class="r"><code>    setwd(OutputDirectory)
+    dir.create(&quot;Output 4 - summary data&quot;)
+    setwd(&quot;Output 4 - summary data&quot;)</code></pre>
+<pre class="r"><code>    ### Setup
+    
+        variance.test &lt;- &#39;kruskal.test&#39;
+        pairwise.test &lt;- &quot;wilcox.test&quot;
+        
+        as.matrix(unique(cell.dat[[sample.col]]))
+        
+        grp.order &lt;- c(&quot;Respiratory_1&quot;, &quot;Respiratory_2&quot;, &quot;Respiratory_3&quot;)
+        grp.order</code></pre>
+<pre class="r"><code>    ### Create summary tables
+    
+        sum.dat &lt;- create.sumtable(dat = cell.dat, 
+                                   sample.col = sample.col,
+                                   pop.col = &quot;Population&quot;,
+                                   annot.cols = c(group.col))</code></pre>
+<pre class="r"><code>    ### Review summary data
+        
+        sum.dat
+        as.matrix(names(sum.dat))
+        
+        plot.cols &lt;- names(sum.dat)[c(3:11)]
+        plot.cols</code></pre>
+<pre class="r"><code>    ### Reorder summary data and SAVE
+        
+        sum.dat &lt;- do.reorder(sum.dat, sample.col, grp.order)
+        sum.dat[,c(1:3)]
+        
+        fwrite(sum.dat, &#39;sum.dat.csv&#39;)</code></pre>
+<pre class="r"><code>    ### Autographs
+
+        for(i in plot.cols){
+            
+            measure &lt;- gsub(&quot;\\ --.*&quot;, &quot;&quot;, i)
+            measure
+            
+            pop &lt;- gsub(&quot;^[^--]*.-- &quot;, &quot;&quot;, i)
+            pop
+            
+            make.autograph(sum.dat,
+                           x.axis = sample.col,
+                           y.axis = i,
+                           y.axis.label = measure,  
+                           max.y = 1.7,
+                           
+                           grp.order = grp.order,
+                           
+                           Variance_test = variance.test,
+                           Pairwise_test = pairwise.test,
+                           
+                           title = pop, width = 6, height = 8,
+                           subtitle = measure,
+                           filename = paste0(i, &#39;.png&#39;))
+            
+        }</code></pre>
+<pre class="r"><code>    ### Create a fold change heatmap
+        
+        ## Z-score calculation
+        sum.dat.z &lt;- do.zscore(sum.dat, plot.cols)
+        
+        ## Make heatmap
+        make.pheatmap(sum.dat.z, 
+                      sample.col = sample.col, 
+                      plot.cols = paste0(plot.cols, &#39;_zscore&#39;), 
+                      is.fold = TRUE, 
+                      plot.title = &#39;Z-score&#39;,
+                      annot.cols = group.col,
+                      dendrograms = &#39;column&#39;,
+                      cutree_cols = 3)</code></pre>
+<pre class="r"><code>#######################################################################################################
+#### 8. Output data and session info
+#######################################################################################################</code></pre>
+<pre class="r"><code>    ### Save data
+        
+        setwd(OutputDirectory)
+        dir.create(&quot;Output - data&quot;, showWarnings = FALSE)
+        setwd(&quot;Output - data&quot;)
+        
+        fwrite(cell.dat, &quot;cell.dat.csv&quot;)
+
+        write.files(cell.dat,
+                    file.prefix = exp.name,
+                    divide.by = sample.col,
+                    write.csv = FALSE,
+                    write.fcs = TRUE)</code></pre>
+<pre class="r"><code>    ### Session info and metadata
+        
+        setwd(OutputDirectory)
+        dir.create(&quot;Output - info&quot;, showWarnings = FALSE)
+        setwd(&quot;Output - info&quot;)
+
+        sink(file = &quot;session_info.txt&quot;, append=TRUE, split=FALSE, type = c(&quot;output&quot;, &quot;message&quot;))
+        session_info()
+        sink()
+
+        write(cellular.cols, &quot;cellular.cols.txt&quot;)
+        write(cluster.cols, &quot;cluster.cols.txt&quot;)</code></pre>
+<p><br /> <br /></p>
 </div>
 
 
