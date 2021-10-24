@@ -1,0 +1,103 @@
+---
+title: "ASI Masterclass - Workshop Session 3"
+author: "Thomas Ashhurst, Givanna Putri, Felix Marsh-Wakefield, Jennifer Habel, Wuji Zhang"
+date: "26/10/2021"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+## SESSION 3 - respiratory (3:00 pm)
+
+---
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/Respiratory%202.png?raw=true" width="300">
+      </td>
+      <td style="padding-left:.75em;width:70%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b><span style="font-size: 17px">
+          Session #3: High-dimensional analysis of immune responses to COVID-19 in the <i>respiratory tract</i>
+         </span></b></p>
+        <p>
+          Tue 26-Oct, 3:00 pm – 4:30 pm
+        </p>
+        <p>
+          Lead instructors: 
+          <a href="https://immunedynamics.io/givanna-putri/" target="_blank" rel="noopener noreferrer">Givanna Putri</a>, 
+          <a href="https://www.researchgate.net/scientific-contributions/Wuji-Zhang-2179446174" target="_blank" rel="noopener noreferrer">Wuji Zhang</a>
+        </p>
+        <p>
+          In this session we will be investigating the immune response to COVID-19 in the respiratory tract, from samples acquired via an endotracheal tube. In particular we will explore a variety of myeloid cells that infiltrate the respiratory tract via the blood, including macrophages and neutrophils, and how they compare to similar cells in the blood.
+        </p>
+        <p> </p>
+        <p><b><span style="font-size: 24px">
+          <a href="https://uni-sydney.zoom.us/j/87264630449" target="_blank" rel="noopener noreferrer">ZOOM</a>
+        </span></b></p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<br />
+
+### Open R script
+
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+#######################################################################################################
+#### Coming soon
+#######################################################################################################
+```
+
+```{r, fig.show='hide', message=FALSE, message=FALSE, fig.height=7, warning=FALSE}
+
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+
+```
+
+
+
+
+<br />
+<br />
+
+
+

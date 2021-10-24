@@ -1,0 +1,78 @@
+---
+title: "ASI Masterclass - Workshop Session 1"
+author: "Thomas Ashhurst, Givanna Putri, Felix Marsh-Wakefield, Jennifer Habel, Wuji Zhang"
+date: "26/10/2021"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
+
+
+## SESSION 1 - Intro to R (10:30 am)
+
+---
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://blog.desdelinux.net/wp-content/uploads/2019/02/rstudio-og.png.webp" width="300">
+          <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/Spectre%20logo%20wide.png" width="300">
+      </td>
+      <td style="padding-left:.75em;width:70%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b><span style="font-size: 17px">
+          Session #1: Getting started with cytometry analysis using Spectre and R
+         </span></b></p>
+         <p>
+           Tue 26-Oct, 10:30 am – 12:00 pm AEDT
+        </p>
+         <p>
+          Lead instructors: 
+           <a href="https://immunedynamics.io/givanna-putri/" target="_blank" rel="noopener noreferrer">Givanna Putri</a>, 
+           <a href="https://immunedynamics.io/felix-marsh-wakefield/" target="_blank" rel="noopener noreferrer">Felix Marsh-Wakefield</a>
+        </p>
+        <p>
+          In this session, instructors will introduce attendees to methods of high-dimensional analysis <a href="https://immunedynamics.io/spectre/getting-started/">with R/RStudio</a>. Specifically we will use the R package <a href="https://immunedynamics.io/spectre/">Spectre</a>, and will explore computational approaches such as clustering (e.g. using FlowSOM) and dimensionality reduction (e.g. using tSNE or UMAP).
+        </p>
+        <p> </p>
+        <p><b><span style="font-size: 24px">
+          <a href="https://uni-sydney.zoom.us/j/87264630449" target="_blank" rel="noopener noreferrer">ZOOM</a>
+        </span></b></p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+<br />
+
+### Open R script
+
+<br />
+
+To get started, find the relevant R script and open it in RStudio.
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+#######################################################################################################
+#### Coming soon
+#######################################################################################################
+```
+
+
+```{r, fig.show='hide', message=FALSE, message=FALSE, fig.height=7, warning=FALSE}
+
+```
+
+
+
+<br />
+
+
+
