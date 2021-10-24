@@ -15,6 +15,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ---
 
+<a href="https://immunedynamics.io/masterclass2021/workshop-mainpage/"><b><- back to main page</b></a>
+
+<br />
+
 ## SESSION 2 - blood (1:00 pm)
 
 ---
