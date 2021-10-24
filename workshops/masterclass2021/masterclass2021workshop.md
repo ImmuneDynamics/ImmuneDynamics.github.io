@@ -17,8 +17,6 @@ As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclas
 
 ---
 
-**Instructors**:
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -76,7 +74,11 @@ As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclas
 -->
 
 
-**Schedule**:
+<br />
+
+## Workshop schedule (Tue 26-Oct)
+
+---
 
 <table class="table gmisc_table">
   <tbody>
