@@ -211,19 +211,15 @@ As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclas
     </tbody>
 </table>
 
-<br />
-<br />
-<br />
-
-
-
-
-
-
-
 
 <br />
 <br />
+
+
+
+
+
+
 
 ## Preparation notes
 
@@ -271,12 +267,5 @@ You are welcome to simply watch, take notes, and ask questions. If you would lik
 - During the sessions, join the **<a href="https://uni-sydney.zoom.us/j/87264630449">zoom</a>** session and follow along with us
 
 
-
-
 <br />
 <br />
-<br />
-<br />
-
-
-
