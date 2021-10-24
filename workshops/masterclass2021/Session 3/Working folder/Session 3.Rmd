@@ -62,6 +62,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```
 
+<br/ >
+
+## 1. Load packages
+
 ```{r, message=FALSE, warning=FALSE, results='hide'}
 #######################################################################################################
 #### 1. Load packages, and set working directory
@@ -123,6 +127,10 @@ knitr::opts_chunk$set(echo = TRUE)
         setwd(PrimaryDirectory)
 ```
 
+<br/ >
+
+## 2. Import data
+
 ```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
 #######################################################################################################
 #### 2. Import and prep data
@@ -168,6 +176,10 @@ knitr::opts_chunk$set(echo = TRUE)
         meta.dat <- fread("sample.details.csv")
         meta.dat
 ```
+
+<br/ >
+
+## 3. Data transformation
 
 ```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
 #######################################################################################################
@@ -218,6 +230,10 @@ knitr::opts_chunk$set(echo = TRUE)
         cell.dat
 ```
 
+<br/ >
+
+## 4. Add metadata
+
 ```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
 #######################################################################################################
 #### 4. Add metadata and set some preferences
@@ -263,6 +279,10 @@ knitr::opts_chunk$set(echo = TRUE)
         cell.dat
 ```
 
+<br/ >
+
+## 5. Clustering
+
 ```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
 #######################################################################################################
 #### 5. Clustering and dimensionality reduction
@@ -296,22 +316,31 @@ knitr::opts_chunk$set(echo = TRUE)
     ### DR plots
 
         make.colour.plot(cell.sub, "FItSNE_X", "FItSNE_Y", "FlowSOM_metacluster", col.type = 'factor', add.label = TRUE)
-        make.multi.plot(cell.sub, "FItSNE_X", "FItSNE_Y", cellular.cols, figure.title = 'Cellular cols')
-        make.multi.plot(cell.sub, "FItSNE_X", "FItSNE_Y", cluster.cols, figure.title = 'Cluster cols')
-        make.multi.plot(cell.sub, "FItSNE_X", "FItSNE_Y", "FlowSOM_metacluster", sample.col, col.type = 'factor')
-
-        make.multi.plot(cell.sub, "CD16_asinh", "CD66b_asinh", "FlowSOM_metacluster", sample.col, col.type = 'factor', figure.title = 'CD66b x CD16')
-        
 ```
 
 ![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%203/Output%202%20-%20clustering/Factor%20plot%20-%20FlowSOM_metacluster%20-%20plotted%20on%20FItSNE_X%20by%20FItSNE_Y.png?raw=true)
 
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+        make.multi.plot(cell.sub, "FItSNE_X", "FItSNE_Y", cellular.cols, figure.title = 'Cellular cols')
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+make.multi.plot(cell.sub, "FItSNE_X", "FItSNE_Y", cluster.cols, figure.title = 'Cluster cols')
+```
+
 ![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%203/Output%202%20-%20clustering/Cellular%20cols%20-%20plotted%20on%20FItSNE_X%20by%20FItSNE_Y.png?raw=true)
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+        make.multi.plot(cell.sub, "FItSNE_X", "FItSNE_Y", "FlowSOM_metacluster", sample.col, col.type = 'factor')
+```
 
 ![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%203/Output%202%20-%20clustering/Multi%20plot%20divided%20by%20Sample%20-%20plotted%20on%20FItSNE_X%20by%20FItSNE_Y.png?raw=true)
 
-![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%203/Output%202%20-%20clustering/CD66b%20x%20CD16%20divided%20by%20Sample%20-%20plotted%20on%20CD16_asinh%20by%20CD66b_asinh.png?raw=true)
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+        make.multi.plot(cell.sub, "CD16_asinh", "CD66b_asinh", "FlowSOM_metacluster", sample.col, col.type = 'factor', figure.title = 'CD66b x CD16')
+```
 
+![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%203/Output%202%20-%20clustering/CD66b%20x%20CD16%20divided%20by%20Sample%20-%20plotted%20on%20CD16_asinh%20by%20CD66b_asinh.png?raw=true)
 
 ```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
     ### Expression heatmap
@@ -322,6 +351,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%203/Output%202%20-%20clustering/Pheatmap%20by%20FlowSOM_metacluster.png?raw=true)
+
+<br/ >
+
+## 6. Annotate
 
 ```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
 #######################################################################################################
@@ -376,15 +409,21 @@ knitr::opts_chunk$set(echo = TRUE)
     ### Plots
         
         make.colour.plot(cell.sub, "FItSNE_X", "FItSNE_Y", "Population", col.type = 'factor', add.label = TRUE)
-        make.multi.plot(cell.sub, "FItSNE_X", "FItSNE_Y", "Population", sample.col, col.type = 'factor')
-
-        make.multi.plot(cell.sub, "CD16_asinh", "CD66b_asinh", "Population", sample.col, col.type = 'factor', figure.title = 'CD66b x CD16')
         
 ```
 
 ![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%203/Output%203%20-%20annotation/Factor%20plot%20-%20Population%20-%20plotted%20on%20FItSNE_X%20by%20FItSNE_Y.png?raw=true)
 
-![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%203/Output%203%20-%20annotation/Multi%20plot%20divided%20by%20Group%20-%20plotted%20on%20FItSNE_X%20by%20FItSNE_Y.png?raw=true)
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+        make.multi.plot(cell.sub, "FItSNE_X", "FItSNE_Y", "Population", sample.col, col.type = 'factor')
+```
+
+![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%203/Output%203%20-%20annotation/Multi%20plot%20divided%20by%20Sample%20-%20plotted%20on%20FItSNE_X%20by%20FItSNE_Y.png?raw=true)
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+        make.multi.plot(cell.sub, "CD16_asinh", "CD66b_asinh", "Population", sample.col, col.type = 'factor', figure.title = 'CD66b x CD16')
+        
+```
 
 ![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%203/Output%203%20-%20annotation/CD66b%20x%20CD16%20divided%20by%20Sample%20-%20plotted%20on%20CD16_asinh%20by%20CD66b_asinh.png?raw=true)
 
@@ -398,9 +437,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%203/Output%203%20-%20annotation/Pheatmap%20by%20Population.png?raw=true)
 
+<br/ >
+
+## 7. Summary
+
 ```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
 #######################################################################################################
-#### Summary data and statistical analysis
+#### 7. Summary data and statistical analysis
 #######################################################################################################
 ```
 
