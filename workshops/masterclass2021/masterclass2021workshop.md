@@ -136,7 +136,7 @@ As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclas
         <p> </p>
         <p><b><span style="font-size: 20px">
           <a href="https://uni-sydney.zoom.us/j/87264630449" target="_blank" rel="noopener noreferrer">ZOOM</a> |
-          <a href="permalink: /masterclass2021/workshop-mainpage/session1" target="_blank" rel="noopener noreferrer">WORKFLOW</a>
+          <a href="https://immunedynamics.io/masterclass2021/workshop-mainpage/session1" target="_blank" rel="noopener noreferrer">WORKFLOW</a>
         </span></b></p>
       </td>
       </tr>
@@ -170,7 +170,7 @@ As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclas
         <p> </p>
         <p><b><span style="font-size: 20px">
           <a href="https://uni-sydney.zoom.us/j/87264630449" target="_blank" rel="noopener noreferrer">ZOOM</a> |
-          <a href="permalink: /masterclass2021/workshop-mainpage/session2" target="_blank" rel="noopener noreferrer">WORKFLOW</a>
+          <a href="https://immunedynamics.io/masterclass2021/workshop-mainpage/session2" target="_blank" rel="noopener noreferrer">WORKFLOW</a>
         </span></b></p>
       </td>
       </tr>
@@ -204,7 +204,7 @@ As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclas
         <p> </p>
         <p><b><span style="font-size: 20px">
           <a href="https://uni-sydney.zoom.us/j/87264630449" target="_blank" rel="noopener noreferrer">ZOOM</a> |
-          <a href="permalink: /masterclass2021/workshop-mainpage/session3" target="_blank" rel="noopener noreferrer">WORKFLOW</a>
+          <a href="https://immunedynamics.io/masterclass2021/workshop-mainpage/session3" target="_blank" rel="noopener noreferrer">WORKFLOW</a>
         </span></b></p>
       </td>
       </tr>
