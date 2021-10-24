@@ -15,15 +15,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ---
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 ## SESSION 3 - respiratory (3:00 pm)
 
 ---
@@ -60,7 +51,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br />
 
-### Open R script
+## Open R script
 
 
 ```{r, message=FALSE, warning=FALSE, results='hide'}

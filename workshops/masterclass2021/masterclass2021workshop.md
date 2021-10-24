@@ -13,13 +13,6 @@ As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclas
 <br />
 
 
-
-
-
-<br />
-<br />
-
-
 ## Workshop schedule (Tue 26-Oct)
 
 ---
@@ -105,9 +98,8 @@ As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclas
           <a href="https://www.doherty.edu.au/people/professor-katherine-kedzierska">Katherine Kedzierska</a>.
         </p>
         <p> </p>
-        <p><b><span style="font-size: 24px">
-          <a href="https://uni-sydney.zoom.us/j/87264630449" target="_blank" rel="noopener noreferrer">ZOOM</a> |
-          WORKFLOW
+        <p><b><span style="font-size: 20px">
+          <a href="https://uni-sydney.zoom.us/j/87264630449" target="_blank" rel="noopener noreferrer">ZOOM</a>
         </span></b></p>
       </td>
       </tr>
@@ -142,9 +134,9 @@ As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclas
           In this session, instructors will introduce attendees to methods of high-dimensional analysis <a href="https://immunedynamics.io/spectre/getting-started/">with R/RStudio</a>. Specifically we will use the R package <a href="https://immunedynamics.io/spectre/">Spectre</a>, and will explore computational approaches such as clustering (e.g. using FlowSOM) and dimensionality reduction (e.g. using tSNE or UMAP).
         </p>
         <p> </p>
-        <p><b><span style="font-size: 24px">
+        <p><b><span style="font-size: 20px">
           <a href="https://uni-sydney.zoom.us/j/87264630449" target="_blank" rel="noopener noreferrer">ZOOM</a> |
-          WORKFLOW
+          <a href="permalink: /masterclass2021/workshop-mainpage/session1" target="_blank" rel="noopener noreferrer">WORKFLOW</a>
         </span></b></p>
       </td>
       </tr>
@@ -176,9 +168,9 @@ As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclas
           In this session we will be investigating the immune response to COVID-19 in perihperal blood. We will compare immune responses in healthy controls, convalescent patients, and patients with mild COVID-19 or severe COVID-19. 
         </p>
         <p> </p>
-        <p><b><span style="font-size: 24px">
+        <p><b><span style="font-size: 20px">
           <a href="https://uni-sydney.zoom.us/j/87264630449" target="_blank" rel="noopener noreferrer">ZOOM</a> |
-          WORKFLOW
+          <a href="permalink: /masterclass2021/workshop-mainpage/session2" target="_blank" rel="noopener noreferrer">WORKFLOW</a>
         </span></b></p>
       </td>
       </tr>
@@ -210,9 +202,9 @@ As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclas
           In this session we will be investigating the immune response to COVID-19 in the respiratory tract, from samples acquired via an endotracheal tube. In particular we will explore a variety of myeloid cells that infiltrate the respiratory tract via the blood, including macrophages and neutrophils, and how they compare to similar cells in the blood.
         </p>
         <p> </p>
-        <p><b><span style="font-size: 24px">
+        <p><b><span style="font-size: 20px">
           <a href="https://uni-sydney.zoom.us/j/87264630449" target="_blank" rel="noopener noreferrer">ZOOM</a> |
-          WORKFLOW
+          <a href="permalink: /masterclass2021/workshop-mainpage/session3" target="_blank" rel="noopener noreferrer">WORKFLOW</a>
         </span></b></p>
       </td>
       </tr>
@@ -246,7 +238,7 @@ The COVID-19 datasets used in this workshop originate from these two studies fro
 - <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7">Koutsakos et al 2021. Cell Reports Medicine</a>
 - <a href="https://www.medrxiv.org/content/10.1101/2021.09.01.21262715v1">Zhang et al 2021. medRxiv</a>
 
-<i><p style="color:red">Feel free to use these datasets during and after the workshop, but we would request that you don't share these widely with others, or post them on a publicly accessible platform.</p></i>
+<p style="color:red"><i>Feel free to use these datasets during and after the workshop, but we would request that you don't share these widely with others, or post them on a publicly accessible platform.</i></p>
 
 
 

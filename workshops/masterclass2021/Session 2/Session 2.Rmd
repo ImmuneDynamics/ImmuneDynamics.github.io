@@ -53,7 +53,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <br />
 
 
-### Open R script
+## Open R script
 
 To get started, find the relevant R script and open it in RStudio.
 
@@ -62,7 +62,7 @@ To get started, find the relevant R script and open it in RStudio.
 
 
 
-### 1. Load packages
+## 1. Load packages
 
 To get started, find the relevant R script and open it in RStudio.
 
@@ -133,7 +133,7 @@ To get started, find the relevant R script and open it in RStudio.
 
 <br />
 
-### 2. Import data
+## 2. Import data
 
 ```{r, message=FALSE, warning=FALSE, results='hide'}
 #######################################################################################################
@@ -182,7 +182,7 @@ To get started, find the relevant R script and open it in RStudio.
 
 <br />
 
-### 3. Data transformation
+## 3. Data transformation
 
 ```{r, message=FALSE, warning=FALSE, results='hide'}
 #######################################################################################################
@@ -237,7 +237,7 @@ To get started, find the relevant R script and open it in RStudio.
 
 <br />
 
-###  4. Add metadata
+##  4. Add metadata
 
 ```{r, message=FALSE, warning=FALSE, results='hide'}
 #######################################################################################################
@@ -286,7 +286,7 @@ To get started, find the relevant R script and open it in RStudio.
 
 <br />
 
-### 5. Clustering
+## 5. Clustering
 
 ```{r, message=FALSE, warning=FALSE, results='hide'}
 #######################################################################################################
@@ -354,7 +354,7 @@ To get started, find the relevant R script and open it in RStudio.
 
 <br />
 
-### 6. Annotate
+## 6. Annotate
 
 ```{r, message=FALSE, warning=FALSE, results='hide'}
 #######################################################################################################
@@ -423,7 +423,7 @@ To get started, find the relevant R script and open it in RStudio.
 
 <br />
 
-### 7. Summary data
+## 7. Summary data
 
 ```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
 #######################################################################################################
@@ -593,7 +593,7 @@ To get started, find the relevant R script and open it in RStudio.
 
 <br />
 
-### 8. Session data & info
+## 8. Session data & info
 
 ```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
 #######################################################################################################

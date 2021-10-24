@@ -1,0 +1,639 @@
+---
+title: "ASI Masterclass - Workshop Session 2"
+author: "Thomas Ashhurst, Givanna Putri, Felix Marsh-Wakefield, Jennifer Habel, Wuji Zhang"
+date: "26/10/2021"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
+
+## SESSION 2 - blood (1:00 pm)
+
+---
+
+<table class="table gmisc_table">
+  <tbody>
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/COVID-19%20blood%20crop.png?raw=true" width="300">
+      </td>
+      <td style="padding-left:.75em;width:70%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b><span style="font-size: 17px">
+          Session #2: High-dimensional analysis of immune responses to COVID-19 in <i>perhiperhal blood</i>
+         </span></b></p>
+         <p>
+           Tue 26-Oct, 1:00 pm – 2:30 pm AEDT
+        </p>
+        <p>
+          Lead instructors: 
+          <a href="https://immunedynamics.io/felix-marsh-wakefield/" target="_blank" rel="noopener noreferrer">Felix Marsh-Wakefield</a>, 
+          <a href="https://www.researchgate.net/profile/Jennifer-Habel" target="_blank" rel="noopener noreferrer">Jennifer Habel</a>
+        </p>
+        <p>
+          In this session we will be investigating the immune response to COVID-19 in perihperal blood. We will compare immune responses in healthy controls, convalescent patients, and patients with mild COVID-19 or severe COVID-19. 
+        </p>
+        <p> </p>
+        <p><b><span style="font-size: 24px">
+          <a href="https://uni-sydney.zoom.us/j/87264630449" target="_blank" rel="noopener noreferrer">ZOOM</a>
+        </span></b></p>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
+
+<br />
+
+
+### Open R script
+
+To get started, find the relevant R script and open it in RStudio.
+
+<br />
+
+
+
+
+### 1. Load packages
+
+To get started, find the relevant R script and open it in RStudio.
+
+
+```{r, fig.show='hide', message=FALSE, message=FALSE, fig.height=7, warning=FALSE}
+
+```
+
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+#######################################################################################################
+#### 1. Load packages, and set working directory
+#######################################################################################################
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+    ### Load libraries
+
+        library(Spectre)
+        Spectre::package.check()    # Check that all required packages are installed
+        Spectre::package.load()     # Load required packages
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+    ### Set PrimaryDirectory
+        
+        dirname(rstudioapi::getActiveDocumentContext()$path)
+        setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+        getwd()
+        PrimaryDirectory <- getwd()
+        PrimaryDirectory
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', echo = FALSE}
+    ### Set PrimaryDirectory
+        
+        setwd('/Users/thomasa/OneDrive - The University of Sydney (Staff)/Sharing/Masterclass 2021/Session 2 Blood/')
+        PrimaryDirectory <- getwd()
+
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+    ### Set 'input' directory
+        
+        setwd(PrimaryDirectory)
+        setwd("data/")
+        InputDirectory <- getwd()
+        setwd(PrimaryDirectory)
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+    ### Set 'metadata' directory
+        
+        setwd(PrimaryDirectory)
+        setwd("metadata/")
+        MetaDirectory <- getwd()
+        setwd(PrimaryDirectory)
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+    ### Create output directory
+        
+        dir.create("Output_Spectre", showWarnings = FALSE)
+        setwd("Output_Spectre")
+        OutputDirectory <- getwd()
+        setwd(PrimaryDirectory)
+```
+
+<br />
+
+### 2. Import data
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+#######################################################################################################
+#### 2. Import and prep data
+#######################################################################################################
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+    ### Import data
+
+        setwd(InputDirectory)
+        list.files(InputDirectory, ".csv")
+
+        data.list <- Spectre::read.files(file.loc = InputDirectory,
+                                         file.type = ".csv",
+                                         do.embed.file.names = TRUE)
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+    ### Check the data
+
+        check <- do.list.summary(data.list)
+
+        check$name.table # Review column names and their subsequent values
+        check$ncol.check # Review number of columns (features, markers) in each sample
+        check$nrow.check # Review number of rows (cells) in each sample
+
+        data.list[[1]]
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+    ### Merge data
+
+        cell.dat <- Spectre::do.merge.files(dat = data.list)
+        cell.dat
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+    ### Read in metadata  
+       
+        setwd(MetaDirectory)
+        
+        meta.dat <- fread("sample.details.csv")
+        meta.dat
+```
+
+<br />
+
+### 3. Data transformation
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+#######################################################################################################
+#### 3. Data transformation
+#######################################################################################################
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+    setwd(OutputDirectory)
+    dir.create("Output 1 - transformed plots")
+    setwd("Output 1 - transformed plots")
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+    ### Arcsinh transformation
+
+        as.matrix(names(cell.dat))
+
+        high.asinh <- names(cell.dat)[c(1:2,4,7:8,11:13)]
+        high.asinh
+        
+        low.asinh <- names(cell.dat)[c(3,5,10,14,15)]
+        low.asinh
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+        high.cofactor <- 5000
+        low.cofactor <- 1000
+        
+        plot.against <- "CD3_asinh"
+
+        cell.dat <- do.asinh(cell.dat, high.asinh, cofactor = high.cofactor)
+        cell.dat <- do.asinh(cell.dat, low.asinh, cofactor = low.cofactor)
+        
+        
+        transformed.cols <- c(paste0(high.asinh, "_asinh"), paste0(low.asinh, "_asinh"))
+        transformed.cols
+        
+        sub <- do.subsample(cell.dat, 20000)
+
+        for(i in transformed.cols){
+          make.colour.plot(sub, i, plot.against)
+        }
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+    ### Re-scale FSC SSC
+        
+        cell.dat <- do.rescale(cell.dat, c('FSC-A', 'SSC-A'), new.min = 0, new.max = 4)
+        cell.dat
+```
+
+<br />
+
+###  4. Add metadata
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+#######################################################################################################
+#### 4. Add metadata and set some preferences
+#######################################################################################################
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+
+    ### Add metadata to data.table
+
+        meta.dat
+        sample.info <- meta.dat[,c(1:3)]
+        sample.info
+        
+        cell.dat <- do.add.cols(cell.dat, "FileName", sample.info, "FileName", rmv.ext = TRUE)
+        cell.dat
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+    ### Columns
+
+        as.matrix(names(cell.dat))
+
+        cellular.cols <- names(cell.dat)[c(18:32)]
+        as.matrix(cellular.cols)
+
+        as.matrix(names(cell.dat))
+        
+        cluster.cols <- names(cell.dat)[c(18,20,22:23,25:32)]
+        as.matrix(cluster.cols)
+
+        exp.name <- "COVID19 blood"
+        sample.col <- "Sample"
+        group.col <- "Group"
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+    ### Re-order data
+        
+        as.matrix(unique(cell.dat[[group.col]]))
+        
+        cell.dat <- do.reorder(cell.dat, group.col, c('Healthy', 'COVID-Mild', 'COVID-Severe', 'COVID-Recovered'))
+        cell.dat
+```
+
+<br />
+
+### 5. Clustering
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+#######################################################################################################
+#### 5. Clustering and dimensionality reduction
+#######################################################################################################
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+    setwd(OutputDirectory)
+    dir.create("Output 2 - clustering")
+    setwd("Output 2 - clustering")
+```
+
+```{r, message=FALSE, warning=FALSE}
+    ### Clustering
+    
+        cell.dat <- run.flowsom(cell.dat, cluster.cols, meta.k = 40)
+        cell.dat
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+    ### Dimensionality reduction
+        
+        cell.dat <- run.fitsne(cell.dat, cluster.cols)
+        cell.dat
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+    ### DR plots
+
+        make.colour.plot(cell.dat, "FItSNE_X", "FItSNE_Y", "FlowSOM_metacluster", col.type = 'factor', add.label = TRUE)
+        make.multi.plot(cell.dat, "FItSNE_X", "FItSNE_Y", cellular.cols, figure.title = 'Cellular cols')
+        make.multi.plot(cell.dat, "FItSNE_X", "FItSNE_Y", cluster.cols, figure.title = 'Cluster cols')
+        make.multi.plot(cell.dat, "FItSNE_X", "FItSNE_Y", "FlowSOM_metacluster", group.col, col.type = 'factor')
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+    ### DR plots
+
+        make.colour.plot(cell.dat, "FItSNE_X", "FItSNE_Y", "FlowSOM_metacluster", col.type = 'factor', add.label = TRUE)
+```
+
+![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%202/Output%202%20-%20clustering/Factor%20plot%20-%20FlowSOM_metacluster%20-%20plotted%20on%20FItSNE_X%20by%20FItSNE_Y.png?raw=true)
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+        make.multi.plot(cell.dat, "FItSNE_X", "FItSNE_Y", cellular.cols, figure.title = 'Cellular cols')
+```
+
+![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%202/Output%202%20-%20clustering/Cellular%20cols%20-%20plotted%20on%20FItSNE_X%20by%20FItSNE_Y.png?raw=true)
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+        make.multi.plot(cell.dat, "FItSNE_X", "FItSNE_Y", "FlowSOM_metacluster", group.col, col.type = 'factor')
+```
+
+![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%202/Output%202%20-%20clustering/Multi%20plot%20divided%20by%20Group%20-%20plotted%20on%20FItSNE_X%20by%20FItSNE_Y.png?raw=true)
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+    ### Expression heatmap
+
+        exp <- do.aggregate(cell.dat, cellular.cols, by = "FlowSOM_metacluster")
+        make.pheatmap(exp, "FlowSOM_metacluster", cellular.cols)
+```
+
+![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%202/Output%202%20-%20clustering/Pheatmap%20by%20FlowSOM_metacluster.png?raw=true)
+
+<br />
+
+### 6. Annotate
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+#######################################################################################################
+#### 6. Annotate clusters
+#######################################################################################################
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+    setwd(OutputDirectory)
+    dir.create("Output 3 - annotation")
+    setwd("Output 3 - annotation")
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+    ### Annotate
+
+        annots <- list("CD4 T cells" = c(7,4,8,3,2,5),
+                       "CD8 T cells" = c(21,20,27,23,28,33,19),
+                       'gd T cells' = c(13,14,16,10),
+                       "NK cells" = c(11,17,15,36,35),
+                       'B cells' = c(38,37,26,25,32,31),
+                       "Neutrophils" = c(1,6,9,12,18),
+                       "Monocytes" = c(40,34,39),
+                       "Eosinophils" = c(29),
+                       'Unknown' = c(30,22,24)
+        )
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+        annots <- do.list.switch(annots)
+        names(annots) <- c("Values", "Population")
+        setorderv(annots, 'Values')
+        annots
+        
+        any(duplicated(annots$Values))
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide'}
+    ### Add annotations
+
+        cell.dat <- do.add.cols(cell.dat, "FlowSOM_metacluster", annots, "Values")
+        cell.dat
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+        make.multi.plot(cell.dat, "FItSNE_X", "FItSNE_Y", "Population", group.col, col.type = 'factor')
+```
+
+![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%202/Output%203%20-%20annotation/Factor%20plot%20-%20Population%20-%20plotted%20on%20FItSNE_X%20by%20FItSNE_Y.png?raw=true)
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+        make.multi.plot(cell.dat, "FItSNE_X", "FItSNE_Y", "Population", group.col, col.type = 'factor')
+```
+
+![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%202/Output%203%20-%20annotation/Multi%20plot%20divided%20by%20Group%20-%20plotted%20on%20FItSNE_X%20by%20FItSNE_Y.png?raw=true)
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+    ### Expression heatmap
+
+        rm(exp)
+        exp <- do.aggregate(cell.dat, cellular.cols, by = "Population")
+        make.pheatmap(exp, "Population", cellular.cols)
+```
+
+![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%202/Output%203%20-%20annotation/Pheatmap%20by%20Population.png?raw=true)
+
+<br />
+
+### 7. Summary data
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+#######################################################################################################
+#### 7. Summary data and statistical analysis
+#######################################################################################################
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+    setwd(OutputDirectory)
+    dir.create("Output 4 - summary data")
+    setwd("Output 4 - summary data")
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+    ### Setup
+    
+        variance.test <- 'kruskal.test'
+        pairwise.test <- "wilcox.test"
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+        as.matrix(unique(cell.dat$Group))
+        
+        grp.order <- c("Healthy", "COVID-Mild", "COVID-Severe", "COVID-Recovered")
+        grp.order
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+        comparisons <- list(c("Healthy", "COVID-Mild"),
+                            c('Healthy', "COVID-Severe"),
+                            c('Healthy', "COVID-Recovered"),
+                            c('COVID-Mild', "COVID-Severe"),
+                            c('COVID-Mild', 'COVID-Recovered'),
+                            c('COVID-Severe', 'COVID-Recovered'))
+        comparisons
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+    ### Select columns to measure MFI
+    
+        as.matrix(cellular.cols)
+        dyn.cols <- cellular.cols[c(7,2)]
+        dyn.cols
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+        for(i in dyn.cols){
+            make.multi.plot(cell.dat, i, 'CD3_asinh', i, group.col, figure.title = i)
+        }
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+        cutoff <- data.table('Markers' = c('CD38_asinh', 'HLA-DR_asinh'),
+                             'Values' = c(0.75, 1.5))
+        cutoff
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+        for(i in dyn.cols){
+            
+            val <- cutoff[cutoff[['Markers']] == i,'Values', with = FALSE][[1]]
+            x <- cell.dat[cell.dat[[i]] > val,]
+            x$EXPRESSION <- 'POSITIVE'
+            
+            y <- cell.dat[cell.dat[[i]] < val,]
+            y$EXPRESSION <- 'NEGATIVE'
+            
+            z <- rbind(x, y)
+            
+            make.multi.plot(z, i, 'CD3_asinh', 'EXPRESSION', group.col, figure.title = paste0(i, 'EXPRESSION'))
+        }
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+    ### Create summary tables
+    
+        sum.dat <- create.sumtable(dat = cell.dat, 
+                                   sample.col = sample.col,
+                                   pop.col = "Population",
+                                   use.cols = dyn.cols, 
+                                   perc.pos = cutoff,
+                                   double.pos = list(c('CD38_asinh', 'HLA-DR_asinh')),
+                                   annot.cols = c(group.col))
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+    ### Review summary data
+        
+        sum.dat
+        as.matrix(names(sum.dat))
+        
+        plot.cols <- names(sum.dat)[c(3:11,49:50)]
+        plot.cols
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+    ### Reorder summary data and SAVE
+        
+        sum.dat <- do.reorder(sum.dat, group.col, grp.order)
+        sum.dat[,c(1:3)]
+        
+        fwrite(sum.dat, 'sum.dat.csv')
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+### Autographs
+
+        for(i in plot.cols){
+            
+            measure <- gsub("\\ --.*", "", i)
+            measure
+            
+            pop <- gsub("^[^--]*.-- ", "", i)
+            pop
+            
+            make.autograph(sum.dat,
+                           x.axis = group.col,
+                           y.axis = i,
+                           y.axis.label = measure,  
+                           max.y = 1.7,
+                           
+                           grp.order = grp.order,
+                           my_comparisons = comparisons,
+                           
+                           Variance_test = variance.test,
+                           Pairwise_test = pairwise.test,
+                           
+                           title = pop, width = 6, height = 8,
+                           subtitle = measure,
+                           filename = paste0(i, '.pdf'))
+            
+        }
+```
+
+![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%202/Output%204%20-%20summary%20data/Percent%20of%20sample%20--%20CD4%20T%20cells.png?raw=true)
+
+![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%202/Output%204%20-%20summary%20data/Percent%20of%20sample%20--%20Neutrophils.png?raw=true)
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+    ### Create a fold change heatmap
+        
+        ## Z-score calculation
+        sum.dat.z <- do.zscore(sum.dat, plot.cols)
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+        ## Group 
+        t.first <- match(grp.order, sum.dat.z[[group.col]])
+        t.first <- t.first -1
+        t.first
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+        ## Make heatmap
+        make.pheatmap(sum.dat.z, 
+                      sample.col = sample.col, 
+                      plot.cols = paste0(plot.cols, '_zscore'), 
+                      is.fold = TRUE, 
+                      plot.title = 'Z-score',
+                      annot.cols = group.col,
+                      dendrograms = 'column',
+                      row.sep = t.first,
+                      cutree_cols = 3)
+```
+
+![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/masterclass2021/Session%202/Output%204%20-%20summary%20data/Pheatmap%20by%20Sample.png?raw=true)
+
+<br />
+
+### 8. Session data & info
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+#######################################################################################################
+#### 8. Output data and session info
+#######################################################################################################
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+    ### Save data
+        
+        setwd(OutputDirectory)
+        dir.create("Output - data", showWarnings = FALSE)
+        setwd("Output - data")
+        
+        fwrite(cell.dat, "cell.dat.csv")
+
+        write.files(cell.dat,
+                    file.prefix = exp.name,
+                    divide.by = sample.col,
+                    write.csv = FALSE,
+                    write.fcs = TRUE)
+```
+
+```{r, message=FALSE, warning=FALSE, results='hide', fig.show='hide'}
+    ### Session info and metadata
+        
+        setwd(OutputDirectory)
+        dir.create("Output - info", showWarnings = FALSE)
+        setwd("Output - info")
+
+        sink(file = "session_info.txt", append=TRUE, split=FALSE, type = c("output", "message"))
+        session_info()
+        sink()
+
+        write(cellular.cols, "cellular.cols.txt")
+        write(cluster.cols, "cluster.cols.txt")
+```
+
+
+
+
+
+
