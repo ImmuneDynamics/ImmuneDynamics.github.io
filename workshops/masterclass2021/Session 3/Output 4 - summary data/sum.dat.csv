@@ -1,0 +1,4 @@
+Sample,Group,Percent of sample -- CD8,Percent of sample -- HLADR+,Percent of sample -- Macrophage,Percent of sample -- Neutrophil CD66b(int)CD16+,Percent of sample -- Neutrophil CD66b+CD16-,Percent of sample -- Neutrophil CD66b+CD16+,Percent of sample -- Neutrophil dead,Percent of sample -- Other,Percent of sample -- PD1+
+Respiratory_1,COVID-Severe,1.74,5.33,7.41,1.57,27.52,6.23,0.99,5.04,44.17
+Respiratory_2,COVID-Severe,0.162,8.714,3.852,2.886,14.236,23.876,0.21,7.126,38.938
+Respiratory_3,COVID-Severe,0.1312,0.0172,4.562,41.9438,45.7263,0.0757,7.0208,0.4698,0.0532
