@@ -13,7 +13,7 @@ As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclas
 <br />
 
 
-## Workshop schedule (Tue 26-Oct)
+## Instructors
 
 ---
 
