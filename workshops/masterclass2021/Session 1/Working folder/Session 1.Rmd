@@ -169,8 +169,7 @@ First, let's show the first 10 rows in the data:
 ```{r}
 head(dat, n = 10)
 ```
->####NOTE
-> The *n* parameter denotes the number of rows to show.
+***NOTE:*** The *n* parameter denotes the number of rows to show.
 
 >#### TIP
 > You can also see the entire data content by clicking the "table" icon in the environment tab on top right panel.
