@@ -56,26 +56,251 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br />
 
-## Open R script
+# Hands on practical 3
 
-<br />
+For this mini session, we will install packages from CRAN, Bioconductor, and GitHub.
 
-To get started, find the relevant R script and open it in RStudio.
+Firstly, we will install the *data.table* package from CRAN by running the following code:
+```{r install data.table, message=FALSE, warning=FALSE}
+install.packages("data.table", repos="https://cran.csiro.au/")
+```
 
-```{r, message=FALSE, warning=FALSE, results='hide'}
-#######################################################################################################
-#### Coming soon
-#######################################################################################################
+For bioconductor, you need to install BiocManager first from CRAN:
+```{r message=FALSE, warning=FALSE}
+install.packages("BiocManager", repos="https://cran.csiro.au/")
+```
+Then use the install function from *BiocManager* to install the desired package. 
+We will install FlowSOM package to be used in later session for clustering.
+```{r message=FALSE, warning=FALSE}
+BiocManager::install("FlowSOM")
+```
+
+To install packages from Github, you need to first install the *remotes* package:
+```{r message=FALSE, warning=FALSE}
+install.packages("remotes", repos="https://cran.csiro.au/")
+```
+For this example, we will install the *Spectre* package which will be used in subsequent sessions for analysing COVID-19 samples.
+To do this, you need to first locate the github repository where the package is stored.
+For Spectre, it is: <https://github.com/ImmuneDynamics/Spectre>
+Note, the repository you need to supply is whatever comes after github.com.
+```{r message=FALSE, warning=FALSE}
+remotes::install_github("immunedynamics/Spectre")
+```
+
+# Hands on practical 4
+
+For this mini session, we will perform some basic data manipulation using R and Spectre package.
+
+## 1. Setting working directory
+What is a working directory? A default location in your computer your R script will be working from, e.g. loading data or exporting data.
+Use the following *setwd* function to set your working directory:
+```{r}
+setwd("/Users/givanna/Documents/")
+```
+
+If you want to create a directory within your current working directory, use *dir.create* function:
+```{r warning=FALSE}
+dir.create("ASI_workshop_session1")
+```
+
+We will set our working directory to the new directory we just created:
+```{r}
+setwd("ASI_workshop_session1/")
+```
+
+Your working directory now should be in the following directory: */Users/givanna/Documents/ASI_workshop_session1*.
+To check, run the following function:
+```{r}
+getwd()
 ```
 
 
-```{r, fig.show='hide', message=FALSE, message=FALSE, fig.height=7, warning=FALSE}
+> #### TIP
+> If you press ctrl + space, you can get Rstudio to autocomplete a path or a function.
+
+## 2. Loading Spectre package
+This step assumes you have successfully installed Spectre package. If not, please refer to the previous hands-on mini session.
+Run the following *library* function to load Spectre package.
+```{r}
+library(Spectre)
+```
+
+
+## 3. Read in FCS file
+Here, we will try to read in a demo dataset stored in FCS file. 
+The following function is handy to see what files we have in the current working directory:
+```{r}
+list.files()
+```
+
+
+Now, we will use the *read.files* function in Spectre to read in the FCS file and store it in *dat* variable.
+```{r}
+dat <- read.files(file.loc = getwd(), file.type = ".csv")
+```
+
+>#### TIP
+> To read fcs file, change the file.type to .fcs
+
+The function *read.files* will read each file in the *file.loc* directory as a data.table and store them in a list
+```{r}
+class(dat)
+```
+```{r}
+names(dat)
+```
+
+Our samples are split into 12 files. The *read.files* function read in each file and store them in a list.
+We can merge all of them into 1 big data.table for ease of processing using *do.merge.files* function:
+```{r}
+dat <- do.merge.files(dat)
+```
+
+
+Check what is the type of variable dat:
+```{r}
+class(dat)
+```
+It should say data.frame and data.table which is essentially a table like structure.
+
+## 4. Investigate the data
+Let's look at the content of the data.
+First, let's show the first 10 rows in the data:
+```{r}
+head(dat, n = 10)
+```
+>####NOTE
+> The *n* parameter denotes the number of rows to show.
+
+>#### TIP
+> You can also see the entire data content by clicking the "table" icon in the environment tab on top right panel.
+
+A handy function to see what markers/columns we have in the data:
+```{r}
+names(dat)
+```
+We have a fair few markers as well as a column denoting the files each cell come from (FileName and FileNo).
+Let's say we want don't want to see the FileName and FileNo column in our dataset. 
+How do we do that?
+First we store the column names we want to keep in a vector called *markers_cols*:
+```{r}
+markers_cols <- names(dat)[1:9]
+markers_cols
+```
+
+Then we simply subset the data and store it in another variable:
+```{r}
+dat_marker_only <- dat[, ..markers_cols]
+```
+
+Let's inspect it:
+```{r}
+head(dat_marker_only)
+```
+Let's pretend we have forgotten how many samples/files we had previously and want to retrieve it back:
+```{r}
+samples <- dat$FileName
+```
+The above command will show you the sample each file come from, but we're only interested in what samples we have, so we use the *unique* function to see all the distinct samples we have:
+```{r}
+unique(samples)
+```
+
+
+Say we're instered in knowing the mean of CD3 and NK11 expression
+```{r}
+cd3_mean <- mean(dat$CD3)
+nk11_mean <- mean(dat$NK11)
+```
+
+```{r}
+cd3_mean
+```
+
+```{r}
+nk11_mean
+```
+
+>#### TIP
+> You can refer to the environment panel to see their values! 
+
+Say we want to sum them up and store them:
+```{r}
+cd3_plus_nk11 <- cd3_mean + nk11_mean
+cd3_plus_nk11
+```
+
+
+Say you want to add the expression of Ly6G and CD11b for each cell and append the value as a new column.
+First, we store it in a variable:
+```{r}
+ly6g_plus_cd11b <- dat$Ly6G + dat$CD11b
+```
+
+Then append it as a column
+```{r}
+dat$ly6g_plus_cd11b <- ly6g_plus_cd11b
+```
+
+
+Let's inspect just the ly6G, cd11b and the new sum column
+```{r}
+head(dat[, c("Ly6G", "CD11b", "ly6g_plus_cd11b")])
+```
+
+Say we want to isolate cells with Ly6G > 0 and B220 > 0
+```{r}
+dat_subset <- dat[dat$Ly6G > 0 & dat$B220 > 0,]
+head(dat_subset)
+```
+
+The new subset won't have any cells with negative Ly6G or B220
+```{r}
+min(dat_subset$Ly6G)
+```
+
+```{r}
+min(dat$Ly6G)
+```
+
+```{r}
+min(dat_subset$B220)
+```
+
+```{r}
+min(dat$B220)
+```
+
+
+## 5. Save the subsetted data as CSV or FCS file.
+We will use Spectre's write.files function.
+
+>#### TIP
+> If you forget what the write.files function looks like, you can ask Rstudio!
+> Or if you don't even remember what the function name is, look it up using the "Packages" tab at the bottom right panel.
+
+```{r}
+?write.files
+```
+
+
+***NOTE:*** This function relies on the flowCore package to write out FCS file. 
+If you don't have it installed, we can install it using Bioconductor then load it.
+```{r}
+BiocManager::install("flowCore")
+library("flowCore")
+```
+
+Then run the *write.files* function:
+```{r}
+write.files(dat = dat_subset,
+            file.prefix = "demo_data_subset",
+            write.csv = TRUE,
+            write.fcs = TRUE)
 
 ```
 
 
-
-<br />
 
 
 

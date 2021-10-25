@@ -1,6 +1,3 @@
----
-permalink: /masterclass2021/workshop-mainpage/session1
----
 <!DOCTYPE html>
 
 <html>
@@ -286,14 +283,229 @@ In this session, instructors will introduce attendees to methods of high-dimensi
 </table>
 <p><br /></p>
 </div>
-<div id="open-r-script" class="section level2">
-<h2>Open R script</h2>
-<p><br /></p>
-<p>To get started, find the relevant R script and open it in RStudio.</p>
-<pre class="r"><code>#######################################################################################################
-#### Coming soon
-#######################################################################################################</code></pre>
-<p><br /></p>
+<div id="hands-on-practical-3" class="section level1">
+<h1>Hands on practical 3</h1>
+<p>For this mini session, we will install packages from CRAN, Bioconductor, and GitHub.</p>
+<p>Firstly, we will install the <em>data.table</em> package from CRAN by running the following code:</p>
+<pre class="r"><code>install.packages(&quot;data.table&quot;, repos=&quot;https://cran.csiro.au/&quot;)</code></pre>
+<pre><code>## 
+## The downloaded binary packages are in
+##  /var/folders/j2/7y5xp8610kgf0jbx202by2200000gn/T//RtmpB8uMsH/downloaded_packages</code></pre>
+<p>For bioconductor, you need to install BiocManager first from CRAN:</p>
+<pre class="r"><code>install.packages(&quot;BiocManager&quot;, repos=&quot;https://cran.csiro.au/&quot;)</code></pre>
+<pre><code>## 
+## The downloaded binary packages are in
+##  /var/folders/j2/7y5xp8610kgf0jbx202by2200000gn/T//RtmpB8uMsH/downloaded_packages</code></pre>
+<p>Then use the install function from <em>BiocManager</em> to install the desired package. We will install FlowSOM package to be used in later session for clustering.</p>
+<pre class="r"><code>BiocManager::install(&quot;FlowSOM&quot;)</code></pre>
+<p>To install packages from Github, you need to first install the <em>remotes</em> package:</p>
+<pre class="r"><code>install.packages(&quot;remotes&quot;, repos=&quot;https://cran.csiro.au/&quot;)</code></pre>
+<pre><code>## 
+## The downloaded binary packages are in
+##  /var/folders/j2/7y5xp8610kgf0jbx202by2200000gn/T//RtmpB8uMsH/downloaded_packages</code></pre>
+<p>For this example, we will install the <em>Spectre</em> package which will be used in subsequent sessions for analysing COVID-19 samples. To do this, you need to first locate the github repository where the package is stored. For Spectre, it is: <a href="https://github.com/ImmuneDynamics/Spectre" class="uri">https://github.com/ImmuneDynamics/Spectre</a> Note, the repository you need to supply is whatever comes after github.com.</p>
+<pre class="r"><code>remotes::install_github(&quot;immunedynamics/Spectre&quot;)</code></pre>
+</div>
+<div id="hands-on-practical-4" class="section level1">
+<h1>Hands on practical 4</h1>
+<p>For this mini session, we will perform some basic data manipulation using R and Spectre package.</p>
+<div id="setting-working-directory" class="section level2">
+<h2>1. Setting working directory</h2>
+<p>What is a working directory? A default location in your computer your R script will be working from, e.g. loading data or exporting data. Use the following <em>setwd</em> function to set your working directory:</p>
+<pre class="r"><code>setwd(&quot;/Users/givanna/Documents/&quot;)</code></pre>
+<p>If you want to create a directory within your current working directory, use <em>dir.create</em> function:</p>
+<pre class="r"><code>dir.create(&quot;ASI_workshop_session1&quot;)</code></pre>
+<p>We will set our working directory to the new directory we just created:</p>
+<pre class="r"><code>setwd(&quot;ASI_workshop_session1/&quot;)</code></pre>
+<p>Your working directory now should be in the following directory: <em>/Users/givanna/Documents/ASI_workshop_session1</em>. To check, run the following function:</p>
+<pre class="r"><code>getwd()</code></pre>
+<pre><code>## [1] &quot;/Users/givanna/Documents/ASI_workshop_session1&quot;</code></pre>
+<blockquote>
+<h4 id="tip">TIP</h4>
+<p>If you press ctrl + space, you can get Rstudio to autocomplete a path or a function.</p>
+</blockquote>
+</div>
+<div id="loading-spectre-package" class="section level2">
+<h2>2. Loading Spectre package</h2>
+<p>This step assumes you have successfully installed Spectre package. If not, please refer to the previous hands-on mini session. Run the following <em>library</em> function to load Spectre package.</p>
+<pre class="r"><code>library(Spectre)</code></pre>
+</div>
+<div id="read-in-fcs-file" class="section level2">
+<h2>3. Read in FCS file</h2>
+<p>Here, we will try to read in a demo dataset stored in FCS file. The following function is handy to see what files we have in the current working directory:</p>
+<pre class="r"><code>list.files()</code></pre>
+<pre><code>##  [1] &quot;ASI workshop_Day1_R_intro.Rmd&quot;  &quot;ASI_workshop_session1&quot;         
+##  [3] &quot;ASI-workshop_Day1_R_intro.html&quot; &quot;CNS_Mock_01.csv&quot;               
+##  [5] &quot;CNS_Mock_02.csv&quot;                &quot;CNS_Mock_03.csv&quot;               
+##  [7] &quot;CNS_Mock_04.csv&quot;                &quot;CNS_Mock_05.csv&quot;               
+##  [9] &quot;CNS_Mock_06.csv&quot;                &quot;CNS_WNV_D7_01.csv&quot;             
+## [11] &quot;CNS_WNV_D7_02.csv&quot;              &quot;CNS_WNV_D7_03.csv&quot;             
+## [13] &quot;CNS_WNV_D7_04.csv&quot;              &quot;CNS_WNV_D7_05.csv&quot;             
+## [15] &quot;CNS_WNV_D7_06.csv&quot;              &quot;Session 1.Rmd&quot;                 
+## [17] &quot;Session-1.html&quot;                 &quot;Session-1.Rmd&quot;</code></pre>
+<p>Now, we will use the <em>read.files</em> function in Spectre to read in the FCS file and store it in <em>dat</em> variable.</p>
+<pre class="r"><code>dat &lt;- read.files(file.loc = getwd(), file.type = &quot;.csv&quot;)</code></pre>
+<pre><code>## Loading required package: data.table</code></pre>
+<blockquote>
+<h4 id="tip-1">TIP</h4>
+<p>To read fcs file, change the file.type to .fcs</p>
+</blockquote>
+<p>The function <em>read.files</em> will read each file in the <em>file.loc</em> directory as a data.table and store them in a list</p>
+<pre class="r"><code>class(dat)</code></pre>
+<pre><code>## [1] &quot;list&quot;</code></pre>
+<pre class="r"><code>names(dat)</code></pre>
+<pre><code>##  [1] &quot;CNS_Mock_01&quot;   &quot;CNS_Mock_02&quot;   &quot;CNS_Mock_03&quot;   &quot;CNS_Mock_04&quot;  
+##  [5] &quot;CNS_Mock_05&quot;   &quot;CNS_Mock_06&quot;   &quot;CNS_WNV_D7_01&quot; &quot;CNS_WNV_D7_02&quot;
+##  [9] &quot;CNS_WNV_D7_03&quot; &quot;CNS_WNV_D7_04&quot; &quot;CNS_WNV_D7_05&quot; &quot;CNS_WNV_D7_06&quot;</code></pre>
+<p>Our samples are split into 12 files. The <em>read.files</em> function read in each file and store them in a list. We can merge all of them into 1 big data.table for ease of processing using <em>do.merge.files</em> function:</p>
+<pre class="r"><code>dat &lt;- do.merge.files(dat)</code></pre>
+<p>Check what is the type of variable dat:</p>
+<pre class="r"><code>class(dat)</code></pre>
+<pre><code>## [1] &quot;data.table&quot; &quot;data.frame&quot;</code></pre>
+<p>It should say data.frame and data.table which is essentially a table like structure.</p>
+</div>
+<div id="investigate-the-data" class="section level2">
+<h2>4. Investigate the data</h2>
+<p>Let’s look at the content of the data. First, let’s show the first 10 rows in the data:</p>
+<pre class="r"><code>head(dat, n = 10)</code></pre>
+<pre><code>##         NK11        CD3     CD45       Ly6G    CD11b      B220     CD8a
+##  1:  42.3719  40.098700  6885.08  -344.7830 14787.30  -40.2399  83.7175
+##  2:  42.9586 119.014000  1780.29  -429.6650  5665.73   86.6673  34.7219
+##  3:  59.2366 206.238000 10248.30 -1603.8400 19894.30  427.8310 285.8800
+##  4: 364.9480  -0.233878  3740.04  -815.9800  9509.43  182.4200 333.6050
+##  5: 440.2470  40.035200  9191.38    40.5055  5745.82 -211.6940 149.2200
+##  6: 151.5890 124.525000  4256.17  -596.1300 12200.80   94.0770 109.3110
+##  7: -25.0254 114.917000  4206.72  -787.1680 12227.70  183.8690 195.4950
+##  8:  91.3912  15.326300  3673.56  -246.3870  7040.34  384.5510 117.1330
+##  9:  56.4442 -38.378600  9129.14  -422.0990 23569.60  435.3240 196.7540
+## 10: 206.7270 216.563000  2970.59   -42.0700  7393.80  191.8660  23.6561
+##          Ly6C      CD4    FileName FileNo
+##  1:  958.7000  711.072 CNS_Mock_01      1
+##  2:  448.2590  307.272 CNS_Mock_01      1
+##  3: 1008.8300  707.094 CNS_Mock_01      1
+##  4:  440.0710  249.784 CNS_Mock_01      1
+##  5:   87.4815  867.570 CNS_Mock_01      1
+##  6:  417.4010  352.982 CNS_Mock_01      1
+##  7:  245.7640  436.935 CNS_Mock_01      1
+##  8:  504.8190  438.310 CNS_Mock_01      1
+##  9:  389.0720 1714.390 CNS_Mock_01      1
+## 10:   97.2920  689.716 CNS_Mock_01      1</code></pre>
+<blockquote>
+<p>####NOTE The <em>n</em> parameter denotes the number of rows to show.</p>
+</blockquote>
+<blockquote>
+<h4 id="tip-2">TIP</h4>
+<p>You can also see the entire data content by clicking the “table” icon in the environment tab on top right panel.</p>
+</blockquote>
+<p>A handy function to see what markers/columns we have in the data:</p>
+<pre class="r"><code>names(dat)</code></pre>
+<pre><code>##  [1] &quot;NK11&quot;     &quot;CD3&quot;      &quot;CD45&quot;     &quot;Ly6G&quot;     &quot;CD11b&quot;    &quot;B220&quot;    
+##  [7] &quot;CD8a&quot;     &quot;Ly6C&quot;     &quot;CD4&quot;      &quot;FileName&quot; &quot;FileNo&quot;</code></pre>
+<p>We have a fair few markers as well as a column denoting the files each cell come from (FileName and FileNo). Let’s say we want don’t want to see the FileName and FileNo column in our dataset. How do we do that? First we store the column names we want to keep in a vector called <em>markers_cols</em>:</p>
+<pre class="r"><code>markers_cols &lt;- names(dat)[1:9]
+markers_cols</code></pre>
+<pre><code>## [1] &quot;NK11&quot;  &quot;CD3&quot;   &quot;CD45&quot;  &quot;Ly6G&quot;  &quot;CD11b&quot; &quot;B220&quot;  &quot;CD8a&quot;  &quot;Ly6C&quot;  &quot;CD4&quot;</code></pre>
+<p>Then we simply subset the data and store it in another variable:</p>
+<pre class="r"><code>dat_marker_only &lt;- dat[, ..markers_cols]</code></pre>
+<p>Let’s inspect it:</p>
+<pre class="r"><code>head(dat_marker_only)</code></pre>
+<pre><code>##        NK11        CD3     CD45       Ly6G    CD11b      B220     CD8a
+## 1:  42.3719  40.098700  6885.08  -344.7830 14787.30  -40.2399  83.7175
+## 2:  42.9586 119.014000  1780.29  -429.6650  5665.73   86.6673  34.7219
+## 3:  59.2366 206.238000 10248.30 -1603.8400 19894.30  427.8310 285.8800
+## 4: 364.9480  -0.233878  3740.04  -815.9800  9509.43  182.4200 333.6050
+## 5: 440.2470  40.035200  9191.38    40.5055  5745.82 -211.6940 149.2200
+## 6: 151.5890 124.525000  4256.17  -596.1300 12200.80   94.0770 109.3110
+##         Ly6C     CD4
+## 1:  958.7000 711.072
+## 2:  448.2590 307.272
+## 3: 1008.8300 707.094
+## 4:  440.0710 249.784
+## 5:   87.4815 867.570
+## 6:  417.4010 352.982</code></pre>
+<p>Let’s pretend we have forgotten how many samples/files we had previously and want to retrieve it back:</p>
+<pre class="r"><code>samples &lt;- dat$FileName</code></pre>
+<p>The above command will show you the sample each file come from, but we’re only interested in what samples we have, so we use the <em>unique</em> function to see all the distinct samples we have:</p>
+<pre class="r"><code>unique(samples)</code></pre>
+<pre><code>##  [1] &quot;CNS_Mock_01&quot;   &quot;CNS_Mock_02&quot;   &quot;CNS_Mock_03&quot;   &quot;CNS_Mock_04&quot;  
+##  [5] &quot;CNS_Mock_05&quot;   &quot;CNS_Mock_06&quot;   &quot;CNS_WNV_D7_01&quot; &quot;CNS_WNV_D7_02&quot;
+##  [9] &quot;CNS_WNV_D7_03&quot; &quot;CNS_WNV_D7_04&quot; &quot;CNS_WNV_D7_05&quot; &quot;CNS_WNV_D7_06&quot;</code></pre>
+<p>Say we’re instered in knowing the mean of CD3 and NK11 expression</p>
+<pre class="r"><code>cd3_mean &lt;- mean(dat$CD3)
+nk11_mean &lt;- mean(dat$NK11)</code></pre>
+<pre class="r"><code>cd3_mean</code></pre>
+<pre><code>## [1] 318.6597</code></pre>
+<pre class="r"><code>nk11_mean</code></pre>
+<pre><code>## [1] 333.1011</code></pre>
+<blockquote>
+<h4 id="tip-3">TIP</h4>
+<p>You can refer to the environment panel to see their values!</p>
+</blockquote>
+<p>Say we want to sum them up and store them:</p>
+<pre class="r"><code>cd3_plus_nk11 &lt;- cd3_mean + nk11_mean
+cd3_plus_nk11</code></pre>
+<pre><code>## [1] 651.7608</code></pre>
+<p>Say you want to add the expression of Ly6G and CD11b for each cell and append the value as a new column. First, we store it in a variable:</p>
+<pre class="r"><code>ly6g_plus_cd11b &lt;- dat$Ly6G + dat$CD11b</code></pre>
+<p>Then append it as a column</p>
+<pre class="r"><code>dat$ly6g_plus_cd11b &lt;- ly6g_plus_cd11b</code></pre>
+<p>Let’s inspect just the ly6G, cd11b and the new sum column</p>
+<pre class="r"><code>head(dat[, c(&quot;Ly6G&quot;, &quot;CD11b&quot;, &quot;ly6g_plus_cd11b&quot;)])</code></pre>
+<pre><code>##          Ly6G    CD11b ly6g_plus_cd11b
+## 1:  -344.7830 14787.30       14442.517
+## 2:  -429.6650  5665.73        5236.065
+## 3: -1603.8400 19894.30       18290.460
+## 4:  -815.9800  9509.43        8693.450
+## 5:    40.5055  5745.82        5786.325
+## 6:  -596.1300 12200.80       11604.670</code></pre>
+<p>Say we want to isolate cells with Ly6G &gt; 0 and B220 &gt; 0</p>
+<pre class="r"><code>dat_subset &lt;- dat[dat$Ly6G &gt; 0 &amp; dat$B220 &gt; 0,]
+head(dat_subset)</code></pre>
+<pre><code>##        NK11       CD3     CD45      Ly6G    CD11b    B220      CD8a       Ly6C
+## 1: -58.7602 224.69600  4845.85  281.1300 10309.40 384.199   12.9359   277.5870
+## 2: -40.5028 125.56200 30759.30 7375.7400 21262.20 142.793  103.3740 15781.8000
+## 3: 250.6860 210.81500  8046.83  326.3870 14379.60 412.146   29.7603   203.6220
+## 4:  79.6307 520.37600  1221.33  893.9670  5292.79 899.481  210.5850  1888.4400
+## 5:  78.7477 352.02300  2397.58  599.0960  6634.97 315.061 -103.1890   339.0870
+## 6: -47.4769  -9.92212  2567.36   54.9505  6874.72 100.574   72.5257   -54.5288
+##          CD4    FileName FileNo ly6g_plus_cd11b
+## 1:  828.3490 CNS_Mock_01      1       10590.530
+## 2:  111.9670 CNS_Mock_01      1       28637.940
+## 3: 1074.2200 CNS_Mock_01      1       14705.987
+## 4: 2146.3700 CNS_Mock_01      1        6186.757
+## 5: 1503.0800 CNS_Mock_01      1        7234.066
+## 6:   99.6476 CNS_Mock_01      1        6929.671</code></pre>
+<p>The new subset won’t have any cells with negative Ly6G or B220</p>
+<pre class="r"><code>min(dat_subset$Ly6G)</code></pre>
+<pre><code>## [1] 0.0697798</code></pre>
+<pre class="r"><code>min(dat$Ly6G)</code></pre>
+<pre><code>## [1] -88512.1</code></pre>
+<pre class="r"><code>min(dat_subset$B220)</code></pre>
+<pre><code>## [1] 0.0164425</code></pre>
+<pre class="r"><code>min(dat$B220)</code></pre>
+<pre><code>## [1] -75712.5</code></pre>
+</div>
+<div id="save-the-subsetted-data-as-csv-or-fcs-file." class="section level2">
+<h2>5. Save the subsetted data as CSV or FCS file.</h2>
+<p>We will use Spectre’s write.files function.</p>
+<blockquote>
+<h4 id="tip-4">TIP</h4>
+<p>If you forget what the write.files function looks like, you can ask Rstudio! Or if you don’t even remember what the function name is, look it up using the “Packages” tab at the bottom right panel.</p>
+</blockquote>
+<pre class="r"><code>?write.files</code></pre>
+<p><strong><em>NOTE:</em></strong> This function relies on the flowCore package to write out FCS file. If you don’t have it installed, we can install it using Bioconductor then load it.</p>
+<pre class="r"><code>BiocManager::install(&quot;flowCore&quot;)</code></pre>
+<pre><code>## Bioconductor version 3.13 (BiocManager 1.30.16), R 4.1.1 (2021-08-10)</code></pre>
+<pre><code>## Warning: package(s) not installed when version(s) same as current; use `force = TRUE` to
+##   re-install: &#39;flowCore&#39;</code></pre>
+<pre><code>## Old packages: &#39;deldir&#39;, &#39;rlang&#39;, &#39;Seurat&#39;</code></pre>
+<pre class="r"><code>library(&quot;flowCore&quot;)</code></pre>
+<p>Then run the <em>write.files</em> function:</p>
+<pre class="r"><code>write.files(dat = dat_subset,
+            file.prefix = &quot;demo_data_subset&quot;,
+            write.csv = TRUE,
+            write.fcs = TRUE)</code></pre>
+</div>
 </div>
 
 
