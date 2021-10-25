@@ -14,7 +14,7 @@ You are welcome to simply watch, take notes, and ask questions if you prefer! Ho
 
 - *Option 1: just join the **<a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09">zoom</a>** session and ask questions!*
 
-- *Option 2: join the **<a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09">zoom</a>** session and follow along with the analysis workflow on one of our **<a href="https://immunedynamics.io/masterclass2021/workshop-mainpage/computers">virtual computers</a>** using the provided dataset and scripts*
+- *Option 2: join the **<a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09">zoom</a>** session and follow along with the analysis workflow on one of our **<a href="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/raw/master/workshops/masterclass2021/Virtual%20computers.pdf">virtual computers</a>** using the provided dataset and scripts*
 
 - *Option 3: join the **<a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09">zoom</a>** session and follow with the analysis workflow on your own computer -- check out **<a href="https://immunedynamics.io/spectre/getting-started/">these instructions</a>** for getting setup with R/RStudio and Spectre.*
 
