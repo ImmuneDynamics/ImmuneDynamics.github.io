@@ -8,19 +8,15 @@ permalink: /masterclass2021/workshop-mainpage/
 
 ![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/CVD%20banner%202.png?raw=true)
 
-As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/">Australia and New Zealand Society for Immunology (ASI) IgV Masterclass</a> (25-26 October 2021), we will be running an online hands-on workshop on high-dimensional analysis approaches to investigate the immune response to COVID-19 in the blood and respiratory tract.
+As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/">Australia and New Zealand Society for Immunology (ASI) IgV Masterclass</a>, we will be running an online hands-on workshop (**Tue 26-Oct, 10:00 am - 4:30 pm**) on high-dimensional analysis approaches to investigate the immune response to COVID-19 in the blood and respiratory tract.
 
-<br />
-
-## How to participate
-
-You are welcome to simply watch, take notes, and ask questions if you prefer! However, if you would like to follow along with the instructors to replicate the analysis process yourself using R. You will receieve an email with links to the **datasets** and **R scripts** that we will use. If you did not receive the links, please email <a href="mailto:thomas.ashhurst@sydney.edu.au">thomas.ashhurst@sydney.edu.au</a>. <i>Feel free to use these datasets during and after the workshop, but we would request that you don't share these widely with others, or post them on a publicly accessible platform.</i>
+You are welcome to simply watch, take notes, and ask questions if you prefer! However, if you would like to follow along with the instructors to replicate the analysis process yourself using R. You will receive an email with links to the **datasets** and **R scripts** that we will use. If you did not receive the links, please email <a href="mailto:thomas.ashhurst@sydney.edu.au">thomas.ashhurst@sydney.edu.au</a>. <i>Feel free to use these datasets during and after the workshop, but we would request that you don't share these widely with others, or post them on a publicly accessible platform.</i>
 
 - *Option 1: just join the **<a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09">zoom</a>** session and ask questions!*
 
-- *Option 2: follow along with the analysis workflow on one of our **<a href="https://immunedynamics.io/masterclass2021/workshop-mainpage/computers">virtual computers</a>** using the provided dataset and scripts*
+- *Option 2: join the **<a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09">zoom</a>** session and follow along with the analysis workflow on one of our **<a href="https://immunedynamics.io/masterclass2021/workshop-mainpage/computers">virtual computers</a>** using the provided dataset and scripts*
 
-- *Option 3: follow along on your own computer -- check out **<a href="https://immunedynamics.io/spectre/getting-started/">these instructions</a>** for getting setup with Spectre. In the workshop you can use the provided scripts with Spectre*
+- *Option 3: join the **<a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09">zoom</a>** session and follow with the analysis workflow on your own computer -- check out **<a href="https://immunedynamics.io/spectre/getting-started/">these instructions</a>** for getting setup with R/RStudio and Spectre.*
 
 <br />
 
