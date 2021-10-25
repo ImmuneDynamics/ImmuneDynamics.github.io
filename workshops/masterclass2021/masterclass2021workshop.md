@@ -8,32 +8,27 @@ permalink: /masterclass2021/workshop-mainpage/
 
 ![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/CVD%20banner%202.png?raw=true)
 
-As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/">Australia and New Zealand Society for Immunology (ASI) IgV Masterclass</a> (25-26 October 2021), we will be running an online hands-on workshop on high-dimensional analysis approaches to investigate the immune response to COVID-19 in the blood and respiratory tract. We will be using R & RStudio to analyse cells from the blood or respiratory tract of COVID-19 patients, measured by flow cytometry. We will be using the R package '<a href="https://immunedynamics.io/spectre">Spectre</a>' to do this. The instructors will guide attendees through the analysis process in R, stopping regularly to discuss what has been done, and what we can observe about the COVID-19 immune response. To prepare for the workshop we selectively chose representative samples and performed some initial cleanup and batch alignment, which we will discuss during the workshop.
+As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/">Australia and New Zealand Society for Immunology (ASI) IgV Masterclass</a> (25-26 October 2021), we will be running an online hands-on workshop on high-dimensional analysis approaches to investigate the immune response to COVID-19 in the blood and respiratory tract.
 
 <br />
   
-**Datasets**  
+**Datasets and analysis scripts**  
 
-The COVID-19 datasets used in this workshop originate from these two studies from the <a href="https://www.doherty.edu.au/people/professor-katherine-kedzierska">Kedzierska Laboratory</a>: <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7">Koutsakos et al 2021. Cell Reports Medicine</a> and <a href="https://www.medrxiv.org/content/10.1101/2021.09.01.21262715v1">Zhang et al 2021. medRxiv</a>
-
-*Download links for the data and analysis scripts should have been emailed to you. If you did not receive the links, please email <a href="mailto:thomas.ashhurst@sydney.edu.au">thomas.ashhurst@sydney.edu.au</a>.*
-
-<p style="color:red"><i>Feel free to use these datasets during and after the workshop, but we would request that you don't share these widely with others, or post them on a publicly accessible platform.</i></p>
-
-<br />
-<br />
-
-**Instructions**
-
-You are welcome to simply watch, take notes, and ask questions if you prefer. If you would like to replicate the analysis process yourself, following the instructors, then we have provided access to the **datasets** and **R scripts** that we will use. You can either do this on your own computer, or you can use one of the 'virtual' computers that we provide access to, with the software and datasets pre-installed.
+ We will be using R & RStudio to analyse cells from the blood or respiratory tract of COVID-19 patients, measured by flow cytometry. We will be using the R package '<a href="https://immunedynamics.io/spectre">Spectre</a>' to do this. The instructors will guide attendees through the analysis process in R, stopping regularly to discuss what has been done, and what we can observe about the COVID-19 immune response. The COVID-19 datasets used in this workshop originate from these two studies from the <a href="https://www.doherty.edu.au/people/professor-katherine-kedzierska">Kedzierska Laboratory</a>: <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7">Koutsakos et al 2021. Cell Reports Medicine</a> and <a href="https://www.medrxiv.org/content/10.1101/2021.09.01.21262715v1">Zhang et al 2021. medRxiv</a>. To prepare for the workshop we selectively chose representative samples and performed some initial cleanup and batch alignment, which we will discuss during the workshop. 
+ 
+Download links for the data and analysis scripts should have been emailed to you. If you did not receive the links, please email <a href="mailto:thomas.ashhurst@sydney.edu.au">thomas.ashhurst@sydney.edu.au</a>. <i>Feel free to use these datasets during and after the workshop, but we would request that you don't share these widely with others, or post them on a publicly accessible platform.</i>
 
 <br />
 
-*Option 1: just join the **<a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09">zoom</a>** session and ask questions!*
+**How to participate**
 
-*Option 2: follow along with the analysis workflow on one of our **<a href="https://immunedynamics.io/masterclass2021/workshop-mainpage/computers">virtual computers</a>***
+You are welcome to simply watch, take notes, and ask questions if you prefer! If you would like to replicate the analysis process yourself, following the instructors, then we have provided access to the **datasets** and **R scripts** that we will use. You can either do this on your own computer, or you can use one of the 'virtual' computers that we provide access to, with the software and datasets pre-installed.
 
-*Option 3: follow along on your own computer -- check out **<a href="https://immunedynamics.io/spectre/getting-started/">these instructions</a>** for getting setup with Spectre*
+- *Option 1: just join the **<a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09">zoom</a>** session and ask questions!*
+
+- *Option 2: follow along with the analysis workflow on one of our **<a href="https://immunedynamics.io/masterclass2021/workshop-mainpage/computers">virtual computers</a>** using the provided dataset and scripts*
+
+- *Option 3: follow along on your own computer -- check out **<a href="https://immunedynamics.io/spectre/getting-started/">these instructions</a>** for getting setup with Spectre. In the workshop you can use the provided scripts with Spectre*
 
 <br />
 
