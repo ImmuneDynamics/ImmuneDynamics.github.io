@@ -14,6 +14,8 @@ As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclas
 
 ## How to participate
 
+---
+
 You are welcome to simply watch, take notes, and ask questions if you prefer! However, if you would like to follow along with the instructors to replicate the analysis process yourself using R. You will receieve an email with links to the **datasets** and **R scripts** that we will use. If you did not receive the links, please email <a href="mailto:thomas.ashhurst@sydney.edu.au">thomas.ashhurst@sydney.edu.au</a>. <i>Feel free to use these datasets during and after the workshop, but we would request that you don't share these widely with others, or post them on a publicly accessible platform.</i>
 
 - *Option 1: just join the **<a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09">zoom</a>** session and ask questions!*
