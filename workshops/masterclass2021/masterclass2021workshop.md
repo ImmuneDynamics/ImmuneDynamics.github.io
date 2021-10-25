@@ -87,6 +87,10 @@ You are welcome to simply watch, take notes, and ask questions if you prefer! Ho
 
 ---
 
+*Please feel free to join us from <b>10:00 am</a> to get set up with the analysis scripts and/or the virtual computers.*
+
+<br />
+
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -98,7 +102,7 @@ You are welcome to simply watch, take notes, and ask questions if you prefer! Ho
           Introduction
          </span></b></p>
          <p>
-           Tue 26-Oct, 10:00 am - 10:30 am AEDT
+           Tue 26-Oct, 10:30 am - 10:45 am AEDT
         </p>
         <p>
           The workshop day (Tue 26-Oct) will start off with some opening remarks on COVID-19 and respiratory immunology from 
@@ -132,7 +136,7 @@ You are welcome to simply watch, take notes, and ask questions if you prefer! Ho
           Session #1: Getting started with cytometry analysis using Spectre and R
          </span></b></p>
          <p>
-          Tue 26-Oct, 10:30 am – 12:00 pm AEDT
+          Tue 26-Oct, 10:45 am – 12:00 pm AEDT
         </p>
          <p>
           Lead instructors: 
