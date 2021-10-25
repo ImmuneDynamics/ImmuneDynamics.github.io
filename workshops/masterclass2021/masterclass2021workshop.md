@@ -87,7 +87,7 @@ You are welcome to simply watch, take notes, and ask questions if you prefer! Ho
 
 ---
 
-*Please feel free to join us from <b>10:00 am</a> to get set up with the analysis scripts and/or the virtual computers.*
+*Please feel free to join us from <b>10:00 am</b> to get set up with the analysis scripts and/or the virtual computers.*
 
 <br />
 
