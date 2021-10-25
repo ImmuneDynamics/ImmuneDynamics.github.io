@@ -257,7 +257,7 @@ You are welcome to simply watch, take notes, and ask questions. If you would lik
 
 *Option 2: follow along on a virtual computer*
 
-- Follow these instructions to access the virtual computers (with datasets, software, and scripts pre-installed)
+- Follow <a href="https://immunedynamics.io/masterclass2021/workshop-mainpage/"><b>these instructions</b<</a> to access the virtual computers (with datasets, software, and scripts pre-installed)
 - You will find the workshop much easier if you check out these introductory tutorials to <a href="https://wiki.centenary.org.au/x/MIBfCQ">R/Rstudio</a> and <a href="https://wiki.centenary.org.au/x/5ysMCQ">Spectre</a> ahead of time
 - During the sessions, join the **<a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09">zoom</a>** session and follow along with us
 
@@ -271,3 +271,4 @@ You are welcome to simply watch, take notes, and ask questions. If you would lik
 
 <br />
 <br />
+
