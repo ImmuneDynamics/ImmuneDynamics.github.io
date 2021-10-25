@@ -55,6 +55,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br />
 
+## Dataset
+
+We will be using R & RStudio to analyse cells from the blood or respiratory tract of COVID-19 patients, measured by flow cytometry. We will be using the R package '<a href="https://immunedynamics.io/spectre">Spectre</a>' to do this. The instructors will guide attendees through the analysis process in R, stopping regularly to discuss what has been done, and what we can observe about the COVID-19 immune response. The COVID-19 datasets used in this workshop originate from these two studies from the <a href="https://www.doherty.edu.au/people/professor-katherine-kedzierska">Kedzierska Laboratory</a>: <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00019-7">Koutsakos et al 2021. Cell Reports Medicine</a> and <a href="https://www.medrxiv.org/content/10.1101/2021.09.01.21262715v1">Zhang et al 2021. medRxiv</a>. To prepare for the workshop we selectively chose representative samples and performed some initial cleanup and batch alignment, which we will discuss during the workshop. 
+
+<br />
+
 ## Open R script
 
 
