@@ -8,7 +8,7 @@ permalink: /masterclass2021/workshop-mainpage/
 
 ![](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/workshops/CVD%20banner%202.png?raw=true)
 
-As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/">Australia and New Zealand Society for Immunology (ASI) IgV Masterclass</a> (25-26 October 2021), we will be running an online hands-on workshop on high-dimensional analysis approaches to investigate the immune response to COVID-19 in the blood and respiratory tract.
+As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclass-on-Quantitative-Immunology/">Australia and New Zealand Society for Immunology (ASI) IgV Masterclass</a>, we will be running an online hands-on workshop (**Tue 26-Oct, 10:00 am - 4:30 pm**) on high-dimensional analysis approaches to investigate the immune response to COVID-19 in the blood and respiratory tract.
 
 <br />
 
