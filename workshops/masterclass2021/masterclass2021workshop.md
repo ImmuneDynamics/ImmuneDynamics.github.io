@@ -344,6 +344,39 @@ Microsoft will take some time to store your password. Go and grab a biscuit to d
 
 ![image](https://user-images.githubusercontent.com/11766139/138666262-48075d63-1bdf-44fa-b60e-f1f4e94a8d15.png)
 
+10. It will automatically download a file call “Masterclass 2021 - Workshops.rdp”. Depending on your web browser’s setting, it may prompt you to indicate where to store this file. Save this file. Then go to the folder where the file is stored and open it.
+
+![image](https://user-images.githubusercontent.com/11766139/138669296-2c0e27dc-e3f0-4200-bc61-f23049068afe.png)
+
+11. It shall open up Microsoft Remote Desktop app, and you will be greeted with some warning on the certificate similar to the screen below. Just click “continue”.
+
+a. Mac:
+
+![image](https://user-images.githubusercontent.com/11766139/138669344-ba817aec-cc6d-4809-8b89-d5fe260d29c6.png)
+
+b. Windows:
+
+![image](https://user-images.githubusercontent.com/11766139/138669377-675893aa-19e0-47fd-9104-510c2fa740f1.png)
+
+12. Enter the password you set up in Step 9 then click “Continue”. Leave the username as it is!
+
+a. Mac:
+
+![image](https://user-images.githubusercontent.com/11766139/138669425-19cc20c6-16a8-4cd0-b537-4a5849d9cc61.png)
+
+b. Windows:
+
+![image](https://user-images.githubusercontent.com/11766139/138669458-5c513c8d-60af-4d96-902f-7dca6e459d05.png)
+
+Note on windows you will see this prompt as well after entering your password. Just click “yes”.
+
+![image](https://user-images.githubusercontent.com/11766139/138669518-32e3a5d8-65f7-42c1-ad34-de98b4c518f9.png)
+
+13. You will be logged in to the computer.
+
+
+
+[Virtual computers.pdf](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/files/7408842/Virtual.computers.pdf)
 
 
 
