@@ -291,19 +291,19 @@ In this session, instructors will introduce attendees to methods of high-dimensi
 <p>For this mini session, we will install packages from CRAN, Bioconductor, and GitHub.</p>
 <p>Firstly, we will install the <em>data.table</em> package from CRAN by running the following code:</p>
 <pre class="r"><code>install.packages(&quot;data.table&quot;, repos=&quot;https://cran.csiro.au/&quot;)</code></pre>
-<pre><code>## 
+<pre><code>##
 ## The downloaded binary packages are in
 ##  /var/folders/j2/7y5xp8610kgf0jbx202by2200000gn/T//RtmpB8uMsH/downloaded_packages</code></pre>
 <p>For bioconductor, you need to install BiocManager first from CRAN:</p>
 <pre class="r"><code>install.packages(&quot;BiocManager&quot;, repos=&quot;https://cran.csiro.au/&quot;)</code></pre>
-<pre><code>## 
+<pre><code>##
 ## The downloaded binary packages are in
 ##  /var/folders/j2/7y5xp8610kgf0jbx202by2200000gn/T//RtmpB8uMsH/downloaded_packages</code></pre>
 <p>Then use the install function from <em>BiocManager</em> to install the desired package. We will install FlowSOM package to be used in later session for clustering.</p>
 <pre class="r"><code>BiocManager::install(&quot;FlowSOM&quot;)</code></pre>
 <p>To install packages from Github, you need to first install the <em>remotes</em> package:</p>
 <pre class="r"><code>install.packages(&quot;remotes&quot;, repos=&quot;https://cran.csiro.au/&quot;)</code></pre>
-<pre><code>## 
+<pre><code>##
 ## The downloaded binary packages are in
 ##  /var/folders/j2/7y5xp8610kgf0jbx202by2200000gn/T//RtmpB8uMsH/downloaded_packages</code></pre>
 <p>For this example, we will install the <em>Spectre</em> package which will be used in subsequent sessions for analysing COVID-19 samples. To do this, you need to first locate the github repository where the package is stored. For Spectre, it is: <a href="https://github.com/ImmuneDynamics/Spectre" class="uri">https://github.com/ImmuneDynamics/Spectre</a> Note, the repository you need to supply is whatever comes after github.com.</p>
@@ -337,14 +337,14 @@ In this session, instructors will introduce attendees to methods of high-dimensi
 <h2>3. Read in FCS file</h2>
 <p>Here, we will try to read in a demo dataset stored in FCS file. The following function is handy to see what files we have in the current working directory:</p>
 <pre class="r"><code>list.files()</code></pre>
-<pre><code>##  [1] &quot;ASI workshop_Day1_R_intro.Rmd&quot;  &quot;ASI_workshop_session1&quot;         
-##  [3] &quot;ASI-workshop_Day1_R_intro.html&quot; &quot;CNS_Mock_01.csv&quot;               
-##  [5] &quot;CNS_Mock_02.csv&quot;                &quot;CNS_Mock_03.csv&quot;               
-##  [7] &quot;CNS_Mock_04.csv&quot;                &quot;CNS_Mock_05.csv&quot;               
-##  [9] &quot;CNS_Mock_06.csv&quot;                &quot;CNS_WNV_D7_01.csv&quot;             
-## [11] &quot;CNS_WNV_D7_02.csv&quot;              &quot;CNS_WNV_D7_03.csv&quot;             
-## [13] &quot;CNS_WNV_D7_04.csv&quot;              &quot;CNS_WNV_D7_05.csv&quot;             
-## [15] &quot;CNS_WNV_D7_06.csv&quot;              &quot;Session 1.Rmd&quot;                 
+<pre><code>##  [1] &quot;ASI workshop_Day1_R_intro.Rmd&quot;  &quot;ASI_workshop_session1&quot;
+##  [3] &quot;ASI-workshop_Day1_R_intro.html&quot; &quot;CNS_Mock_01.csv&quot;
+##  [5] &quot;CNS_Mock_02.csv&quot;                &quot;CNS_Mock_03.csv&quot;
+##  [7] &quot;CNS_Mock_04.csv&quot;                &quot;CNS_Mock_05.csv&quot;
+##  [9] &quot;CNS_Mock_06.csv&quot;                &quot;CNS_WNV_D7_01.csv&quot;
+## [11] &quot;CNS_WNV_D7_02.csv&quot;              &quot;CNS_WNV_D7_03.csv&quot;
+## [13] &quot;CNS_WNV_D7_04.csv&quot;              &quot;CNS_WNV_D7_05.csv&quot;
+## [15] &quot;CNS_WNV_D7_06.csv&quot;              &quot;Session 1.Rmd&quot;
 ## [17] &quot;Session-1.html&quot;                 &quot;Session-1.Rmd&quot;</code></pre>
 <p>Now, we will use the <em>read.files</em> function in Spectre to read in the FCS file and store it in <em>dat</em> variable.</p>
 <pre class="r"><code>dat &lt;- read.files(file.loc = getwd(), file.type = &quot;.csv&quot;)</code></pre>
@@ -357,7 +357,7 @@ In this session, instructors will introduce attendees to methods of high-dimensi
 <pre class="r"><code>class(dat)</code></pre>
 <pre><code>## [1] &quot;list&quot;</code></pre>
 <pre class="r"><code>names(dat)</code></pre>
-<pre><code>##  [1] &quot;CNS_Mock_01&quot;   &quot;CNS_Mock_02&quot;   &quot;CNS_Mock_03&quot;   &quot;CNS_Mock_04&quot;  
+<pre><code>##  [1] &quot;CNS_Mock_01&quot;   &quot;CNS_Mock_02&quot;   &quot;CNS_Mock_03&quot;   &quot;CNS_Mock_04&quot;
 ##  [5] &quot;CNS_Mock_05&quot;   &quot;CNS_Mock_06&quot;   &quot;CNS_WNV_D7_01&quot; &quot;CNS_WNV_D7_02&quot;
 ##  [9] &quot;CNS_WNV_D7_03&quot; &quot;CNS_WNV_D7_04&quot; &quot;CNS_WNV_D7_05&quot; &quot;CNS_WNV_D7_06&quot;</code></pre>
 <p>Our samples are split into 12 files. The <em>read.files</em> function read in each file and store them in a list. We can merge all of them into 1 big data.table for ease of processing using <em>do.merge.files</em> function:</p>
@@ -400,7 +400,7 @@ In this session, instructors will introduce attendees to methods of high-dimensi
 </blockquote>
 <p>A handy function to see what markers/columns we have in the data:</p>
 <pre class="r"><code>names(dat)</code></pre>
-<pre><code>##  [1] &quot;NK11&quot;     &quot;CD3&quot;      &quot;CD45&quot;     &quot;Ly6G&quot;     &quot;CD11b&quot;    &quot;B220&quot;    
+<pre><code>##  [1] &quot;NK11&quot;     &quot;CD3&quot;      &quot;CD45&quot;     &quot;Ly6G&quot;     &quot;CD11b&quot;    &quot;B220&quot;
 ##  [7] &quot;CD8a&quot;     &quot;Ly6C&quot;     &quot;CD4&quot;      &quot;FileName&quot; &quot;FileNo&quot;</code></pre>
 <p>We have a fair few markers as well as a column denoting the files each cell come from (FileName and FileNo). Let’s say we want don’t want to see the FileName and FileNo column in our dataset. How do we do that? First we store the column names we want to keep in a vector called <em>markers_cols</em>:</p>
 <pre class="r"><code>markers_cols &lt;- names(dat)[1:9]
@@ -428,7 +428,7 @@ markers_cols</code></pre>
 <pre class="r"><code>samples &lt;- dat$FileName</code></pre>
 <p>The above command will show you the sample each file come from, but we’re only interested in what samples we have, so we use the <em>unique</em> function to see all the distinct samples we have:</p>
 <pre class="r"><code>unique(samples)</code></pre>
-<pre><code>##  [1] &quot;CNS_Mock_01&quot;   &quot;CNS_Mock_02&quot;   &quot;CNS_Mock_03&quot;   &quot;CNS_Mock_04&quot;  
+<pre><code>##  [1] &quot;CNS_Mock_01&quot;   &quot;CNS_Mock_02&quot;   &quot;CNS_Mock_03&quot;   &quot;CNS_Mock_04&quot;
 ##  [5] &quot;CNS_Mock_05&quot;   &quot;CNS_Mock_06&quot;   &quot;CNS_WNV_D7_01&quot; &quot;CNS_WNV_D7_02&quot;
 ##  [9] &quot;CNS_WNV_D7_03&quot; &quot;CNS_WNV_D7_04&quot; &quot;CNS_WNV_D7_05&quot; &quot;CNS_WNV_D7_06&quot;</code></pre>
 <p>Say we’re instered in knowing the mean of CD3 and NK11 expression</p>
