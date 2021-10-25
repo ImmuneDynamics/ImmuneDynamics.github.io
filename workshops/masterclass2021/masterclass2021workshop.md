@@ -149,7 +149,8 @@ You are welcome to simply watch, take notes, and ask questions if you prefer! Ho
         <p> </p>
         <p><b><span style="font-size: 20px">
           <a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09" target="_blank" rel="noopener noreferrer">ZOOM</a> |
-          <a href="https://immunedynamics.io/masterclass2021/workshop-mainpage/session1" target="_blank" rel="noopener noreferrer">NOTES</a>
+          <a href="https://immunedynamics.io/masterclass2021/workshop-mainpage/session1" target="_blank" rel="noopener noreferrer">NOTES</a>  |
+          <a href="" target="_blank" rel="noopener noreferrer">SLIDES</a>
         </span></b></p>
       </td>
       </tr>
