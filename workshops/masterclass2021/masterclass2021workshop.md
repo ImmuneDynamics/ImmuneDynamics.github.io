@@ -87,7 +87,7 @@ You are welcome to simply watch, take notes, and ask questions if you prefer! Ho
 
 ---
 
-*Please feel free to join us from <b>10:00 am</a> to get set up with the analysis scripts and/or the virtual computers.*
+*Please feel free to join us from <b>10:00 am</b> to get set up with the analysis scripts and/or the virtual computers.*
 
 <br />
 
@@ -183,8 +183,8 @@ You are welcome to simply watch, take notes, and ask questions if you prefer! Ho
         </p>
         <p> </p>
         <p><b><span style="font-size: 20px">
-          <a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09" target="_blank" rel="noopener noreferrer">ZOOM</a> 
-          <!--|<a href="https://immunedynamics.io/masterclass2021/workshop-mainpage/session2" target="_blank" rel="noopener noreferrer">NOTES</a>-->
+          <a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09" target="_blank" rel="noopener noreferrer">ZOOM</a> |
+          <a href="https://immunedynamics.io/masterclass2021/workshop-mainpage/session2" target="_blank" rel="noopener noreferrer">NOTES</a>
         </span></b></p>
       </td>
       </tr>
@@ -217,8 +217,8 @@ You are welcome to simply watch, take notes, and ask questions if you prefer! Ho
         </p>
         <p> </p>
         <p><b><span style="font-size: 20px">
-          <a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09" target="_blank" rel="noopener noreferrer">ZOOM</a>
-          <!--|<a href="https://immunedynamics.io/masterclass2021/workshop-mainpage/session3" target="_blank" rel="noopener noreferrer">NOTES</a>-->
+          <a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09" target="_blank" rel="noopener noreferrer">ZOOM</a> |
+          <a href="https://immunedynamics.io/masterclass2021/workshop-mainpage/session3" target="_blank" rel="noopener noreferrer">NOTES</a>
         </span></b></p>
       </td>
       </tr>
