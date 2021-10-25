@@ -47,7 +47,7 @@ knitr::opts_chunk$set(echo = TRUE)
         </p>
         <p> </p>
         <p><b><span style="font-size: 24px">
-          <a href="https://uni-sydney.zoom.us/j/87264630449" target="_blank" rel="noopener noreferrer">ZOOM</a>
+          <a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09" target="_blank" rel="noopener noreferrer">ZOOM</a>
         </span></b></p>
       </td>
       </tr>

@@ -69,7 +69,7 @@ As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclas
 <!--**You can join the workshop via this link:**
 <br />
 <p><b><span style="font-size: 24px">
-          <a href="https://uni-sydney.zoom.us/j/87264630449" target="_blank" rel="noopener noreferrer">ZOOM</a>
+          <a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09" target="_blank" rel="noopener noreferrer">ZOOM</a>
 </span></b></p>
 -->
 
@@ -101,7 +101,7 @@ As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclas
         </p>
         <p> </p>
         <p><b><span style="font-size: 20px">
-          <a href="https://uni-sydney.zoom.us/j/87264630449" target="_blank" rel="noopener noreferrer">ZOOM</a>
+          <a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09" target="_blank" rel="noopener noreferrer">ZOOM</a>
         </span></b></p>
       </td>
       </tr>
@@ -137,7 +137,7 @@ As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclas
         </p>
         <p> </p>
         <p><b><span style="font-size: 20px">
-          <a href="https://uni-sydney.zoom.us/j/87264630449" target="_blank" rel="noopener noreferrer">ZOOM</a> |
+          <a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09" target="_blank" rel="noopener noreferrer">ZOOM</a> |
           <a href="https://immunedynamics.io/masterclass2021/workshop-mainpage/session1" target="_blank" rel="noopener noreferrer">NOTES</a>
         </span></b></p>
       </td>
@@ -171,7 +171,7 @@ As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclas
         </p>
         <p> </p>
         <p><b><span style="font-size: 20px">
-          <a href="https://uni-sydney.zoom.us/j/87264630449" target="_blank" rel="noopener noreferrer">ZOOM</a> |
+          <a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09" target="_blank" rel="noopener noreferrer">ZOOM</a> |
           <a href="https://immunedynamics.io/masterclass2021/workshop-mainpage/session2" target="_blank" rel="noopener noreferrer">NOTES</a>
         </span></b></p>
       </td>
@@ -205,7 +205,7 @@ As part of the <a href="https://www.immunology.org.au/events/2021-IgV-Masterclas
         </p>
         <p> </p>
         <p><b><span style="font-size: 20px">
-          <a href="https://uni-sydney.zoom.us/j/87264630449" target="_blank" rel="noopener noreferrer">ZOOM</a> |
+          <a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09" target="_blank" rel="noopener noreferrer">ZOOM</a> |
           <a href="https://immunedynamics.io/masterclass2021/workshop-mainpage/session3" target="_blank" rel="noopener noreferrer">NOTES</a>
         </span></b></p>
       </td>
@@ -253,20 +253,20 @@ You are welcome to simply watch, take notes, and ask questions. If you would lik
 
 *Option 1: just watch and ask questions*
 
-- No need to do anything, just join the **<a href="https://uni-sydney.zoom.us/j/87264630449">zoom</a>** session and ask questions!
+- No need to do anything, just join the **<a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09">zoom</a>** session and ask questions!
 
 *Option 2: follow along on a virtual computer*
 
 - Follow these instructions to access the virtual computers (with datasets, software, and scripts pre-installed)
 - You will find the workshop much easier if you check out these introductory tutorials to <a href="https://wiki.centenary.org.au/x/MIBfCQ">R/Rstudio</a> and <a href="https://wiki.centenary.org.au/x/5ysMCQ">Spectre</a> ahead of time
-- During the sessions, join the **<a href="https://uni-sydney.zoom.us/j/87264630449">zoom</a>** session and follow along with us
+- During the sessions, join the **<a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09">zoom</a>** session and follow along with us
 
 *Option 3: follow along on your own computer*
 
 - Firstly, you will need to download <a href="https://cran.r-project.org/mirrors.html">R</a> and <a href="https://www.rstudio.com/products/rstudio/download/#download">RStudio</a>
 - Once you have done that, you will need to install the <a href="https://wiki.centenary.org.au/x/7-kiCw">Specte R package</a>
 - Finally, you will find the workshop much easier if you check out these introductory tutorials to <a href="https://wiki.centenary.org.au/x/MIBfCQ">R/Rstudio</a> and <a href="https://wiki.centenary.org.au/x/5ysMCQ">Spectre</a> ahead of time
-- During the sessions, join the **<a href="https://uni-sydney.zoom.us/j/87264630449">zoom</a>** session and follow along with us
+- During the sessions, join the **<a href="https://us02web.zoom.us/j/88688763345?pwd=UTBqbU9INS9xeGVzSXZ3ZzFSUG5vQT09">zoom</a>** session and follow along with us
 
 
 <br />
