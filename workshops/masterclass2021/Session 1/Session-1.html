@@ -306,7 +306,7 @@ In this session, instructors will introduce attendees to methods of high-dimensi
 <pre><code>##
 ## The downloaded binary packages are in
 ##  /var/folders/j2/7y5xp8610kgf0jbx202by2200000gn/T//RtmpB8uMsH/downloaded_packages</code></pre>
-<p>For this example, we will install the <em>Spectre</em> package which will be used in subsequent sessions for analysing COVID-19 samples. To do this, you need to first locate the github repository where the package is stored. For Spectre, it is: <a href="https://github.com/ImmuneDynamics/Spectre" class="uri">https://github.com/ImmuneDynamics/Spectre</a> Note, the repository you need to supply is whatever comes after github.com.</p>
+<p>For this example, we will install the <em>Spectre</em> package which will be used in subsequent sessions for analysing COVID-19 samples. To do this, you need to first locate the github repository where the package is stored. For Spectre, it is: <a href="https://github.com/ImmuneDynamics/Spectre" class="uri">https://github.com/ImmuneDynamics/Spectre</a>. Note, the repository you need to supply is whatever comes after github.com.</p>
 <pre class="r"><code>remotes::install_github(&quot;immunedynamics/Spectre&quot;)</code></pre>
 </div>
 <div id="hands-on-practical-4" class="section level1">
@@ -334,8 +334,10 @@ In this session, instructors will introduce attendees to methods of high-dimensi
 <pre class="r"><code>library(Spectre)</code></pre>
 </div>
 <div id="read-in-fcs-file" class="section level2">
-<h2>3. Read in FCS file</h2>
-<p>Here, we will try to read in a demo dataset stored in FCS file. The following function is handy to see what files we have in the current working directory:</p>
+<h2>3. Read in some data</h2>
+<p>Here, we will try to read in a demo dataset stored in CSV files. You can download the dataset from Spectre's GitHub repository: <a href="https://github.com/ImmuneDynamics/Spectre/tree/master/workflows/Classic%20workflows/data" class="uri">https://github.com/ImmuneDynamics/Spectre/tree/master/workflows/Classic%20workflows/data</a></p>
+<p>Download the files and save them in your working directory.</p>
+<p>The following function is handy to see what files we have in the current working directory:</p>
 <pre class="r"><code>list.files()</code></pre>
 <pre><code>##  [1] &quot;ASI workshop_Day1_R_intro.Rmd&quot;  &quot;ASI_workshop_session1&quot;
 ##  [3] &quot;ASI-workshop_Day1_R_intro.html&quot; &quot;CNS_Mock_01.csv&quot;
@@ -346,7 +348,7 @@ In this session, instructors will introduce attendees to methods of high-dimensi
 ## [13] &quot;CNS_WNV_D7_04.csv&quot;              &quot;CNS_WNV_D7_05.csv&quot;
 ## [15] &quot;CNS_WNV_D7_06.csv&quot;              &quot;Session 1.Rmd&quot;
 ## [17] &quot;Session-1.html&quot;                 &quot;Session-1.Rmd&quot;</code></pre>
-<p>Now, we will use the <em>read.files</em> function in Spectre to read in the FCS file and store it in <em>dat</em> variable.</p>
+<p>Now, we will use the <em>read.files</em> function in Spectre to read in the CSV files and store them in <em>dat</em> variable.</p>
 <pre class="r"><code>dat &lt;- read.files(file.loc = getwd(), file.type = &quot;.csv&quot;)</code></pre>
 <pre><code>## Loading required package: data.table</code></pre>
 <blockquote>

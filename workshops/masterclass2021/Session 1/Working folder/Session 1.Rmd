@@ -126,8 +126,12 @@ library(Spectre)
 ```
 
 
-## 3. Read in FCS file
-Here, we will try to read in a demo dataset stored in FCS file. 
+## 3. Read in some data
+Here, we will try to read in a demo dataset stored in CSV files.
+You can download the dataset from Spectre's GitHub repository: <https://github.com/ImmuneDynamics/Spectre/tree/master/workflows/Classic%20workflows/data>.
+
+Download all the files, and save them in your working directory.
+
 The following function is handy to see what files we have in the current working directory:
 ```{r}
 list.files()
