@@ -26,6 +26,10 @@ Once done, you will see a page similar to the following, but will have the name 
 
 ![image](https://user-images.githubusercontent.com/11766139/140455951-a4f1b8fd-73ef-49ad-a3db-5098a6a025d7.png)
 
+The computer template itself might not be launched yet, in which case you will see the following -- not to worry, this just means we are finalising some of the software and datasets that will come pre-installed on the computer! We will let you know when the computers are online.
+
+![image](https://user-images.githubusercontent.com/11766139/140457517-daef36d9-2dd4-4237-9bb2-68035bcf21cf.png)
+
 The word “Stopped” indicate the computer is not turned on yet. 
 
 That's all you need to to get registered, come back when you are ready to start up your computer. Typically we activate these computers 1 hr before the workshop begins.
