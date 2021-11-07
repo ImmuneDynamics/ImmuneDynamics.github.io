@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ACS 2021 - Compensation Workshop
-permalink: /workshops/acs-compensation2021/
+permalink: /workshops/acs2021-compensation/
 ---
 
 ---
