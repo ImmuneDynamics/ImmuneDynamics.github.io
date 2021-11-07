@@ -18,5 +18,6 @@ permalink: /workshops/acs2021-compensation/
 - [Ferrer-Font et al 2021](https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.222): Optimising spectral panels
 
 **Other resources**:
+- Spectral vs conventional cytometry [ISAC Webinar](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211)
 - Computational analysis approaches using [Spectre](https://immunedynamics.io/spectre/)
 
