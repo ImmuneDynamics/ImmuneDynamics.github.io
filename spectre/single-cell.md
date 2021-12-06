@@ -15,7 +15,7 @@ In [Spectre v2](https://immunedynamics.io/spectre/), we are significantly expand
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://wiki.centenary.org.au/download/attachments/159435971/image2020-8-21_9-36-10.png?version=1&modificationDate=1598002570816&api=v2" width="3000">
+          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/images/Screen%20Shot%202021-12-06%20at%205.01.56%20pm.png?raw=true" width="3000">
       </td>
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Initial data preparation</b></p>
@@ -55,13 +55,13 @@ In [Spectre v2](https://immunedynamics.io/spectre/), we are significantly expand
 <!-- THIRD ROW: Image -->
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-46-9.png?version=1&modificationDate=1613891282510&api=v2" width="3000" style="padding-top: 5px">
+          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/images/Screen%20Shot%202021-12-06%20at%205.01.56%20pm.png?raw=true" width="3000" style="padding-top: 5px">
       </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2021-2-28_12-3-31.png?version=1&modificationDate=1614474211754&api=v2" width="3000" style="padding-top: 5px">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/images/Screen%20Shot%202021-12-06%20at%205.01.56%20pm.png?raw=true" width="3000" style="padding-top: 5px">
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/Multi%20level.png?raw=true" width="3000" style="padding-top: 5px">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/images/Screen%20Shot%202021-12-06%20at%205.01.56%20pm.png?raw=true" width="3000" style="padding-top: 5px">
         </td>
       </tr>
 <!-- FOURTH ROW: Description -->
@@ -82,25 +82,19 @@ In [Spectre v2](https://immunedynamics.io/spectre/), we are significantly expand
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <a href="https://immunedynamics.io/spectre/object/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGEo</span></b></a>
+                      <a href="https://immunedynamics.io/spectre/object/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
                   </p>                 
               </div>
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <a href="https://wiki.centenary.org.au/x/zGCdCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">USING Spectre (in R)</span></b></a>
-                  </p>
-                  <p style="color:#00003f">
                       COMING SOON
                   </p>
               </div>
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      COMING SOON
-                  </p>
                   <p style="color:#00003f">
                       COMING SOON
                   </p>
