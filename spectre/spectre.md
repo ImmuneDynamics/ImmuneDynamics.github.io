@@ -4,16 +4,14 @@ title: Spectre Home Page
 permalink: /spectre/
 ---
 
-**Overview**: Spectre is an R package and computational toolkit that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional cytometry or imaging data from different batches or experiments. Spectre streamlines the analytical stages of raw data pre-processing, batch alignment, data integration, clustering, dimensionality reduction, visualisation and population labelling, as well as quantitative and statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by data and laboratory scientists. For users unfamiliar with using R, we also provide [workflow instructions](https://immunedynamics.github.io/spectre/#protocols) for replicating many of our analysis approaches in programs such as [FlowJo](https://immunedynamics.github.io/spectre/#protocols). 
-
-![Spectre](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Spectre.png?raw=true)
-
-Along with [flow](https://immunedynamics.io/resources/flow), [spectral](https://immunedynamics.io/resources/flow), or [mass cytometry (CyTOF)](https://immunedynamics.io/resources/mass) data, [Spectre](https://immunedynamics.io/spectre/) enables adaptable [cell segmentation](https://immunedynamics.github.io/spectre/spatial/) and [spatial analysis](https://immunedynamics.github.io/spectre/spatial/) of high-dimensional imaging data, such as [Imaging Mass Cytometry (IMC)](https://immunedynamics.io/resources/imc). 
-
-![IMC](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/image2021-2-25_22-32-15.png?raw=true)
+**Overview**: Spectre is an R package and computational toolkit that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional cytometry or imaging data from different batches or experiments. Spectre streamlines the analytical stages of raw data pre-processing, batch alignment, data integration, clustering, dimensionality reduction, visualisation and population labelling, as well as quantitative and statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by data and laboratory scientists. For users unfamiliar with using R, we also provide [workflow instructions](https://immunedynamics.github.io/spectre/#protocols) for replicating many of our analysis approaches in programs such as [FlowJo](https://immunedynamics.github.io/spectre/#protocols). Along with [flow](https://immunedynamics.io/resources/flow), [spectral](https://immunedynamics.io/resources/flow), or [mass cytometry (CyTOF)](https://immunedynamics.io/resources/mass) data, [Spectre](https://immunedynamics.io/spectre/) enables adaptable [cell segmentation](https://immunedynamics.github.io/spectre/spatial/) and [spatial analysis](https://immunedynamics.github.io/spectre/spatial/) of high-dimensional imaging data, such as [Imaging Mass Cytometry (IMC)](https://immunedynamics.io/resources/imc). 
 
 For more information on Spectre, check out the '[about Spectre](https://immunedynamics.github.io/spectre/about)' page, or for more information on computational approaches to cytometry analysis, check out our [tutorials](https://immunedynamics.github.io/spectre/tutorials/) page. If you are interested in testing new 'development' functions in Spectre, or adding your own function, see the
 <a href="https://wiki.centenary.org.au/x/lMj3C"  target="_blank" rel="noopener noreferrer">developers guide</a>.
+
+![Spectre](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Spectre.png?raw=true)
+
+![IMC](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/image2021-2-25_22-32-15.png?raw=true)
 
 <p> </p>
 
