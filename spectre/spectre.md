@@ -4,7 +4,9 @@ title: Spectre Home Page
 permalink: /spectre/
 ---
 
-**Overview**: Spectre is an R package and computational toolkit that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional [cytometry](https://immunedynamics.io/spectre/cytometry/) or [imaging](https://immunedynamics.github.io/spectre/spatial/) data from different batches or experiments. Spectre streamlines the analytical stages of raw data pre-processing, batch alignment/integration, clustering, dimensionality reduction, visualisation, population annotation, and quantitative/statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by data and laboratory scientists. See our [about](https://immunedynamics.github.io/spectre/about/) page for more information, and check out our [protocols](https://immunedynamics.github.io/spectre/#protocols) and [tutorial](https://immunedynamics.github.io/spectre/tutorials/) pages to get started.
+**Overview**: Spectre is an R package and computational toolkit that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional [cytometry](https://immunedynamics.io/spectre/cytometry/) or [imaging](https://immunedynamics.github.io/spectre/spatial/) data from different batches or experiments. Spectre streamlines the analytical stages of raw data pre-processing, batch alignment/integration, clustering, dimensionality reduction, visualisation, population annotation, and quantitative/statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by data and laboratory scientists. 
+
+See our [about](https://immunedynamics.github.io/spectre/about/) page for more information, and check out our [protocols](https://immunedynamics.github.io/spectre/#protocols) or [tutorial](https://immunedynamics.github.io/spectre/tutorials/) pages to get started.
 
 ![Spectre](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Spectre.png?raw=true)
 
