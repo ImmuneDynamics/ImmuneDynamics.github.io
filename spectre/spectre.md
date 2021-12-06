@@ -10,8 +10,6 @@ permalink: /spectre/
 
 ![IMC](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/image2021-2-25_22-32-15.png?raw=true)
 
-<p> </p>
-
 <br/>
 
 # News
@@ -33,8 +31,6 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 - 2019-07-31: Spectre Github repository established.
 - 2019-05-11: The 'CAPX' workflow (the initial version of Spectre) published as part of a methods chapter of ['Mass Cytometry: Methods and Protocols'](https://link.springer.com/book/10.1007/978-1-4939-9454-0) book: [Ashhurst TM et al. (2019)](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12).
 - 2018-09-25: [CAPX Github](https://github.com/sydneycytometry/CAPX) established.
-
-<p> </p>
 
 <br/>
 
