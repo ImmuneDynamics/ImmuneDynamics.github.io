@@ -43,12 +43,12 @@ In [Spectre v2](https://immunedynamics.io/spectre/), we are significantly expand
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">
-          Coming soon
+          Initial data import and pre-processing
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">
-          Coming soon
+          Basic single-cell analysis workflow
         </div>
       </td>
     </tr>
@@ -66,15 +66,11 @@ In [Spectre v2](https://immunedynamics.io/spectre/), we are significantly expand
       </tr>
 <!-- FOURTH ROW: Description -->
       <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A simple workflow (with worked example) using a single R script (or single FlowJo workspace) to run clustering/dimensionality reduction, make plots, and perform some limited quantitative/statistical analysis. No batch alignment steps included.
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Coming soon.
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A analysis workflow for the alignment and analysis of data from multiple batches, using
-            <a href="https://github.com/saeyslab/CytoNorm">CytoNorm</a>
-            for batch alignment. If working with very large batch effects, have a look at our
-            <a href="https://immunedynamics.github.io/spectre/cytometry/#advanced-applications">data integration</a>
-            workflows.
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Coming soon.
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top"> Here we provide an analysis workflow where upon clustering the complete dataset, clusters representing rare or novel populations can be isolated and re-clustered independent of other populations and thereafter annotated in greater detail.
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Coming soon.
           </td>
      </tr>
 <!-- FIFTH ROW: R links -->
