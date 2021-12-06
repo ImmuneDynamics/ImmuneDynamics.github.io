@@ -98,11 +98,11 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
       </tr>
 <!-- FOURTH ROW: Description --> 
       <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Here we provide protocols and instructions for using Spectre for the analysis of high-dimensional flow, spectral, or mass (CyTOF) cytometry data. This includes workflows and strategies for performing alignment/integration of data generated in different batches or experiments.
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Here we provide protocols and instructions for using Spectre for the integration and analysis of high-dimensional flow, spectral, or mass (CyTOF) cytometry data. 
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Here we provide protocols and instructions for using Spectre for the spatial analysis of Imaging Mass Cytometry (IMC) data.
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top"> Though Spectre was not designed explicitly to work with genomic data, a number of Spectre's processing, analysis, or plotting functions can be helpful in analysing scRNAseq data. Here we provide analysis options and tools to support scRNAseq analysis, in conjunction with existing tools such as Seurat and SingleCellExperiment.
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top"> Here we provide analysis options and tools to support scRNAseq analysis, in conjunction with existing tools such as Seurat and SingleCellExperiment.
           </td>
      </tr>
 <!-- FIFTH ROW: Go to page --> 
