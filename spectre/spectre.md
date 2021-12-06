@@ -10,7 +10,7 @@ permalink: /spectre/
 
 ![IMC](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/image2021-2-25_22-32-15.png?raw=true)
 
-<br/>
+<p> </p>
 
 # News
 
