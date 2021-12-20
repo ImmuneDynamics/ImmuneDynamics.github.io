@@ -4,7 +4,7 @@ title: Metrics
 permalink: /spectre/metrics/
 ---
 
-## Works citing Spectre
+## Works citing Spectre 
 
 [Spectre](https://immunedynamics.github.io/spectre) ([Ashhurst et al, 2021](https://doi.org/10.1002/cyto.a.24350)) or '[CAPX](https://github.com/sydneycytometry/CAPX)', the initial version of Spectre ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)), and associated scripts have been used in a variety of studies, both with our team and independently, including the study of 
 [COVID-19](https://www.sciencedirect.com/science/article/pii/S2666379121000197), 
