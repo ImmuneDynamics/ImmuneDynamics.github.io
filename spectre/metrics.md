@@ -17,7 +17,6 @@ permalink: /spectre/metrics/
 [cerebral malaria](https://www.nature.com/articles/s42003-018-0216-2), 
 among others; in prestigious journals such as [Cell](https://doi.org/10.1016/j.cell.2018.08.013) and [Nature Immunology](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation). It is also a featured analysis package for the [Human Cell Atlas](https://data.humancellatlas.org/analyze/methods/spectre) project. 
 
-
 *Select publications*
 
 - Chedid et al, 2021, [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.10.27.466125v1.abstract) (pre-print)
