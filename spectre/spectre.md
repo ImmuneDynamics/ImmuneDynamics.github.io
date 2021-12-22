@@ -8,6 +8,10 @@ permalink: /spectre/
 
 See our [about](https://immunedynamics.github.io/spectre/about/) page for more information, and check out our [getting started](https://immunedynamics.github.io/spectre/getting-started/), [protocols](https://immunedynamics.github.io/spectre/#protocols), or [tutorial](https://immunedynamics.github.io/spectre/tutorials/) pages to start using Spectre.
 
+![Spectre](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Spectre.png?raw=true)
+
+![IMC](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/image2021-2-25_22-32-15.png?raw=true)
+
 <p> </p>
 
 # News
