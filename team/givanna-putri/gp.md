@@ -14,10 +14,10 @@ permalink: /givanna-putri/
     </div>
 </div>
 
-Givanna Putri is a Postdoctoral Research Fellow at The School of Medical Science (University of New South Wales). She is part of John Pimanda and Fabio Zanini lab of the Adult Cancer Program at The Lowy Cancer Research centre.
+Givanna Putri is a postdoctoral researcher at The School of Medical Science (University of New South Wales) and the Adult Cancer Program at the Lowy Cancer Research centre.
 She is a data scientist with keen interest in single cell omics and computational biology.
 
-During her PhD at The University of Sydney supervised by [Dr. Mark Read](https://immunedynamics.github.io/team) and [Prof. Irena Koprinska](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/irena-koprinska.html), she used temporal clustering and tracking algorithms to reveal the development of immune response over time.
+During her PhD at the University of Sydney, she used temporal clustering and tracking algorithms to reveal the development of immune response over time.
 She developed machine learning techniques to explicitly cluster and track cellular populations development in time-course high dimensional cytometry data.
 This included the TrackSOM algorithm which was recently used to profile [SARS-CoV-2/COVID-19](https://immunedynamics.io/research/disease) patients, and the [ChronoClust](https://github.com/ghar1821/Chronoclust) algorithm which publication on the Knowledge Based System journal won the Dolby scientific paper competition in 2019.
 In 2019, she was awarded The Student Travel Award from the International Society for Advancement of Cytometry (ISAC) and The Postgraduate Research Support Scheme from The University of Sydney to present ChronoClust at the 34th Congress of the International Society for Advancement of Cytometry (CYTO) conference.
@@ -27,7 +27,7 @@ Her PhD research was funded by The Australian Government Research Training Progr
 
 **Contact info**
 
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/EmailSVG.svg" alt="Email logo" width="20"> Email: g DOT putri AT unsw DOT edu DOT au <br/>
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/EmailSVG.svg" alt="Email logo" width="20"> Email: g.putri@unsw.edu.au <br/>
 &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/TwitterSVG.svg" alt="Twitter logo" width="20"> Twitter: [@Givanna90](https://twitter.com/Givanna90) <br/>
 
 **Sites and academic profiles**
