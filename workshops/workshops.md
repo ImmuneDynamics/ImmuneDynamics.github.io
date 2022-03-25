@@ -1,14 +1,20 @@
 ---
 layout: page
-title: Workshops and events - 2021
+title: Workshops and events - 2022
 permalink: /workshops/
 ---
 
 ---
 
-In the second half of 2021 we will be running or contributing to a number of workshops on the computational analysis of high-dimensional cytometry and single-cell data. 
+Keep an eye out for upcoming workshops in 2022.
 
 <br />
+<br />
+
+
+## Previous workshops
+
+---
 
 <table class="table gmisc_table">
   <tbody>
@@ -124,10 +130,6 @@ In the second half of 2021 we will be running or contributing to a number of wor
 <br />
 <br />
 <br />
-
-## Previous workshops
-
----
 
 <table class="table gmisc_table">
   <tbody>

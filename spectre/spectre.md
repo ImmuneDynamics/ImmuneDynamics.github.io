@@ -4,20 +4,15 @@ title: Spectre Home Page
 permalink: /spectre/
 ---
 
-**Overview**: Spectre is an R package and computational toolkit that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional cytometry or imaging data from different batches or experiments. Spectre streamlines the analytical stages of raw data pre-processing, batch alignment, data integration, clustering, dimensionality reduction, visualisation and population labelling, as well as quantitative and statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by data and laboratory scientists. For users unfamiliar with using R, we also provide [workflow instructions](https://immunedynamics.github.io/spectre/#protocols) for replicating many of our analysis approaches in programs such as [FlowJo](https://immunedynamics.github.io/spectre/#protocols). 
+**Overview**: Spectre is an R package and computational toolkit that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional [cytometry](https://immunedynamics.io/spectre/cytometry/) or [imaging](https://immunedynamics.github.io/spectre/spatial/) data from different batches or experiments. Spectre streamlines the analytical stages of raw data pre-processing, batch alignment/integration, clustering, dimensionality reduction, visualisation, population annotation, and quantitative/statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by both data and laboratory scientists. 
+
+See our [about](https://immunedynamics.github.io/spectre/about/) page for more information, and check out our [getting started](https://immunedynamics.github.io/spectre/getting-started/), [protocols](https://immunedynamics.github.io/spectre/#protocols), or [tutorial](https://immunedynamics.github.io/spectre/tutorials/) pages to start using Spectre.
 
 ![Spectre](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Spectre.png?raw=true)
 
-Along with [flow](https://immunedynamics.io/resources/flow), [spectral](https://immunedynamics.io/resources/flow), or [mass cytometry (CyTOF)](https://immunedynamics.io/resources/mass) data, [Spectre](https://immunedynamics.io/spectre/) enables adaptable [cell segmentation](https://immunedynamics.github.io/spectre/spatial/) and [spatial analysis](https://immunedynamics.github.io/spectre/spatial/) of high-dimensional imaging data, such as [Imaging Mass Cytometry (IMC)](https://immunedynamics.io/resources/imc). 
-
 ![IMC](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/image2021-2-25_22-32-15.png?raw=true)
 
-For more information on Spectre, check out the '[about Spectre](https://immunedynamics.github.io/spectre/about)' page, or for more information on computational approaches to cytometry analysis, check out our [tutorials](https://immunedynamics.github.io/spectre/tutorials/) page. If you are interested in testing new 'development' functions in Spectre, or adding your own function, see the
-<a href="https://wiki.centenary.org.au/x/lMj3C"  target="_blank" rel="noopener noreferrer">developers guide</a>.
-
 <p> </p>
-
-<br/>
 
 # News
 
@@ -38,8 +33,6 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 - 2019-07-31: Spectre Github repository established.
 - 2019-05-11: The 'CAPX' workflow (the initial version of Spectre) published as part of a methods chapter of ['Mass Cytometry: Methods and Protocols'](https://link.springer.com/book/10.1007/978-1-4939-9454-0) book: [Ashhurst TM et al. (2019)](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12).
 - 2018-09-25: [CAPX Github](https://github.com/sydneycytometry/CAPX) established.
-
-<p> </p>
 
 <br/>
 
@@ -63,12 +56,6 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
     </tbody>
 </table>
 
-<p> </p>
-
-**Citation**: if you use Spectre in your work, please consider citing [Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2021). Cytometry A. DOI: 10.1002/cyto.a.24350](https://doi.org/10.1002/cyto.a.24350). To continue providing open-source tools such as Spectre, it helps us if we can demonstrate that our efforts are contributing to analysis efforts in the community. Please also consider citing the authors of the individual packages or tools (e.g. [CytoNorm](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23904), [FlowSOM](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.22625), [tSNE](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf), [UMAP](https://arxiv.org/abs/1802.03426), etc) that are critical elements of your analysis work. We have provided some generic text that you can use for your methods section with each protocol and on the '[citation](https://immunedynamics.github.io/spectre/citation)' page.
-
-<p> </p>
-
 <br/>
 
 # Protocols
@@ -77,63 +64,78 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 
 <table class="table gmisc_table">
   <tbody>
+<!-- FIRST ROW: TITLE --> 
+    <tr style="border-top:1px solid grey">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Spectre protocols for cytometry analysis
+        </div>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Spatial (IMC) analysis
+        </div>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Support for scRNAseq analysis
+        </div>
+      </td>
+    </tr>
+<!-- THIRD ROW: Image --> 
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-46-9.png?version=1&modificationDate=1613891282510&api=v2" width="3000">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-46-9.png?version=1&modificationDate=1613891282510&api=v2" width="3000" style="padding-left: 20px; padding-right: 20px; padding-top: 5px">
       </td>
-      <td style="padding-left:.75em;width:65%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>Spectre protocols for cytometry analysis</b></p>
-        <p>
-          Here we provide protocols and instructions for using Spectre for the analysis of high-dimensional flow, spectral, or mass (CyTOF) cytometry data. This includes workflows and strategies for performing alignment/integration of data generated in different batches or experiments.
-        </p>
-          <a href="https://immunedynamics.io/spectre/cytometry/"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Spatial.png?raw=true" width="3000" style="padding-top: 5px">
+        </td>
+        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
           <p> </p>
-      </td>
+            <img src="https://wiki.centenary.org.au/download/attachments/189556619/image2021-2-22_10-59-32.png?version=1&modificationDate=1615782193059&api=v2" width="3000" style="padding-top: 5px">
+        </td>
+      </tr>
+<!-- FOURTH ROW: Description --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Here we provide protocols and instructions for using Spectre for the integration and analysis of high-dimensional flow, spectral, or mass (CyTOF) cytometry data. 
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Here we provide protocols and instructions for using Spectre for the spatial analysis of Imaging Mass Cytometry (IMC) data.
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top"> Here we provide analysis options and tools to support scRNAseq analysis, in conjunction with existing tools such as Seurat and SingleCellExperiment.
+          </td>
+     </tr>
+<!-- FIFTH ROW: Go to page --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.io/spectre/cytometry/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.github.io/spectre/spatial/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://wiki.centenary.org.au/x/l-kiCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                  </p>
+              </div>
+          </td>
       </tr>
     </tbody>
 </table>
 
-<p> </p>
+<br />
 
-<table class="table gmisc_table">
-  <tbody>
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Spatial.png?raw=true" width="3000">
-      </td>
-      <td style="padding-left:.75em;width:65%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>Spatial (IMC) analysis</b></p>
-        <p>Here we provide protocols and instructions for using Spectre for the spatial analysis of Imaging Mass Cytometry (IMC) data.</p>
-          <a href="https://immunedynamics.github.io/spectre/spatial/"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
-          <p> </p>
-      </td>
-      </tr>
-    </tbody>
-</table>
+**Citation**: if you use Spectre in your work, please consider citing [Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2021). Cytometry A. DOI: 10.1002/cyto.a.24350](https://doi.org/10.1002/cyto.a.24350). To continue providing open-source tools such as Spectre, it helps us if we can demonstrate that our efforts are contributing to analysis efforts in the community. Please also consider citing the authors of the individual packages or tools (e.g. [CytoNorm](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.23904), [FlowSOM](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.22625), [tSNE](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf), [UMAP](https://arxiv.org/abs/1802.03426), etc) that are critical elements of your analysis work. We have provided some generic text that you can use for your methods section with each protocol and on the '[citation](https://immunedynamics.github.io/spectre/citation)' page.
 
 <p> </p>
 
-<table class="table gmisc_table">
-  <tbody>
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:35%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://wiki.centenary.org.au/download/attachments/189556619/image2021-2-22_10-59-32.png?version=1&modificationDate=1615782193059&api=v2" width="3000">
-      </td>
-      <td style="padding-left:.75em;width:65%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>Support for scRNAseq analysis</b></p>
-        <p>
-          Though Spectre was not designed explicitly to work with genomic data, a number of Spectre's processing, analysis, or plotting functions can be helpful in analysing scRNAseq data. Here we provide analysis options and tools to support scRNAseq analysis, in conjunction with existing tools such as Seurat and SingleCellExperiment.
-        </p>
-          <a href="https://wiki.centenary.org.au/x/l-kiCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
-          <p> </p>
-      </td>
-      </tr>
-    </tbody>
-</table>
+<br />
 
-<p> </p>
-
-<br/>
 
 
 
