@@ -1,0 +1,252 @@
+---
+title: "Spectre - batch alignment using rPCA from Seurat"
+author: "Thomas Ashhurst"
+date: "24/03/2022"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
+
+[<- Back to Spectre home page](https://immunedynamics.io/spectre)
+
+<br />
+<br />
+
+
+
+
+
+
+
+
+## Introduction
+
+---
+
+**Overview**
+
+Here we provide...
+
+**Note**
+
+If you haven't installed Spectre, please visit our [Spectre installation](https://immunedynamics.io/spectre/getting-started/) page.
+If you aren't familiar with using RStudio or Spectre, please see our [RStudio and Spectre basic tutorials](https://immunedynamics.io/spectre/getting-started/).
+
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Before you start
+
+---
+
+Before you get started, we recommend trying out the R/RStudio and Spectre [tutorials](https://immunedynamics.io/spectre/getting-started/) available on our [getting st arted](https://immunedynamics.io/spectre/getting-started/) page, to familiarise yourself with R/RStudio first.
+
+<br />
+<br />
+
+
+
+
+
+
+
+
+## Setup
+
+---
+
+#### Software: 
+
+For instructions downloading R, RStudio, and Spectre, please see the [getting started](https://immunedynamics.io/spectre/getting-started/) page.
+
+<br />
+
+
+#### Analysis script:
+
+Please visit https://github.com/ImmuneDynamics/Spectre, and download the repository:
+
+---
+![](https://wiki.centenary.org.au/download/attachments/151793632/image2020-8-20_12-52-9.png?version=3&modificationDate=1614164958478&api=v2){width=70%}
+---
+
+<br />
+
+You can then find the 'simple discovery workflow' script here: 
+
+---
+![](https://wiki.centenary.org.au/download/attachments/151793632/image2020-8-20_12-52-55.png?version=1&modificationDate=1597927975901&api=v2){width=70%}
+---
+
+<br />
+
+Create a folder for your experiment, and place the script in that folder.
+
+<br />
+
+### Export the population of interest (POI)
+
+Please see [this page](https://wiki.centenary.org.au/x/1eRfCQ) for detailed instructions on exporting data for Spectre. When using fluorescence data, please ensure you are exporting the data from compensated channels, indicated by 'Comp-Channel Name' (e.g. Comp-B515). Feel free to include any other relevant parameters as well (FSC, SSC, time etc). We recommend exporting CSV 'scale' value data, or alternatively exporting FCS files. These represent the untransformed data values. You are also welcome to use the CSV 'channel' value data, which uses a form of 'binning' to transform the data onto a linear distribution – please read [this page](https://wiki.centenary.org.au/x/w8yACQ) for a more detailed explanation on CSV channel values.
+
+---
+![](https://wiki.centenary.org.au/download/thumbnails/151793632/image2020-8-20_13-0-12.png?version=2&modificationDate=1601422667674&api=v2){width=30%}
+---
+
+<br />
+
+<br />
+
+**Data folder**
+
+Create a folder within your experiment folder called 'data', and place the exported files there (see [this page](https://wiki.centenary.org.au/x/1eRfCQ) for more info).
+
+![](https://wiki.centenary.org.au/download/attachments/151793632/image2020-3-9_15-58-43.png?version=2&modificationDate=1587121313836&api=v2){width=70%}
+
+<br />
+
+<br />
+
+**Metadata folder**
+
+Create a folder within your experiment folder called 'metadata', and place a 'sample.details.csv' file there (see [this page](https://wiki.centenary.org.au/x/1eRfCQ) for more info).
+
+---
+![](https://wiki.centenary.org.au/download/attachments/151793632/image2020-3-9_15-59-4.png?version=2&modificationDate=1587121388840&api=v2){width=70%}
+---
+
+<br />
+
+---
+![](https://wiki.centenary.org.au/download/attachments/151793632/image2021-4-3_15-52-9.png?version=1&modificationDate=1617425529260&api=v2){width=70%}
+---
+
+<br />
+<br />
+
+
+
+
+
+
+## 1. Load packages and set directories
+
+---
+```{r, results = 'hide', message=FALSE, warning=FALSE}
+#######################################################################################################
+#### 1. Load packages, and set working directory
+#######################################################################################################
+```
+
+Running `library(Spectre)` will load the Spectre package (also known as a 'library'). We can then use `package.check()` to see if the standard dependency packages are installed, and `package.load()` to load those packages.
+
+```{r, results = 'hide', message=FALSE, warning=FALSE}
+    ### Load libraries
+
+        library(Spectre)
+        Spectre::package.check()    # Check that all required packages are installed
+        Spectre::package.load()     # Load required packages
+```
+
+Here we can set our 'primary' directory, which is going to be the location where the R script is saved. This path will be stored as `PrimaryDirectory`.
+
+**Note**: *if you aren't sure how to navigate directories in R, check out our brief [introduction to R tutorial](https://wiki.centenary.org.au/x/MIBfCQ).*
+
+```{r, results = 'hide', message=FALSE, warning=FALSE}
+    ### Set PrimaryDirectory
+        
+        dirname(rstudioapi::getActiveDocumentContext()$path)
+        setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+        getwd()
+        PrimaryDirectory <- getwd()
+        PrimaryDirectory
+```
+
+We can then set our input directory, which will be the 'data' folder where we placed our files during setup. To do this we ask R to start at the location of the `PrimaryDirectory`, go up one level `..`, and then find the `data` folder.
+
+```{r, results = 'hide', message=FALSE, warning=FALSE}
+    ### Set 'input' directory
+        
+        setwd(PrimaryDirectory)
+        setwd("../data/")
+        InputDirectory <- getwd()
+        setwd(PrimaryDirectory)
+```
+
+We need to set the location of the 'metadata' folder. This is where we can store a CSV file that contains any relevant metadata that we want to embed in our samples. In this example, it is located in a sub-folder called 'metadata'.
+
+```{r, results = 'hide', message=FALSE, warning=FALSE}
+    ### Set 'metadata' directory
+        
+        setwd(PrimaryDirectory)
+        setwd("../metadata/")
+        MetaDirectory <- getwd()
+        setwd(PrimaryDirectory)
+```
+
+We need to create a folder where our output data can go once our analysis is finished. In this example we will call this 'Output_Spectre'.
+
+```{r, results = 'hide', message=FALSE, warning=FALSE}
+    ### Create output directory
+        
+        dir.create("Output_Spectre", showWarnings = FALSE)
+        setwd("Output_Spectre")
+        OutputDirectory <- getwd()
+        setwd(PrimaryDirectory)
+```
+
+<br />
+<br />
+
+
+
+
+
+
+## 2. Import and prep data
+
+---
+
+```{r, results = 'hide', message=FALSE, warning=FALSE}
+#######################################################################################################
+#### 2. Import and prep data
+#######################################################################################################
+```
+
+### Import data
+
+To begin, we will change our working directory to 'InputDirectory' and list all the CSV files in that directory – these should be the sample CSV files. We can then read in all of our samples (in this example, one CSV file per sample) into a list called 'data.list'. Spectre uses the data.table framework to store data, which reads, writes, and performs operations on data very quickly.
+
+```{r, message=TRUE, warning=FALSE}
+    ### Import data
+
+        setwd(InputDirectory)
+        list.files(InputDirectory, ".csv")
+
+        data.list <- Spectre::read.files(file.loc = InputDirectory,
+                                         file.type = ".csv",
+                                         do.embed.file.names = TRUE)
+```
+
+
+
+
