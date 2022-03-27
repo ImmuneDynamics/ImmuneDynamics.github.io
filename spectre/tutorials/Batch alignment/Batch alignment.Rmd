@@ -1,0 +1,125 @@
+---
+title: "Integrating data across batches or experiments"
+author: "Thomas Ashhurst"
+date: "25/03/2022"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
+
+[<- Back to Spectre home page](https://immunedynamics.io/spectre)
+
+<br />
+<br />
+
+
+
+
+
+
+## Introduction
+
+---
+
+**Batch effects in cytometry data**
+
+- Computational analysis -- clustering and DR
+- Finds heterogeneity in the data
+- We intend for this to find different cell types/states
+- But will also find technical sources of variation
+- If samples processed in two batches -- might separate a population into two clusters based on which batch they were processed in
+- Or a population might be split across multiple batches
+- When more than two batches, becomes very difficult to interpret
+- In manual gating, shift gates around to follow the differences
+
+<br />
+
+
+
+**'Batch alignment' and 'data integration'**
+
+- It is always better to prevent or reduce the presence of batch effects, rather than correct for them computationally. We have provided some tips on this page HERE.
+- However, while prevention is the preferred approach here, acquiring samples over multiple batches is unavoidable for larger studies.
+- Additionally, it may be necessary to analyse data together that has been generated in separate experiments, which were not planned to be run as multiple batches of a separate experiments.
+- Here we make a distinction between the two:
+
+-- Batch alignment: samples in each batch are handled as part of a larger pre-planned experiments (i.e. same panels, same reagents, same setup, same instrument settings etc), but samples are processed, stained, and/or acquiried on separate days over a period ot time
+-- Data integration: samples are from independent experiments, where the may be significant differences in sample preparation, staining, reagents, instrument settings, etc.
+
+- On this page we describe two approaches for batch alignment. While both can be used for data integration, we do not expand on this approach here. If you would like to learn more about how we apply the later approach, drop us a line on the DISCUSSION page.
+
+- The goal is to remove technical sources of variation, while preserving biological differences.
+- Cytometry approaches.
+- Also approaches from single-cell. Some not well suited to cytometry data due to the number of cells etc, but some can be reasonably adapted.
+- Some methods more controlled (CytoNorm), other less controlled but more adaptable.
+- Here we provide two approaches:
+
+<br />
+<br />
+
+
+
+
+## CytoNorm
+
+---
+
+Van Gassen et al. reference controls to guide alignment. Cells from consistent populations attempted to be captured in the same metacluster. Then expression level differences between each batch can be modelled, and expression values can then be adjusted to align the data. Pos = controlled. Neg = not as adaptable, doesn't work for effects not present in ref controls. We applied this in Ashhurst et al 2021.
+
+Workflow example here.
+
+
+<br />
+<br />
+
+
+
+
+
+## Reciprocal PCA (rPCA)
+
+---
+
+(from Seurat): Seurat. Designed Runs initial PCA on data from each batch, and projects the data from each batch into the PCA space of the other batches, and then finds cell pairs (anchors) that can be used to adjust expression values. Pos = does not require reference controls (though including reference controls can be extremely helpful for validation). Neg = not controlled, can more easily remove biologically relevant differences.
+
+Workflow example here.
+
+<br />
+<br />
+
+
+
+
+
+## Harmony
+
+---
+
+...
+
+<br />
+<br />
+
+
+
+
+
+
+<br />
+<br />
+
+
+
+
+
+
+
+
