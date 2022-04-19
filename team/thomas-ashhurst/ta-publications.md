@@ -6,7 +6,7 @@ permalink: /thomas-ashhurst/publications/
 
 ![Publications](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Publication%202.png)
 
-My publications consist of [1 book](https://immunedynamics.io/thomas-ashhurst/publications/#books), [2 pre-prints](https://immunedynamics.io/thomas-ashhurst/publications/#pre-prints), and [27 published articles](https://immunedynamics.io/thomas-ashhurst/publications/#publications), with [732 citations](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) since 2012 and an [h-index of 15](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) (via Google Scholar). These publications include [1 as co-lead editor](https://immunedynamics.io/thomas-ashhurst/publications/stats), [7 as lead or co-lead author](https://immunedynamics.io/thomas-ashhurst/publications/stats), and [5 as senior or co-supervising author](https://immunedynamics.io/thomas-ashhurst/publications/stats); with [2 as corresponding author](https://immunedynamics.io/thomas-ashhurst/publications/stats). Online publication lists can be found on 
+My publications consist of [1 book](https://immunedynamics.io/thomas-ashhurst/publications/#books), [2 pre-prints](https://immunedynamics.io/thomas-ashhurst/publications/#pre-prints), and [28 published articles](https://immunedynamics.io/thomas-ashhurst/publications/#publications), with [732 citations](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) since 2012 and an [h-index of 15](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) (via Google Scholar). These publications include [1 as co-lead editor](https://immunedynamics.io/thomas-ashhurst/publications/stats), [7 as lead or co-lead author](https://immunedynamics.io/thomas-ashhurst/publications/stats), and [5 as senior or co-supervising author](https://immunedynamics.io/thomas-ashhurst/publications/stats); with [2 as corresponding author](https://immunedynamics.io/thomas-ashhurst/publications/stats). Online publication lists can be found on 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date),
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="15"> 
 [Google Scholar](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en),
@@ -105,6 +105,8 @@ Phillip K. West, Andrew N. McCorkindale, Boris Guennewig, **Thomas M. Ashhurst**
 
 
 
+
+
 <div class='row'>
     <div class="image">
         <a href="#">
@@ -119,6 +121,26 @@ Felix Marsh-Wakefield, Pierre Juillard, **Thomas M Ashhurst**, Annette Juillard,
 <br />
 <br />
 <br />
+
+
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://ars.els-cdn.com/content/image/X26659913.jpg" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+LuukWieske, Koos P Jvan Dam, Maurice Steenhuis, ... Filip Eftimov on behalf of the **T2B! Immunity against SARS-CoV-2 study group‡**. [Humoral responses after second and third SARS-CoV-2 vaccination in patients with immune-mediated inflammatory disorders on immunosuppressants: a cohort study](https://www.sciencedirect.com/science/article/pii/S2665991322000340#!). The Lancet Rheumatology. In press.
+
+<br />
+<br />
+<br />
+<br />
+
+
 
 
 
