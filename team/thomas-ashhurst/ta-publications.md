@@ -103,6 +103,17 @@ Phillip K. West, Andrew N. McCorkindale, Boris Guennewig, **Thomas M. Ashhurst**
 <br />
 <br />
 
+
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/Marsh-Wakefield%202022.png?raw=true
+" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
 Felix Marsh-Wakefield, Pierre Juillard, **Thomas M Ashhurst**, Annette Juillard, Diana Shinko, Givanna H Putri, Mark N Read, Helen M McGuire, Scott N Byrne, Simon Hawke, Georges E Grau (2022). [Peripheral B cell dysregulation is associated with relapse after long-term quiescence in multiple sclerosis patients](https://doi.org/10.1111/imcb.12552). Immunology and Cell Biology. Online.
 
 <br />
