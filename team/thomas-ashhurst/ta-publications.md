@@ -133,7 +133,7 @@ Felix Marsh-Wakefield, Pierre Juillard, **Thomas M Ashhurst**, Annette Juillard,
     </div>
 </div>
 
-LuukWieske, Koos P Jvan Dam, Maurice Steenhuis, ... Filip Eftimov on behalf of the **T2B! Immunity against SARS-CoV-2 study group‡**. [Humoral responses after second and third SARS-CoV-2 vaccination in patients with immune-mediated inflammatory disorders on immunosuppressants: a cohort study](https://www.sciencedirect.com/science/article/pii/S2665991322000340#!). The Lancet Rheumatology. In press.
+LuukWieske, Koos P Jvan Dam, Maurice Steenhuis, ... Filip Eftimov on behalf of the **T2B! Immunity against SARS-CoV-2 study group**. [Humoral responses after second and third SARS-CoV-2 vaccination in patients with immune-mediated inflammatory disorders on immunosuppressants: a cohort study](https://www.sciencedirect.com/science/article/pii/S2665991322000340#!). The Lancet Rheumatology. In press.
 
 <br />
 <br />
