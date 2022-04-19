@@ -96,14 +96,14 @@ GH Putri, J Chung, DN Edwards, F Marsh-Wakefield, S Dervish, I Koprinska, NJC Ki
     </div>
 </div>
 
-Phillip K. West, Andrew N. McCorkindale, Boris Guennewig, Thomas M. Ashhurst, Barney Viengkhou, Emina Hayashida, So Ri Jung, Oleg Butovsky, Iain L. Campbell & Markus J. Hofer (2022). [The cytokines interleukin-6 and interferon-α induce distinct microglia phenotypes](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-022-02441-x). Journal of Neuroinflammation. 19, 96.
+Phillip K. West, Andrew N. McCorkindale, Boris Guennewig, **Thomas M. Ashhurst**, Barney Viengkhou, Emina Hayashida, So Ri Jung, Oleg Butovsky, Iain L. Campbell & Markus J. Hofer (2022). [The cytokines interleukin-6 and interferon-α induce distinct microglia phenotypes](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-022-02441-x). Journal of Neuroinflammation. 19, 96.
 
 <br />
 <br />
 <br />
 <br />
 
-Felix Marsh-Wakefield,Pierre Juillard,Thomas M Ashhurst,Annette Juillard,Diana Shinko,Givanna H Putri,Mark N Read,Helen M McGuire,Scott N Byrne,Simon Hawke,Georges E Grau (2022). [Peripheral B cell dysregulation is associated with relapse after long-term quiescence in multiple sclerosis patients](https://doi.org/10.1111/imcb.12552). Immunology and Cell Biology. Online.
+Felix Marsh-Wakefield, Pierre Juillard, **Thomas M Ashhurst**, Annette Juillard, Diana Shinko, Givanna H Putri, Mark N Read, Helen M McGuire, Scott N Byrne, Simon Hawke, Georges E Grau (2022). [Peripheral B cell dysregulation is associated with relapse after long-term quiescence in multiple sclerosis patients](https://doi.org/10.1111/imcb.12552). Immunology and Cell Biology. Online.
 
 <br />
 <br />
