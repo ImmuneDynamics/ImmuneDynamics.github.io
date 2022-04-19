@@ -108,8 +108,7 @@ Phillip K. West, Andrew N. McCorkindale, Boris Guennewig, **Thomas M. Ashhurst**
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/Marsh-Wakefield%202022.png?raw=true
-" alt="icon" width="250" align="right">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/Marsh-Wakefield%202022.png?raw=true" alt="icon" width="250" align="right">
         </a>
     </div>
 </div>
