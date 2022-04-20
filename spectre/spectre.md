@@ -12,8 +12,6 @@ permalink: /spectre/
 
 ![Spectre](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/images/Head%202.png?raw=true)
 
-![IMC](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/image2021-2-25_22-32-15.png?raw=true)
-
 <p> </p>
 
 # News
