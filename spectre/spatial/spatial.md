@@ -1,6 +1,6 @@
 ---
 layout: spectre
-title: Spatial analysis of high-dimensional imaging data using Spectre
+title: Spectre Protocols - Spatial
 permalink: /spectre/spatial/
 ---
 
