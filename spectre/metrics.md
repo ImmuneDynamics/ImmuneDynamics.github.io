@@ -4,9 +4,18 @@ title: Metrics
 permalink: /spectre/metrics/
 ---
 
+## Spectre publications
+
+- v0: Ashhurst et al, 2019, [Mass Cytometry: Methods and Protocols](https://doi.org/10.1002/cyto.a.24350)
+- v1: Ashhurst et al, 2021, [Cytometry A](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)
+
+## User stats
+
+Since the launch of our hosting website in March 2021, the software and associated protocols have attracted >3000 unique users (as of April 2022), averaging 250 new users per month from across the world, including Australia (25.7%), United States (26.6%), Germany (11.08%), United Kingdom (5.1%), China (4.44%), among others.
+
 ## Works citing Spectre
 
-[Spectre](https://immunedynamics.github.io/spectre) ([Ashhurst et al, 2021](https://doi.org/10.1002/cyto.a.24350)) or '[CAPX](https://github.com/sydneycytometry/CAPX)', the initial version of Spectre ([Ashhurst et al 2019](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)), and associated scripts have been used in a variety of studies, both with our team and independently, including the study of 
+Our software and associated analysis protocols have been cited in at least 35 publications since 2018, both with our team and independently, including the study of 
 [COVID-19](https://www.sciencedirect.com/science/article/pii/S2666379121000197), 
 [vaccine](https://www.nature.com/articles/s41385-021-00379-6) responses, 
 [NK cell](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006999) biology, 
@@ -17,24 +26,24 @@ permalink: /spectre/metrics/
 [cerebral malaria](https://www.nature.com/articles/s42003-018-0216-2), 
 among others; in prestigious journals such as [Cell](https://doi.org/10.1016/j.cell.2018.08.013) and [Nature Immunology](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation). It is also a featured analysis package for the [Human Cell Atlas](https://data.humancellatlas.org/analyze/methods/spectre) project. 
 
-*Select publications*
+*Cited in research*
 
+- West et al, 2022, [Journal of Neuroinflammation](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-022-02441-x)
+- Marsh-Wakefield et al, 2022, [ Immunology and Cell Biology](https://doi.org/10.1111/imcb.12552)
 - Ashhurst A et al, 2022, [Research Square](https://assets.researchsquare.com/files/rs-1179181/v1/6c963fd7-b135-468c-83a3-39502e135591.pdf?c=1641417736) (pre-print)
 - Chedid et al, 2022, [Frontiers in Immunology](https://europepmc.org/articles/pmc8980213/bin/datasheet_1.docx)
 - León-Lara et al, 2022, [Frontiers in Immunology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8891705/)
 - Spiteri et al, 2022, [Frontiers in Immunology](https://www.researchgate.net/profile/Alanna-Spiteri/publication/359507023_PLX5622_Reduces_Disease_Severity_in_Lethal_CNS_Infection_by_Off-Target_Inhibition_of_Peripheral_Inflammatory_Monocyte_Production/links/6241542f7931cc7ccfff48a8/PLX5622-Reduces-Disease-Severity-in-Lethal-CNS-Infection-by-Off-Target-Inhibition-of-Peripheral-Inflammatory-Monocyte-Production.pdf)
+- Liechti et al, 2021, [Nature Immunology](https://www.nature.com/articles/s41590-021-01006-z)
 - Bartolo et al, 2021, [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.29.470421v1.abstract) (pre-print)
 - Zhang et al, 2021, [medRxiv](https://www.medrxiv.org/content/10.1101/2021.09.01.21262715v1) (pre-print)
 - Putri et al, 2021, [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.08.447468v1) (pre-print)
-- Opzoomer et al, 2021, [eLife](https://elifesciences.org/articles/62915)
 - Vick et al, 2021, [medRxiv](https://www.medrxiv.org/content/10.1101/2021.03.25.21254376v1) (pre-print)
 - Spiteri et al, 2021, [Journal of Neuroinflammation](https://www.researchsquare.com/article/rs-388801/v1)
-- Marsh-Wakefield et al 2021, [Immunology and Cell Biology](https://doi.org/10.1111/imcb.12456)
 - Koutsakos et al 2021, [Cell Reports Medicine](https://www.sciencedirect.com/science/article/pii/S2666379121000197)
 - Ferrell et al 2021, [Mucosal Immunology](https://www.nature.com/articles/s41385-021-00379-6)
 - Putri et al 2021, [Bioinformatics](https://doi.org/10.1093/bioinformatics/btab038)
 - Ng et al 2020, [Nature Immunology](https://www.nature.com/articles/s41590-020-0758-6)
-- Spiteri et al 2020, [Frontiers in Immunology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7752943/)
 - Vuckovic et al 2020, [Blood Advances](https://ashpublications.org/bloodadvances/article/4/19/4593/463891/Inverse-relationship-between-oligoclonal-expanded)
 - Johnson et al 2020, [Frontiers in Immunology](https://www.frontiersin.org/articles/10.3389/fimmu.2020.01481/full)
 - Ferrer-Font et al, 2020, [Cytometry Part A](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24016)
@@ -51,6 +60,16 @@ among others; in prestigious journals such as [Cell](https://doi.org/10.1016/j.c
 - Jung et al 2018, [J Immunol](https://www.jimmunol.org/content/201/7/2176.abstract)
 - Roediger et al 2018, [Cell](https://doi.org/10.1016/j.cell.2018.08.013)
 - Niewold et al 2018, [Communications Biology](https://www.nature.com/articles/s42003-018-0216-2)
+
+*Cited in review*
+
+- Botta et l, 2022, [Blood Advances](https://ashpublications.org/bloodadvances/article/6/2/690/477072/FlowCT-for-the-analysis-of-large-immunophenotypic)
+- Opzoomer et al, 2021, [eLife](https://elifesciences.org/articles/62915)
+- Marsh-Wakefield et al, 2021, [Immunology and Cell Biology](https://onlinelibrary.wiley.com/doi/abs/10.1111/imcb.12456)
+- Ye et al, 2021, [Blood](https://ashpublications.org/blood/article/138/Supplement%201/2168/478408)
+- Spiteri et al 2020, [Frontiers in Immunology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7752943/)
+
+<br />
 
 From evidence at conferences, online posts, or feedback from users, we  know that these tools are in use in a wide range of contexts, including universities, research institutions, and biotechnology companies. These tools have also been referenced in a number of online forums and posts.
 
