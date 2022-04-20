@@ -69,15 +69,15 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 <!-- FIRST ROW: TITLE --> 
     <tr style="border-top:1px solid grey">
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Spectre protocols for cytometry analysis
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Cytometry (flow, mass, spectral)
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Spatial (IMC) analysis
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Spatial and imaging
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Support for scRNAseq analysis
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Single-cell genomics
         </div>
       </td>
     </tr>
