@@ -20,7 +20,7 @@ Since the launch of our hosting website in March 2021, the software and associat
 ## Works citing Spectre
 
 Our software and associated analysis protocols have been cited in at least 37 publications since 2018, both with our team and independently, including the study of 
-[COVID-19](https://www.sciencedirect.com/science/article/pii/S2666379121000197), 
+[COVID-19](https://www.sciencedirect.com/science/article/pii/S2666379121000197) pathogenesis, 
 [vaccine](https://www.nature.com/articles/s41385-021-00379-6) responses, 
 [NK cell](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006999) biology, 
 [multiple myeloma](https://ashpublications.org/bloodadvances/article/4/19/4593/463891/Inverse-relationship-between-oligoclonal-expanded), 
