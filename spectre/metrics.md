@@ -30,19 +30,22 @@ Our software and associated analysis protocols have been cited in at least 37 pu
 [cerebral malaria](https://www.nature.com/articles/s42003-018-0216-2), 
 among others; in prestigious journals such as [Cell](https://doi.org/10.1016/j.cell.2018.08.013) and [Nature Immunology](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation). It is also a featured analysis package for the [Human Cell Atlas](https://data.humancellatlas.org/analyze/methods/spectre) project. 
 
-*Cited in research*
+*Cited in pre-prints*
 
-- West et al, 2022, [Journal of Neuroinflammation](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-022-02441-x)
-- Marsh-Wakefield et al, 2022, [ Immunology and Cell Biology](https://doi.org/10.1111/imcb.12552)
 - Ashhurst A et al, 2022, [Research Square](https://assets.researchsquare.com/files/rs-1179181/v1/6c963fd7-b135-468c-83a3-39502e135591.pdf?c=1641417736) (pre-print)
-- Chedid et al, 2022, [Frontiers in Immunology](https://europepmc.org/articles/pmc8980213/bin/datasheet_1.docx)
-- León-Lara et al, 2022, [Frontiers in Immunology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8891705/)
-- Spiteri et al, 2022, [Frontiers in Immunology](https://www.researchgate.net/profile/Alanna-Spiteri/publication/359507023_PLX5622_Reduces_Disease_Severity_in_Lethal_CNS_Infection_by_Off-Target_Inhibition_of_Peripheral_Inflammatory_Monocyte_Production/links/6241542f7931cc7ccfff48a8/PLX5622-Reduces-Disease-Severity-in-Lethal-CNS-Infection-by-Off-Target-Inhibition-of-Peripheral-Inflammatory-Monocyte-Production.pdf)
-- Liechti et al, 2021, [Nature Immunology](https://www.nature.com/articles/s41590-021-01006-z)
 - Bartolo et al, 2021, [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.29.470421v1.abstract) (pre-print)
 - Zhang et al, 2021, [medRxiv](https://www.medrxiv.org/content/10.1101/2021.09.01.21262715v1) (pre-print)
 - Putri et al, 2021, [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.08.447468v1) (pre-print)
 - Vick et al, 2021, [medRxiv](https://www.medrxiv.org/content/10.1101/2021.03.25.21254376v1) (pre-print)
+
+*Cited in research*
+
+- West et al, 2022, [Journal of Neuroinflammation](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-022-02441-x)
+- Marsh-Wakefield et al, 2022, [ Immunology and Cell Biology](https://doi.org/10.1111/imcb.12552)
+- Chedid et al, 2022, [Frontiers in Immunology](https://europepmc.org/articles/pmc8980213/bin/datasheet_1.docx)
+- León-Lara et al, 2022, [Frontiers in Immunology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8891705/)
+- Spiteri et al, 2022, [Frontiers in Immunology](https://www.researchgate.net/profile/Alanna-Spiteri/publication/359507023_PLX5622_Reduces_Disease_Severity_in_Lethal_CNS_Infection_by_Off-Target_Inhibition_of_Peripheral_Inflammatory_Monocyte_Production/links/6241542f7931cc7ccfff48a8/PLX5622-Reduces-Disease-Severity-in-Lethal-CNS-Infection-by-Off-Target-Inhibition-of-Peripheral-Inflammatory-Monocyte-Production.pdf)
+- Liechti et al, 2021, [Nature Immunology](https://www.nature.com/articles/s41590-021-01006-z)
 - Spiteri et al, 2021, [Journal of Neuroinflammation](https://www.researchsquare.com/article/rs-388801/v1)
 - Koutsakos et al 2021, [Cell Reports Medicine](https://www.sciencedirect.com/science/article/pii/S2666379121000197)
 - Ferrell et al 2021, [Mucosal Immunology](https://www.nature.com/articles/s41385-021-00379-6)
