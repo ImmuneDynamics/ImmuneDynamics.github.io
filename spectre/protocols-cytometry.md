@@ -1,6 +1,6 @@
 ---
 layout: spectre
-title: Spectre - Cytometry Protocols
+title: Spectre Protocols - Cytometry
 permalink: /spectre/cytometry/
 ---
 
