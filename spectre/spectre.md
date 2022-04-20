@@ -10,7 +10,7 @@ permalink: /spectre/
 
 **Getting started**: to start using Spectre, check out our [getting started](https://immunedynamics.github.io/spectre/getting-started/), [protocols](https://immunedynamics.github.io/spectre/#protocols), or [tutorial](https://immunedynamics.github.io/spectre/tutorials/) pages below.
 
-![Spectre](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Spectre.png?raw=true)
+![Spectre](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/images/Head%202.png?raw=true)
 
 ![IMC](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/image2021-2-25_22-32-15.png?raw=true)
 
