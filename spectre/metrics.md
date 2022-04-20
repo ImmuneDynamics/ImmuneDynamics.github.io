@@ -19,7 +19,10 @@ among others; in prestigious journals such as [Cell](https://doi.org/10.1016/j.c
 
 *Select publications*
 
-- Chedid et al, 2021, [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.10.27.466125v1.abstract) (pre-print)
+- Ashhurst A et al, 2022, [Research Square](https://assets.researchsquare.com/files/rs-1179181/v1/6c963fd7-b135-468c-83a3-39502e135591.pdf?c=1641417736) (pre-print)
+- Chedid et al, 2022, [Frontiers in Immunology](https://europepmc.org/articles/pmc8980213/bin/datasheet_1.docx)
+- León-Lara et al, 2022, [Frontiers in Immunology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8891705/)
+- Spiteri et al, 2022, [Frontiers in Immunology](https://www.researchgate.net/profile/Alanna-Spiteri/publication/359507023_PLX5622_Reduces_Disease_Severity_in_Lethal_CNS_Infection_by_Off-Target_Inhibition_of_Peripheral_Inflammatory_Monocyte_Production/links/6241542f7931cc7ccfff48a8/PLX5622-Reduces-Disease-Severity-in-Lethal-CNS-Infection-by-Off-Target-Inhibition-of-Peripheral-Inflammatory-Monocyte-Production.pdf)
 - Bartolo et al, 2021, [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.29.470421v1.abstract) (pre-print)
 - Zhang et al, 2021, [medRxiv](https://www.medrxiv.org/content/10.1101/2021.09.01.21262715v1) (pre-print)
 - Putri et al, 2021, [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.08.447468v1) (pre-print)
