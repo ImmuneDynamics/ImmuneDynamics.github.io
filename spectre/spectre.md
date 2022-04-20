@@ -90,7 +90,6 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
             <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Spatial.png?raw=true" width="3000" style="padding-top: 5px">
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <p> </p>
             <img src="https://wiki.centenary.org.au/download/attachments/189556619/image2021-2-22_10-59-32.png?version=1&modificationDate=1615782193059&api=v2" width="3000" style="padding-top: 5px">
         </td>
       </tr>
