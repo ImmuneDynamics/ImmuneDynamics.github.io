@@ -9,13 +9,13 @@ permalink: /spectre/metrics/
 - v0: Ashhurst et al, 2019, [Mass Cytometry: Methods and Protocols](https://doi.org/10.1002/cyto.a.24350) (referred to at the time as 'CAPX')
 - v1: Ashhurst et al, 2021, [Cytometry A](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)
 
-<br />
+<p> </p>
 
 ## User stats
 
 Since the launch of our hosting website in March 2021, the software and associated protocols have attracted >3000 unique users (as of April 2022), averaging 250 new users per month from across the world, including Australia (25.7%), United States (26.6%), Germany (11.08%), United Kingdom (5.1%), China (4.44%), among others.
 
-<br />
+<p> </p>
 
 ## Works citing Spectre
 
