@@ -11,8 +11,6 @@ Spectre can be used for the analysis of single-cell genomics data, in addition t
 ![](https://wiki.centenary.org.au/download/attachments/186841495/image2021-2-21_18-26-41.png?version=1&modificationDate=1613892401460&api=v2)
 
 <br />
-<br />
-
 
 ## Tutorials
 
