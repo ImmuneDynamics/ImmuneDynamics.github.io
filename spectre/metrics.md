@@ -9,13 +9,17 @@ permalink: /spectre/metrics/
 - v0: Ashhurst et al, 2019, [Mass Cytometry: Methods and Protocols](https://doi.org/10.1002/cyto.a.24350)
 - v1: Ashhurst et al, 2021, [Cytometry A](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)
 
+<br />
+
 ## User stats
 
 Since the launch of our hosting website in March 2021, the software and associated protocols have attracted >3000 unique users (as of April 2022), averaging 250 new users per month from across the world, including Australia (25.7%), United States (26.6%), Germany (11.08%), United Kingdom (5.1%), China (4.44%), among others.
 
+<br />
+
 ## Works citing Spectre
 
-Our software and associated analysis protocols have been cited in at least 35 publications since 2018, both with our team and independently, including the study of 
+Our software and associated analysis protocols have been cited in at least 37 publications since 2018, both with our team and independently, including the study of 
 [COVID-19](https://www.sciencedirect.com/science/article/pii/S2666379121000197), 
 [vaccine](https://www.nature.com/articles/s41385-021-00379-6) responses, 
 [NK cell](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006999) biology, 
