@@ -41,10 +41,10 @@ Spectre can be used for the analysis of single-cell genomics data, in addition t
 <!-- THIRD ROW: Image -->
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/images/CYTO.png?raw=true" width="3000" style="padding-top: 5px">
+          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/images/CYTO%202.png?raw=true" width="3000" style="padding-top: 5px">
       </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/images/CITE%202.png?raw=true" width="3000" style="padding-top: 5px">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/images/CITE%203.png?raw=true" width="3000" style="padding-top: 5px">
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
             <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/images/Integration%202.png?raw=true" width="3000" style="padding-top: 5px">
