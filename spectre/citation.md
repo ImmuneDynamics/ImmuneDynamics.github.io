@@ -8,7 +8,7 @@ permalink: /spectre/citation/
 
 If you use Spectre in your work, please consider citing [Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2021). Cytometry A. DOI: 10.1002/cyto.a.24350](https://doi.org/10.1002/cyto.a.24350). To continue providing open-source tools such as Spectre, it helps us if we can demonstrate that our efforts are contributing to analysis efforts in the community. Please also consider citing the authors of the individual packages or tools (e.g. CytoNorm, FlowSOM, tSNE, UMAP, etc) that are critical elements of your analysis work. We have provided some generic text that you can use for your methods section with each protocol and below.
 
-To see a list of publications that have used Spectre, please check out our [metrics](https://immunedynamics.io/spectre/metrics/) page.
+**To see a list of publications that have used Spectre, please check out our [metrics](https://immunedynamics.io/spectre/metrics/) page.**
 
 <br />
 
