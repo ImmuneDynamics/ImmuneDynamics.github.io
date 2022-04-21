@@ -8,12 +8,6 @@ permalink: /spectre/about/
 
 Spectre is an R package and computational toolkit that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional [cytometry](https://immunedynamics.io/spectre/cytometry/), [spatial/imaging](https://immunedynamics.github.io/spectre/spatial/), or [single-cell](https://immunedynamics.io/spectre/single-cell/) data from different batches or experiments. Spectre streamlines the analytical stages of raw data pre-processing, batch alignment/integration, clustering, dimensionality reduction, visualisation, population annotation, and quantitative/statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by both data and laboratory scientists. 
 
-<br />
-
----
-
-## Authors
-
 The Spectre package was developed by [Thomas Ashhurst](https://immunedynamics.github.io/thomas-ashhurst/) (the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au/), The University of Sydney and Centenary Institute), [Felix Marsh-Wakefield](https://immunedynamics.github.io/felix-marsh-wakefield/) (the School of Medical Sciences, The University of Sydney), and [Givanna Putri](https://immunedynamics.github.io/givanna-putri/) (the School of IT, The University of Sydney); with support from Alanna Spiteri, Dr. Diana shinko, Dr. Mark Read, Dr. Adrian Smith, and Prof. Nicholas King.
 
 <br />
