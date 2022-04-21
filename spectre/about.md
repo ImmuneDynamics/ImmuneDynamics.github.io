@@ -6,21 +6,36 @@ permalink: /spectre/about/
 
 ## Overview
 
-Spectre is an R package and computational toolkit that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional [cytometry](https://immunedynamics.io/spectre/cytometry/) or [imaging](https://immunedynamics.github.io/spectre/spatial/) data from different batches or experiments. Spectre streamlines the analytical stages of raw data pre-processing, batch alignment/integration, clustering, dimensionality reduction, visualisation, population annotation, and quantitative/statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by data and laboratory scientists. The Spectre package was developed by [Thomas Ashhurst](https://immunedynamics.github.io/thomas-ashhurst/) (the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au/), The University of Sydney and Centenary Institute), [Felix Marsh-Wakefield](https://immunedynamics.github.io/felix-marsh-wakefield/) (the School of Medical Sciences, The University of Sydney), and [Givanna Putri](https://immunedynamics.github.io/givanna-putri/) (the School of IT, The University of Sydney); with support from Alanna Spiteri, Dr. Diana shinko, Dr. Mark Read, Dr. Adrian Smith, and Prof. Nicholas King.
-
-***See our user statistics and a full list of publications citing Spectre [here](https://immunedynamics.io/spectre/metrics/)***
-
-![Spectre](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Spectre.png?raw=true)
-
-![IMC](https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/image2021-2-25_22-32-15.png?raw=true)
+Spectre is an R package and computational toolkit that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional [cytometry](https://immunedynamics.io/spectre/cytometry/), [spatial/imaging](https://immunedynamics.github.io/spectre/spatial/), or [single-cell](https://immunedynamics.io/spectre/single-cell/) data from different batches or experiments. Spectre streamlines the analytical stages of raw data pre-processing, batch alignment/integration, clustering, dimensionality reduction, visualisation, population annotation, and quantitative/statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by both data and laboratory scientists. 
 
 <br />
 
 ---
 
-## Getting started
+## Authors
 
-See our [about](https://immunedynamics.github.io/spectre/about/) page for more information, and check out our [protocols](https://immunedynamics.github.io/spectre/#protocols) or [tutorial](https://immunedynamics.github.io/spectre/tutorials/) pages to get started. For users unfamiliar with using R, we also provide [workflow instructions](https://immunedynamics.github.io/spectre/#protocols) for replicating many of our analysis approaches in programs such as [FlowJo](https://immunedynamics.github.io/spectre/#protocols). Along with [flow](https://immunedynamics.io/resources/flow), [spectral](https://immunedynamics.io/resources/flow), or [mass cytometry (CyTOF)](https://immunedynamics.io/resources/mass) data, [Spectre](https://immunedynamics.io/spectre/) enables adaptable [cell segmentation](https://immunedynamics.github.io/spectre/spatial/) and [spatial analysis](https://immunedynamics.github.io/spectre/spatial/) of high-dimensional imaging data, such as [Imaging Mass Cytometry (IMC)](https://immunedynamics.io/resources/imc). 
+The Spectre package was developed by [Thomas Ashhurst](https://immunedynamics.github.io/thomas-ashhurst/) (the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au/), The University of Sydney and Centenary Institute), [Felix Marsh-Wakefield](https://immunedynamics.github.io/felix-marsh-wakefield/) (the School of Medical Sciences, The University of Sydney), and [Givanna Putri](https://immunedynamics.github.io/givanna-putri/) (the School of IT, The University of Sydney); with support from Alanna Spiteri, Dr. Diana shinko, Dr. Mark Read, Dr. Adrian Smith, and Prof. Nicholas King.
+
+<br />
+
+---
+
+## Usage
+
+Since the launch of our hosting website in March 2021, the software and associated protocols have attracted >3000 unique users (as of April 2022), averaging 250 new users per month from across the world, including Australia (25.7%), United States (26.6%), Germany (11.08%), United Kingdom (5.1%), China (4.44%), among others. 
+
+Our software and associated analysis protocols have been cited in at least 37 publications since 2018, both with our team and independently, in prestigious journals such as [Cell](https://doi.org/10.1016/j.cell.2018.08.013), [Nature Immunology](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation), and [Blood](https://ashpublications.org/blood/article/138/Supplement%201/2168/478408). It is also a featured analysis package for the [Human Cell Atlas](https://data.humancellatlas.org/analyze/methods/spectre) project. Spectre has been used in the study of 
+[COVID-19](https://www.sciencedirect.com/science/article/pii/S2666379121000197) pathogenesis, 
+[vaccine](https://www.nature.com/articles/s41385-021-00379-6) responses, 
+[NK cell](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006999) biology, 
+[multiple myeloma](https://ashpublications.org/bloodadvances/article/4/19/4593/463891/Inverse-relationship-between-oligoclonal-expanded), 
+[pediatric burns](https://www.frontiersin.org/articles/10.3389/fimmu.2020.01481/full), 
+[multiple sclerosis](https://onlinelibrary.wiley.com/doi/full/10.1002/cti2.1133), 
+[bone marrow](https://www.frontiersin.org/articles/10.3389/fimmu.2018.01672/full) transplantation, and 
+[cerebral malaria](https://www.nature.com/articles/s42003-018-0216-2), 
+among others.
+
+***See a full list of publications citing Spectre [here](https://immunedynamics.io/spectre/metrics/)***
 
 <br />
 
