@@ -80,7 +80,8 @@ GH Putri, J Chung, DN Edwards, F Marsh-Wakefield, S Dervish, I Koprinska, NJC Ki
     </div>
 </div>
 
-W Zhang, B Chua, K Selva, L Kedzierski, **T Ashhurst**, E Haycroft, ... Thi Nguyen, Katherine Kedzierska. 2022. [Immune responses in COVID-19 respiratory tract and blood reveal mechanisms of disease severity](https://www.nature.com/articles/s41467-022-30088-y). Nature Communications.
+W Zhang, B Chua, K Selva, L Kedzierski, **T Ashhurst**, E Haycroft, ... Thi Nguyen, Katherine Kedzierska. 2022. [SARS-CoV-2 infection results in immune responses in the respiratory tract and peripheral blood that suggest mechanisms of disease severity
+](https://www.nature.com/articles/s41467-022-30088-y). Nature Communications.
 
 <br />
 <br />
