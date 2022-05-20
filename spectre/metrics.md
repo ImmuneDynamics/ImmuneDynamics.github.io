@@ -38,7 +38,7 @@ among others.
 
 *Cited in research*
 
-- Zhang et al, 2022, [Nature Communications]([https://www.medrxiv.org/content/10.1101/2021.09.01.21262715v1](https://www.nature.com/articles/s41467-022-30088-y)
+- Zhang et al, 2022, [Nature Communications](https://www.medrxiv.org/content/10.1101/2021.09.01.21262715v1](https://www.nature.com/articles/s41467-022-30088-y)
 - West et al, 2022, [Journal of Neuroinflammation](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-022-02441-x)
 - Marsh-Wakefield et al, 2022, [ Immunology and Cell Biology](https://doi.org/10.1111/imcb.12552)
 - Chedid et al, 2022, [Frontiers in Immunology](https://europepmc.org/articles/pmc8980213/bin/datasheet_1.docx)
