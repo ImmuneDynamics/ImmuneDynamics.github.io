@@ -14,8 +14,7 @@ permalink: /givanna-putri/
     </div>
 </div>
 
-Givanna Putri is a postdoctoral researcher at The School of Medical Science (University of New South Wales) and the Adult Cancer Program at the Lowy Cancer Research centre.
-She is a data scientist with keen interest in single cell omics and computational biology.
+Dr. Givanna Putri is a data scientist with keen interest in single cell omics and computational biology.
 
 During her PhD at the University of Sydney, she used temporal clustering and tracking algorithms to reveal the development of immune response over time.
 She developed machine learning techniques to explicitly cluster and track cellular populations development in time-course high dimensional cytometry data.
@@ -27,7 +26,7 @@ Her PhD research was funded by The Australian Government Research Training Progr
 
 **Contact info**
 
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/EmailSVG.svg" alt="Email logo" width="20"> Email: g.putri@unsw.edu.au <br/>
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/EmailSVG.svg" alt="Email logo" width="20"> Email: givanna.haryonoputri@sydney.edu.au <br/>
 &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/TwitterSVG.svg" alt="Twitter logo" width="20"> Twitter: [@Givanna90](https://twitter.com/Givanna90) <br/>
 
 **Sites and academic profiles**
