@@ -3,7 +3,7 @@ layout: post
 title: Single Cell Biology node launch (Wed 22 June 2022, 12-5 pm)
 ---
 
-![](https://prod-swiftdigital-staticassets.s3-ap-southeast-2.amazonaws.com/sd_images/zzzz5276d2a792daa722zzzz629e970ca4ad5220)
+![](https://pbs.twimg.com/media/FVPwBkcVIAAteKh?format=png&name=4096x4096)
 
 <p>
 <b>
