@@ -13,7 +13,7 @@ Single Cell Biology node launch (Wed 22-June, 12-5 pm)
 </b>
 </p>
 
-The Charles Perkins Centre Single Cell Biology node welcomes you to the launch of this network of collaborators with expertise in single cell technologies. Find out how you can apply this to your own research.
+The <a href="https://www.sydney.edu.au/charles-perkins-centre/">Charles Perkins Centre</a> Single Cell Biology node welcomes you to the launch of this network of collaborators with expertise in single cell technologies. Find out how you can apply this to your own research.
 
 This is a hybrid event. We welcome attendees to join us online via Zoom or in person at the Charles Perkins Centre. Lunch will be provided from 12pm prior to the event commencing at 1pm. Attendees are invited to stay for networking refreshments after the event. Please register below and indicate your attendance mode for catering purposes.
 
