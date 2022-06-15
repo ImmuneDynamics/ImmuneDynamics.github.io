@@ -22,7 +22,7 @@ This is a hybrid event. We welcome attendees to join us online via Zoom or in pe
 </a>
 <b><span style="font-size: 16px">  |  </span></b>
 <a href="https://www.sydney.edu.au/charles-perkins-centre/our-research/current-research/integrative-systems-and-modelling/single-cell-biology.html" target="_blank" rel="noopener noreferrer">
-<b><span style="font-size: 16px">NODE WEBPAGE</span></b>
+<b><span style="font-size: 16px">NODE WEBSITE</span></b>
 </a>
 
 <br />
