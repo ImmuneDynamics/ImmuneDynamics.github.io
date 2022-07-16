@@ -19,7 +19,7 @@ Since the launch of our hosting website in March 2021, the software and associat
 
 ## Works citing Spectre
 
-Our software and associated analysis protocols have been cited in at least 37 publications since 2018, both with our team and independently, in prestigious journals such as [Cell](https://doi.org/10.1016/j.cell.2018.08.013), [Nature Immunology](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation), and [Blood](https://ashpublications.org/blood/article/138/Supplement%201/2168/478408). It is also a featured analysis package for the [Human Cell Atlas](https://data.humancellatlas.org/analyze/methods/spectre) project. Spectre has been used in the study of 
+Our software and associated analysis protocols have been cited in at least 38 publications since 2018, both with our team and independently, in prestigious journals such as [Cell](https://doi.org/10.1016/j.cell.2018.08.013), [Nature Immunology](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation), and [Blood](https://ashpublications.org/blood/article/138/Supplement%201/2168/478408). It is also a featured analysis package for the [Human Cell Atlas](https://data.humancellatlas.org/analyze/methods/spectre) project. Spectre has been used in the study of 
 [COVID-19](https://www.sciencedirect.com/science/article/pii/S2666379121000197) pathogenesis, 
 [vaccine](https://www.nature.com/articles/s41385-021-00379-6) responses, 
 [NK cell](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006999) biology, 
@@ -34,10 +34,11 @@ among others.
 
 - Ashhurst A et al, 2022, [Research Square](https://assets.researchsquare.com/files/rs-1179181/v1/6c963fd7-b135-468c-83a3-39502e135591.pdf?c=1641417736) (pre-print)
 - Bartolo et al, 2021, [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.29.470421v1.abstract) (pre-print)
-- Putri et al, 2021, [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.08.447468v1) (pre-print)
 
 *Cited in research*
 
+- Verstegen et al, 2022, [eLife](https://elifesciences.org/articles/77969)
+- Putri et al, 2022, [Cytometry A](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24668)
 - Zhang et al, 2022, [Nature Communications](https://www.nature.com/articles/s41467-022-30088-y)
 - West et al, 2022, [Journal of Neuroinflammation](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-022-02441-x)
 - Marsh-Wakefield et al, 2022, [ Immunology and Cell Biology](https://doi.org/10.1111/imcb.12552)
