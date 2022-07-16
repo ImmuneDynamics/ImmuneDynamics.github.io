@@ -6,7 +6,7 @@ permalink: /thomas-ashhurst/publications/
 
 ![Publications](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Publication%202.png)
 
-My publications consist of [1 book](https://immunedynamics.io/thomas-ashhurst/publications/#books), [1 current pre-print](https://immunedynamics.io/thomas-ashhurst/publications/#pre-prints), and [29 published articles](https://immunedynamics.io/thomas-ashhurst/publications/#publications), with [732 citations](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) since 2012 and an [h-index of 15](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) (via Google Scholar). These publications include [1 as co-lead editor](https://immunedynamics.io/thomas-ashhurst/publications/stats), [7 as lead or co-lead author](https://immunedynamics.io/thomas-ashhurst/publications/stats), and [5 as senior or co-supervising author](https://immunedynamics.io/thomas-ashhurst/publications/stats); with [2 as corresponding author](https://immunedynamics.io/thomas-ashhurst/publications/stats). Online publication lists can be found on 
+My publications consist of [1 book](https://immunedynamics.io/thomas-ashhurst/publications/#books) and [31 published articles](https://immunedynamics.io/thomas-ashhurst/publications/#publications), with [810 citations](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) since 2012 and an [h-index of 15](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) (via Google Scholar). These publications include [1 as co-lead editor](https://immunedynamics.io/thomas-ashhurst/publications/stats), [7 as lead or co-lead author](https://immunedynamics.io/thomas-ashhurst/publications/stats), and [5 as senior or co-supervising author](https://immunedynamics.io/thomas-ashhurst/publications/stats); with [2 as corresponding author](https://immunedynamics.io/thomas-ashhurst/publications/stats). Online publication lists can be found on 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date),
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="15"> 
 [Google Scholar](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en),
@@ -50,17 +50,6 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 ---
 
-
-<div class='row'>
-    <div class="image">
-        <a href="#">
-            <img src="https://pbs.twimg.com/media/E3fVnu9VgAo9BYl?format=jpg&name=4096x4096" alt="icon" width="250" align="right">
-        </a>
-    </div>
-</div>
-
-GH Putri, J Chung, DN Edwards, F Marsh-Wakefield, S Dervish, I Koprinska, NJC King, **TM Ashhurst**, MN Read. 2021. [TrackSOM: mapping immune response dynamics through sequential clustering of time- and disease-course single-cell cytometry data](https://www.biorxiv.org/content/10.1101/2021.06.08.447468v1). bioRxiv (pre-print).
-
 <br />
 
 
@@ -71,6 +60,39 @@ GH Putri, J Chung, DN Edwards, F Marsh-Wakefield, S Dervish, I Koprinska, NJC Ki
 ## Publications
 
 ---
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://pbs.twimg.com/media/FXyLVdjaMAIbFeo?format=jpg&name=360x360" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+Niels JM Verstegen, Ruth R Hagen, Jet van den Dijssel, Lisan H Kuijper, Christine Kreher, **Thomas Ashhurst**, Laura YL Kummer, ... Marieke SM van Ham, Anja ten Brinke, Carolien E van de Sandt, on behalf of the T2B! immunity against SARS-CoV-2 study group. 2022. [Immune dynamics in SARS-CoV-2 experienced immunosuppressed rheumatoid arthritis or multiple sclerosis patients vaccinated with mRNA-1273](https://elifesciences.org/articles/77969). eLife.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://pbs.twimg.com/media/FWxoSnJWYAAqAPe?format=jpg&name=4096x4096" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+Givanna H Putri, Jonathan Chung, Davis N Edwards, Felix Marsh‐Wakefield, Irena Koprinska, Suat Dervish, Nicholas JC King, **Thomas M Ashhurst**, Mark N Read. 2022. [TrackSOM: mapping immune response dynamics through clustering of time‐course cytometry data](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24668). Cytometry Part A.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 <div class='row'>
     <div class="image">
