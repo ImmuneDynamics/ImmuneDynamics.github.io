@@ -6,13 +6,9 @@ permalink: workshops/virtualcomputers/
 
 ---
 
-For your workshop, we have prepared virtual computers that you can connect to and use to perform the analysis we demonstrate during the session. The relevant software has been pre-installed, so you can get started immediately with the analysis process.
+For your workshop, we have prepared virtual computers that you can connect to and use to perform the analysis we demonstrate during the session. The relevant software has been pre-installed, so you can get started immediately with the analysis process. **You will receive an email with specific instructions for how to register for one of the computers**, and then you can follow the instructions below to access and interact with the virtual computers.
 
-**You will receive an email with specific instructions for how to register for one of the computers**, and then you can follow the instructions below to access and interact with the virtual computers.
-
-<br />
-
-***If you are on Mac, download Microsoft [Remote Desktop app](https://apps.apple.com/au/app/microsoft-remote-desktop/id1295203466?mt=12) from the app store.***
+If you have an issues with the steps below, please email [thomas.ashhurst@sydney.edu.au](mailto:thomas.ashhurst@sydney.edu.au). 
 
 <br />
 
@@ -21,6 +17,8 @@ For your workshop, we have prepared virtual computers that you can connect to an
 ## 1. Register for a computer using the link you were emailed
 
 ---
+
+***If you are on Mac, download Microsoft [Remote Desktop app](https://apps.apple.com/au/app/microsoft-remote-desktop/id1295203466?mt=12) from the app store.***
 
 You will receive an email inviting you to register and connect to one of the computers -- go to that link and enter your details. Note: If you do not have a Microsoft account, you will be prompted to create one. Click “get a new Microsoft account”.
 
