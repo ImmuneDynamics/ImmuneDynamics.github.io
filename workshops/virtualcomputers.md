@@ -10,6 +10,8 @@ For your workshop, we have prepared virtual computers that you can connect to an
 
 **You will receive an email with specific instructions for how to register for one of the computers**, and then you can follow the instructions below to access and interact with the virtual computers.
 
+<br />
+
 ***If you are on Mac, download Microsoft [Remote Desktop app](https://apps.apple.com/au/app/microsoft-remote-desktop/id1295203466?mt=12) from the app store.***
 
 <br />
