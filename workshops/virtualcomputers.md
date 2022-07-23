@@ -34,7 +34,7 @@ Once done, you will see a page similar to the following, but will have the name 
 
 The computer template itself might not be launched yet, in which case you will see the following -- not to worry, this just means we are finalising some of the software and datasets that will come pre-installed on the computer! We will let you know when the computers are online.
 
-![image](https://user-images.githubusercontent.com/11766139/140457517-daef36d9-2dd4-4237-9bb2-68035bcf21cf.png)
+<img width="378" alt="Screen Shot 2022-07-23 at 7 57 39 pm" src="https://user-images.githubusercontent.com/11766139/180600445-ae1edb49-9c82-4231-8fa5-dba234a2a652.png">
 
 That's all you need to to get registered, come back when you are ready to start up your computer. Typically we activate these computers 1 hr before the workshop begins.
 
