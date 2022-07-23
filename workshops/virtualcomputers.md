@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Virtual computers
-permalink: /virtualcomputers/
+permalink: workshops/virtualcomputers/
 ---
 
 ---
