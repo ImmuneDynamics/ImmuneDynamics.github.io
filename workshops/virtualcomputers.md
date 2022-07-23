@@ -46,7 +46,7 @@ That's all you need to to get registered, come back when you are ready to start 
 
 ---
 
-You should’ve received an email inviting you to register and connect to one of the computers (where you registered above) -- go to that link and sign in using your details.
+You will have received an email inviting you to register and connect to one of the computers (where you registered above) -- go to that link and sign in using your details.
 
 The word “Stopped” indicate the computer is not turned on yet. 
 
