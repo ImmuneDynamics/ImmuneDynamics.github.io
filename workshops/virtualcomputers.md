@@ -6,7 +6,9 @@ permalink: /virtualcomputers/
 
 ---
 
-For your workshop, we have prepared a virtual machine that you can use to run the code we show during the session. You will have a received instructions for how to register for the computers separately. Below are the instructions for how to access and interact with the virtual computers.
+For your workshop, we have prepared virtual computers that you can connect to and use to perform the analysis we demonstrate during the session. The relevant software has been pre-installed, so you can get started immediately with the analysis process.
+
+**You will receive an email with specific instructions for how to register for one of the computers**, and then you can follow the instructions below to access and interact with the virtual computers.
 
 <br />
 
@@ -16,7 +18,7 @@ For your workshop, we have prepared a virtual machine that you can use to run th
 
 ***If you are on Mac, download Microsoft [Remote Desktop app](https://apps.apple.com/au/app/microsoft-remote-desktop/id1295203466?mt=12) from the app store.***
 
-You should’ve received an email inviting you to register and connect to one of the computers -- go to that link and enter your details. Note: If you do not have a Microsoft account, you will be prompted to create one. Click “get a new Microsoft account”.
+You will receive an email inviting you to register and connect to one of the computers -- go to that link and enter your details. Note: If you do not have a Microsoft account, you will be prompted to create one. Click “get a new Microsoft account”.
 
 Wait until the system finalise the registration process
 
