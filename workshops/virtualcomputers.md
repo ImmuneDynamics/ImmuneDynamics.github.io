@@ -10,13 +10,15 @@ For your workshop, we have prepared virtual computers that you can connect to an
 
 **You will receive an email with specific instructions for how to register for one of the computers**, and then you can follow the instructions below to access and interact with the virtual computers.
 
+***If you are on Mac, download Microsoft [Remote Desktop app](https://apps.apple.com/au/app/microsoft-remote-desktop/id1295203466?mt=12) from the app store.***
+
 <br />
 
-## Register for a computer
+
+
+## 1. Register for a computer using the link you were emailed
 
 ---
-
-***If you are on Mac, download Microsoft [Remote Desktop app](https://apps.apple.com/au/app/microsoft-remote-desktop/id1295203466?mt=12) from the app store.***
 
 You will receive an email inviting you to register and connect to one of the computers -- go to that link and enter your details. Note: If you do not have a Microsoft account, you will be prompted to create one. Click “get a new Microsoft account”.
 
@@ -36,7 +38,9 @@ That's all you need to to get registered, come back when you are ready to start 
 
 <br />
 
-## Logging on
+
+
+## 2. Log on to the virtual computer
 
 ---
 
@@ -80,7 +84,10 @@ Now please log out and turn the machine off. Follow the Log Off procedure on the
 
 <br />
 
-## Logging off
+
+
+
+## 3. Log off the virtual computer
 
 ---
 
