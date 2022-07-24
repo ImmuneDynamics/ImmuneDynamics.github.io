@@ -66,7 +66,7 @@ It shall open up Microsoft Remote Desktop app, and you will be greeted with some
 
 ![image](https://user-images.githubusercontent.com/11766139/140456152-6ef7deb9-99ac-4290-a83a-1ad364e478d2.png)
 
-Enter the username and password you were provided
+Enter the **username** and **password** you were provided in the email.
 
 *Note: Note on windows you will see this prompt as well after entering your password. Just click “yes”.*
 
