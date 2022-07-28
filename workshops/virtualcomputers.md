@@ -6,6 +6,8 @@ permalink: workshops/virtualcomputers/
 
 ---
 
+https://unisyd-my.sharepoint.com/:f:/g/personal/thomas_ashhurst_sydney_edu_au/EtwQd_dIOHdOvUb3enqZ3gQBfP0Tp4BC7Ez4Vx7zl_vE4g?e=QGoWFX
+
 For your workshop, we have prepared virtual computers that you can connect to and use to perform the analysis we demonstrate during the session. The relevant software has been pre-installed, so you can get started immediately with the analysis process. **You will receive an email with specific instructions for how to register for one of the computers**, and then you can follow the instructions below to access and interact with the virtual computers.
 
 If you have an issues with the steps below, please email [thomas.ashhurst@sydney.edu.au](mailto:thomas.ashhurst@sydney.edu.au). 
