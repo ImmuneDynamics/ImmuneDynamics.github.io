@@ -16,31 +16,23 @@ permalink: /thomas-ashhurst/publications/stats/
 
 
 
-## Corresponding author
+## Lead, senior, or corresponding author
 
-1. **TM Ashhurst**\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... 2021. [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). Cytometry A. *Corresponding author*.
+1. Givanna H Putri, Jonathan Chung, Davis N Edwards, Felix Marsh‐Wakefield, Irena Koprinska, Suat Dervish, Nicholas JC King, **Thomas M Ashhurst**, Mark N Read. 2022. [TrackSOM: mapping immune response dynamics through clustering of time‐course cytometry data](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24668). Cytometry Part A.
 
-2. **TM Ashhurst**, AL Smith, NJC King. 2017. [High‐Dimensional Fluorescence Cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). Current Protocols in Immunology 119 (1), 5.8. 1-5.8. 38. *Corresponding author*.
+2. **TM Ashhurst**\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... 2021. [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://doi.org/10.1002/cyto.a.24350). Cytometry A. *Corresponding author*.
 
-<br/>
+3. P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. 2020. [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). Cytometry Part A.
 
+4. **TM Ashhurst**, DA Cox, AL Smith, NJC King. 2019. [Analysis of the murine bone marrow hematopoietic system using mass and flow cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). Mass Cytometry, 159-192
 
+5. R Salomon\*, C Hall\*, **TM Ashhurst**\* (2019). Cytometry in the Era of the Human Cell Atlas (WS06). Part of: K Czechowsk et al. (2019). [Cyt‐Geist: Current and future challenges in cytometry: Reports of the CYTO 2018 conference workshops](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.23777). Cytometry Part A 95 (6), 598-644
 
-## Lead or co-lead author
+6. **TM Ashhurst**, AL Smith, NJC King. 2017. [High‐Dimensional Fluorescence Cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). Current Protocols in Immunology 119 (1), 5.8. 1-5.8. 38. *Corresponding author*.
 
-1. **TM Ashhurst**\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... 2021. [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1.abstract). Cytometry A. *Corresponding author*.
+7. **TM Ashhurst**\*, C van Vreden\*, P Niewold\*, NJC King. 2014. [The plasticity of inflammatory monocyte responses to the inflamed central nervous system](https://www.sciencedirect.com/science/article/pii/S0008874914001117). Cellular immunology 291 (1-2), 49-57
 
-2. P Niewold\*, **TM Ashhurst**\*, AL Smith, NJC King. 2020. [Evaluating spectral cytometry for immune profiling in viral disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24211). Cytometry Part A.
-
-3. **TM Ashhurst**, DA Cox, AL Smith, NJC King. 2019. [Analysis of the murine bone marrow hematopoietic system using mass and flow cytometry](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12). Mass Cytometry, 159-192
-
-4. R Salomon\*, C Hall\*, **TM Ashhurst**\* (2019). Cytometry in the Era of the Human Cell Atlas (WS06). Part of: K Czechowsk et al. (2019). [Cyt‐Geist: Current and future challenges in cytometry: Reports of the CYTO 2018 conference workshops](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.23777). Cytometry Part A 95 (6), 598-644
-
-5. **TM Ashhurst**, AL Smith, NJC King. 2017. [High‐Dimensional Fluorescence Cytometry](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpim.37). Current Protocols in Immunology 119 (1), 5.8. 1-5.8. 38. *Corresponding author*.
-
-6. **TM Ashhurst**\*, C van Vreden\*, P Niewold\*, NJC King. 2014. [The plasticity of inflammatory monocyte responses to the inflamed central nervous system](https://www.sciencedirect.com/science/article/pii/S0008874914001117). Cellular immunology 291 (1-2), 49-57
-
-7. **TM Ashhurst**, C Van Vreden, L Munoz-Erazo, P Niewold, K Watabe, ... 2013. [Antiviral macrophage responses in flavivirus encephalitis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3928696/). The Indian journal of medical research 138 (5), 632
+8. **TM Ashhurst**, C Van Vreden, L Munoz-Erazo, P Niewold, K Watabe, ... 2013. [Antiviral macrophage responses in flavivirus encephalitis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3928696/). The Indian journal of medical research 138 (5), 632
 
 <br/>
 <br/>
@@ -67,12 +59,21 @@ permalink: /thomas-ashhurst/publications/stats/
 
 
 
-
 ## Co-author
 
-- T Liechti, L Weber, **TM Ashhurst**, N Stanley, M Prlic, S Van Gassen, F Mair. (2021). [An updated guide for the perplexed: cytometry in the high-dimensional era](https://www.nature.com/articles/s41590-021-01006-z). Nature Immunology.
+- W Zhang, B Chua, K Selva, L Kedzierski, **T Ashhurst**, E Haycroft, ... Thi Nguyen, Katherine Kedzierska. 2022. [SARS-CoV-2 infection results in immune responses in the respiratory tract and peripheral blood that suggest mechanisms of disease severity](https://www.nature.com/articles/s41467-022-30088-y). Nature Communications.
 
-- W Zhang, B Chua, K Selva, L Kedzierski, **T Ashhurst**, E Haycroft, ... Thi Nguyen, Katherine Kedzierska. 2021. [Immune responses in COVID-19 respiratory tract and blood reveal mechanisms of disease severity](https://www.researchsquare.com/article/rs-802084/v1). Research Square (pre-print).
+- Phillip K. West, Andrew N. McCorkindale, Boris Guennewig, **Thomas M. Ashhurst**, Barney Viengkhou, Emina Hayashida, So Ri Jung, Oleg Butovsky, Iain L. Campbell & Markus J. Hofer (2022). [The cytokines interleukin-6 and interferon-α induce distinct microglia phenotypes](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-022-02441-x). Journal of Neuroinflammation. 19, 96.
+
+- Felix Marsh-Wakefield, Pierre Juillard, **Thomas M Ashhurst**, Annette Juillard, Diana Shinko, Givanna H Putri, Mark N Read, Helen M McGuire, Scott N Byrne, Simon Hawke, Georges E Grau (2022). [Peripheral B cell dysregulation is associated with relapse after long-term quiescence in multiple sclerosis patients](https://doi.org/10.1111/imcb.12552). Immunology and Cell Biology. Online.
+
+- Niels JM Verstegen, Ruth R Hagen, Jet van den Dijssel, Lisan H Kuijper, Christine Kreher, **Thomas Ashhurst**, Laura YL Kummer, ... Marieke SM van Ham, Anja ten Brinke, Carolien E van de Sandt, on behalf of the T2B! immunity against SARS-CoV-2 study group. 2022. [Immune dynamics in SARS-CoV-2 experienced immunosuppressed rheumatoid arthritis or multiple sclerosis patients vaccinated with mRNA-1273](https://elifesciences.org/articles/77969). eLife.
+
+- LuukWieske, Koos P Jvan Dam, Maurice Steenhuis, ... Filip Eftimov on behalf of the **T2B! Immunity against SARS-CoV-2 study group**. [Humoral responses after second and third SARS-CoV-2 vaccination in patients with immune-mediated inflammatory disorders on immunosuppressants: a cohort study](https://www.sciencedirect.com/science/article/pii/S2665991322000340#!). The Lancet Rheumatology. In press.
+
+
+
+- T Liechti, L Weber, **TM Ashhurst**, N Stanley, M Prlic, S Van Gassen, F Mair. (2021). [An updated guide for the perplexed: cytometry in the high-dimensional era](https://www.nature.com/articles/s41590-021-01006-z). Nature Immunology.
 
 - F Marsh-Wakefield\*, A Mitchell\*, S Norton, **TM Ashhurst**, ... HM McGuire, R Kemp. 2021. [Making the most of high dimensional cytometry data](https://doi.org/10.1111/imcb.12456). Immunology and Cellular Biology.
 
