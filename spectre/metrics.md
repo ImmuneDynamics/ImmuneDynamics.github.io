@@ -13,7 +13,7 @@ permalink: /spectre/metrics/
 
 ## User stats
 
-Since the launch of our hosting website in March 2021, the software and associated protocols have attracted >3000 unique users (as of April 2022), averaging 250 new users per month from across the world, including Australia (25.7%), United States (26.6%), Germany (11.08%), United Kingdom (5.1%), China (4.44%), among others.
+Since the launch of our hosting website in March 2021, the software and associated protocols have attracted >4700 unique users (as of August 2022), averaging 330 new users per month from across the world, including Australia (25.7%), United States (26.6%), Germany (11.08%), United Kingdom (5.1%), China (4.44%), among others.
 
 <p> </p>
 
@@ -33,15 +33,19 @@ among others.
 *Cited in pre-prints*
 
 - Ashhurst A et al, 2022, [Research Square](https://assets.researchsquare.com/files/rs-1179181/v1/6c963fd7-b135-468c-83a3-39502e135591.pdf?c=1641417736) (pre-print)
-- Bartolo et al, 2021, [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.29.470421v1.abstract) (pre-print)
 
 *Cited in research*
 
+- León-Lara et al, 2022, [Frontiers in Immunology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8891705/)
+- Baker et al, 2022, [USYD](https://ses.library.usyd.edu.au/handle/2123/29173)
+- Teo et al, 2022, [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.29.493337v2.abstract)
+- Souza-Fonseca-Guimaraes et al, 2022, [Cancer Immunology](https://aacrjournals.org/cancerimmunolres/article-abstract/doi/10.1158/2326-6066.CIR-21-1052/707295)
+- Bartolo et al, 2022, [Science Immunology](https://www.science.org/doi/full/10.1126/sciimmunol.abn3127)
 - Verstegen et al, 2022, [eLife](https://elifesciences.org/articles/77969)
 - Putri et al, 2022, [Cytometry A](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24668)
 - Zhang et al, 2022, [Nature Communications](https://www.nature.com/articles/s41467-022-30088-y)
 - West et al, 2022, [Journal of Neuroinflammation](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-022-02441-x)
-- Marsh-Wakefield et al, 2022, [ Immunology and Cell Biology](https://doi.org/10.1111/imcb.12552)
+- Marsh-Wakefield et al, 2022, [Immunology and Cell Biology](https://doi.org/10.1111/imcb.12552)
 - Chedid et al, 2022, [Frontiers in Immunology](https://europepmc.org/articles/pmc8980213/bin/datasheet_1.docx)
 - León-Lara et al, 2022, [Frontiers in Immunology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8891705/)
 - Spiteri et al, 2022, [Frontiers in Immunology](https://www.researchgate.net/profile/Alanna-Spiteri/publication/359507023_PLX5622_Reduces_Disease_Severity_in_Lethal_CNS_Infection_by_Off-Target_Inhibition_of_Peripheral_Inflammatory_Monocyte_Production/links/6241542f7931cc7ccfff48a8/PLX5622-Reduces-Disease-Severity-in-Lethal-CNS-Infection-by-Off-Target-Inhibition-of-Peripheral-Inflammatory-Monocyte-Production.pdf)
@@ -71,10 +75,11 @@ among others.
 
 *Cited in review*
 
-- Botta et l, 2022, [Blood Advances](https://ashpublications.org/bloodadvances/article/6/2/690/477072/FlowCT-for-the-analysis-of-large-immunophenotypic)
+- Marsh-Wakefield et al, 2022, [Therapeutic Advances in Medical Oncology](https://journals.sagepub.com/doi/full/10.1177/17588359221113270)
+- Botta et al, 2022, [Blood Advances](https://ashpublications.org/bloodadvances/article/6/2/690/477072/FlowCT-for-the-analysis-of-large-immunophenotypic)
 - Opzoomer et al, 2021, [eLife](https://elifesciences.org/articles/62915)
 - Marsh-Wakefield et al, 2021, [Immunology and Cell Biology](https://onlinelibrary.wiley.com/doi/abs/10.1111/imcb.12456)
-- Ye et al, 2021, [Blood](https://ashpublications.org/blood/article/138/Supplement%201/2168/478408)
+- Ye et al, 2021, [Blood](https://ashpublications.org/blood/article/138/Supplement%201/2168/478408) and [iScience](https://www.sciencedirect.com/science/article/pii/S2589004222004953)
 - Spiteri et al 2020, [Frontiers in Immunology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7752943/)
 
 <br />
