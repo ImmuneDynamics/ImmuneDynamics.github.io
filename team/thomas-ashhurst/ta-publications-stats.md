@@ -18,7 +18,7 @@ permalink: /thomas-ashhurst/publications/stats/
 
 ## Lead, senior, or corresponding author
 
-1. Givanna H Putri, Jonathan Chung, Davis N Edwards, Felix Marsh‐Wakefield, Irena Koprinska, Suat Dervish, Nicholas JC King, **Thomas M Ashhurst**, Mark N Read. 2022. [TrackSOM: mapping immune response dynamics through clustering of time‐course cytometry data](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24668). Cytometry Part A.
+1. Givanna H Putri, Jonathan Chung, Davis N Edwards, Felix Marsh‐Wakefield, Irena Koprinska, Suat Dervish, Nicholas JC King, **Thomas M Ashhurst**\*, Mark N Read\*. 2022. [TrackSOM: mapping immune response dynamics through clustering of time‐course cytometry data](https://onlinelibrary.wiley.com/doi/abs/10.1002/cyto.a.24668). Cytometry Part A.
 
 2. **TM Ashhurst**\*, F Marsh-Wakefield\*, GH Putri\*, AG Spiteri, D Shinko, ... 2021. [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://doi.org/10.1002/cyto.a.24350). Cytometry A. *Corresponding author*.
 
