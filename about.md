@@ -43,7 +43,7 @@ You can contact us via [email](mailto:thomas.ashhurst@sydney.edu.au) or on [Twit
         <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FAFAFA;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
           <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">Dr. Thomas Ashhurst
           </div>
-            Immunologist and high-dimensional cytometry specialist, Sydney Cytometry Core Research Facility, The University of Sydney.
+            High-dimensional cytometry specialist, Sydney Cytometry Core Research Facility, The University of Sydney.
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
           <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">Dr. Mark Read
