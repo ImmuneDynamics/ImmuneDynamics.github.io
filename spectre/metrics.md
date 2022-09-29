@@ -19,7 +19,7 @@ Since the launch of our hosting website in March 2021, the software and associat
 
 ## Works citing Spectre
 
-Our software and associated analysis protocols have been cited in at least 43 publications since 2018, both with our team and independently, in prestigious journals such as [Cell](https://doi.org/10.1016/j.cell.2018.08.013), [Nature Immunology](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation), and [Blood](https://ashpublications.org/blood/article/138/Supplement%201/2168/478408). It is also a featured analysis package for the [Human Cell Atlas](https://data.humancellatlas.org/analyze/methods/spectre) project. Spectre has been used in the study of 
+Our software and associated analysis protocols have been cited in at least 44 publications since 2018, both with our team and independently, in prestigious journals such as [Cell](https://doi.org/10.1016/j.cell.2018.08.013), [Nature Immunology](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation), and [Blood](https://ashpublications.org/blood/article/138/Supplement%201/2168/478408). It is also a featured analysis package for the [Human Cell Atlas](https://data.humancellatlas.org/analyze/methods/spectre) project. Spectre has been used in the study of 
 [COVID-19](https://www.sciencedirect.com/science/article/pii/S2666379121000197) pathogenesis, 
 [vaccine](https://www.nature.com/articles/s41385-021-00379-6) responses, 
 [NK cell](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006999) biology, 
@@ -32,6 +32,7 @@ among others.
 
 *Cited in pre-prints*
 
+- Ryan FJ et al, 2022, [medRxiv](https://www.medrxiv.org/content/10.1101/2022.09.22.22280180v1).
 - Ashhurst A et al, 2022, [Research Square](https://assets.researchsquare.com/files/rs-1179181/v1/6c963fd7-b135-468c-83a3-39502e135591.pdf?c=1641417736) (pre-print)
 
 *Cited in research*
