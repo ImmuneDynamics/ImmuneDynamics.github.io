@@ -16,9 +16,9 @@ The Spectre package was developed by [Thomas Ashhurst](https://immunedynamics.gi
 
 ## Usage
 
-Since the launch of our hosting website in March 2021, the software and associated protocols have attracted >3000 unique users (as of April 2022), averaging 250 new users per month from across the world, including Australia (25.7%), United States (26.6%), Germany (11.08%), United Kingdom (5.1%), China (4.44%), among others. 
+Since the launch of our hosting website in March 2021, the software and associated protocols have attracted >4700 unique users (as of August 2022), averaging 330 new users per month from across the world, including Australia (25.7%), United States (26.6%), Germany (11.08%), United Kingdom (5.1%), China (4.44%), among others.
 
-Our software and associated analysis protocols have been cited in at least 38 publications since 2018, both with our team and independently, in prestigious journals such as [Cell](https://doi.org/10.1016/j.cell.2018.08.013), [Nature Immunology](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation), and [Blood](https://ashpublications.org/blood/article/138/Supplement%201/2168/478408). It is also a featured analysis package for the [Human Cell Atlas](https://data.humancellatlas.org/analyze/methods/spectre) project. Spectre has been used in the study of 
+Our software and associated analysis protocols have been cited in at least 44 publications since 2018, both with our team and independently, in prestigious journals such as [Cell](https://doi.org/10.1016/j.cell.2018.08.013), [Nature Immunology](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation), and [Blood](https://ashpublications.org/blood/article/138/Supplement%201/2168/478408). It is also a featured analysis package for the [Human Cell Atlas](https://data.humancellatlas.org/analyze/methods/spectre) project. Spectre has been used in the study of 
 [COVID-19](https://www.sciencedirect.com/science/article/pii/S2666379121000197) pathogenesis, 
 [vaccine](https://www.nature.com/articles/s41385-021-00379-6) responses, 
 [NK cell](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006999) biology, 
