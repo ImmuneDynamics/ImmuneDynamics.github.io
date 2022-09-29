@@ -16,11 +16,9 @@ Spectre can be used for the analysis of single-cell genomics data, in addition t
       </td>
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Analysing scRNAseq data with cytometry tools</b></p>
-        <p>A short tutorial on using cytometry-based clustering tools with scRNAseq data.
+        <p>A short tutorial on using cytometry-based clustering tools with scRNAseq data</p>
                   <p style="color:#00003f">
-                      <a href="https://wiki.centenary.org.au/pages/viewpage.action?pageId=169664357#" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
-                        GO TO PAGE
-                      </span></b></a>
+                      <a href="https://wiki.centenary.org.au/pages/viewpage.action?pageId=169664357#" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
                   </p>  
       </td>
       </tr>
