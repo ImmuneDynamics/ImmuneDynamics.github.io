@@ -10,30 +10,15 @@ Spectre is an R package and computational toolkit that enables comprehensive end
 
 The Spectre package was developed by [Thomas Ashhurst](https://immunedynamics.github.io/thomas-ashhurst/) (the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au/), The University of Sydney and Centenary Institute), [Felix Marsh-Wakefield](https://immunedynamics.github.io/felix-marsh-wakefield/) (the School of Medical Sciences, The University of Sydney), and [Givanna Putri](https://immunedynamics.github.io/givanna-putri/) (the School of IT, The University of Sydney); with support from Alanna Spiteri, Dr. Diana shinko, Dr. Mark Read, Dr. Adrian Smith, and Prof. Nicholas King.
 
-<br />
+**Key publications**:
 
----
+- v0: Ashhurst et al, 2019, [Mass Cytometry: Methods and Protocols](https://doi.org/10.1002/cyto.a.24350) (referred to at the time as 'CAPX')
+- v1: Ashhurst et al, 2021, [Cytometry A](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)
 
-## Usage
-
-Since the launch of our hosting website in March 2021, the software and associated protocols have attracted >4700 unique users (as of August 2022), averaging 330 new users per month from across the world, including Australia (25.7%), United States (26.6%), Germany (11.08%), United Kingdom (5.1%), China (4.44%), among others.
-
-Our software and associated analysis protocols have been cited in at least 44 publications since 2018, both with our team and independently, in prestigious journals such as [Cell](https://doi.org/10.1016/j.cell.2018.08.013), [Nature Immunology](https://www.researchgate.net/publication/343838774_The_NK_cell_granule_protein_NKG7_regulates_cytotoxic_granule_exocytosis_and_inflammation), and [Blood](https://ashpublications.org/blood/article/138/Supplement%201/2168/478408). It is also a featured analysis package for the [Human Cell Atlas](https://data.humancellatlas.org/analyze/methods/spectre) project. Spectre has been used in the study of 
-[COVID-19](https://www.sciencedirect.com/science/article/pii/S2666379121000197) pathogenesis, 
-[vaccine](https://www.nature.com/articles/s41385-021-00379-6) responses, 
-[NK cell](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006999) biology, 
-[multiple myeloma](https://ashpublications.org/bloodadvances/article/4/19/4593/463891/Inverse-relationship-between-oligoclonal-expanded), 
-[pediatric burns](https://www.frontiersin.org/articles/10.3389/fimmu.2020.01481/full), 
-[multiple sclerosis](https://onlinelibrary.wiley.com/doi/full/10.1002/cti2.1133), 
-[bone marrow](https://www.frontiersin.org/articles/10.3389/fimmu.2018.01672/full) transplantation, and 
-[cerebral malaria](https://www.nature.com/articles/s42003-018-0216-2), 
-among others.
-
-***See a full list of publications citing Spectre [here](https://immunedynamics.io/spectre/metrics/)***
+***See our usage statistics and a full list of publications citing Spectre [here](https://immunedynamics.io/spectre/metrics/)***
 
 <br />
 
----
 
 ## Background
 
@@ -51,7 +36,6 @@ As the size and complexity of high-dimensional cytometry data continues to expan
 
 <br />
 
----
 
 ## What is Spectre
 
@@ -69,7 +53,6 @@ In the following presentation, we describe the integration, exploration, and ana
 
 <br />
 
----
 
 ## Spectre built on data.table
 
@@ -79,7 +62,6 @@ Rather than storing analysis outputs (clusters, dimensionality reduction values,
 
 <br />
 
----
 
 ## Clustering and dimensionality reduction strategies for large datasets
 
