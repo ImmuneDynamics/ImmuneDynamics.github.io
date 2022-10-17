@@ -32,14 +32,14 @@ among others.
 
 *Cited in pre-prints*
 
-- Ryan FJ et al, 2022, [medRxiv](https://www.medrxiv.org/content/10.1101/2022.09.22.22280180v1).
+- Ryan FJ et al, 2022, [medRxiv](https://www.medrxiv.org/content/10.1101/2022.09.22.22280180v1)
+- Teo et al, 2022, [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.29.493337v2.abstract)
 - Ashhurst A et al, 2022, [Research Square](https://assets.researchsquare.com/files/rs-1179181/v1/6c963fd7-b135-468c-83a3-39502e135591.pdf?c=1641417736) (pre-print)
 
 *Cited in research*
 
 - León-Lara et al, 2022, [Frontiers in Immunology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8891705/)
 - Baker et al, 2022, [USYD](https://ses.library.usyd.edu.au/handle/2123/29173)
-- Teo et al, 2022, [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.29.493337v2.abstract)
 - Souza-Fonseca-Guimaraes et al, 2022, [Cancer Immunology](https://aacrjournals.org/cancerimmunolres/article-abstract/doi/10.1158/2326-6066.CIR-21-1052/707295)
 - Bartolo et al, 2022, [Science Immunology](https://www.science.org/doi/full/10.1126/sciimmunol.abn3127)
 - Verstegen et al, 2022, [eLife](https://elifesciences.org/articles/77969)
