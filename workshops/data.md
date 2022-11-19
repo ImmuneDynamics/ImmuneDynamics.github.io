@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshops and events - 2022
+title: Workshops datasets
 permalink: /workshops/data
 ---
 
