@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workshops datasets
-permalink: /workshops/data
+permalink: /workshops/data/
 ---
 
 ---
