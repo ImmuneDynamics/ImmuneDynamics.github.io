@@ -244,7 +244,7 @@ table-bottom {
   color: #f6f6f6;
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 18px; // 18px default -- changed to 22px -- changed to 20px (most of 2022) -- changed to 18x again
+  font-size: 18px; // 20px default -- changed to 22px -- changed to 20px (most of 2022)
 
   @include mobile {
     margin: 3px 0;
