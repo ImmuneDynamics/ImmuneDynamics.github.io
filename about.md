@@ -111,12 +111,12 @@ You can contact us via [email](mailto:thomas.ashhurst@sydney.edu.au) or on [Twit
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
         <a href="https://www.researchgate.net/profile/Alanna-Spiteri" target="_blank" rel="noopener noreferrer">
-                    <img height = "200px" src="https://i1.rgstatic.net/ii/profile.image/930583249162243-1598879744562_Q512/Alanna-Spiteri.jpg" style="padding-top: 5px">
+                    <img height = "200px" src="https://media.licdn.com/dms/image/C5603AQFYUdtHfAVe_w/profile-displayphoto-shrink_200_200/0/1598880844269?e=1677110400&v=beta&t=LgNaSfXOj4gq-m3FxirtwDozHFVrrXoZ941c4D_T5o0" style="padding-top: 5px">
         </a>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
         <a href="https://www.researchgate.net/profile/Diana-Shinko" target="_blank" rel="noopener noreferrer">
-                    <img height = "200px" src="https://pbs.twimg.com/profile_images/879517624765263872/D_lEvz_M_400x400.jpg" style="padding-top: 5px">
+                    <img height = "200px" src="https://pbs.twimg.com/profile_images/1433454957949161475/0RBshRwA_400x400.jpg" style="padding-top: 5px">
         </a>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;vertical-align:top">
