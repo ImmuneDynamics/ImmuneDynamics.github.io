@@ -135,6 +135,7 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
 
 ## General data manipulation and plotting
 
+<!-- 1st table -->
 <table class="table gmisc_table">
   <tbody>
 <!-- FIRST ROW: TITLE --> 
@@ -149,10 +150,6 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Make great plots with Spectre ggplot2
-        </div>
-      </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Converting data.table to SCE and vice versa
         </div>
       </td>
     </tr>
@@ -204,6 +201,41 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
     </tbody>
 </table>
 
+<!-- 2nd table -->
+<table class="table gmisc_table">
+  <tbody>
+<!-- FIRST ROW: TITLE --> 
+    <tr style="border-top:1px solid grey">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Converting data.table to SCE and vice versa
+        </div>
+      </td>
+    </tr>
+<!-- THIRD ROW: Image --> 
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/spectre/tutorials/datatable_interoperability/images/sce_dt_conversion.png" width="3000" style="padding-top: 5px; padding-left: 25px; padding-right: 25px">
+        </td>
+      </tr>
+<!-- FOURTH ROW: Description --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+          A tutorial on how to convert data.table to SCE and vice versa.
+          </td>
+     </tr>
+<!-- FIFTH ROW: Go to page --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.io/spectre/tutorials/datatable_interoperability/sce_support.html" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                  </p>
+              </div>
+          </td>
+      </tr>
+    </tbody>
+</table>
+
 <br />
 
 ## Quantitative, differential, and statistical analysis including heatmaps
@@ -236,9 +268,6 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
             <img src="https://wiki.centenary.org.au/download/attachments/151793632/image2021-1-13_16-42-20.png?version=1&modificationDate=1610556141061&api=v2" width="3000" style="padding-top: 5px; padding-left: 25px; padding-right: 25px">
         </td>
-        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/spectre/tutorials/datatable_interoperability/images/sce_dt_conversion.png" width="3000" style="padding-top: 5px; padding-left: 25px; padding-right: 25px">
-        </td>
       </tr>
 <!-- FOURTH ROW: Description --> 
       <tr>
@@ -247,9 +276,6 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A tutorial on the use of expression and z-score/fold-change heatmaps in Spectre.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A tutorial on the generation of comparison graphs/violin plots in Spectre.
-          </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-          A tutorial on how to convert data.table to SCE and vice versa.
           </td>
      </tr>
 <!-- FIFTH ROW: Go to page --> 
@@ -272,13 +298,6 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
                       <a href="https://wiki.centenary.org.au/x/An2dCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
-                  </p>
-              </div>
-          </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      <a href="https://immunedynamics.io/spectre/tutorials/datatable_interoperability/sce_support.html" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
                   </p>
               </div>
           </td>
