@@ -1,0 +1,170 @@
+---
+title: "Data.table interoperability with SingleCellExperiment"
+author: "Givanna Putri"
+output: html_document
+date: "22/01/2023"
+---
+
+# Introduction
+
+[SingleCellExperiment](https://bioconductor.org/packages/release/bioc/html/SingleCellExperiment.html) or SCE in short, is a data structure specifically designed for storing single cell (scRNAseq) experiments.
+It is, to a degree, an extension of the [SummarizedExperiment](https://bioconductor.org/packages/release/bioc/html/SummarizedExperiment.html).
+Many (if not almost all) scRNAseq-related packages in Bioconductor either support or use SCE to store data.
+
+This short tutorial will show you how to convert data.table object used by Spectre into SCE, and vice versa. 
+
+# Converting SCE to data.table
+
+To do this, we have built into Spectre, a function to convert SCE into data.table. 
+Currently, the function is only available in `development` branch.
+It will be made available in the `master` branch on our next release.
+
+To use it, you need to first install code from the `development` branch (note, this may take some time):
+```{r, warning=F, message=F}
+remotes::install_github("immunedynamics/Spectre", branch="development")
+```
+
+Let's create some example SCE object from SCE [vignette](https://bioconductor.org/packages/release/bioc/vignettes/SingleCellExperiment/inst/doc/intro.html):
+```{r, message=F, warning=F}
+library(SingleCellExperiment)
+pretend_counts <- matrix(rpois(100, lambda = 10), ncol=10, nrow=10)
+pretend_cell_labels <- sample(letters, ncol(pretend_counts), replace=TRUE)
+pretend_gene_lengths <- sample(10000, nrow(pretend_counts))
+
+pretend_cell_id <- paste0("cell_", c(1: length(pretend_cell_labels)))
+pretend_gene_id <- paste0("gene_", c(1: length(pretend_gene_lengths)))
+
+sce <- SingleCellExperiment(list(counts=pretend_counts),
+    colData=DataFrame(label=pretend_cell_labels, cell_id=pretend_cell_id),
+    rowData=DataFrame(length=pretend_gene_lengths, gene_id=pretend_gene_id),
+    metadata=list(study="PretendStudy")
+)
+rownames(sce) <- pretend_gene_id
+colnames(sce) <- pretend_cell_id
+
+# View the SCE object
+sce
+```
+
+Now to convert this into a data.table:
+```{r, message=F}
+dt_sce <- Spectre::create.dt(sce)
+```
+Few things to note:
+
+1. Cells in SCE are stored as columns while genes are stored as row. This ***will be reversed*** in the converted data.table object!
+2. Your SCE must have `colnames` and `rownames` filled. 
+The former represents the unique ID assigned to each cell while the latter represents the unique ID assigned to each gene (can be something like Ensembl ID for the genes).
+Unique ID for the cell can be the unique cell barcode from 10x if you use 10x kit. 
+If your raw data do not come with any ID that uniquely identify the cells, you can just create one yourself and then attach it to the SCE object using `colnames(sce) = paste0("cell_", c(1: nrow(sce)))`.
+3. The SCE object will be converted into a list. More on this below.
+
+Let's look at the list converted from the SCE object:
+```{r}
+names(dt_sce)
+```
+
+`data.table` element basically contains the data.table object that Spectre's functions operate on:
+```{r}
+head(dt_sce$data.table)
+```
+`geneNames` and `cellNames` are the unique ID for your genes and cells.
+These are the same as the data you used for SCE's `rownames` and `colname`.
+
+`meta.data` contains the metadata for the cells, i.e., whatever you have in the `colData` of the SCE object.
+
+`assays` shows you the name of all the assays in the SCE object. 
+Assays in SCE act like slots for your data.
+Each assay can store an alternative version of your data.
+Raw gene counts are generally stored in the `counts` assay while the log transformed version of it is stored in the `logcounts` assay.
+See [SCE vignette](https://bioconductor.org/packages/release/bioc/vignettes/SingleCellExperiment/inst/doc/intro.html#4_Convenient_access_to_named_assays) for more details.
+The `assays` element in our list only stores the ***name*** of all the assays in your SCE object.
+The data for each of these assays should be in the `data.table` element, in the columns which names are preprended with the assay name.
+For this example, `gene_1` value from `counts` assay is stored under `gene_1_counts` column.
+
+`dim.reds` element will store the ***name*** of all the low-dimensional representations (e.g., the UMAP or tSNE representation of your cells) in the SCE object.
+Like `assays`, the data should be embedded in the `data.table` element. 
+See [SCE vignette](https://bioconductor.org/packages/release/bioc/vignettes/SingleCellExperiment/inst/doc/intro.html#3_Adding_low-dimensional_representations) for more details.
+
+# Converting data.table to SCE
+
+We haven't built a function in Spectre to do this, but it is possible to convert data.table to SCE.
+Let's start with loading up the sample data we have in Spectre:
+```{r}
+dt <- Spectre::demo.clustered
+head(dt)
+```
+
+We can't just load the whole data.table into `SingleCellExperiment` function and expect it to magically create SCE object. 
+
+First, let's isolate the marker expression and transpose it such that the cells are the columns and the markers are the rows.
+We have to transpose as most functions that use SCE will treat the columns as the cells and the rows as the markers (or genes).
+We will store the raw and asinh data in separate assays.
+```{r}
+markers <- c("NK11", "CD3", "CD45", "Ly6G", 
+             "CD11b", "B220", "CD8a", "Ly6C", "CD4")
+sce_counts <- t(dt[, markers, with=F])
+sce_counts_asinh <- t(dt[, paste0(markers, "_asinh"), with=F])
+rownames(sce_counts_asinh) <- markers
+```
+*Note here, I have to rename the row names of the asinh `data.table` as they have to match the raw data when we load the asinh data into SCE.*
+
+Next, we will give our cells a unique ID, and store any metadata or information (e.g. clusters and cell type annotation) about the cells in a `DataFrame` object.
+```{r}
+cell_id <- paste0("cell_", c(1:nrow(dt)))
+cell_meta <- DataFrame(
+    dt[, c(
+        "FileName", "Sample", "Group", "Batch", 
+        "FlowSOM_cluster", "FlowSOM_metacluster", "Population"
+        )
+       ],
+    row.names=cell_id
+)
+```
+*Note here, I use the cell ID as the row names of the `DataFrame`.*
+
+In this sample data, we don't have additional information about our markers. 
+So I'll make one up just as an example:
+```{r}
+marker_meta <- DataFrame(
+    data.table(Panel=rep("Panel_1", 9), Type=rep("Marker", 9)), 
+    row.names=c("NK11", "CD3", "CD45", "Ly6G", 
+                "CD11b", "B220", "CD8a", "Ly6C", "CD4")
+)
+```
+
+And lastly, we will extract the UMAP coordinates:
+```{r}
+umap_dt <- dt[, c("UMAP_X", "UMAP_Y")]
+rownames(umap_dt) <- cell_id
+```
+*Note here, I use the cell ID as the row names of the `umap_dt`. This is mandatory for adding this into SCE later.*
+
+
+We will then create SCE object:
+```{r}
+library(SingleCellExperiment)
+sce <- SingleCellExperiment(
+    assays=list(
+        counts=sce_counts,
+        asinhcounts=sce_counts_asinh
+    ),
+    colData=cell_meta,
+    rowData=marker_meta,
+)
+colnames(sce) <- cell_id
+rownames(sce) <- markers
+reducedDims(sce) <- list(UMAP=umap_dt)
+```
+
+Some things worth noting:
+
+1. Assigning `colnames` and `rownames` to SCE have to be done separately (and after!) from the actual SCE object creation as the function does not allow us to specify `colnames` or `rownames`
+2. Assigning UMAP can only be done after we assign `colnames` as SCE requires the row name for the low-dimensional representations data to be the same as SCE's `colnames`.
+
+Inspect the SCE object:
+```{r}
+sce
+```
+
+And you are good to go! 
