@@ -58,7 +58,7 @@ You can contact us via [email](mailto:thomas.ashhurst@sydney.edu.au) or on [Twit
         <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top"> 
           <div style="text-align:left;font-size:16px;font-weight:350;color:#00003f">Dr. Givanna Putri
           </div>
-            PhD scholar, School of Computer Science at The University of Sydney. 
+            Post-doctoral researcher, Bioinformatics division, Walter and Eliza Hall Institute of Medical Research (WEHI).
         </td>
      </tr>
 <!-- FIFTH ROW: Go to page --> 
