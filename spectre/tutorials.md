@@ -201,6 +201,9 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
     </tbody>
 </table>
 
+<br>
+<br>
+
 <!-- 2nd table -->
 <table class="table gmisc_table">
   <tbody>
@@ -210,18 +213,24 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Converting data.table to SCE and vice versa
         </div>
       </td>
+      <td></td>
+      <td></td>
     </tr>
 <!-- THIRD ROW: Image --> 
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
             <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/spectre/tutorials/datatable_interoperability/images/sce_dt_conversion.png" width="3000" style="padding-top: 5px; padding-left: 25px; padding-right: 25px">
-        </td>
+      </td>
+      <td></td>
+      <td></td>
       </tr>
 <!-- FOURTH ROW: Description --> 
       <tr>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
           A tutorial on how to convert data.table to SCE and vice versa.
           </td>
+          <td></td>
+          <td></td>
      </tr>
 <!-- FIFTH ROW: Go to page --> 
       <tr>
@@ -232,6 +241,8 @@ The [protocol pages](https://immunedynamics.io/spectre/#protocols) contain speci
                   </p>
               </div>
           </td>
+          <td></td>
+          <td></td>
       </tr>
     </tbody>
 </table>
