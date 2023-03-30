@@ -6,6 +6,13 @@ permalink: /spectre/protocols/
 
 This protocol page contains reproducible workflows for different types of analysis using Spectre. If you are new to using R or using Spectre, check out our [getting started](https://immunedynamics.io/spectre/getting-started/) page for installation instructions and basic tutorials.
 
+**Page contents:
+
+* Analysis overviews
+* Cytometry analysis workflows
+* Spatial analysis workflows
+* General scripts and tools
+
 <br />
 
 
