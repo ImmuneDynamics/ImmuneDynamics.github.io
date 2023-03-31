@@ -36,8 +36,6 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 
 # Getting started
 
----
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
@@ -57,8 +55,6 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 <br/>
 
 # Protocols and tutorials
-
----
 
 <table class="table gmisc_table">
   <tbody>
