@@ -1,6 +1,6 @@
 ---
 layout: spectre
-title: Spectre Protocols - Spatial
+title: Spectre - Spatial Analysis
 permalink: /spectre/spatial/
 ---
 
