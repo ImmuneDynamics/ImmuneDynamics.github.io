@@ -4,9 +4,7 @@ title: Spectre Protocols - Cytometry
 permalink: /spectre/cytometry/
 ---
 
-This protocol page contains reproducible workflows for different types of cytometry data analysis using Spectre. For those gettings started with analysis, you can also check out these two commentary papers where we provide considerations for new and experienced users in the design and analysis of high-dimensional experiments: [Marsh-Wakefield et al 2021 (ICB)](https://onlinelibrary.wiley.com/doi/10.1111/imcb.12456), [Liechti et al 2021 (Nature Immunology)](https://www.nature.com/articles/s41590-021-01006-z). 
-
-For more educational content you can check out the [tutorials](https://immunedynamics.io/spectre/cytometry/#tutorials/) at the bottom of the page.
+This protocol page contains reproducible workflows for different types of cytometry data analysis using Spectre. For those gettings started with analysis, first check out our [getting started](https://immunedynamics.github.io/spectre/getting-started/) page for installation instructions and some basic tutorials. For more educational content you can check out the [tutorials](https://immunedynamics.io/spectre/cytometry/#tutorials/) at the bottom of the page.
 
 <br />
 
@@ -19,12 +17,13 @@ For more educational content you can check out the [tutorials](https://immunedyn
           <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_15-17-53.png?version=1&modificationDate=1613891307741&api=v2" width="3000">
       </td>
       <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><b>Overview of computational analysis approaches</b></p>
+        <p><b>Introduction to computational analysis</b></p>
         <p>
-          A brief introduction to the advantages and disadvantages of computational 'discovery' approaches, including clustering and dimensionality reduction.
+          A brief introduction to the advantages and disadvantages of computational 'discovery' approaches, including clustering and dimensionality reduction. 
         </p>
           <a href="https://wiki.centenary.org.au/x/IJnvCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
+          You can also check out these two commentary papers where we provide considerations for new and experienced users in the design and analysis of high-dimensional experiments: <a href="https://onlinelibrary.wiley.com/doi/10.1111/imcb.12456">Marsh-Wakefield et al 2021 (ICB)</a> and <a href="https://www.nature.com/articles/s41590-021-01006-z">Liechti et al 2021 (Nature Immunology)</a>. 
       </td>
       </tr>
     </tbody>
