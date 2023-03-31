@@ -4,7 +4,7 @@ title: Spectre - Single-Cell Analysis
 permalink: /spectre/single-cell/
 ---
 
-Spectre can be used for the analysis of single-cell genomics data, in addition to cytometry and imaging data. [Spectre v2](https://immunedynamics.io/spectre/object) (not yet publically released) will feature significant improvements in the analysis of single-cell genomics data, but in the meantime we have provided some helpful tutorials for using [Spectre v1](https://immunedynamics.io/spectre) with single-cell genomic data.
+Spectre can be used for the analysis of single-cell genomics data, in addition to cytometry and imaging data. [Spectre v2](https://immunedynamics.io/spectre/object) (not yet publically released) will feature significant improvements in the analysis of single-cell genomics data, but in the meantime we have provided some helpful tutorials for using [Spectre v1](https://immunedynamics.io/spectre) with single-cell genomics data.
 
 <br />
 
