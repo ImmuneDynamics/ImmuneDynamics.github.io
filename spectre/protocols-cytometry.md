@@ -38,15 +38,18 @@ This protocol page contains reproducible workflows for different types of cytome
 <!-- FIRST ROW: TITLE -->
     <tr style="border-top:1px solid grey">
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Initial data preparation
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">
+          Initial data preparation
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Simple discovery workflow
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">
+          Simple discovery workflow
         </div>
       </td>
             <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Discovery workflow with batch alignment using CytoNorm
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">
+          Discovery workflow with batch alignment using CytoNorm
         </div>
       </td>
     </tr>
@@ -124,7 +127,7 @@ This protocol page contains reproducible workflows for different types of cytome
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Simple automated cell classification using a kNN classifier
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Simple automated cell classification
         </div>
       </td>
     </tr>
@@ -143,13 +146,13 @@ This protocol page contains reproducible workflows for different types of cytome
 <!-- FOURTH ROW: Description -->
       <tr>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-            Here we provide a time-series clustering workflow using TrackSOM.
+            Clustering analysis of time-series data using the TrackSOM package. Developed by Givanna Putri and Mark Read.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-            Developed by Givanna Putri and the Phipson Lab, SuperCellCyto allows for scalable analysis of very large cytometry datasets, based on the SuperCell R package by David Gfeller lab from the University of Lausanne.
+            SuperCellCyto allows for scalable analysis of very large cytometry datasets. Developed by Givanna Putri and the Phipson Lab, based on the SuperCell R package by David Gfeller lab from the University of Lausanne.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-            Strategies to facilitate automated cell classification.
+            Strategies to facilitate automated cell classification using a kNN classifier.
           </td>
      </tr>
 <!-- FIFTH ROW: Go to page -->
