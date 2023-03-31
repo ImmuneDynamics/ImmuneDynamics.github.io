@@ -4,11 +4,7 @@ title: Spectre Home Page
 permalink: /spectre/
 ---
 
-Spectre is an R package and computational toolkit that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional [cytometry](https://immunedynamics.io/spectre/cytometry/), [spatial/imaging](https://immunedynamics.github.io/spectre/spatial/), or [single-cell](https://immunedynamics.io/spectre/single-cell/) data from different batches or experiments. Spectre streamlines the analytical stages of raw data pre-processing, batch alignment/integration, clustering, dimensionality reduction, visualisation, population annotation, and quantitative/statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by both data and laboratory scientists. 
-
-For **more information** see our [about](https://immunedynamics.github.io/spectre/about/) page and check our our [metrics](https://immunedynamics.io/spectre/metrics/) page for how Spectre has been used in the community. 
-
-To **get started**, check out our [getting started](https://immunedynamics.github.io/spectre/getting-started/), [protocols](https://immunedynamics.github.io/spectre/#protocols), or [tutorial](https://immunedynamics.github.io/spectre/tutorials/) pages below.
+Spectre is an R package and computational toolkit that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional [cytometry](https://immunedynamics.io/spectre/cytometry/), [spatial/imaging](https://immunedynamics.github.io/spectre/spatial/), or [single-cell](https://immunedynamics.io/spectre/single-cell/) data from different batches or experiments. Spectre streamlines the analytical stages of raw data pre-processing, batch alignment/integration, clustering, dimensionality reduction, visualisation, population annotation, and quantitative/statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by both data and laboratory scientists. For **more information** see our [about](https://immunedynamics.github.io/spectre/about/) page and check our our [metrics](https://immunedynamics.io/spectre/metrics/) page for how Spectre has been used in the community. To **get started**, check out our [getting started](https://immunedynamics.github.io/spectre/getting-started/), [protocols](https://immunedynamics.github.io/spectre/#protocols), or [tutorial](https://immunedynamics.github.io/spectre/tutorials/) pages below.
 
 <p> </p>
 
