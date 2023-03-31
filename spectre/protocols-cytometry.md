@@ -23,7 +23,7 @@ This protocol page contains reproducible workflows for different types of cytome
         </p>
           <a href="https://wiki.centenary.org.au/x/IJnvCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
-          You can also check out these two commentary papers where we provide considerations for new and experienced users in the design and analysis of high-dimensional experiments: <a href="https://onlinelibrary.wiley.com/doi/10.1111/imcb.12456">Marsh-Wakefield et al 2021 (ICB)</a> and <a href="https://www.nature.com/articles/s41590-021-01006-z">Liechti et al 2021 (Nature Immunology)</a>. 
+          <i>You can also check out these two commentary papers where we provide considerations for new and experienced users in the design and analysis of high-dimensional experiments: <a href="https://onlinelibrary.wiley.com/doi/10.1111/imcb.12456">Marsh-Wakefield et al 2021 (ICB)</a> and <a href="https://www.nature.com/articles/s41590-021-01006-z">Liechti et al 2021 (Nature Immunology)</a></i>. 
       </td>
       </tr>
     </tbody>
