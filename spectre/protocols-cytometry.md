@@ -37,39 +37,39 @@ This protocol page contains reproducible workflows for different types of cytome
   <tbody>
 <!-- FIRST ROW: TITLE -->
     <tr style="border-top:1px solid grey">
-      <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Initial data preparation
         </div>
       </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Simple discovery workflow
         </div>
       </td>
-            <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+            <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Discovery workflow with batch alignment using CytoNorm
         </div>
       </td>
     </tr>
 <!-- THIRD ROW: Image -->
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
           <img src="https://wiki.centenary.org.au/download/attachments/157279445/image2019-7-4_11-50-14.png?version=1&modificationDate=1582902798592&api=v2" width="3000" style="padding-top: 5px">
       </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
           <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_14-46-9.png?version=1&modificationDate=1613891282510&api=v2" width="3000" style="padding-top: 5px">
       </td>
-        <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
             <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2021-2-28_12-3-31.png?version=1&modificationDate=1614474211754&api=v2" width="3000" style="padding-top: 5px">
         </td>
       </tr>
 <!-- FOURTH ROW: Description -->
       <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
             Here we provide instructions for initial data preparation, including compensation, cleanup gating, and data export from programs such as FlowJo. 
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A simple workflow (with worked example) using a single R script (or single FlowJo workspace) to run clustering/dimensionality reduction, make plots, and perform some limited quantitative/statistical analysis. No batch alignment steps included.
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A simple workflow (with worked example) using a single R script (or single FlowJo workspace) to run clustering/dimensionality reduction, make plots, and perform some limited quantitative/statistical analysis. No batch alignment steps included.
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A analysis workflow for the alignment and analysis of data from multiple batches, using
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A analysis workflow for the alignment and analysis of data from multiple batches, using
             <a href="https://github.com/saeyslab/CytoNorm">CytoNorm</a>
             for batch alignment. If working with very large batch effects, have a look at our
             <a href="https://immunedynamics.github.io/spectre/cytometry/#advanced-applications">data integration</a>
