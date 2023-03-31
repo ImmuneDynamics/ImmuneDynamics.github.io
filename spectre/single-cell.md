@@ -1,6 +1,6 @@
 ---
 layout: spectre
-title: Spectre Protocols - Single-Cell Genomics
+title: Spectre - Single-Cell Analysis
 permalink: /spectre/single-cell/
 ---
 
