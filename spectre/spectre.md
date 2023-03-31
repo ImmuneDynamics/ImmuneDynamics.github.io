@@ -51,7 +51,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
       <td style="padding-left:.75em;width:65%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><b>Getting started with R, RStudio, and Spectre</b></p>
         <p>Here we provide instructions for installing R, RStudio, and Spectre, along with introductory tutorials for getting started.</p>
-          <a href="https://immunedynamics.github.io/spectre/getting-started/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+          <a href="https://immunedynamics.github.io/spectre/getting-started/"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
           <p> </p>
       </td>
       </tr>
@@ -107,21 +107,21 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <a href="https://immunedynamics.io/spectre/cytometry/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                      <a href="https://immunedynamics.io/spectre/cytometry/"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
                   </p>
               </div>
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <a href="https://immunedynamics.github.io/spectre/spatial/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                      <a href="https://immunedynamics.github.io/spectre/spatial/"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
                   </p>
               </div>
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <a href="https://immunedynamics.io/spectre/single-cell/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                      <a href="https://immunedynamics.io/spectre/single-cell/"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
                   </p>
               </div>
           </td>
