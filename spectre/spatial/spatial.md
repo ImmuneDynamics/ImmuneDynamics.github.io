@@ -4,7 +4,9 @@ title: Spectre Protocols - Spatial
 permalink: /spectre/spatial/
 ---
 
-Spectre enables the analysis of high-dimensional imaging data, including data generated using Fluidigm’s Hyperion Imaging Mass Cytometer (IMC). Our current workflows support a basic (using CellProfiler) or comprehensive (using Ilastik) cell and region segmentation approach, followed by cellular and spatial analysis using FlowJo or Spectre (in R). *Please note: the original functions and workflows from SpectreMAP have now been directly incorporated in Spectre.*
+Spectre enables the analysis of high-dimensional imaging data, including data generated using Fluidigm’s Hyperion Imaging Mass Cytometer (IMC). Our current workflows support a basic (using CellProfiler) or comprehensive (using Ilastik) cell and region segmentation approach, followed by cellular and spatial analysis using FlowJo or Spectre (in R). For those gettings started with analysis, first check out our [getting started](https://immunedynamics.github.io/spectre/getting-started/) page for installation instructions and some basic tutorials.
+
+*Please note: the original functions and workflows from SpectreMAP have now been directly incorporated in Spectre.* 
 
 <br />
 
@@ -122,14 +124,19 @@ Here we provide workflows for analysing HD imaging data following cell segmentat
   <tbody>
 <!-- FIRST ROW: TITLE --> 
     <tr style="border-top:1px solid grey">
+       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">
+          Advanced spatial analysis workflow using Spectre (following Ilastik multicut segmentation)
+        </div>
+      </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">
-          Spatial analysis workflow using Spectre
+          Simple spatial analysis workflow using Spectre (following CellProfiler nuclear expansion segmentation)
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">
-          IMC data analysis using FlowJo
+          Spatial data analysis using FlowJo
         </div>
       </td>
     </tr>
@@ -137,15 +144,24 @@ Here we provide workflows for analysing HD imaging data following cell segmentat
     <tr>
        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
             <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/Spectre%20logo%20wide.png" width="3000" style="padding-top: 5px">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/Spatial.png?raw=true" width="3000" style="padding-top: 5px">
+       </td>
+       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/Spectre%20logo%20wide.png" width="3000" style="padding-top: 5px">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/images/Spatial%20basic.png?raw=true" width="3000" style="padding-top: 5px">
        </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
           <img src="https://flowjowebsiteimages.s3-us-west-2.amazonaws.com/media/Solution%20Logos/flowjo-logo.png" width="3000" style="padding-top: 5px">
+        <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/images/Spatial%20FlowJo2.png?raw=true" width="3000" style="padding-top: 5px">
       </td>
       </tr>
 <!-- FOURTH ROW: Description --> 
       <tr>
+           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+            An analysis workflow in R using Spectre that facilitates simultaneous cellular and spatial analysis following boundary-based segmentation with the multicut module of Ilastik..
+          </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-            An analysis workflow in R using Spectre that facilitates simultaneous cellular and spatial analysis.
+            An analysis workflow in R using Spectre that facilitates simultaneous cellular and spatial analysis following nuclear-expansion segmentation in CellProfiler.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
             A workflow for analysing IMC data using FlowJo, after initial conversion of TIFF files and masks into FCS files.
@@ -156,10 +172,14 @@ Here we provide workflows for analysing HD imaging data following cell segmentat
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <a href="https://immunedynamics.io/spectre/spatial-advanced" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">Advanced analysis (following Ilastik)</span></b></a>
+                      <a href="https://immunedynamics.io/spectre/spatial-advanced" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
                   </p>
+              </div>
+          </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <a href="https://immunedynamics.io/spectre/spatial-simple" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">Simple analysis (following CellProfiler)</span></b></a>
+                      <a href="https://immunedynamics.io/spectre/spatial-simple" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
                   </p>
               </div>
           </td>
