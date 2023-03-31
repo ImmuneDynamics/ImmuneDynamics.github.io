@@ -43,6 +43,10 @@ For more educational content you can check out the [tutorials](https://immunedyn
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Simple discovery workflow
+        </div>
+      </td>
+            <td style="padding-left:.75em;padding-right:.75em;width:50%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Discovery workflow with batch alignment using CytoNorm
         </div>
       </td>
@@ -243,6 +247,49 @@ For more educational content you can check out the [tutorials](https://immunedyn
     </tbody>
 </table>
 
+<!-- 2nd table -->
+<table class="table gmisc_table">
+  <tbody>
+<!-- FIRST ROW: TITLE --> 
+    <tr style="border-top:1px solid grey">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Converting data.table to SCE and vice versa
+        </div>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+<!-- THIRD ROW: Image --> 
+    <tr>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/spectre/tutorials/datatable_interoperability/images/sce_dt_conversion.png" width="3000" style="padding-top: 5px; padding-left: 25px; padding-right: 25px">
+      </td>
+      <td></td>
+      <td></td>
+      </tr>
+<!-- FOURTH ROW: Description --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+          A tutorial on how to convert data.table to SCE and vice versa.
+          </td>
+          <td></td>
+          <td></td>
+     </tr>
+<!-- FIFTH ROW: Go to page --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://immunedynamics.io/spectre/tutorials/datatable_interoperability/sce_support.html" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td></td>
+          <td></td>
+      </tr>
+    </tbody>
+</table>
+
 
 <br />
 
@@ -431,52 +478,6 @@ For more educational content you can check out the [tutorials](https://immunedyn
                   </p>
               </div>
           </td>
-      </tr>
-    </tbody>
-</table>
-
-<br>
-<br>
-
-<!-- 2nd table -->
-<table class="table gmisc_table">
-  <tbody>
-<!-- FIRST ROW: TITLE --> 
-    <tr style="border-top:1px solid grey">
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Converting data.table to SCE and vice versa
-        </div>
-      </td>
-      <td></td>
-      <td></td>
-    </tr>
-<!-- THIRD ROW: Image --> 
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/spectre/tutorials/datatable_interoperability/images/sce_dt_conversion.png" width="3000" style="padding-top: 5px; padding-left: 25px; padding-right: 25px">
-      </td>
-      <td></td>
-      <td></td>
-      </tr>
-<!-- FOURTH ROW: Description --> 
-      <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-          A tutorial on how to convert data.table to SCE and vice versa.
-          </td>
-          <td></td>
-          <td></td>
-     </tr>
-<!-- FIFTH ROW: Go to page --> 
-      <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      <a href="https://immunedynamics.io/spectre/tutorials/datatable_interoperability/sce_support.html" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
-                  </p>
-              </div>
-          </td>
-          <td></td>
-          <td></td>
       </tr>
     </tbody>
 </table>
