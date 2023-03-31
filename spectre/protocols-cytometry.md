@@ -116,15 +116,15 @@ This protocol page contains reproducible workflows for different types of cytome
 <!-- FIRST ROW: TITLE -->
     <tr style="border-top:1px solid grey">
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Time-series analysis
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Time-series clustering and analysis with TrackSOM
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">scRNAseq analysis
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Scaling analysis in large cytometry datasets using SuperCellCyto
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Automated cell classification
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Simple automated cell classification using a kNN classifier
         </div>
       </td>
     </tr>
@@ -134,7 +134,7 @@ This protocol page contains reproducible workflows for different types of cytome
           <img src="https://wiki.centenary.org.au/download/thumbnails/186841491/TS.png?version=1&modificationDate=1613891308205&api=v2" width="3000" style="padding-left: 20px; padding-right: 20px; padding-top: 5px">
       </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2021-2-22_10-59-32.png?version=1&modificationDate=1614855790882&api=v2" width="3000" style="padding-top: 5px">
+            <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/spectre/images/SuperCells.png?raw=true" width="3000" style="padding-top: 5px">
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
             <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2021-2-21_22-15-46.png?version=1&modificationDate=1613906146172&api=v2" width="3000" style="padding-top: 5px; padding-left: 40px; padding-right: 40px">
@@ -142,11 +142,14 @@ This protocol page contains reproducible workflows for different types of cytome
       </tr>
 <!-- FOURTH ROW: Description -->
       <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Here we provide a time-series clustering workflow using TrackSOM.
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+            Here we provide a time-series clustering workflow using TrackSOM.
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Here we provide analysis options and tools to support scRNAseq analysis, in conjunction with existing tools such as Seurat and SingleCellExperiment.
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+            Developed by Givanna Putri and the Phipson Lab, SuperCellCyto allows for scalable analysis of very large cytometry datasets, based on the SuperCell R package by David Gfeller lab from the University of Lausanne.
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Strategies to facilitate automated cell classification.
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+            Strategies to facilitate automated cell classification.
           </td>
      </tr>
 <!-- FIFTH ROW: Go to page -->
@@ -161,7 +164,7 @@ This protocol page contains reproducible workflows for different types of cytome
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <a href="https://wiki.centenary.org.au/x/l-kiCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                      <a href="https://github.com/phipsonlab/SuperCellCyto" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO SITE</span></b></a>
                   </p>
               </div>
           </td>
@@ -176,6 +179,7 @@ This protocol page contains reproducible workflows for different types of cytome
     </tbody>
 </table>
 
+
 <br />
 
 
@@ -184,11 +188,11 @@ This protocol page contains reproducible workflows for different types of cytome
 <!-- FIRST ROW: TITLE -->
     <tr style="border-top:1px solid grey">
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Rapidly generate tSNE or UMAP plots from CSV or FCS files
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">scRNAseq analysis
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Convert CSV to FCS files (and vise versa)
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Rapidly generate tSNE or UMAP plots from CSV or FCS files
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
@@ -198,40 +202,38 @@ This protocol page contains reproducible workflows for different types of cytome
     </tr>
 <!-- THIRD ROW: Image -->
     <tr>
+       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2021-2-22_10-59-32.png?version=1&modificationDate=1614855790882&api=v2" width="3000" style="padding-top: 5px">
+        </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
           <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/images/tSNEplots.png?raw=true" width="3000" style="padding-top: 5px">
       </td>
-        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <!--<p> </p>-->
-            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-21_12-52-10.png?version=1&modificationDate=1613891307575&api=v2" width="3000" style="padding-top: 5px">
-            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-21_12-51-43.png?version=1&modificationDate=1613891307671&api=v2" width="3000" style="padding-top: 5px">
-        </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
           <img src="https://wiki.centenary.org.au/download/attachments/151793632/image2021-2-28_11-49-51.png?version=1&modificationDate=1614473391780&api=v2" width="3000" style="padding-left: 20px; padding-right: 20px; padding-top: 5px">
       </td>
       </tr>
 <!-- FOURTH ROW: Description -->
       <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">An R script to automatically generate tSNE or UMAP plots, after tSNE or UMAP has run in programs such as FlowJo.
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Here we provide analysis options and tools to support scRNAseq analysis, in conjunction with existing tools such as Seurat and SingleCellExperiment.
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">An R script to rapidly convert FCS files to CSV files (or vise versa).
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">An R script to automatically generate tSNE or UMAP plots, after tSNE or UMAP has run in programs such as FlowJo.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Here we present a quick workflow script to rapidly generate graphs and heatmaps for quantitative, differential, and statistical analysis. Note, this can be used on summary data generated by any program, including FlowJo.
           </td>
      </tr>
 <!-- FIFTH ROW: Go to page -->
       <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+            <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <a href="https://github.com/sydneycytometry/tSNEplots" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                      <a href="https://wiki.centenary.org.au/x/l-kiCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
                   </p>
               </div>
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <a href="https://github.com/sydneycytometry/CSV-to-FCS" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                      <a href="https://github.com/sydneycytometry/tSNEplots" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
                   </p>
               </div>
           </td>
@@ -258,7 +260,10 @@ This protocol page contains reproducible workflows for different types of cytome
         <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Converting data.table to SCE and vice versa
         </div>
       </td>
-      <td></td>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Convert CSV to FCS files (and vise versa)
+        </div>
+      </td>
       <td></td>
     </tr>
 <!-- THIRD ROW: Image --> 
@@ -266,7 +271,11 @@ This protocol page contains reproducible workflows for different types of cytome
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
             <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/spectre/tutorials/datatable_interoperability/images/sce_dt_conversion.png" width="3000" style="padding-top: 5px; padding-left: 25px; padding-right: 25px">
       </td>
-      <td></td>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <!--<p> </p>-->
+            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-21_12-52-10.png?version=1&modificationDate=1613891307575&api=v2" width="3000" style="padding-top: 5px">
+            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-21_12-51-43.png?version=1&modificationDate=1613891307671&api=v2" width="3000" style="padding-top: 5px">
+        </td>
       <td></td>
       </tr>
 <!-- FOURTH ROW: Description --> 
@@ -274,7 +283,8 @@ This protocol page contains reproducible workflows for different types of cytome
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
           A tutorial on how to convert data.table to SCE and vice versa.
           </td>
-          <td></td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">An R script to rapidly convert FCS files to CSV files (or vise versa).
+          </td>
           <td></td>
      </tr>
 <!-- FIFTH ROW: Go to page --> 
@@ -286,7 +296,13 @@ This protocol page contains reproducible workflows for different types of cytome
                   </p>
               </div>
           </td>
-          <td></td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://github.com/sydneycytometry/CSV-to-FCS" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                  </p>
+              </div>
+          </td>
           <td></td>
       </tr>
     </tbody>
@@ -303,11 +319,18 @@ This protocol page contains reproducible workflows for different types of cytome
 <!-- FIRST ROW: TITLE --> 
     <tr style="border-top:1px solid grey">
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Planning your high-dimensional experiments
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">
+          Planning your high-dimensional experiments
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">High-dimensional data analysis
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">
+          High-dimensional data analysis
+        </div>
+      </td>
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">
+          Which markers should I use for clustering?
         </div>
       </td>
     </tr>
@@ -320,13 +343,21 @@ This protocol page contains reproducible workflows for different types of cytome
        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
             <img src="https://user-images.githubusercontent.com/11766139/132225658-70a81bcd-c3cf-485e-a723-0c565ae65805.png" width="3000" style="padding-top: 5px">
         </td>
+         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <p> </p>
+            <img src="https://wiki.centenary.org.au/download/attachments/166722331/image2020-6-24_13-59-37.png?version=8&modificationDate=1593009229528&api=v2" width="3000" style="padding-top: 5px">
+        </td>
       </tr>
 <!-- FOURTH ROW: Description --> 
       <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">An open access publication where we provide considerations for new and experienced users to design and carry out high‐dimensional experiments to maximize quality data collection.  
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+            An open access publication where we provide considerations for new and experienced users to design and carry out high‐dimensional experiments to maximize quality data collection.  
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A paper discussing common caveats and best practices in the analysis of high-dimensional cytometry data
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+            A paper discussing common caveats and best practices in the analysis of high-dimensional cytometry data
             </td>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A brief tutorial on determining which markers to use for clustering and dimensionality reduction.
+          </td>
      </tr>
 <!-- FIFTH ROW: Go to page --> 
       <tr>
@@ -344,67 +375,6 @@ This protocol page contains reproducible workflows for different types of cytome
                   </p>
               </div>
           </td>
-      </tr>
-    </tbody>
-</table>
-
-<br />
-
-<table class="table gmisc_table">
-  <tbody>
-<!-- FIRST ROW: TITLE --> 
-    <tr style="border-top:1px solid grey">
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Introduction to computational analysis approaches
-        </div>
-      </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">How many cells can I analyse?
-        </div>
-      </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Which markers should I use for clustering?
-        </div>
-      </td>
-    </tr>
-<!-- THIRD ROW: Image --> 
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_15-17-53.png?version=1&modificationDate=1613891307741&api=v2" width="3000" style="padding-left: 20px; padding-right: 20px; padding-top: 5px">
-      </td>
-       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img src="https://wiki.centenary.org.au/download/attachments/166722331/image2020-6-24_13-59-15.png?version=1&modificationDate=1593007155183&api=v2" width="3000" style="padding-top: 5px">
-        </td>
-        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <p> </p>
-            <img src="https://wiki.centenary.org.au/download/attachments/166722331/image2020-6-24_13-59-37.png?version=8&modificationDate=1593009229528&api=v2" width="3000" style="padding-top: 5px">
-        </td>
-      </tr>
-<!-- FOURTH ROW: Description --> 
-      <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A brief introduction to the advantages and disadvantages of computational 'discovery' approaches, including clustering and dimensionality reduction.
-          </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A brief tutorial on assessing how many cells can be analysed using popular clustering (e.g. FlowSOM) and dimensionality reduction (e.g. tSNE, UMAP) techniques.
-          </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A brief tutorial on determining which markers to use for clustering and dimensionality reduction.
-          </td>
-     </tr>
-<!-- FIFTH ROW: Go to page --> 
-      <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      <a href="https://wiki.centenary.org.au/x/IJnvCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
-                  </p>
-              </div>
-          </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      <a href="https://wiki.centenary.org.au/x/BgTBCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
-                  </p>
-              </div>
-          </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
@@ -418,17 +388,16 @@ This protocol page contains reproducible workflows for different types of cytome
 
 <br />
 
-<!-- 1st table -->
 <table class="table gmisc_table">
   <tbody>
 <!-- FIRST ROW: TITLE --> 
     <tr style="border-top:1px solid grey">
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Arcsinh transformation
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">How many cells can I analyse?
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Manipulating and filtering data with data.table
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Arcsinh transformation
         </div>
       </td>
       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
@@ -438,21 +407,21 @@ This protocol page contains reproducible workflows for different types of cytome
     </tr>
 <!-- THIRD ROW: Image --> 
     <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <img src="https://wiki.centenary.org.au/download/attachments/159435971/image2020-8-21_9-36-28.png?version=1&modificationDate=1598002589232&api=v2" width="3000" style="padding-left: 20px; padding-right: 20px; padding-top: 5px">
-      </td>
-        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2021-2-21_18-50-20.png?version=1&modificationDate=1613893820633&api=v2" width="3000" style="padding-top: 5px">
+       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://wiki.centenary.org.au/download/attachments/166722331/image2020-6-24_13-59-15.png?version=1&modificationDate=1593007155183&api=v2" width="3000" style="padding-top: 5px">
         </td>
         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+          <img src="https://wiki.centenary.org.au/download/attachments/159435971/image2020-8-21_9-36-28.png?version=1&modificationDate=1598002589232&api=v2" width="3000" style="padding-left: 20px; padding-right: 20px; padding-top: 5px">
+      </td>
+       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
             <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-10-28_12-38-44.png?version=1&modificationDate=1613891308129&api=v2" width="3000" style="padding-top: 5px">
         </td>
       </tr>
 <!-- FOURTH ROW: Description --> 
       <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A tutorial on transformations for cytometry data, specifically using the arcsinh transformations.
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A brief tutorial on assessing how many cells can be analysed using popular clustering (e.g. FlowSOM) and dimensionality reduction (e.g. tSNE, UMAP) techniques.
           </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A tutorial on rapid data manipulation and filtering operations for large datasets using data.table.
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A tutorial on transformations for cytometry data, specifically using the arcsinh transformations.
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">Instructions for creating high-quality coloured tSNE/UMAP plots using Spectre's wrapper for ggplot2.
           </td>
@@ -462,14 +431,14 @@ This protocol page contains reproducible workflows for different types of cytome
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <a href="https://wiki.centenary.org.au/x/w8yACQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                      <a href="https://wiki.centenary.org.au/x/BgTBCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
                   </p>
               </div>
           </td>
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <a href="https://wiki.centenary.org.au/x/xbFmCg" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                      <a href="https://wiki.centenary.org.au/x/w8yACQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
                   </p>
               </div>
           </td>
@@ -554,5 +523,46 @@ This protocol page contains reproducible workflows for different types of cytome
 
 <br />
 
+<!-- 1st table -->
+<table class="table gmisc_table">
+  <tbody>
+<!-- FIRST ROW: TITLE --> 
+    <tr style="border-top:1px solid grey">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
+        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">Manipulating and filtering data with data.table
+        </div>
+      </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+<!-- THIRD ROW: Image --> 
+    <tr>
+        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
+            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2021-2-21_18-50-20.png?version=1&modificationDate=1613893820633&api=v2" width="3000" style="padding-top: 5px">
+        </td>
+      <td> </td>
+      <td> </td>
+      </tr>
+<!-- FOURTH ROW: Description --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">A tutorial on rapid data manipulation and filtering operations for large datasets using data.table.
+          </td>
+          <td> </td>
+          <td> </td>
+     </tr>
+<!-- FIFTH ROW: Go to page --> 
+      <tr>
+          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
+              <div style="text-align:center;font-size:large;font-weight:700;">
+                  <p style="color:#00003f">
+                      <a href="https://wiki.centenary.org.au/x/xbFmCg" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+                  </p>
+              </div>
+          </td>
+          <td> </td>
+          <td> </td>
+    </tr>
+    </tbody>
+</table>
 
-
+<br />
