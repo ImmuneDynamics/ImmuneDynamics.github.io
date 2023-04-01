@@ -6,9 +6,7 @@ permalink: /spectre/about/
 
 ## Overview
 
-Spectre is an R package and computational toolkit that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional [cytometry](https://immunedynamics.io/spectre/cytometry/), [spatial/imaging](https://immunedynamics.github.io/spectre/spatial/), or [single-cell](https://immunedynamics.io/spectre/single-cell/) data from different batches or experiments. Spectre streamlines the analytical stages of raw data pre-processing, batch alignment/integration, clustering, dimensionality reduction, visualisation, population annotation, and quantitative/statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by both data and laboratory scientists. 
-
-The Spectre package was developed by [Thomas Ashhurst](https://immunedynamics.github.io/thomas-ashhurst/) (the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au/), The University of Sydney and Centenary Institute), [Felix Marsh-Wakefield](https://immunedynamics.github.io/felix-marsh-wakefield/) (the School of Medical Sciences, The University of Sydney), and [Givanna Putri](https://immunedynamics.github.io/givanna-putri/) (the School of IT, The University of Sydney); with support from Alanna Spiteri, Dr. Diana shinko, Dr. Mark Read, Dr. Adrian Smith, and Prof. Nicholas King.
+Spectre is an R package and computational toolkit that enables comprehensive end-to-end integration, exploration, and analysis of high-dimensional [cytometry](https://immunedynamics.io/spectre/cytometry/), [spatial/imaging](https://immunedynamics.github.io/spectre/spatial/), or [single-cell](https://immunedynamics.io/spectre/single-cell/) data from different batches or experiments. Spectre streamlines the analytical stages of raw data pre-processing, batch alignment/integration, clustering, dimensionality reduction, visualisation, population annotation, and quantitative/statistical analysis; with a simple, clear, and modular design of analysis workflows, that can be utilised by both data and laboratory scientists. The Spectre package was developed by [Thomas Ashhurst](https://immunedynamics.github.io/thomas-ashhurst/) (the [Sydney Cytometry Core Research Facility](https://sydneycytometry.org.au/), The University of Sydney and Centenary Institute), [Felix Marsh-Wakefield](https://immunedynamics.github.io/felix-marsh-wakefield/) (the School of Medical Sciences, The University of Sydney), and [Givanna Putri](https://immunedynamics.github.io/givanna-putri/) (the School of IT, The University of Sydney); with support from Alanna Spiteri, Dr. Diana shinko, Dr. Mark Read, Dr. Adrian Smith, and Prof. Nicholas King.
 
 **Key publications**:
 
@@ -32,13 +30,6 @@ among others.
 
 <br />
 
-## Citation
-
-If you use Spectre in your work, please consider citing [Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2021). Cytometry A. DOI: 10.1002/cyto.a.24350](https://doi.org/10.1002/cyto.a.24350). To continue providing open-source tools such as Spectre, it helps us if we can demonstrate that our efforts are contributing to analysis efforts in the community. Please also consider citing the authors of the individual packages or tools (e.g. CytoNorm, FlowSOM, tSNE, UMAP, etc) that are critical elements of your analysis work. We have provided some generic text that you can use for your methods section with each protocol and below.
-
-More information on citation and methods section text can be found on our [citation page](https://immunedynamics.io/spectre/citation).
-
-<br />
 
 ## Background
 
