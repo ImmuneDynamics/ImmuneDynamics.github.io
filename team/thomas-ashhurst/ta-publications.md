@@ -6,7 +6,7 @@ permalink: /thomas-ashhurst/publications/
 
 ![Publications](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Publication%202.png)
 
-My publications consist of [1 book](https://immunedynamics.io/thomas-ashhurst/publications/#books) and [32 published articles](https://immunedynamics.io/thomas-ashhurst/publications/#publications), with [965 citations](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) since 2012 and an [h-index of 17](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) (via Google Scholar). These publications include [1 book as editor](https://immunedynamics.io/thomas-ashhurst/publications/stats) and [9 articles as lead, senior, or corresponding author](https://immunedynamics.io/thomas-ashhurst/publications/stats). Online publication lists can be found on 
+My publications consist of [1 book](https://immunedynamics.io/thomas-ashhurst/publications/#books) and [34 published articles](https://immunedynamics.io/thomas-ashhurst/publications/#publications), with [1058 citations](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) since 2012 and an [h-index of 17](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en) (via Google Scholar). These publications include [1 book as editor](https://immunedynamics.io/thomas-ashhurst/publications/stats) and [9 articles as lead, senior, or corresponding author](https://immunedynamics.io/thomas-ashhurst/publications/stats). Online publication lists can be found on 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thomas%20ashhurst&sort=date),
 <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="15"> 
 [Google Scholar](https://scholar.google.com.au/citations?user=b1eTDlQAAAAJ&hl=en),
@@ -50,7 +50,25 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 
 ---
 
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://www.medrxiv.org/content/medrxiv/early/2023/02/23/2023.02.17.23286059/F3.large.jpg?width=800&height=600&carousel=1" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+Sarah Baird, Caroline L Ashley, Felix Marsh-Wakefield, Sibel Alca, Thomas M Ashhurst el al. 2023. [A unique cytotoxic CD4+ T cells signature defines critical COVID-19](https://www.medrxiv.org/content/10.1101/2023.02.17.23286059.abstract). medRxiv. https://doi.org/10.1101/2023.02.17.23286059.
+
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 
 
@@ -60,6 +78,25 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
 ## Publications
 
 ---
+
+<div class='row'>
+    <div class="image">
+        <a href="#">
+            <img src="https://onlinelibrary.wiley.com/cms/asset/80d9d714-5905-4de0-abe9-a39991f67441/imcb12623-fig-0001-m.jpg" alt="icon" width="250" align="right">
+        </a>
+    </div>
+</div>
+
+Anouk von Borstel, Thi HO Nguyen, Louise C Rowntree, Thomas M Ashhurst el al. 2023. [Circulating effector γδ T cell populations are associated with acute coronavirus disease 19 in unvaccinated individuals](https://onlinelibrary.wiley.com/doi/abs/10.1111/imcb.12623). Immunology and Cell Biology.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+
 
 
 <div class='row'>
