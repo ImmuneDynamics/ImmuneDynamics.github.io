@@ -58,7 +58,7 @@ This book details a compilation of up-to-date and cutting-edge protocols in mass
     </div>
 </div>
 
-Sarah Baird, Caroline L Ashley, Felix Marsh-Wakefield, Sibel Alca, Thomas M Ashhurst el al. 2023. [A unique cytotoxic CD4+ T cells signature defines critical COVID-19](https://www.medrxiv.org/content/10.1101/2023.02.17.23286059.abstract). medRxiv. https://doi.org/10.1101/2023.02.17.23286059.
+Sarah Baird, Caroline L Ashley, Felix Marsh-Wakefield, Sibel Alca, **Thomas M Ashhurst** el al. 2023. [A unique cytotoxic CD4+ T cells signature defines critical COVID-19](https://www.medrxiv.org/content/10.1101/2023.02.17.23286059.abstract). medRxiv. https://doi.org/10.1101/2023.02.17.23286059.
 
 <br />
 <br />
@@ -87,8 +87,11 @@ Sarah Baird, Caroline L Ashley, Felix Marsh-Wakefield, Sibel Alca, Thomas M Ashh
     </div>
 </div>
 
-Anouk von Borstel, Thi HO Nguyen, Louise C Rowntree, Thomas M Ashhurst el al. 2023. [Circulating effector γδ T cell populations are associated with acute coronavirus disease 19 in unvaccinated individuals](https://onlinelibrary.wiley.com/doi/abs/10.1111/imcb.12623). Immunology and Cell Biology.
+Anouk von Borstel, Thi HO Nguyen, Louise C Rowntree, **Thomas M Ashhurst** el al. 2023. [Circulating effector γδ T cell populations are associated with acute coronavirus disease 19 in unvaccinated individuals](https://onlinelibrary.wiley.com/doi/abs/10.1111/imcb.12623). Immunology and Cell Biology.
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
