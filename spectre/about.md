@@ -10,8 +10,8 @@ Spectre is an R package and computational toolkit that enables comprehensive end
 
 **Key publications**:
 
-- v0: Ashhurst et al, 2019, [Mass Cytometry: Methods and Protocols](https://doi.org/10.1002/cyto.a.24350) (referred to at the time as 'CAPX')
-- v1: Ashhurst et al, 2021, [Cytometry A](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12)
+- v0: Ashhurst et al, 2019, [Mass Cytometry: Methods and Protocols](https://link.springer.com/protocol/10.1007/978-1-4939-9454-0_12) (referred to at the time as 'CAPX')
+- v1: Ashhurst et al, 2021, [Cytometry A](https://doi.org/10.1002/cyto.a.24350)
 
 **Metrics**
 
