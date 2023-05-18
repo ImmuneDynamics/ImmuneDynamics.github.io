@@ -13,96 +13,20 @@ This protocol page contains reproducible workflows for different types of cytome
 
 <table class="table gmisc_table">
   <tbody>
-<!-- FIRST ROW: TITLE --> 
-    <tr style="border-top:1px solid grey">
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">
-          Introduction to computational analysis
-        </div>
-      </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">
-          Planning your high-dimensional experiments
-        </div>
-      </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top; background-color:#FAFAFA">
-        <div style="text-align:center;font-size:large;font-weight:300;color:#00003f">
-          Best practices in high-dimensional data analysis
-        </div>
-      </td>
-    </tr>
-<!-- THIRD ROW: Image --> 
     <tr>
-        <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-          <p> </p>
-            <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_15-17-53.png?version=1&modificationDate=1613891307741&api=v2" width="3000" style="padding-top: 5px">
-        </td>
-      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <img src="https://onlinelibrary.wiley.com/pb-assets/journal-banners/14401711-1591846820847.jpg" width="3000" style="padding-top: 5px">
-          <img src="https://github.com/ImmuneDynamics/ImmuneDynamics.github.io/blob/master/team/thomas-ashhurst/Mitchell2021.png?raw=true" width="3000" style="padding-left: 20px; padding-right: 20px; padding-top: 5px">
+      <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
+          <img src="https://wiki.centenary.org.au/download/attachments/186841491/image2020-8-20_15-17-53.png?version=1&modificationDate=1613891307741&api=v2" width="3000">
       </td>
-       <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #FAFAFA;border-right:1px solid #000;text-align:left; vertical-align:top">
-            <img src="https://user-images.githubusercontent.com/11766139/132225658-70a81bcd-c3cf-485e-a723-0c565ae65805.png" width="3000" style="padding-top: 5px">
-        </td>
-      </tr>
-<!-- FOURTH ROW: Description --> 
-      <tr>
-         <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-            A brief introduction to the advantages and disadvantages of computational 'discovery' approaches, including clustering and dimensionality reduction. 
-          </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-            An open access publication where we provide considerations for new and experienced users to design and carry out high‐dimensional experiments to maximize quality data collection.  
-          </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #FAFAFA;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-            A paper discussing common caveats and best practices in the analysis of high-dimensional cytometry data
-        </td>
-     </tr>
-<!-- FIFTH ROW: Go to page --> 
-      <tr>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      <a href="https://wiki.centenary.org.au/x/IJnvCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
-                  </p>
-              </div>
-          </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      <a href="https://doi.org/10.1111/imcb.12456" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">SEE PAPER</span></b></a>
-                  </p>
-              </div>
-          </td>
-          <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
-              <div style="text-align:center;font-size:large;font-weight:700;">
-                  <p style="color:#00003f">
-                      <a href="https://www.nature.com/articles/s41590-021-01006-z" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">SEE PAPER</span></b></a>
-                  </p>
-              </div>
-          </td>
+      <td style="padding-left:.75em;width:66%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
+        <p><b> Introduction to computational analysis and best practices</b></p>
+        <p>
+          A brief introduction to the advantages and disadvantages of computational 'discovery' approaches, including clustering and dimensionality reduction. Included are two papers describing best practices and planning tips for high-dimensional analysis.
+        </p>
+         <a href="https://wiki.centenary.org.au/x/IJnvCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
+      </td>
       </tr>
     </tbody>
 </table>
-
-<br />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <br />
 
