@@ -28,13 +28,58 @@ knitr::opts_chunk$set(echo = TRUE)
 
 The presence of strong batch effects in cytometry data can lead to enormous challenges in data analysis. One solution to this is to perform a batch 'alignment' or 'integration'. This involves adjusting the marker expression levels to remove technical differences between batches, while preserving biologically meaningful differences between samples and experimental groups. In our other workflows we make use of the [CytoNorm]() package, using biological reference controls processed with each batch of samples to learn the technical differences between batches, and then remove them. However, in situations where biological reference controls are not available, or where there is a high level of marker expression that is not captured by the reference controls, other methods might be needed.
 
-Here we introduce a workflow for integrating data across complex batches, experiments, or panels, without the use of biological reference controls. To do this, we have adapted the **reciprocal PCA (rPCA)** integration method from [Seurat]() to work on cytometry data. Briefly, 
+Here we introduce a workflow for integrating data across complex batches, experiments, or panels, without the use of biological reference controls. To do this, we have adapted the **reciprocal PCA (rPCA)** integration method from [Seurat]() to work on cytometry data. You can read more about the use of rPCA in Seurat [here](https://satijalab.org/seurat/articles/integration_rpca.html).
+
+In brief, rPCA projects cells from one data set into the PCA space of another, where cells that share a common state across the data sets are then anchored together using mutual nearest neighbors. These anchor pairs allow for the correction of expression values across the data set, effectively unifying the data sets into a single analysis, mitigating the influence of technical sources of variation while preserving biologically relevant differences between cells.
+
+<br />
+
+## Citation and methods
+
+---
+
+**Citation**
+
+If you use Spectre in your work, please consider citing Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2020). bioRxiv. 2020.10.22.349563. To continue providing open-source tools such as Spectre, it helps us if we can demonstrate that our efforts are contributing to analysis efforts in the community. Please also consider citing the authors of the individual packages or tools (e.g. CytoNorm, FlowSOM, tSNE, UMAP, etc) that are critical elements of your analysis work. We have provided some generic text that you can use for your methods section with each protocol and on the ‘about’ page.
+
+**Sample methods blurb**
+
+Here is a sample methods blurb for this workflow. You may need to adapt this text to reflect any changes made in your analysis.
+
+*Computational analysis of data was performed using the Spectre R package (Ashhurst et al., 2020), with instructions and source code provided at https://github.com/ImmuneDynamics/spectre. Samples were initially prepared in FlowJo, and the population of interest was exported as raw value CSV files. Arcsinh transformation was performed on the data in R using a co-factor of 15 to redistribute the data on a linear scale and compress low end values near zero. The dataset was then merged into a single data.table, with keywords denoting the sample, group, and other factors added to each row (cell).*
+
+*Cells were subject to batch alignment using rPCA from the Seurat toolkit (version 4.0.5),62 implemented in Specter. In brief, rPCA projects cells from one data set into the PCA space of another, where cells that share a common state across the data sets are then anchored together using mutual nearest neighbors. These anchor pairs allow for the correction of expression values across the data set, effectively unifying the data sets into a single analysis, mitigating the influence of technical sources of variation while preserving biologically relevant differences between cells.*
+
+*The FlowSOM algorithm (Van Gassen et al., 2015) was then run on the dataset to cluster the data, where every cell is assigned to a specific cluster and metacluster. Subsequently, the data was downsampled and analysed by the dimensionality reduction algorithm Uniform Manifold Approximation and Projection (UMAP) (McInnes, Healy, Melville, 2018) for cellular visualisation.*
 
 <br />
 
 
-## Setting up
+## Setup
 
 ---
 
-To get started...
+...
+
+<br />
+
+
+
+## 1. Load packages and set directories
+
+---
+
+<br />
+
+
+
+## 2. Import and prep data
+
+---
+
+<br />
+
+
+
+
+
