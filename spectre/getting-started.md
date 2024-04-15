@@ -37,10 +37,10 @@ You can install Spectre directly **using R and RStudio**, or install a pre-built
         <br />
          <p>
           Once you have installed R and RStudio, you can check out this
-          <a href="https://wiki.centenary.org.au/x/MIBfCQ">tutorial</a>
+          <a href="https://unisyd-my.sharepoint.com/:b:/g/personal/thomas_ashhurst_sydney_edu_au/EQajz-ts16BLrP6G2TVSELgBo1Yoeslf4jZ9T7UyOdlDXg?e=v68LxR">tutorial</a>
           to get familiar with using it.
         </p>
-        <a href="https://wiki.centenary.org.au/x/MIBfCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+        <a href="https://unisyd-my.sharepoint.com/:b:/g/personal/thomas_ashhurst_sydney_edu_au/EQajz-ts16BLrP6G2TVSELgBo1Yoeslf4jZ9T7UyOdlDXg?e=v68LxR" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             R & RStudio tutorial
         </span></b></a>
         <p> </p>
@@ -92,12 +92,12 @@ You can install Spectre directly **using R and RStudio**, or install a pre-built
         </h2></p>
         <p>
           Once you have installed R and RStudio, the instructions for install and updating Spectre from Github (current default choice) is described below on this page. If you are unfamiliar with using R or RStudio, first check out this
-          <a href="https://wiki.centenary.org.au/x/MIBfCQ">
+          <a href="https://unisyd-my.sharepoint.com/:b:/g/personal/thomas_ashhurst_sydney_edu_au/EQajz-ts16BLrP6G2TVSELgBo1Yoeslf4jZ9T7UyOdlDXg?e=v68LxR">
             tutorial
           </a>
           .
         </p>
-        <a href="https://wiki.centenary.org.au/x/7-kiCw" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+        <a href="https://unisyd-my.sharepoint.com/:b:/g/personal/thomas_ashhurst_sydney_edu_au/EV_1g7ZZATdNvzF5UDUofLMBevj2O77N1jwFOKNHB8bisw?e=M0FQv7" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Install from Github
         </span></b></a>
         <p> </p>
@@ -134,7 +134,7 @@ Please note: the original functions and workflows for spatial analysis from **Sp
         <p>
           Install a 'container' version of Spectre using Docker, that contains a pre-built environment with all the required packages necessary to use Spectre.
         </p>
-        <a href="https://wiki.centenary.org.au/x/F4hfCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+        <a href="https://unisyd-my.sharepoint.com/:b:/g/personal/thomas_ashhurst_sydney_edu_au/EV16Pyjq5GpAggp5o-lSpUMB61jnBNY_8SSHsHEQqNGIpQ?e=UdApm1" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Install from Docker
         </span></b></a>
         <p> </p>
@@ -171,7 +171,7 @@ Please note: the original functions and workflows for spatial analysis from **Sp
         <p>
           To get started with using R/RStudio, check out our brief introductory R tutorial.
         </p>
-        <a href="https://wiki.centenary.org.au/x/MIBfCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+        <a href="https://unisyd-my.sharepoint.com/:b:/g/personal/thomas_ashhurst_sydney_edu_au/EQajz-ts16BLrP6G2TVSELgBo1Yoeslf4jZ9T7UyOdlDXg?e=MZZHzx" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             R tutorial
         </span></b></a>
         <p> </p>
@@ -195,7 +195,7 @@ Please note: the original functions and workflows for spatial analysis from **Sp
         <p>
           To get started, you can check out our Spectre tutorial.
         </p>
-        <a href="https://wiki.centenary.org.au/x/5ysMCQ" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+        <a href="https://unisyd-my.sharepoint.com/:b:/g/personal/thomas_ashhurst_sydney_edu_au/Ec-yybcGtEBIvOgn5HxCDX4BoH8FA8voXo5YoFure6AKsA?e=DtuxEk" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Spectre tutorial
         </span></b></a>
         <p> </p>
@@ -310,9 +310,9 @@ Please note: the original functions and workflows for spatial analysis from **Sp
           Install a development version of Spectre
         </h2></p>
         <p>
-          If you are interested in testing new features, or contributing your own, you can also install the development version of Spectre from Github. We suggested using in conjunction with our <a href="https://wiki.centenary.org.au/x/lMj3C" target="_blank" rel="noopener noreferrer">developers guide</a>.
+          If you are interested in testing new features, or contributing your own, you can also install the development version of Spectre from Github. We suggested using in conjunction with our <a href="https://unisyd-my.sharepoint.com/:b:/g/personal/thomas_ashhurst_sydney_edu_au/ESF-QRGrQMpNotPVqEOW-NYBNlIqA12sC442w-eHSzwU3A?e=r5TdhN" target="_blank" rel="noopener noreferrer">developers guide</a>.
         </p>
-        <a href="https://wiki.centenary.org.au/x/TKNmCg" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+        <a href="https://unisyd-my.sharepoint.com/:b:/g/personal/thomas_ashhurst_sydney_edu_au/EbXn56sV00xHuCySudfyMlwBnbRyAfPqeWX0X4hG_OGrFQ?e=agYYaV" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Install development version
         </span></b></a>
         <p> </p>
