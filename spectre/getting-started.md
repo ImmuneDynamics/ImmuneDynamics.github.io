@@ -8,7 +8,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 
 <br />
 
-## Installing Spectre
+# Installing Spectre
 
 <table class="table gmisc_table">
   <tbody>
