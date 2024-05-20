@@ -38,7 +38,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 
 <br />
 
-## Introductory tutorials
+# Introductory tutorials
 
 <table class="table gmisc_table">
   <tbody>
