@@ -8,155 +8,37 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 
 <br />
 
-You can install Spectre directly **using R and RStudio**, or install a pre-built R environment containing Spectre **using Docker** (this is a good option if you have trouble installing Spectre directly with R/RStudio). 
-
-<br/>
-
-## Option 1 - Install Spectre with R and RStudio
+# Installing Spectre
 
 <table class="table gmisc_table">
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" width="3000">
+          <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/images/Spectre%20logo%20wide.png" width="3000">
       </td>
       <td style="padding-left:.75em;width:70%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
         <p><h2>
-          Install R and RStudio
+          Installing and updating Spectre
         </h2></p>
         <p>
-          Spectre is a software package in 'R'. We recommend interacting with Spectre and the R code via RStudio. Download the latest version of R and R Studio by visiting the links below.
-        </p>
-        <a href="https://cran.r-project.org/mirrors.html" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
-            Download R (CRAN)
-        </span></b></a>
-         | 
-        <a href="https://www.rstudio.com/products/rstudio/download/#download" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
-            Download RStudio
-        </span></b></a>
-        <br />
-         <p>
-          Once you have installed R and RStudio, you can check out this
-          <a href="https://unisyd-my.sharepoint.com/:b:/g/personal/thomas_ashhurst_sydney_edu_au/EQajz-ts16BLrP6G2TVSELgBo1Yoeslf4jZ9T7UyOdlDXg?e=v68LxR">tutorial</a>
-          to get familiar with using it.
-        </p>
-        <a href="https://unisyd-my.sharepoint.com/:b:/g/personal/thomas_ashhurst_sydney_edu_au/EQajz-ts16BLrP6G2TVSELgBo1Yoeslf4jZ9T7UyOdlDXg?e=v68LxR" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
-            R & RStudio tutorial
-        </span></b></a>
-        <p> </p>
-      </td>
-      </tr>
-    </tbody>
-</table>
-
-
-<p> </p>
-
-
-<!--
-<table class="table gmisc_table">
-  <tbody>
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://dl3.cbsistatic.com/catalog/2017/12/19/9bbc46dc-1d94-45d0-977a-e4e776e0588d/imgingest-1712473237099407863.png" width="3000">
-      </td>
-      <td style="padding-left:.75em;width:70%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><h2>
-          Install XQuartz (for mac users)
-        </h2></p>
-        <p>
-          For mac users only, X11 (including tcltk) requires XQuartz to be installed since it is no longer part of OS X. Always re-install XQuartz when upgrading your macOS to a new major version.
-        </p>
-        <a href="http://xquartz.macosforge.org/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
-            Install XQuartz
-        </span></b></a>
-        <p> </p>
-      </td>
-      </tr>
-    </tbody>
-</table>
-
-
-<p> </p>
--->
-
-<table class="table gmisc_table">
-  <tbody>
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://wiki.centenary.org.au/download/attachments/146080606/Spectre%20wide.png?version=1&modificationDate=1614253260985&api=v2" width="3000">
-      </td>
-      <td style="padding-left:.75em;width:70%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><h2>
-          Installing and updating Spectre package from Github
-        </h2></p>
-        <p>
-          Once you have installed R and RStudio, the instructions for install and updating Spectre from Github (current default choice) is described below on this page. If you are unfamiliar with using R or RStudio, first check out this
+          Here we provide instructions for installing Spectre. Options include installing in R/RStudio or via Docker. If you are unfamiliar with using R or RStudio, first check out this
           <a href="https://unisyd-my.sharepoint.com/:b:/g/personal/thomas_ashhurst_sydney_edu_au/EQajz-ts16BLrP6G2TVSELgBo1Yoeslf4jZ9T7UyOdlDXg?e=v68LxR">
             tutorial
           </a>
           .
         </p>
-        <a href="https://unisyd-my.sharepoint.com/:b:/g/personal/thomas_ashhurst_sydney_edu_au/EV_1g7ZZATdNvzF5UDUofLMBevj2O77N1jwFOKNHB8bisw?e=M0FQv7" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
-            Install from Github
+        <a href="https://immunedynamics.io/spectre/install/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+            Install Spectre
         </span></b></a>
         <p> </p>
       </td>
       </tr>
     </tbody>
 </table>
-
-<p> </p>
-
-Please note: the original functions and workflows for spatial analysis from **SpectreMAP** have now been directly incorporated in **Spectre v0.5.0** and above.
 
 <br />
 
-
-
-
-
-
-
-
-## Option 2 - Install Spectre using Docker
-
-<table class="table gmisc_table">
-  <tbody>
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:30%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://wiki.centenary.org.au/download/attachments/150442594/docker_facebook_share.png?version=1&modificationDate=1580942055355&api=v2" width="3000">
-      </td>
-      <td style="padding-left:.75em;width:70%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
-        <p><h2>
-          Install R, RStudio, and Spectre from Docker
-        </h2></p>
-        <p>
-          Install a 'container' version of Spectre using Docker, that contains a pre-built environment with all the required packages necessary to use Spectre.
-        </p>
-        <a href="https://unisyd-my.sharepoint.com/:b:/g/personal/thomas_ashhurst_sydney_edu_au/EV16Pyjq5GpAggp5o-lSpUMB61jnBNY_8SSHsHEQqNGIpQ?e=UdApm1" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
-            Install from Docker
-        </span></b></a>
-        <p> </p>
-        You can see the list of versions available via Docker <a href="https://hub.docker.com/r/immunedynamics/spectre/tags?page=1&ordering=last_updated">at this link</a>.
-        <p> </p>
-      </td>
-      </tr>
-    </tbody>
-</table>
-
-<p> </p>
-
-Please note: the original functions and workflows for spatial analysis from **SpectreMAP** have now been directly incorporated in **Spectre v0.5.0** and above.
-
-<br/>
-
-
-
-
-
-
-## Introductory tutorials
+# Introductory tutorials
 
 <table class="table gmisc_table">
   <tbody>
