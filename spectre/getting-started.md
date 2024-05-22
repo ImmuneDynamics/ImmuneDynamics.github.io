@@ -10,8 +10,6 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 
 ## Installing Spectre
 
-<br />
-
 <table class="table gmisc_table">
   <tbody>
     <tr>
