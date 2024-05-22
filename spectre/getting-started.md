@@ -19,8 +19,8 @@ To install Spectre in R, we recommend downloading the latest versions of [R (CRA
 
   # Install the Spectre package
   remotes::install_github(repo = "immunedynamics/spectre")
-  </code>
-</pre>
+  </newcode>
+</newpre>
 
 For a more comprehensive set of installation instructions, including options for installing Spectre using Docker, see our installation guide below.
 
