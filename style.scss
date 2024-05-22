@@ -549,12 +549,13 @@ pre code {
   padding: 10px;
 }
 
-cuscode {
-  overflow-x: scroll;
-  background-color: #eee;
-  border: 1px solid #999;
-  display: block;
-  padding: 10px;
+newcode { 
+    background: hsl(220, 80%, 90%); 
+}
+
+newpre {
+    white-space: pre-wrap;
+    background: hsl(30,80%,90%);
 }
 
 
