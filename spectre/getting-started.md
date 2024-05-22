@@ -11,13 +11,16 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 # Installing Spectre
 
 To install Spectre in R, we recommend downloading the latest versions of [R (CRAN)](https://cran.r-project.org/mirrors.html) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download). Run the following code to install.
-```
-# Install the package 'remotes' if not already installed
-if(!require('remotes')) {install.packages('remotes')} 
 
-# Install the Spectre package
-remotes::install_github(repo = "immunedynamics/spectre")
-```
+<pre class="highlight">
+  <code>
+  # Install the package 'remotes' if not already installed
+  if(!require('remotes')) {install.packages('remotes')} 
+  
+  # Install the Spectre package
+  remotes::install_github(repo = "immunedynamics/spectre")
+  </code>
+</pre>
 
 <br />
 
