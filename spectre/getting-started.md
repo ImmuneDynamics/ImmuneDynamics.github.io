@@ -22,6 +22,8 @@ To install Spectre in R, we recommend downloading the latest versions of [R (CRA
   </code>
 </pre>
 
+For a more comprehensive set of installation instructions, including options for installing Spectre using Docker, see our installation guide below.
+
 <br />
 
 <table class="table gmisc_table">
