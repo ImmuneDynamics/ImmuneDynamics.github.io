@@ -8,7 +8,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 
 <br />
 
-# Installing Spectre
+## Installing Spectre
 
 To install Spectre in R, we recommend downloading the latest versions of [R (CRAN)](https://cran.r-project.org/mirrors.html) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download). Run the following code to install.
 
@@ -52,7 +52,7 @@ To install Spectre in R, we recommend downloading the latest versions of [R (CRA
 
 <br />
 
-# Introductory tutorials
+## Introductory tutorials
 
 <table class="table gmisc_table">
   <tbody>
@@ -109,7 +109,7 @@ To install Spectre in R, we recommend downloading the latest versions of [R (CRA
 
 
 
-# Analysis workflows and protocols
+## Analysis workflows and protocols
 
 <table class="table gmisc_table">
   <tbody>
