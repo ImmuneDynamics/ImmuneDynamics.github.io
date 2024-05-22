@@ -12,8 +12,8 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 
 To install Spectre in R, we recommend downloading the latest versions of [R (CRAN)](https://cran.r-project.org/mirrors.html) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download). Run the following code to install.
 
-<pre class='highlight'>
-  <code>
+<newpre class='highlight'>
+  <newcode>
   # Install the package 'remotes' if not already installed
   if(!require('remotes')) {install.packages('remotes')} 
 
