@@ -509,7 +509,7 @@ write.csv(x = dat, file = "iris_dataset.csv")
 <br />
 
 
-### Spectre basics tutorial
+### Spectre basics
 
 ------------------------------------------------------------------------
 
