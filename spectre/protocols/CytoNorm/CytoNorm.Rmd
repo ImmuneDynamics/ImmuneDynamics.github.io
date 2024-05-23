@@ -110,7 +110,7 @@ If you would like to use your **own data**, add your data and metadata files:
   - Place the sample CSV or FCS files in the `data` folder you created above.
   - Place the metadata CSV files in the `metadata` folder you created above.
 
-please see [this page]() for detailed instructions on exporting data for Spectre and setting up a metadata file. 
+Please see [this page](https://unisyd-my.sharepoint.com/:b:/g/personal/thomas_ashhurst_sydney_edu_au/ES8T0wBKsapHo_q9mFuxsaoBjioEocJWPfetqLyfPEqmhQ?e=wsfclL) for detailed instructions on exporting data for Spectre and setting up a metadata file. 
 
 <br />
 <br />
@@ -772,12 +772,14 @@ We can also generate some multi plots to compare between experimental groups or 
    
 We can also produce expression heatmaps to help guide our interpretation of cluster identities.
    
-```{r}     
+```{r, eval = FALSE}     
     ### Expression heatmap
 
         exp <- do.aggregate(cell.dat, aligned.cellular.cols, by = "FlowSOM_metacluster")
         make.pheatmap(exp, "FlowSOM_metacluster", aligned.cellular.cols)
 ```
+
+![](HeatmapMC.png)
 
 <br />
 <br />
@@ -860,13 +862,15 @@ Subsequently, we can visualise the population labels on a UMAP plot.
 
 We can also generate an expression heatmap to summarise the expression levels of each marker on our populations.
    
-```{r}     
+```{r, eval=FALSE}     
     ### Expression heatmap
         
         rm(exp)
         exp <- do.aggregate(cell.dat, aligned.cellular.cols, by = "Population")
         make.pheatmap(exp, "Population", aligned.cellular.cols)
 ```
+
+![](HeatmapPOP.png)
 
 Save FCS for further analysis and evaluation.
 
@@ -974,11 +978,11 @@ Save the summary data.
         fwrite(sum.dat, 'sum.dat.csv')
 ```
 
-Violin/scatter plots
+### Violin/scatter plots
 
 We can use the run.autograph function to create violin/scatter plots with embedded statistic – one per population/measurement type.
 
-```{r}
+```{r, eval = FALSE}
     ### Autographs
 
         for(i in plot.cols){
@@ -1009,7 +1013,9 @@ We can use the run.autograph function to create violin/scatter plots with embedd
         }
 ```
 
-Heatmaps
+![](Graph1.png)
+
+### Heatmaps
 
 We can also create a global heatmap show the z-score of each population/measurement type against each sample.
 
@@ -1035,6 +1041,8 @@ We can also create a global heatmap show the z-score of each population/measurem
                       row.sep = t.first,
                       cutree_cols = 3)
 ```
+
+![](HeatmapZS.png)
 
 <br />
 <br />
