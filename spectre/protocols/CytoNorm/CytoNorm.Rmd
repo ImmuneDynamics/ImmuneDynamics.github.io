@@ -97,7 +97,7 @@ Example:
 
 #### Analysis script
 
-You can download the CytoNorm script from [this link]() -- place this inside the `Spectre CytoNorm` folder.
+You can download the CytoNorm script from [this link](https://github.com/ImmuneDynamics/Spectre/tree/master/workflows) -- place this inside the `Spectre CytoNorm` folder.
 
 <br />
 
@@ -215,7 +215,7 @@ If you need the demo dataset, uncomment the following code in the analysis scrip
 
 This code will download the demo dataset files and metadata file, and place them in the `data` and `metadata` folders respectively.
 
-```{r, message = FALSE, results = 'hide'}
+```{r, eval = FALSE, message = FALSE, results = 'hide'}
 # setwd(PrimaryDirectory)
 # setwd("../")
 # getwd()
@@ -228,6 +228,21 @@ This code will download the demo dataset files and metadata file, and place them
 #   file.rename(from = i,  to = gsub('simBatches/', '', i))
 # }
 # unlink(c('simBatches/', 'simBatches.zip', '__MACOSX'), recursive = TRUE)
+```
+
+```{r, eval = TRUE, echo = FALSE, message = FALSE, results = 'hide'}
+setwd(PrimaryDirectory)
+setwd("../")
+getwd()
+download.file(url = "https://github.com/ImmuneDynamics/data/blob/main/simBatches.zip?raw=TRUE", destfile = 'simBatches.zip', mode = 'wb')
+unzip(zipfile = 'simBatches.zip')
+for(i in list.files('simBatches/data', full.names = TRUE)){
+  file.rename(from = i,  to = gsub('simBatches/', '', i))
+}
+for(i in list.files('simBatches/metadata', full.names = TRUE)){
+ file.rename(from = i,  to = gsub('simBatches/', '', i))
+}
+unlink(c('simBatches/', 'simBatches.zip', '__MACOSX'), recursive = TRUE)
 ```
 
 <br />
