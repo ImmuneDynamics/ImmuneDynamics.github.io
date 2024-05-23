@@ -22,12 +22,12 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
         </h2></p>
         <p>
           Here we provide instructions for installing Spectre. Options include installing in R/RStudio or via Docker. If you are unfamiliar with using R or RStudio, first check out this
-          <a href="https://unisyd-my.sharepoint.com/:b:/g/personal/thomas_ashhurst_sydney_edu_au/EQajz-ts16BLrP6G2TVSELgBo1Yoeslf4jZ9T7UyOdlDXg?e=v68LxR">
+          <a href="https://immunedynamics.github.io/spectre/install/#Basics_guide">
             tutorial
           </a>
           .
         </p>
-        <a href="https://immunedynamics.io/spectre/install/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+        <a href="https://immunedynamics.github.io/spectre/install/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Install Spectre
         </span></b></a>
         <p> </p>
@@ -53,7 +53,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
         <p>
           To get started with using R/RStudio, check out our brief introductory R tutorial.
         </p>
-        <a href="https://unisyd-my.sharepoint.com/:b:/g/personal/thomas_ashhurst_sydney_edu_au/EQajz-ts16BLrP6G2TVSELgBo1Yoeslf4jZ9T7UyOdlDXg?e=MZZHzx" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+        <a href="https://immunedynamics.github.io/spectre/install/#R_basics" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             R tutorial
         </span></b></a>
         <p> </p>
@@ -77,7 +77,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
         <p>
           To get started, you can check out our Spectre tutorial.
         </p>
-        <a href="https://unisyd-my.sharepoint.com/:b:/g/personal/thomas_ashhurst_sydney_edu_au/Ec-yybcGtEBIvOgn5HxCDX4BoH8FA8voXo5YoFure6AKsA?e=DtuxEk" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+        <a href="https://immunedynamics.github.io/spectre/install/#Spectre_basics" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Spectre tutorial
         </span></b></a>
         <p> </p>
