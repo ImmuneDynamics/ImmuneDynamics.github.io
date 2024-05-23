@@ -8,19 +8,6 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 
 <br />
 
-<div class="box">
-  <pre>
-  <code>
-    Remotes
-    Spectre
-  </code>
-  </pre>
-</div>
-
-<br />
-
-<div>
-  
 ## Installing Spectre
 
 <table class="table gmisc_table">
@@ -215,7 +202,7 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
       </tr>
     </tbody>
 </table>
-</div>
+
 
 <p> </p>
 
