@@ -1,7 +1,7 @@
 ---
 title: "Spectre - simple discovery workflow"
 author: "Thomas Ashhurst"
-date: "30/08/2021"
+date: "23/05/2024"
 output:
   html_document:
     toc: true
@@ -19,9 +19,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br />
 <br />
-
-
-
 
 
 ## Introduction
@@ -53,39 +50,40 @@ The 'simple' discovery workflow does not include any batch alignment steps. If b
 
 ---
 
-**Citation**
-
-If you use Spectre in your work, please consider citing Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2020). bioRxiv. 2020.10.22.349563. To continue providing open-source tools such as Spectre, it helps us if we can demonstrate that our efforts are contributing to analysis efforts in the community. Please also consider citing the authors of the individual packages or tools (e.g. CytoNorm, FlowSOM, tSNE, UMAP, etc) that are critical elements of your analysis work. We have provided some generic text that you can use for your methods section with each protocol and on the 'about' page.
-
-**Sample methods blurb**
-
-Here is a sample methods blurb for this workflow. You may need to adapt this text to reflect any changes made in your analysis.
-
-*Computational analysis of data was performed using the Spectre R package (Ashhurst et al., 2020), with instructions and source code provided at https://github.com/ImmuneDynamics/spectre. Samples were initially prepared in FlowJo, and the population of interest was exported as raw value CSV files. Arcsinh transformation was performed on the data in R using a co-factor of 15 to redistribute the data on a linear scale and compress low end values near zero. The dataset was then merged into a single data.table, with keywords denoting the sample, group, and other factors added to each row (cell). The FlowSOM algorithm (Van Gassen et al., 2015) was then run on the merged dataset to cluster the data, where every cell is assigned to a specific cluster and metacluster. Subsequently, the data was downsampled and analysed by the dimensionality reduction algorithm Uniform Manifold Approximation and Projection (UMAP) (McInnes, Healy, Melville, 2018) for cellular visualisation.*
-
-**Note**
-
-If you haven't installed Spectre, please visit our [Spectre installation](https://immunedynamics.io/spectre/getting-started/) page.
-If you aren't familiar with using RStudio or Spectre, please see our [RStudio and Spectre basic tutorials](https://immunedynamics.io/spectre/getting-started/).
-
 <br />
 <br />
-
-
-
-
-
-
 
 
 ## Before you start
 
 ---
 
-Before you get started, we recommend trying out the R/RStudio and Spectre [tutorials](https://immunedynamics.io/spectre/getting-started/) available on our [getting st arted](https://immunedynamics.io/spectre/getting-started/) page, to familiarise yourself with R/RStudio first.
+If you haven't installed Spectre, please visit our [Spectre installation](https://immunedynamics.io/spectre/getting-started/) page. If you are new to R and Spectre, we recommend trying out the R/RStudio and Spectre [tutorials](https://immunedynamics.io/spectre/getting-started/) available on our [getting st arted](https://immunedynamics.io/spectre/getting-started/) page, to familiarise yourself with R/RStudio first.
 
 <br />
 <br />
+
+
+
+## Citation and methods
+
+---
+
+
+**Citation**
+
+If you use Spectre in your work, please consider citing [Ashhurst TM, Marsh-Wakefield F, Putri GH et al. (2022). Cytometry Part A 101 (3), 237-253](https://onlinelibrary.wiley.com/doi/full/10.1002/cyto.a.24350). To continue providing open-source tools such as Spectre, it helps us if we can demonstrate that our efforts are contributing to analysis efforts in the community. Please also consider citing the authors of the individual packages or tools (e.g. CytoNorm, FlowSOM, tSNE, UMAP, etc) that are critical elements of your analysis work. We have provided some generic text that you can use for your methods section with each protocol and on the 'about' page.
+
+**Sample methods blurb**
+
+Here is a sample methods blurb for this workflow. You may need to adapt this text to reflect any changes made in your analysis.
+
+*Computational analysis of data was performed using the Spectre R package (Ashhurst et al., 2022), with instructions and source code provided at https://github.com/ImmuneDynamics/spectre. Samples were initially prepared in FlowJo, and the population of interest was exported as raw value CSV files. Arcsinh transformation was performed on the data in R using a co-factor of 15 to redistribute the data on a linear scale and compress low end values near zero. The dataset was then merged into a single data.table, with keywords denoting the sample, group, and other factors added to each row (cell). The FlowSOM algorithm (Van Gassen et al., 2015) was then run on the merged dataset to cluster the data, where every cell is assigned to a specific cluster and metacluster. Subsequently, the data was downsampled and analysed by the dimensionality reduction algorithm Uniform Manifold Approximation and Projection (UMAP) (McInnes, Healy, Melville, 2018) for cellular visualisation.*
+
+<br />
+<br />
+
+
 
 
 
@@ -95,70 +93,44 @@ Before you get started, we recommend trying out the R/RStudio and Spectre [tutor
 
 ---
 
-#### Software: 
 
-For instructions downloading R, RStudio, and Spectre, please see the [getting started](https://immunedynamics.io/spectre/getting-started/) page.
+#### Directories
 
-<br />
-
-
-#### Analysis script:
-
-Please visit https://github.com/ImmuneDynamics/Spectre, and download the repository:
-
----
-![](https://wiki.centenary.org.au/download/attachments/151793632/image2020-8-20_12-52-9.png?version=3&modificationDate=1614164958478&api=v2){width=70%}
----
-
-<br />
-
-You can then find the 'simple discovery workflow' script here: 
-
----
-![](https://wiki.centenary.org.au/download/attachments/151793632/image2020-8-20_12-52-55.png?version=1&modificationDate=1597927975901&api=v2){width=70%}
----
+Create a master folder with a meaningful name. Then inside that folder, insert the following:
+    
+- One folder called 'data' -- this will contain your data CSV or FCS files
+- One folder called 'metadata' -- this will contain a CSV containg your sample metadata
+- One folder called 'Spectre simple discovery' or similar -- place this analysis script there
+        
+Example:
+```
+  CNS analysis
+    /data
+        -- Contains data files, one CSV or FCS per sample
+    /metadata
+        -- Contains a CSV containing sample metadata (group, batch, etc)
+    /Spectre simple discovery
+        -- Spectre simple.discovery.R
+```
 
 <br />
 
-Create a folder for your experiment, and place the script in that folder.
+#### Analysis script
+
+You can download the **simple discovery** script from [this link](https://github.com/ImmuneDynamics/Spectre/tree/master/workflows) -- place this inside the `Spectre simple discovery` folder.
 
 <br />
 
-### Export the population of interest (POI)
+#### Data files
 
-Please see [this page](https://wiki.centenary.org.au/x/1eRfCQ) for detailed instructions on exporting data for Spectre. When using fluorescence data, please ensure you are exporting the data from compensated channels, indicated by 'Comp-Channel Name' (e.g. Comp-B515). Feel free to include any other relevant parameters as well (FSC, SSC, time etc). We recommend exporting CSV 'scale' value data, or alternatively exporting FCS files. These represent the untransformed data values. You are also welcome to use the CSV 'channel' value data, which uses a form of 'binning' to transform the data onto a linear distribution – please read [this page](https://wiki.centenary.org.au/x/w8yACQ) for a more detailed explanation on CSV channel values.
+If you would to use the **demo data** as a test run for the simple discovery workflow, nothing to do at this step. Simply follow the relevant instructions further down this page to download the demo data (under [2. Import and prep data](2. Import and prep data)).
 
----
-![](https://wiki.centenary.org.au/download/thumbnails/151793632/image2020-8-20_13-0-12.png?version=2&modificationDate=1601422667674&api=v2){width=30%}
----
+If you would like to use your **own data**, add your data and metadata files:
 
-<br />
+  - Place the sample CSV or FCS files in the `data` folder you created above.
+  - Place the metadata CSV files in the `metadata` folder you created above.
 
-<br />
-
-**Data folder**
-
-Create a folder within your experiment folder called 'data', and place the exported files there (see [this page](https://wiki.centenary.org.au/x/1eRfCQ) for more info).
-
-![](https://wiki.centenary.org.au/download/attachments/151793632/image2020-3-9_15-58-43.png?version=2&modificationDate=1587121313836&api=v2){width=70%}
-
-<br />
-
-<br />
-
-**Metadata folder**
-
-Create a folder within your experiment folder called 'metadata', and place a 'sample.details.csv' file there (see [this page](https://wiki.centenary.org.au/x/1eRfCQ) for more info).
-
----
-![](https://wiki.centenary.org.au/download/attachments/151793632/image2020-3-9_15-59-4.png?version=2&modificationDate=1587121388840&api=v2){width=70%}
----
-
-<br />
-
----
-![](https://wiki.centenary.org.au/download/attachments/151793632/image2021-4-3_15-52-9.png?version=1&modificationDate=1617425529260&api=v2){width=70%}
----
+Please see [this page](https://unisyd-my.sharepoint.com/:b:/g/personal/thomas_ashhurst_sydney_edu_au/ES8T0wBKsapHo_q9mFuxsaoBjioEocJWPfetqLyfPEqmhQ?e=wsfclL) for detailed instructions on exporting data for Spectre and setting up a metadata file. 
 
 <br />
 <br />
@@ -189,7 +161,7 @@ Running `library(Spectre)` will load the Spectre package (also known as a 'libra
 
 Here we can set our 'primary' directory, which is going to be the location where the R script is saved. This path will be stored as `PrimaryDirectory`.
 
-**Note**: *if you aren't sure how to navigate directories in R, check out our brief [introduction to R tutorial](https://wiki.centenary.org.au/x/MIBfCQ).*
+**Note**: *if you aren't sure how to navigate directories in R, check out our brief [introduction to R tutorial](https://immunedynamics.io/spectre/install/#Basics_guide).*
 
 ```{r, results = 'hide', message=FALSE, warning=FALSE}
     ### Set PrimaryDirectory
@@ -207,6 +179,7 @@ We can then set our input directory, which will be the 'data' folder where we pl
     ### Set 'input' directory
         
         setwd(PrimaryDirectory)
+        dir.create('../data', showWarnings = FALSE)
         setwd("../data/")
         InputDirectory <- getwd()
         setwd(PrimaryDirectory)
@@ -218,6 +191,7 @@ We need to set the location of the 'metadata' folder. This is where we can store
     ### Set 'metadata' directory
         
         setwd(PrimaryDirectory)
+        dir.create('../metadata', showWarnings = FALSE)
         setwd("../metadata/")
         MetaDirectory <- getwd()
         setwd(PrimaryDirectory)
@@ -228,6 +202,7 @@ We need to create a folder where our output data can go once our analysis is fin
 ```{r, results = 'hide', message=FALSE, warning=FALSE}
     ### Create output directory
         
+        setwd(PrimaryDirectory)
         dir.create("Output_Spectre", showWarnings = FALSE)
         setwd("Output_Spectre")
         OutputDirectory <- getwd()
@@ -246,6 +221,44 @@ We need to create a folder where our output data can go once our analysis is fin
 #### 2. Import and prep data
 #######################################################################################################
 ```
+
+### Demo data
+
+If you need the demo dataset, uncomment the following code in the analysis script (select all, CMD+SHIFT+C) and run to download. **If you are using your own datasets, then skip this step.**
+
+This code will download the demo dataset files and metadata file, and place them in the `data` and `metadata` folders respectively.
+
+```{r, eval = FALSE, message = FALSE, results = 'hide'}
+# setwd(PrimaryDirectory)
+# setwd("../")
+# getwd()
+# download.file(url = "https://github.com/ImmuneDynamics/data/blob/main/msCNS.zip?raw=TRUE", destfile = 'msCNS.zip', mode = 'wb')
+# unzip(zipfile = 'msCNS.zip')
+# for(i in list.files('msCNS/data', full.names = TRUE)){
+#   file.rename(from = i,  to = gsub('msCNS/', '', i))
+# }
+# for(i in list.files('msCNS/metadata', full.names = TRUE)){
+#   file.rename(from = i,  to = gsub('msCNS/', '', i))
+# }
+# unlink(c('msCNS/', 'msCNS.zip', '__MACOSX'), recursive = TRUE)
+```
+
+```{r, eval = TRUE, echo = FALSE, message = FALSE, results = 'hide'}
+        setwd(PrimaryDirectory)
+        setwd("../")
+        getwd()
+        download.file(url = "https://github.com/ImmuneDynamics/data/blob/main/msCNS.zip?raw=TRUE", destfile = 'msCNS.zip', mode = 'wb')
+        unzip(zipfile = 'msCNS.zip')
+        for(i in list.files('msCNS/data', full.names = TRUE)){
+          file.rename(from = i,  to = gsub('msCNS/', '', i))
+        }
+        for(i in list.files('msCNS/metadata', full.names = TRUE)){
+          file.rename(from = i,  to = gsub('msCNS/', '', i))
+        }
+        unlink(c('msCNS/', 'msCNS.zip', '__MACOSX'), recursive = TRUE)
+```
+
+<br />
 
 ### Import data
 
@@ -873,7 +886,7 @@ For the final step of our setup, we want to record the session info our R sessio
         setwd("Output - info")
 
         sink(file = "session_info.txt", append=TRUE, split=FALSE, type = c("output", "message"))
-        session_info()
+        sessionInfo()
         sink()
 
         write(cellular.cols, "cellular.cols.txt")
