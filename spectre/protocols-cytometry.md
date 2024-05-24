@@ -165,7 +165,7 @@ This protocol page contains reproducible workflows for different types of cytome
           <td style="padding-left:.75em;padding-right:.75em;width:33%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:center; vertical-align:middle">
               <div style="text-align:center;font-size:large;font-weight:700;">
                   <p style="color:#00003f">
-                      <a href="https://github.com/phipsonlab/SuperCellCyto" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO SITE</span></b></a>
+                      <a href="https://phipsonlab.github.io/SuperCellCyto/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO SITE</span></b></a>
                   </p>
               </div>
           </td>
