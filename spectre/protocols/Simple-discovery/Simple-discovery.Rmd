@@ -224,7 +224,7 @@ We need to create a folder where our output data can go once our analysis is fin
 
 ### Demo data
 
-If you need the demo dataset, uncomment the following code in the analysis script (select all, CMD+SHIFT+C) and run to download. **If you are using your own datasets, then skip this step.**
+If you need the demo dataset, uncomment the following code in the analysis script (select all, CMD+SHIFT+C) and run to download. **If you are using your own datasets, then skip this step.** Alternative, download the files from [https://github.com/ImmuneDynamics/data/blob/main/msCNS.zip?raw=TRUE](https://github.com/ImmuneDynamics/data/blob/main/msCNS.zip?raw=TRUE).
 
 This code will download the demo dataset files and metadata file, and place them in the `data` and `metadata` folders respectively.
 
