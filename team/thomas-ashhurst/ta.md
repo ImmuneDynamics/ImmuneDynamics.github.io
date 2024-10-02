@@ -7,7 +7,7 @@ permalink: /thomas-ashhurst/
 <div class='row'>
     <div class="image">
         <a href="#">
-            <img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/TA%20cropped.jpg" alt="icon" width="180" align="right" style="padding-left: 10px; padding-right: 0px; padding-top: 10px; padding-bottom: 10px">
+            <img src="https://tomashhurst.github.io/assets/images/profile.png" alt="icon" width="180" align="right" style="padding-left: 10px; padding-right: 0px; padding-top: 10px; padding-bottom: 10px">
         </a>
     </div>
 </div>
