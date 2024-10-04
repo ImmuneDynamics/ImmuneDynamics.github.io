@@ -22,11 +22,11 @@ Felix is interested in continuing the exploration of the immune system in any (a
 
 **Contact info**
 
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/EmailSVG.svg" alt="Email logo" width="20"> Email: [felix.marsh-wakefield@sydney.edu.au](mailto:felix.marsh-wakefield@sydney.edu.au) <br/>
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/TwitterSVG.svg" alt="Twitter logo" width="20"> Twitter: [@doc_merlin](https://twitter.com/doc_merlin) <br/>
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/immunedynamics/immunedynamics.github.io/master/custom_SVG/EmailSVG.svg" alt="Email logo" width="20"> Email: [felix.marsh-wakefield@sydney.edu.au](mailto:felix.marsh-wakefield@sydney.edu.au) <br/>
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/immunedynamics/immunedynamics.github.io/master/custom_SVG/TwitterSVG.svg" alt="Twitter logo" width="20"> Twitter: [@doc_merlin](https://twitter.com/doc_merlin) <br/>
 
 **Sites and academic profiles**
 
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="20"> [Google Scholar](http://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en) <br/>
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ORCID_iD.svg" alt="Logo" width="20"> [ORCID](https://orcid.org/0000-0002-6839-7628) <br/>
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/ResearchGate_icon_SVG.svg" alt="ResearchGate logo" width="20"> [ResearchGate](https://www.researchgate.net/profile/Felix-Marsh-Wakefield) <br/>
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/immunedynamics/immunedynamics.github.io/master/custom_SVG/Google_Scholar_logo.svg" alt="Logo" width="20"> [Google Scholar](http://scholar.google.com/citations?user=6PaVkisAAAAJ&hl=en) <br/>
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/immunedynamics/immunedynamics.github.io/master/custom_SVG/ORCID_iD.svg" alt="Logo" width="20"> [ORCID](https://orcid.org/0000-0002-6839-7628) <br/>
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/immunedynamics/immunedynamics.github.io/master/custom_SVG/ResearchGate_icon_SVG.svg" alt="ResearchGate logo" width="20"> [ResearchGate](https://www.researchgate.net/profile/Felix-Marsh-Wakefield) <br/>
