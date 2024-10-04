@@ -330,6 +330,7 @@ sub-nav-title {
   float: left;
   // margin-top: 5px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
+  font-weight: 300; // TA added
   font-size: 24px; //28px big
   color: #00003f; // TA: not here by default
   line-height: 2.0; // TA: added new
