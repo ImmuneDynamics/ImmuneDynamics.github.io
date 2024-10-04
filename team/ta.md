@@ -18,8 +18,8 @@ Dr. Thomas Ashhurst is a Senior Cytometry Scientist with the Sydney Cytometry Co
 
 **Contact info**
 
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/EmailSVG.svg" alt="Email logo" width="20"> Email: [thomas.ashhurst@sydney.edu.au](mailto:thomas.ashhurst@sydney.edu.au) <br/>
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/2a9877aba13f6f7b46b11728a68d7047debb0f36/custom_SVG/TwitterSVG.svg" alt="Twitter logo" width="20"> Twitter: [@TomAsh_1](https://twitter.com/TomAsh_1) <br/>
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/immunedynamics/immunedynamics.github.io/master/custom_SVG/EmailSVG.svg" alt="Email logo" width="20"> Email: [thomas.ashhurst@sydney.edu.au](mailto:thomas.ashhurst@sydney.edu.au) <br/>
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/immunedynamics/immunedynamics.github.io/master/custom_SVG/TwitterSVG.svg" alt="Twitter logo" width="20"> Twitter: [@TomAsh_1](https://twitter.com/TomAsh_1) <br/>
 
 **Online profiles**
 
