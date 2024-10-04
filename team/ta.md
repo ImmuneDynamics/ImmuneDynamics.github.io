@@ -4,6 +4,8 @@ title: Thomas Ashhurst, Ph.D
 permalink: /thomas-ashhurst/
 ---
 
+---
+
 <div class='row'>
     <div class="image">
         <a href="#">
@@ -13,8 +15,6 @@ permalink: /thomas-ashhurst/
 </div>
 
 Dr. Thomas Ashhurst is a Senior Cytometry Scientist with the Sydney Cytometry Core Research Facility, the co-leader of the Single Cell and Spatial Biology Research Node with the Charles Perkins Centre, and an Honorary Research Fellow in Infection, Immunity, and Inflammation at the University of Sydney. In these roles he specialises in the use of cutting edge high-dimensional cytometry, single-cell, and spatial multiomics technologies for interrogating cellular systems. His work involves the development of new computational and experimental methods to better understand immune development and pathology across the human lifespan, with a particular interest in the pathogenesis of severe respiratory and neuroinvasive infectious diseases.
-
----
 
 **Contact info**
 
