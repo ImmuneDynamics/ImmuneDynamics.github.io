@@ -4,7 +4,7 @@ title: Resources - Computational Analysis
 permalink: /resources/analysis
 ---
 
-![Clusters](https://raw.githubusercontent.com/tomashhurst/tomashhurst.github.io/master/images/Clusters%20wide.png)
+![Clusters](https://raw.githubusercontent.com/immunedynamics/immunedynamics.github.io/master/images/Clusters%20wide.png)
 
 **COMPUTATIONAL ANALYSIS**: here we provide resources to facilitate computational analysis of high-dimensional cytometry data, including [Spectre](https://immunedynamics.github.io/spectre/), an R package that enables comprehensive end-to-end integration and analysis of high-dimensional cytometry data from different batches or experiments.
 
