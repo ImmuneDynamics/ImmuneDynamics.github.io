@@ -98,25 +98,6 @@ permalink: /resources/analysis
 
 <p> </p>
 
-<table class="table gmisc_table">
-  <tbody>
-    <tr>
-      <td style="padding-left:.75em;padding-right:.75em;width:25%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-          <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/research/Spatial.png" width="3000" style="padding-top: 30px">
-      </td>
-      <td style="padding-left:.75em;width:75%; border-left:1px solid #FFFFFF;border-top:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;border-right:1px solid #FFFFFF;text-align:left; vertical-align:top">
-        <p><h2>Spatial analysis of IMC data using Spectre & SpectreMAP</h2></p>
-        <p>
-          Along with flow, spectral, or mass cytometry data, Spectre enables spatial analysis of Imaging Mass Cytometry (IMC) data. Here we provide protocols for image visualisation, cell segmentation, and spatial analysis, including with FlowJo.
-    <p> </p>
-       <a href="https://immunedynamics.github.io/spectre/spatial" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">GO TO PAGE</span></b></a>
-        </p>
-      </td>
-      </tr>
-    </tbody>
-</table>
-
-<p> </p>
 
 <br />
 
