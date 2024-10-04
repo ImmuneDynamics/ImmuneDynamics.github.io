@@ -17,7 +17,7 @@ On this page we provide links to protocols, software, and other resources writte
   <tbody>
     <tr>
       <td style="padding-left:.75em;padding-right:.75em;width:40%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:middle">
-          <img src="https://raw.githubusercontent.com/ImmuneDynamics/ImmuneDynamics.github.io/master/resources/Screen%20Shot%202021-04-06%20at%209.16.05%20am.png" width="3000">
+          <img src="https://raw.githubusercontent.com/immunedynamics/immunedynamics.github.io/master/images/Counting.png" width="3000">
       </td>
       <td style="padding-left:.75em;width:60%; border-left:1px solid #000;border-top:1px solid #000;border-bottom:1px solid #000;border-right:1px solid #000;text-align:left; vertical-align:top">
           <p><b>Sample preparation</b></p>
