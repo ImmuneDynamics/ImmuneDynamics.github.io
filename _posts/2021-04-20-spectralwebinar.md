@@ -4,7 +4,7 @@ title: Webinar - Evaluating Spectral Cytometry for Immune Profiling in Viral Dis
 permalink: /spectral-webinar/
 ---
 
-![Image](https://github.com/tomashhurst/tomashhurst.github.io/blob/master/images/Niewold%202020.png?raw=true)
+![Image](https://github.com/immunedynamics/immunedynamics.github.io/blob/master/images/Niewold%202020.png?raw=true)
 
 ---
 
