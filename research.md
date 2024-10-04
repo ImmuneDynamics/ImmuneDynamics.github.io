@@ -4,6 +4,8 @@ title: Research
 permalink: /research/
 ---
 
+------------------------------------------------------------------------
+
 Our team works collaboratively to develop new computational methods for the analysis of high-dimensional cytometry and spatial data, addressing significant challenges in the field.
 
 ### Rapid and scalable analysis of cytometry data
