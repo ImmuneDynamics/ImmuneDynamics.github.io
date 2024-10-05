@@ -6,12 +6,6 @@ permalink: /workshops/
 
 ---
 
-Keep an eye out for upcoming workshops in 2022.
-
-<br />
-<br />
-
-
 ## Previous workshops
 
 ---
