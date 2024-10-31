@@ -22,6 +22,8 @@ Spectre is an R package and computational toolkit that enables comprehensive end
 
 To receive updates, you can join our mailing list [here](https://forms.gle/vrg58485Ri5wagRr7).
 
+- 2024-07-19: [v1.2.0 release](https://github.com/ImmuneDynamics/Spectre/releases) major updates to many functions and introduction of CI.
+- 2023-11-12: [v1.1.0 release](https://github.com/ImmuneDynamics/Spectre/releases) minor updates to remove outdated dependencies.
 - 2021-09-03: [v1.0.0 release](https://github.com/ImmuneDynamics/Spectre/releases) including major updates to our [spatial functions and workflows](https://immunedynamics.io/spectre/spatial/).
 - 2021-06-04: Spatial [v0.5.0 release](https://github.com/ImmuneDynamics/Spectre/releases) - analysis functions and workflows from SpectreMAP now incorporated directly in Spectre.
 - 2021-04-10: Spectre manuscript published online in [Cytometry A](https://doi.org/10.1002/cyto.a.24350)
