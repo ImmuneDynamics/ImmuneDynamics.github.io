@@ -22,12 +22,11 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
         </h2></p>
         <p>
           Here we provide instructions for installing Spectre. Options include installing in R/RStudio or via Docker. If you are unfamiliar with using R or RStudio, first check out this
-          <a href="https://immunedynamics.github.io/spectre/install/#Basics_guide">
+          <a href="https://immunedynamics.io/spectre/protocols/Install/Installation.html/#Basics_guide">
             tutorial
-          </a>
-          .
+          </a>.
         </p>
-        <a href="https://immunedynamics.github.io/spectre/install/" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
+        <a href="https://immunedynamics.io/spectre/protocols/Install/Installation.html" target="_blank" rel="noopener noreferrer"><b><span style="font-size: 18px">
             Install Spectre
         </span></b></a>
         <p> </p>

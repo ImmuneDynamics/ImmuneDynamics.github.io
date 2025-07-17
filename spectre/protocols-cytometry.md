@@ -4,7 +4,11 @@ title: Spectre - Cytometry Analysis
 permalink: /spectre/cytometry/
 ---
 
-This protocol page contains reproducible workflows for different types of cytometry data analysis using Spectre. For those gettings started with analysis, first check out our [getting started](https://immunedynamics.github.io/spectre/getting-started/) page for installation instructions and some basic tutorials. For more educational content you can check out the [tutorials](https://immunedynamics.io/spectre/cytometry/#tutorials/) at the bottom of the page.
+This protocol page contains reproducible workflows for different types of cytometry data analysis using Spectre. 
+
+## Getting started
+
+For those gettings started with analysis, first check out our [getting started](https://immunedynamics.github.io/spectre/getting-started/) page for installation instructions and some basic tutorials. 
 
 
 <br />
