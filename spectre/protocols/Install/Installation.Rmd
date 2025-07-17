@@ -1,7 +1,7 @@
 ---
-title: "Spectre installion and getting started guide"
-author: "Thomas Ashhurst"
-date: "23/05/2024"
+title: "Spectre installation and getting started guide"
+author: "Thomas Ashhurst, Givanna Putri"
+date: "`r Sys.Date()`"
 output:
   html_document:
     toc: true
@@ -46,101 +46,107 @@ location.***
 
 ### Install via RStudio
 
-Download the latest version of [R (from
-CRAN)](https://cran.r-project.org/mirrors.html) and [R
+Download and install the **latest version** of [R (from
+CRAN)](https://cran.r-project.org/) and [R
 Studio](https://www.rstudio.com/products/rstudio/download/#download).
-Once installed, run the following to install Spectre. *Note: If you are
-unfamiliar with running R code, check out installing packages section of
-our [Basics guide] for assistance.*
+
+Once installed, run the following R code to install Spectre using the [pak](https://pak.r-lib.org/) R package. 
+
+***Important: If you are unfamiliar with running R code using Rstudio, please visit our 
+[Basics guide] section first.***
 
 ```{r, results = 'hide', message=FALSE, warning=FALSE, eval=FALSE, echo=TRUE}
-if(!require('remotes')) {install.packages('remotes')} # Installs the package 'remotes'
-remotes::install_github(repo = "immunedynamics/spectre") # Install the Spectre package
+# Installs the package 'pak' if required
+if (!requireNamespace("pak", quietly = TRUE)) {
+    install.packages("pak")
+}
+# Install the Spectre package
+pak::pkg_install("immunedynamics/Spectre")
 ```
 
-R might ask you to update some packages. In general we recommend
-updating packages -- to do this, enter `1`. However, you might wish to
-delay this if you are in the middle of an analysis project.
+When running the first command to install the `pak` package for the first time, it might ask you 
+to select which CRAN mirror to use. 
+Pick any mirror closest to where you are, enter the number, and press enter.
 
-```         
-These packages have more recent versions available.
-Which would you like to update?
- 
-1: All                              
-2: CRAN packages only               
-3: None                             
-4: rlang    (0.4.1  -> 0.4.2 ) [CRAN]
-5: digest   (0.6.22 -> 0.6.23) [CRAN]
+When running the second command, Pak will show a list of dependency packages it has to install before it can install Spectre.
+The list may look like the following:
 
-Enter one or more numbers, or an empty line to skip updates:
+```
+→ Will install 52 packages.
+→ Will update 1 package.
+→ Will download 49 CRAN packages (68.97 MB), cached: 4 (0 B).
++ ALL                             1.48.0    👷🏼‍♂️
++ car                             3.1-3      ⬇ (1.52 MB)
++ carData                         3.0-5      ⬇ (1.83 MB)
++ colorRamps                      2.3.4      ⬇ (28.21 kB)
++ ConsensusClusterPlus            1.70.0    
++ corrplot                        0.95       ⬇ (3.83 MB)
++ crosstalk                       1.2.1      ⬇ (407.91 kB)
++ dendextend                      1.19.0     ⬇ (5.06 MB)
++ dendsort                        0.3.4      ⬇ (1.17 MB)
++ Deriv                           4.2.0      ⬇ (153.06 kB)
++ doBy                            4.7.0      ⬇ (4.91 MB)
++ DT                              0.33       ⬇ (1.79 MB)
++ ellipse                         0.5.0      ⬇ (218.52 kB)
++ emmeans                         1.11.2     ⬇ (2.23 MB)
++ estimability                    1.5.1      ⬇ (49.22 kB)
++ FactoMineR                      2.11      🔧 ⬇ (3.82 MB)
++ flashClust                      1.01-2    🔧 ⬇ (25.21 kB)
++ FlowSOM                         2.14.0    
++ FNN                             1.1.4.1   🔧 ⬇ (130.43 kB)
++ ggforce                         0.5.0     🔧 ⬇ (2.67 MB)
++ ggnewscale                      0.5.2      ⬇ (355.68 kB)
++ ggpointdensity                  0.2.0     🔧 ⬇ (4.37 MB)
++ ggpubr                          0.6.1      ⬇ (2.13 MB)
++ ggrepel                         0.9.6     🔧 ⬇ (624.15 kB)
++ ggsci                           3.2.0      ⬇ (2.39 MB)
++ ggsignif                        0.6.4      ⬇ (603.29 kB)
++ ggthemes                        5.1.0      ⬇ (448.64 kB)
++ httpuv                          1.6.16    🔧 ⬇ (2.78 MB)
++ later                           1.4.2     🔧 ⬇ (786.21 kB)
++ lazyeval                        0.2.2     🔧 ⬇ (162.22 kB)
++ leaps                           3.2       🔧 ⬇ (104.19 kB)
++ MatrixModels                    0.5-4      ⬇ (409.70 kB)
++ microbenchmark                  1.5.0     🔧 ⬇ (72.58 kB)
++ modelr                          0.1.11     ⬇ (203.70 kB)
++ multcompView                    0.1-10     ⬇ (114.76 kB)
++ mvtnorm                         1.3-3     🔧 ⬇ (1.00 MB)
++ pbkrtest                        0.5.4      ⬇ (221.05 kB)
++ pheatmap                        1.0.13     ⬇ (78.22 kB)
++ polyclip                        1.10-7    🔧 ⬇ (440.78 kB)
++ polynom                         1.4-1      ⬇ (402.59 kB)
++ promises                        1.3.3     🔧 ⬇ (1.86 MB)
++ quantreg                        6.1       🔧 ⬇ (1.55 MB)
++ RcppAnnoy                       0.0.22    🔧 ⬇ (1.34 MB)
++ reshape2                        1.4.4     🔧 ⬇ (332.09 kB)
++ rstatix                         0.7.2      ⬇ (615.55 kB)
++ scattermore                     1.2       🔧 ⬇ (389.60 kB)
++ scatterplot3d                   0.3-44     ⬇ (348.86 kB)
++ SparseM                         1.84-2    🔧 ⬇ (942.60 kB)
++ Spectre              2.0.0-00 → 1.2.0     👷🏾‍♀️🔧 (GitHub: 9bcdb3b)
++ systemfonts                     1.2.3     🔧 ⬇ (7.23 MB)
++ tweenr                          2.0.3     🔧 ⬇ (974.49 kB)
++ uwot                            0.2.3     🔧 ⬇ (3.90 MB)
++ XML                             3.99-0.18 🔧 ⬇ (1.94 MB)
+
+? Do you want to continue (Y/n)
+```
+To continue type letter `Y` and enter.
+
+You should see a progress bar and messages showing the installation progress.
+Wait until it finishes.
+
+To check whether Spectre has been installed successfully, run the following command:
+
+```{r}
+if (requireNamespace("Spectre", quietly = TRUE)) {
+    message("Spectre is installed")
+} else {
+    message("Spectre is NOT installed")
+}
 ```
 
-```{r, results = 'hide', message=FALSE, warning=FALSE, eval=FALSE, echo=TRUE}
-1
-```
-
-Sometimes packages will need to be compiled first. We recommend entering
-`Yes` to allow compilation.
-
-```         
-Packages which are only available in source form, and may need compilation of C/C++/Fortran: ‘IRanges’ ‘rhdf5filters’
-Do you want to attempt to install these from sources? (Yes/no/cancel) 
-```
-
-```{r, results = 'hide', message=FALSE, warning=FALSE, eval=FALSE, echo=TRUE}
-Yes
-```
-
-If the installation was successful, you should see something similar to
-the following:
-
-```         
-─  preparing ‘Spectre’: (879ms)
-✓  checking DESCRIPTION meta-information ...
-─  checking for LF line-endings in source and make files and shell scripts
-─  checking for empty or unneeded directories
-─  building ‘Spectre_1.1.0.tar.gz’
-    
-* installing *source* package ‘Spectre’ ...
-** using staged installation
-** R
-** data
-*** moving datasets to lazyload DB
-** inst
-** byte-compile and prepare package for lazy loading
-** help
-*** installing help indices
-** building package indices
-** testing if installed package can be loaded from temporary location
-** testing if installed package can be loaded from final location
-** testing if installed package keeps a record of temporary installation path
-* DONE (Spectre)
-```
-
-You can check on the status of Spectre and the other package
-dependencies by running the `package.check()` command.
-
-```{r, results = 'hide', message=FALSE, warning=FALSE, eval=FALSE, echo=TRUE}
-Spectre::package.check()
-```
-
-```         
-Package: Spectre
- -- Version:           1.1.0
- -- Install date:      2024-05-19
- -- Install source:    github
- -- R version:         R version 4.4.0 (2024-04-24)
- -- OS:                macOS Ventura 13.5.2
- -- OS detail:         aarch64-apple-darwin20
- -- Library path(s):      
-        /Users/thomasa/Library/R/arm64/4.4/library
-        /Library/Frameworks/R.framework/Versions/4.4-arm64/Resources/library
-               
-Checking dependency packages...
- -- All packages successfully installed.
-               
-Check out 'https://immunedynamics.github.io/spectre/' for protocols
-```
+If you get the message "Spectre is installed", then it has successfully been installed.
 
 <br /> <br />
 
@@ -167,16 +173,16 @@ Go to the following address:
 
 Download the correct version of Docker Desktop.
 
-![](Docker%201.png){width="300"}
+![](images/docker/Docker%201.png){width="300"}
 
 Go to your downloads folder and open the '.dmg' file.
 
-![](Docker%202.png){width="300"}
+![](images/docker/Docker%202.png){width="300"}
 
 When the following window opens, drag and drop the 'Docker.app' icon
 into the 'Applications' shortcut.
 
-![](Docker%203.png){width="300"}
+![](images/docker/Docker%203.png){width="300"}
 
 You should now be able to find 'Docker' in your applications folder.
 
@@ -187,21 +193,21 @@ You should now be able to find 'Docker' in your applications folder.
 Open Docker app from the applications folder or bar at the bottom of the
 screen.
 
-![](Docker%204.png){width="300"}
+![](images/docker/Docker%204.png){width="300"}
 
 Once you turn it on, you should see the following icon in the bar at the
 top of the screen.
 
-![](Docker%205.png){width="300"}
+![](images/docker/Docker%205.png){width="300"}
 
 Additionally the program itself should open. Wait a few moments while
 the 'Docker Engine' starts.
 
-![](Docker%206.png){width="300"}
+![](images/docker/Docker%206.png){width="300"}
 
 The icon in the lower left will turn green when ready.
 
-![](Docker%207.png){width="300"}
+![](images/docker/Docker%207.png){width="300"}
 
 Click the gears icon to open 'preferences'. Make sure you untick the
 options in General to mimic the screenshot below. This is to ensure
@@ -209,7 +215,7 @@ Docker doesn't start when you boot your computer, and it doesn't share
 your usage data to Docker by default. Leave the automatic update checked
 if you prefer it to check for updates regularly.
 
-![](Docker%208.png){width="300"}
+![](images/docker/Docker%208.png){width="300"}
 
 Press 'Apply & Restart' when done. Close app until you would like to use
 it.
@@ -220,22 +226,22 @@ it.
 
 Open the Docker app.
 
-![](Docker%209.png){width="300"}
+![](images/docker/Docker%209.png){width="300"}
 
 Wait a few moments while the 'Docker Engine' starts.
 
-![](Docker%2010.png){width="300"}
+![](images/docker/Docker%2010.png){width="300"}
 
 The icon in the lower left will turn green when ready.
 
-![](Docker%2011.png){width="300"}
+![](images/docker/Docker%2011.png){width="300"}
 
 Open 'Terminal' (on Mac, can be found in the applications folder, or the
 bar at the bottom of your screen).
 
-![](Docker%2012.png){width="300"}
+![](images/docker/Docker%2012.png){width="300"}
 
-![](Docker%2013.png){width="300"}
+![](images/docker/Docker%2013.png){width="300"}
 
 Copy the following code into the terminal and press ENTER.
 
@@ -243,7 +249,7 @@ Copy the following code into the terminal and press ENTER.
 docker run --rm -e PASSWORD=spectre -p 8787:8787 -v ~:/home/rstudio/spectre_dir --name=spectre immunedynamics/spectre:master
 ```
 
-![](Docker%2014.png){width="300"}
+![](images/docker/Docker%2014.png){width="300"}
 
 By default, the RStudio session that Docker will launch will be able to
 see everything in your Home directory and below. This is achieved in the
@@ -266,32 +272,32 @@ following address
 
 <http://localhost:8787>
 
-![](Docker%2015.png){width="300"}
+![](images/docker/Docker%2015.png){width="300"}
 
 Sign in
 
 -   Name: `rstudio`
 -   Password: `spectre`
 
-![](Docker%2016.png){width="300"}
+![](images/docker/Docker%2016.png){width="300"}
 
-![](Docker%2017.png){width="500"}
+![](images/docker/Docker%2017.png){width="500"}
 
 #### Running Spectre
 
 Open desired analysis script
 
-![](Docker%2018.png){width="500"} ![](Docker%2019.png){width="500"}
-![](Docker%2020.png){width="500"} ![](Docker%2021.png){width="500"}
-![](Docker%2022.png){width="500"}
+![](images/docker/Docker%2018.png){width="500"} ![](images/docker/Docker%2019.png){width="500"}
+![](images/docker/Docker%2020.png){width="500"} ![](images/docker/Docker%2021.png){width="500"}
+![](images/docker/Docker%2022.png){width="500"}
 
 Perform analysis
 
-![](Docker%2023.png){width="500"}
+![](images/docker/Docker%2023.png){width="500"}
 
 Close when finished
 
-![](Docker%2024.png){width="500"}
+![](images/docker/Docker%2024.png){width="500"}
 
 <br /> <br />
 
@@ -326,7 +332,7 @@ Open RStudio, and you should see something similar to the following:
     (under 'Plots'), investigating the packages ('Packages'), or using
     the help section ('Help').
 
-![](Tutorial/Image%201.png){width="700"}
+![](images/Tutorial/Image%201.png){width="700"}
 
 <br />
 
@@ -370,7 +376,7 @@ To get started, create a new .R file and save it
 -   In RStudio, create a new R Script file (.R) called "MyScript" and
     save it in the folder you just created (Spectre demo).
 
-![](Tutorial/Image%202.png){width="400"}
+![](images/Tutorial/Image%202.png){width="400"}
 
 <br />
 
@@ -513,22 +519,22 @@ setwd()
     press the UP or DOWN arrows, or use the mouse cursor, to select on
     of the options, and press ENTER to select in.
 
-![](Tutorial/Image%206.png)
+![](images/Tutorial/Image%206.png)
 
 -   If you start typing the name of a directory, the list of options
     will be filtered to options that match what you are typing.
 
-![](Tutorial/Image%207.png)
+![](images/Tutorial/Image%207.png)
 
 -   In this case, I will select 'Users' and press ENTER. I can then
     repeat the process to navigate down my folders
 
-![](Tutorial/Image%208.png)
+![](images/Tutorial/Image%208.png)
 
 -   You can repeat this process to find your working directory until you
     reach your desired location.
 
-![](Tutorial/Image%209.png)
+![](images/Tutorial/Image%209.png)
 
 <br />
 
@@ -584,7 +590,7 @@ write.csv(x = dat, file = "iris_dataset.csv")
 
 To interact with the Spectre package in R, we will use RStudio.
 
-![](Tutorial/Spectre%201.png)
+![](images/Tutorial/Spectre%201.png)
 
 <br />
 
@@ -646,7 +652,7 @@ As each package is loaded, you will see the following:
 
 So far you should have the following code in your script:
 
-![](Tutorial/Spectre%202.png)
+![](images/Tutorial/Spectre%202.png)
 
 <br />
 
@@ -790,7 +796,7 @@ up on your RStudio window. That means that RStudio is in the middle of
 processing something, and it won't respond to other commands while it is
 working.
 
-![](Tutorial/Spectre%203.png)
+![](images/Tutorial/Spectre%203.png)
 
 <br />
 
@@ -927,22 +933,14 @@ Spectre::make.colour.plot(dat = cell.dat,
 Next we'll make a colour plot showing the expression of a specific
 marker
 
-```{r, eval=FALSE}
-## Make a colour plot for the expression level of CD11b
-        Spectre::make.colour.plot(dat = cell.dat,
-                         x.axis = "UMAP_X",
-                         y.axis = "UMAP_Y",
-                         col.axis = "CD11b_asinh",
-                         add.label = TRUE)
-```
-
 ```{r, echo=FALSE}
 ## Make a colour plot for the expression level of CD11b
         Spectre::make.colour.plot(dat = cell.dat,
                          x.axis = "UMAP_X",
                          y.axis = "UMAP_Y",
                          col.axis = "CD11b_asinh",
-                         add.label = TRUE)
+                         add.label = TRUE,
+                         save.to.disk = FALSE)
 ```
 
 <br /> <br />
@@ -964,23 +962,23 @@ removal of doublets, debris, dead cells, and any irrelevant cells. 
 Gate to your 'population of interest' (POI). Typically this will be
 'live cells', or potentially live CD45+ cells (live leukocytes).
 
-![](images/clipboard-1161121180.png)
+![](images/Tutorial/clipboard-1161121180.png)
 
-![](images/clipboard-582034683.png)
+![](images/Tutorial/clipboard-582034683.png)
 
 Select the POI you wish to export, and then click '**Select Equivalent
 Nodes**' in the '**Edit**' space.
 
-![](images/clipboard-3423209639.png)
+![](images/Tutorial/clipboard-3423209639.png)
 
  ... this will select each POI gates in each samples.
 
-![](images/clipboard-1845509509.png)
+![](images/Tutorial/clipboard-1845509509.png)
 
 Right click on any of the POI populations (as long as all have been
 selected) and select '**Export / Concatenate Populations'**
 
-![](images/clipboard-1778792973.png)
+![](images/Tutorial/clipboard-1778792973.png)
 
 **Exporting data as an FCS or CSV file**
 
@@ -993,11 +991,13 @@ Choose a format for export:
 -   You can also export the data as FCS files
 
 -   If you wish, you can export the 'channel values' as a CSV file
-    instead. *The channel-values are pre-transformed, which removes the
+    instead. 
+    *The channel-values are pre-transformed, which removes the
     requirement for an arcsinh transformation in R. See [this
-    page](https://wiki.centenary.org.au/x/w8yACQ) for more information.*
+    page](https://immunedynamics.io/spectre/tutorials/data_transformation/data_transformation.html)
+    for more information.*
 
-![](images/clipboard-1354783275.png)
+![](images/Tutorial/clipboard-1354783275.png)
 
 Under '**Parameters**', select '**Custom set of parameters**', and
 select the parameters you wish to export. In this case, select FSC-A and
@@ -1005,15 +1005,15 @@ SSC-A, as well as the compensated (Comp-...) parameters.
 
 Make sure to select the compensated ('Comp-...') parameters.
 
-![](images/clipboard-2991153619.png)
+![](images/Tutorial/clipboard-2991153619.png)
 
 Choose a location for the export.
 
-![](images/clipboard-1619573742.png)
+![](images/Tutorial/clipboard-1619573742.png)
 
 Result:
 
-![](images/clipboard-3488255565.png)
+![](images/Tutorial/clipboard-3488255565.png)
 
 ### Setup a sample metadata file
 
@@ -1033,23 +1033,23 @@ analysis there will be:
 
 -   A 'metadata' folder
 
-![](images/clipboard-3923624177.png)
+![](images/Tutorial/clipboard-3923624177.png)
 
 Using Microsoft Excel (or similar), create a new file and save it as a
 CSV file in the metadata folder
 
-![](images/clipboard-1336915300.png)
+![](images/Tutorial/clipboard-1336915300.png)
 
 On a **Mac**, select the files, right click and select 'copy' (or press
 CMD + C).
 
-![](images/clipboard-2647124696.png)
+![](images/Tutorial/clipboard-2647124696.png)
 
 In the 'sample.details.csv' file, name the first column 'Filename' (A1),
 then in A2 right click and select 'paste' (or press CMD + V). This will
 paste the filenames into the CSV file.
 
-![](images/clipboard-800630277.png)
+![](images/Tutorial/clipboard-800630277.png)
 
 ***On Windows**: select files, press CTRL + A, then paste into excel.
 Use find and replace to remove the full file path (see [this
@@ -1080,11 +1080,11 @@ treatment, etc) then feel free to.
 -   If you would like to add other information (time point, infection,
     treatment, etc) then feel free to.
 
-![](images/clipboard-2442827709.png)
+![](images/Tutorial/clipboard-2442827709.png)
 
 You are now ready to get started with Spectre. Check out our workflows
 on the [Spectre Home page](https://immunedynamics.github.io/spectre).
-The [Simple Discovery Workflow](https://wiki.centenary.org.au/x/4C8MCQ)
+The [Simple Discovery Workflow](https://immunedynamics.io/spectre/simple-discovery/)
 is a great place to get started.
 
 <br /> <br />
