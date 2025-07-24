@@ -50,6 +50,8 @@ Download and install the **latest version** of [R (from
 CRAN)](https://cran.r-project.org/) and [R
 Studio](https://www.rstudio.com/products/rstudio/download/#download).
 
+#### Using the pak package
+
 Once installed, run the following R code to install Spectre using the [pak](https://pak.r-lib.org/) R package. 
 
 ***Important: If you are unfamiliar with running R code using Rstudio, please visit our 
@@ -135,6 +137,22 @@ To continue type letter `Y` and enter.
 
 You should see a progress bar and messages showing the installation progress.
 Wait until it finishes.
+
+#### Using the remotes package
+
+If you have trouble installing using the `pak` package above, you can use `remotes` package 
+do the installation instead.
+
+```{r, results = 'hide', message=FALSE, warning=FALSE, eval=FALSE, echo=TRUE}
+# Installs the package 'pak' if required
+if (!requireNamespace("remotes", quietly = TRUE)) {
+    install.packages("remotes")
+}
+# Install the Spectre package
+remotes::install_github("immunedynamics/Spectre")
+```
+
+#### Check that Spectre is installed
 
 To check whether Spectre has been installed successfully, run the following command:
 
