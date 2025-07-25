@@ -50,12 +50,17 @@ Download and install the **latest version** of [R (from
 CRAN)](https://cran.r-project.org/) and [R
 Studio](https://www.rstudio.com/products/rstudio/download/#download).
 
-#### Using the pak package
-
-Once installed, run the following R code to install Spectre using the [pak](https://pak.r-lib.org/) R package. 
+There are two ways to install Spectre, using `pak` or `remotes` package.
+You can try installing using `pak` first, and if that does not work, you 
+can use the `remotes` package.
+Instructions for both are available below.
 
 ***Important: If you are unfamiliar with running R code using Rstudio, please visit our 
 [Basics guide] section first.***
+
+#### Using the pak package
+
+Run the following R code to install Spectre using the [pak](https://pak.r-lib.org/) R package. 
 
 ```{r, results = 'hide', message=FALSE, warning=FALSE, eval=FALSE, echo=TRUE}
 # Installs the package 'pak' if required
@@ -141,7 +146,7 @@ Wait until it finishes.
 #### Using the remotes package
 
 If you have trouble installing using the `pak` package above, you can use `remotes` package 
-do the installation instead.
+to do the installation instead.
 
 ```{r, results = 'hide', message=FALSE, warning=FALSE, eval=FALSE, echo=TRUE}
 # Installs the package 'remotes' if required
