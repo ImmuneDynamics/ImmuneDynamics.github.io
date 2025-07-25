@@ -144,13 +144,39 @@ If you have trouble installing using the `pak` package above, you can use `remot
 do the installation instead.
 
 ```{r, results = 'hide', message=FALSE, warning=FALSE, eval=FALSE, echo=TRUE}
-# Installs the package 'pak' if required
+# Installs the package 'remotes' if required
 if (!requireNamespace("remotes", quietly = TRUE)) {
     install.packages("remotes")
 }
 # Install the Spectre package
 remotes::install_github("immunedynamics/Spectre")
 ```
+
+R might ask you to update some packages. 
+In general we recommend updating packages – to do this, enter 1. 
+*However, you might wish to delay this if you are in the middle of an analysis project.*
+
+![](images/Tutorial/remotes_1.png)
+
+Some packages may have two different versions, *compiled* and *not compiled*.
+Rstudio will ask whether you want to install the version that require compilation.
+
+If you want, then enter `Yes` so it will download the version that need to be compiled,
+compile it, then install.
+*However this may require extra softwares installed on your computer to run properly.*
+
+It is ok to also enter `No` so it will install the version that has been precompiled.
+This is often easier.
+
+***However***, some packages must be compiled on your computer to run, like so:
+
+![](images/Tutorial/remotes_2.png)
+
+In this case, we recommend you specify `Yes` and let the computer do the compiling.
+
+If the installation was successful, you should see something similar to the following:
+
+![](images/Tutorial/remotes_3.png)
 
 #### Check that Spectre is installed
 
