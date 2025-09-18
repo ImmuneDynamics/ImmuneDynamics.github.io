@@ -1,4 +1,9 @@
 ---
+layout: none
+redirect_to: https://immunedynamics.io/Spectre/
+---
+
+<!-- ---
 layout: spectre
 title: Spectre Home Page
 permalink: /spectre/
@@ -124,4 +129,4 @@ To receive updates, you can join our mailing list [here](https://forms.gle/vrg58
 </table>
 
 <br />
-
+ -->
